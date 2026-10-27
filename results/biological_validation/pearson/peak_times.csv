@@ -1,0 +1,6137 @@
+gene_id,cluster_id,phase,symbol,phase_order,cluster_order,mapping_rule,spellman_known,observed_peak_time
+YAL001C,0,,,,,,False,t100
+YAL002W,2,,,,,,False,t120
+YAL003W,0,,,,,,False,t90
+YAL004W,0,,,,,,False,t40
+YAL005C,0,,,,,,False,t40
+YAL007C,0,,,,,,False,t20
+YAL008W,1,,,,,,False,t110
+YAL009W,2,,,,,,False,t100
+YAL010C,2,,,,,,False,t80
+YAL011W,2,,,,,,False,t50
+YAL012W,1,,,,,,False,t20
+YAL013W,2,,,,,,False,t110
+YAL014C,2,,,,,,False,t90
+YAL015C,2,,,,,,False,t30
+YAL016W,1,,,,,,False,t100
+YAL018C,2,,,,,,False,t120
+YAL019W,1,,,,,,False,t80
+YAL020C,0,,,,,,False,t20
+YAL021C,0,,,,,,False,t30
+YAL022C,2,G2/M,FUN26,778.0,205.0,ORF column,True,t60
+YAL023C,0,,,,,,False,t20
+YAL024C,0,,,,,,False,t20
+YAL025C,2,,,,,,False,t0
+YAL026C,2,,,,,,False,t60
+YAL027W,1,,,,,,False,t30
+YAL028W,0,,,,,,False,t100
+YAL029C,1,,,,,,False,t0
+YAL030W,2,,,,,,False,t0
+YAL031C,0,,,,,,False,t120
+YAL032C,2,,,,,,False,t40
+YAL033W,2,,,,,,False,t110
+YAL034C,2,,,,,,False,t120
+YAL034W-A,2,,,,,,False,t60
+YAL035C-A,1,,,,,,False,t20
+YAL035W,2,,,,,,False,t50
+YAL036C,2,,,,,,False,t110
+YAL037W,1,,,,,,False,t0
+YAL038W,0,,,,,,False,t40
+YAL039C,1,,,,,,False,t0
+YAL040C,2,G2/M,CLN3,747.0,256.0,ORF column,True,t0
+YAL041W,2,,,,,,False,t0
+YAL042W,0,,,,,,False,t20
+YAL043C,1,,,,,,False,t20
+YAL043C-A,0,,,,,,False,t70
+YAL044C,0,,,,,,False,t30
+YAL045C,1,,,,,,False,t10
+YAL046C,0,,,,,,False,t20
+YAL047C,0,,,,,,False,t20
+YAL048C,0,,,,,,False,t20
+YAL049C,0,,,,,,False,t20
+YAL051W,0,,,,,,False,t20
+YAL053W,0,G1,YAL053W,331.0,432.0,ORF column,True,t80
+YAL054C,2,,,,,,False,t60
+YAL055W,2,,,,,,False,t50
+YAL056W,2,,,,,,False,t120
+YAL058C-A,0,,,,,,False,t20
+YAL058W,2,,,,,,False,t80
+YAL059W,2,,,,,,False,t0
+YAL060W,0,,,,,,False,t30
+YAL061W,0,,,,,,False,t10
+YAL062W,1,,,,,,False,t70
+YAL063C,1,,,,,,False,t20
+YAL064C-A,1,,,,,,False,t0
+YAL064W,2,,,,,,False,t20
+YAL064W-B,1,,,,,,False,t10
+YAL065C,1,,,,,,False,t20
+YAL066W,1,,,,,,False,t30
+YAL067C,1,S,SEO1,445.0,629.0,ORF column,True,t10
+YAL068C,1,,,,,,False,t60
+YAL069W,1,,,,,,False,t10
+YAR002C-A,0,,,,,,False,t30
+YAR002W,2,,,,,,False,t0
+YAR003W,1,G1,YAR003W,212.0,464.0,ORF column,True,t10
+YAR007C,0,G1,RFA1,262.0,527.0,ORF column,True,t20
+YAR008W,1,G1,SEN34,215.0,417.0,ORF column,True,t10
+YAR009C,2,,,,,,False,t40
+YAR010C,1,,,,,,False,t40
+YAR014C,2,,,,,,False,t0
+YAR015W,1,,,,,,False,t60
+YAR018C,2,G2/M,KIN3,767.0,88.0,ORF column,True,t60
+YAR019C,2,,,,,,False,t110
+YAR020C,0,,,,,,False,t80
+YAR023C,1,,,,,,False,t30
+YAR027W,0,,,,,,False,t70
+YAR028W,2,,,,,,False,t60
+YAR029W,1,,,,,,False,t10
+YAR030C,2,,,,,,False,t0
+YAR031W,0,,,,,,False,t80
+YAR033W,1,,,,,,False,t0
+YAR035W,0,,,,,,False,t20
+YAR042W,1,,,,,,False,t110
+YAR044W,1,,,,,,False,t10
+YAR047C,1,,,,,,False,t10
+YAR050W,0,,,,,,False,t20
+YAR053W,2,,,,,,False,t80
+YAR060C,1,,,,,,False,t10
+YAR061W,2,,,,,,False,t80
+YAR062W,1,,,,,,False,t10
+YAR064W,1,,,,,,False,t40
+YAR066W,2,,,,,,False,t70
+YAR068W,2,,,,,,False,t80
+YAR069C,1,,,,,,False,t10
+YAR070C,1,,,,,,False,t30
+YAR071W,1,G2/M,PHO11,780.0,94.0,ORF column,True,t10
+YAR073W,2,,,,,,False,t40
+YAR075W,2,,,,,,False,t40
+YBL001C,0,,,,,,False,t20
+YBL002W,0,S,HTB2,424.0,789.0,ORF column,True,t30
+YBL003C,0,S,HTA2,441.0,790.0,ORF column,True,t30
+YBL004W,2,,,,,,False,t40
+YBL005W,2,,,,,,False,t50
+YBL005W-A,1,,,,,,False,t40
+YBL005W-B,1,,,,,,False,t10
+YBL006C,2,,,,,,False,t50
+YBL007C,0,,,,,,False,t120
+YBL008W,0,,,,,,False,t90
+YBL009W,0,G1,YBL009W,401.0,738.0,ORF column,True,t20
+YBL010C,1,,,,,,False,t60
+YBL011W,2,,,,,,False,t40
+YBL012C,1,,,,,,False,t10
+YBL013W,2,,,,,,False,t60
+YBL014C,2,,,,,,False,t110
+YBL015W,0,,,,,,False,t20
+YBL016W,2,,,,,,False,t0
+YBL017C,1,,,,,,False,t80
+YBL018C,0,,,,,,False,t120
+YBL019W,0,,,,,,False,t110
+YBL020W,0,,,,,,False,t20
+YBL021C,1,,,,,,False,t40
+YBL022C,2,,,,,,False,t70
+YBL023C,1,G2/M,MCM2,790.0,97.0,ORF column,True,t10
+YBL024W,2,,,,,,False,t40
+YBL025W,2,,,,,,False,t120
+YBL026W,2,,,,,,False,t40
+YBL027W,2,,,,,,False,t90
+YBL028C,2,,,,,,False,t40
+YBL029W,1,,,,,,False,t70
+YBL030C,0,G2/M,PET9,703.0,151.0,ORF column,True,t30
+YBL031W,0,,,,,,False,t20
+YBL032W,2,,,,,,False,t100
+YBL033C,1,,,,,,False,t50
+YBL034C,0,,,,,,False,t20
+YBL035C,1,G1,POL12,216.0,494.0,ORF column,True,t10
+YBL036C,1,,,,,,False,t0
+YBL037W,0,,,,,,False,t10
+YBL038W,2,,,,,,False,t60
+YBL039C,2,,,,,,False,t0
+YBL040C,0,,,,,,False,t10
+YBL041W,1,,,,,,False,t70
+YBL043W,2,,,,,,False,t60
+YBL044W,2,,,,,,False,t60
+YBL045C,0,,,,,,False,t90
+YBL046W,0,,,,,,False,t10
+YBL047C,0,,,,,,False,t30
+YBL048W,0,,,,,,False,t30
+YBL049W,1,,,,,,False,t0
+YBL050W,1,,,,,,False,t60
+YBL051C,0,,,,,,False,t80
+YBL052C,2,S/G2,SAS3,565.0,677.0,ORF column,True,t90
+YBL053W,2,,,,,,False,t90
+YBL054W,2,,,,,,False,t0
+YBL055C,2,,,,,,False,t0
+YBL056W,0,,,,,,False,t100
+YBL057C,1,,,,,,False,t70
+YBL058W,2,,,,,,False,t100
+YBL059W,2,,,,,,False,t40
+YBL060W,1,,,,,,False,t0
+YBL061C,2,M/G1,SKT5,104.0,293.0,ORF column,True,t60
+YBL062W,1,,,,,,False,t0
+YBL063W,0,S,KIP1,467.0,731.0,ORF column,True,t90
+YBL064C,0,M/G1,YBL064C,93.0,321.0,ORF column,True,t80
+YBL065W,0,,,,,,False,t30
+YBL066C,2,,,,,,False,t120
+YBL067C,1,,,,,,False,t0
+YBL068W,2,,,,,,False,t0
+YBL069W,2,,,,,,False,t50
+YBL070C,2,,,,,,False,t50
+YBL071C,2,,,,,,False,t40
+YBL072C,2,,,,,,False,t10
+YBL073W,2,,,,,,False,t90
+YBL074C,1,,,,,,False,t10
+YBL075C,2,,,,,,False,t40
+YBL076C,0,,,,,,False,t100
+YBL077W,1,,,,,,False,t110
+YBL078C,0,,,,,,False,t10
+YBL079W,2,,,,,,False,t100
+YBL080C,2,,,,,,False,t40
+YBL081W,2,,,,,,False,t0
+YBL082C,0,,,,,,False,t30
+YBL083C,0,,,,,,False,t30
+YBL084C,0,,,,,,False,t120
+YBL085W,0,,,,,,False,t60
+YBL086C,0,,,,,,False,t20
+YBL087C,2,,,,,,False,t120
+YBL088C,1,,,,,,False,t60
+YBL089W,0,,,,,,False,t110
+YBL090W,1,,,,,,False,t50
+YBL091C,1,,,,,,False,t70
+YBL091C-A,2,,,,,,False,t40
+YBL092W,2,,,,,,False,t40
+YBL093C,1,,,,,,False,t0
+YBL094C,0,,,,,,False,t20
+YBL096C,2,,,,,,False,t110
+YBL097W,0,,,,,,False,t50
+YBL098W,0,G2/M,YBL098W,706.0,197.0,ORF column,True,t120
+YBL099W,0,,,,,,False,t20
+YBL100C,0,G2/M,YBL100C,711.0,152.0,ORF column,True,t10
+YBL101C,1,,,,,,False,t60
+YBL101W-A,1,,,,,,False,t10
+YBL101W-B,1,,,,,,False,t10
+YBL102W,0,,,,,,False,t100
+YBL103C,2,,,,,,False,t50
+YBL104C,2,,,,,,False,t60
+YBL105C,2,,,,,,False,t100
+YBL106C,1,,,,,,False,t50
+YBL107C,1,,,,,,False,t60
+YBL107W-A,1,,,,,,False,t10
+YBL108W,2,,,,,,False,t60
+YBL109W,1,,,,,,False,t10
+YBL111C,1,G1,YBL111C,123.0,583.0,ORF column,True,t10
+YBL112C,1,G1,YBL112C,137.0,590.0,ORF column,True,t10
+YBL113C,1,G1,YBL113C,127.0,582.0,ORF column,True,t10
+YBR001C,1,,,,,,False,t10
+YBR002C,2,,,,,,False,t0
+YBR003W,0,,,,,,False,t80
+YBR004C,1,,,,,,False,t0
+YBR005W,2,,,,,,False,t0
+YBR006W,0,,,,,,False,t20
+YBR007C,0,G1,YBR007C,351.0,434.0,ORF column,True,t20
+YBR008C,0,S,FLR1,473.0,704.0,ORF column,True,t90
+YBR009C,0,S,HHF1,417.0,791.0,ORF column,True,t30
+YBR010W,0,S,HHT1,420.0,795.0,ORF column,True,t30
+YBR011C,1,,,,,,False,t20
+YBR012C,2,,,,,,False,t50
+YBR012W-A,1,,,,,,False,t10
+YBR012W-B,2,,,,,,False,t90
+YBR013C,1,,,,,,False,t0
+YBR014C,0,,,,,,False,t100
+YBR015C,0,,,,,,False,t90
+YBR016W,2,,,,,,False,t120
+YBR017C,2,,,,,,False,t120
+YBR019C,2,,,,,,False,t30
+YBR020W,2,,,,,,False,t60
+YBR021W,1,,,,,,False,t60
+YBR022W,1,,,,,,False,t0
+YBR023C,1,,,,,,False,t0
+YBR024W,0,,,,,,False,t20
+YBR025C,2,,,,,,False,t30
+YBR026C,1,,,,,,False,t20
+YBR027C,1,,,,,,False,t10
+YBR028C,0,,,,,,False,t100
+YBR029C,1,,,,,,False,t0
+YBR030W,2,,,,,,False,t0
+YBR031W,0,,,,,,False,t30
+YBR032W,2,,,,,,False,t40
+YBR033W,0,,,,,,False,t0
+YBR034C,2,,,,,,False,t0
+YBR035C,0,,,,,,False,t20
+YBR036C,2,,,,,,False,t120
+YBR037C,0,,,,,,False,t30
+YBR038W,2,G2/M,CHS2,709.0,224.0,ORF column,True,t50
+YBR039W,0,,,,,,False,t20
+YBR040W,1,,,,,,False,t0
+YBR041W,0,,,,,,False,t20
+YBR042C,0,,,,,,False,t60
+YBR043C,2,,,,,,False,t100
+YBR044C,2,,,,,,False,t70
+YBR045C,2,,,,,,False,t60
+YBR046C,1,,,,,,False,t10
+YBR047W,2,,,,,,False,t40
+YBR048W,1,,,,,,False,t20
+YBR049C,2,,,,,,False,t40
+YBR050C,2,,,,,,False,t70
+YBR051W,0,,,,,,False,t60
+YBR052C,0,,,,,,False,t100
+YBR053C,1,M/G1,YBR053C,41.0,336.0,ORF column,True,t10
+YBR054W,2,G2/M,YRO2,785.0,91.0,ORF column,True,t70
+YBR055C,2,,,,,,False,t120
+YBR056W,1,,,,,,False,t10
+YBR057C,2,,,,,,False,t0
+YBR058C,2,,,,,,False,t0
+YBR059C,1,,,,,,False,t10
+YBR060C,0,,,,,,False,t90
+YBR061C,2,,,,,,False,t0
+YBR062C,1,,,,,,False,t30
+YBR063C,2,,,,,,False,t60
+YBR064W,2,,,,,,False,t40
+YBR065C,2,,,,,,False,t60
+YBR066C,2,,,,,,False,t0
+YBR067C,1,M/G1,TIP1,90.0,320.0,ORF column,True,t0
+YBR068C,0,,,,,,False,t100
+YBR069C,2,G2/M,VAP1,731.0,196.0,ORF column,True,t70
+YBR070C,0,G1,YBR070C,237.0,490.0,ORF column,True,t20
+YBR071W,1,G1,YBR071W,169.0,563.0,ORF column,True,t10
+YBR072W,1,,,,,,False,t10
+YBR073W,0,G1,RDH54,282.0,469.0,ORF column,True,t10
+YBR074W,1,,,,,,False,t0
+YBR075W,2,,,,,,False,t0
+YBR076W,2,,,,,,False,t60
+YBR077C,2,,,,,,False,t100
+YBR078W,0,,,,,,False,t100
+YBR079C,2,,,,,,False,t100
+YBR080C,0,,,,,,False,t90
+YBR081C,0,,,,,,False,t90
+YBR082C,0,,,,,,False,t30
+YBR083W,2,M/G1,TEC1,53.0,275.0,ORF column,True,t120
+YBR084C-A,1,,,,,,False,t90
+YBR084W,2,,,,,,False,t40
+YBR085W,0,,,,,,False,t100
+YBR086C,2,G2/M,YBR086C,623.0,154.0,ORF column,True,t100
+YBR087W,0,G1,RFC5,275.0,610.0,ORF column,True,t20
+YBR088C,1,G1,POL30,252.0,538.0,ORF column,True,t20
+YBR089W,0,G1,YBR089W,293.0,495.0,ORF column,True,t20
+YBR090C,2,,,,,,False,t100
+YBR090C-A,2,,,,,,False,t40
+YBR091C,1,,,,,,False,t10
+YBR092C,1,G2/M,PHO3,755.0,202.0,ORF column,True,t60
+YBR093C,1,G2/M,PHO5,723.0,95.0,ORF column,True,t60
+YBR094W,2,G2/M,YBR094W,728.0,191.0,ORF column,True,t60
+YBR095C,2,,,,,,False,t60
+YBR096W,1,,,,,,False,t20
+YBR097W,2,,,,,,False,t70
+YBR098W,2,,,,,,False,t60
+YBR099C,0,,,,,,False,t110
+YBR100W,2,,,,,,False,t50
+YBR101C,0,,,,,,False,t20
+YBR102C,2,,,,,,False,t120
+YBR103W,0,,,,,,False,t100
+YBR104W,0,,,,,,False,t20
+YBR105C,1,,,,,,False,t0
+YBR106W,0,,,,,,False,t20
+YBR107C,1,,,,,,False,t30
+YBR108W,1,G1,YBR108W,224.0,347.0,ORF column,True,t20
+YBR109C,2,,,,,,False,t100
+YBR110W,0,,,,,,False,t40
+YBR111C,0,,,,,,False,t20
+YBR112C,0,,,,,,False,t0
+YBR113W,2,,,,,,False,t120
+YBR114W,1,,,,,,False,t0
+YBR115C,0,,,,,,False,t30
+YBR116C,1,,,,,,False,t110
+YBR117C,2,,,,,,False,t60
+YBR118W,1,,,,,,False,t10
+YBR119W,1,,,,,,False,t0
+YBR120C,2,,,,,,False,t60
+YBR121C,2,,,,,,False,t30
+YBR122C,0,,,,,,False,t30
+YBR123C,2,,,,,,False,t100
+YBR124W,0,,,,,,False,t10
+YBR125C,1,,,,,,False,t0
+YBR126C,0,,,,,,False,t80
+YBR127C,1,,,,,,False,t30
+YBR128C,0,,,,,,False,t0
+YBR129C,2,,,,,,False,t60
+YBR131W,2,,,,,,False,t50
+YBR132C,1,,,,,,False,t10
+YBR133C,2,S/G2,HSL7,573.0,693.0,ORF column,True,t100
+YBR134W,2,,,,,,False,t120
+YBR135W,0,,,,,,False,t40
+YBR136W,2,,,,,,False,t120
+YBR137W,0,,,,,,False,t30
+YBR138C,2,G2/M,HDR1,669.0,246.0,ORF column,True,t50
+YBR139W,2,G2/M,YBR139W,690.0,181.0,ORF column,True,t120
+YBR140C,2,,,,,,False,t100
+YBR141C,2,,,,,,False,t90
+YBR142W,2,,,,,,False,t50
+YBR143C,2,,,,,,False,t0
+YBR144C,1,,,,,,False,t60
+YBR145W,1,,,,,,False,t10
+YBR146W,1,,,,,,False,t0
+YBR147W,1,,,,,,False,t10
+YBR148W,0,,,,,,False,t100
+YBR149W,1,,,,,,False,t10
+YBR150C,1,,,,,,False,t0
+YBR151W,0,,,,,,False,t20
+YBR152W,2,,,,,,False,t90
+YBR153W,2,,,,,,False,t40
+YBR154C,2,,,,,,False,t0
+YBR155W,2,,,,,,False,t0
+YBR156C,2,,,,,,False,t120
+YBR157C,2,M/G1,YBR157C,18.0,319.0,ORF column,True,t70
+YBR158W,2,M/G1,YBR158W,85.0,291.0,ORF column,True,t0
+YBR159W,2,,,,,,False,t60
+YBR160W,1,,,,,,False,t0
+YBR161W,0,G1,YBR161W,368.0,433.0,ORF column,True,t20
+YBR162C,0,,,,,,False,t100
+YBR162W-A,0,,,,,,False,t120
+YBR163W,2,,,,,,False,t80
+YBR164C,2,,,,,,False,t50
+YBR165W,2,,,,,,False,t90
+YBR166C,2,,,,,,False,t120
+YBR167C,2,,,,,,False,t100
+YBR168W,0,,,,,,False,t20
+YBR169C,0,,,,,,False,t20
+YBR170C,2,,,,,,False,t60
+YBR171W,1,,,,,,False,t60
+YBR172C,2,,,,,,False,t0
+YBR173C,2,,,,,,False,t50
+YBR174C,0,,,,,,False,t90
+YBR175W,2,,,,,,False,t0
+YBR176W,2,,,,,,False,t0
+YBR177C,1,,,,,,False,t10
+YBR178W,1,,,,,,False,t40
+YBR179C,0,,,,,,False,t30
+YBR180W,2,,,,,,False,t0
+YBR181C,2,,,,,,False,t70
+YBR182C,0,,,,,,False,t20
+YBR183W,1,,,,,,False,t0
+YBR184W,0,,,,,,False,t30
+YBR185C,0,,,,,,False,t20
+YBR186W,2,,,,,,False,t110
+YBR187W,0,,,,,,False,t30
+YBR188C,0,,,,,,False,t50
+YBR189W,0,,,,,,False,t100
+YBR190W,2,,,,,,False,t0
+YBR191W,2,,,,,,False,t40
+YBR192W,2,,,,,,False,t110
+YBR193C,0,,,,,,False,t10
+YBR194W,2,,,,,,False,t120
+YBR195C,1,,,,,,False,t20
+YBR196C,0,,,,,,False,t20
+YBR197C,2,,,,,,False,t60
+YBR198C,2,,,,,,False,t110
+YBR199W,1,,,,,,False,t10
+YBR200W,2,G2/M,BEM1,782.0,80.0,ORF column,True,t0
+YBR201W,1,,,,,,False,t10
+YBR202W,1,G2/M,CDC47,784.0,90.0,ORF column,True,t10
+YBR203W,1,,,,,,False,t70
+YBR204C,1,M/G1,YBR204C,105.0,328.0,ORF column,True,t60
+YBR205W,1,,,,,,False,t0
+YBR206W,0,,,,,,False,t90
+YBR207W,0,,,,,,False,t30
+YBR208C,0,,,,,,False,t80
+YBR209W,1,,,,,,False,t10
+YBR210W,2,,,,,,False,t50
+YBR211C,2,,,,,,False,t120
+YBR212W,0,,,,,,False,t90
+YBR213W,1,,,,,,False,t10
+YBR214W,1,,,,,,False,t10
+YBR215W,0,,,,,,False,t30
+YBR216C,2,,,,,,False,t60
+YBR217W,1,,,,,,False,t10
+YBR218C,1,,,,,,False,t10
+YBR219C,0,,,,,,False,t30
+YBR220C,1,,,,,,False,t110
+YBR221C,0,,,,,,False,t30
+YBR222C,0,,,,,,False,t60
+YBR223C,2,,,,,,False,t60
+YBR224W,2,,,,,,False,t120
+YBR225W,2,,,,,,False,t0
+YBR226C,0,,,,,,False,t40
+YBR227C,1,,,,,,False,t0
+YBR228W,1,,,,,,False,t0
+YBR229C,2,,,,,,False,t120
+YBR230C,0,,,,,,False,t100
+YBR231C,2,,,,,,False,t70
+YBR232C,1,,,,,,False,t60
+YBR233W,1,,,,,,False,t10
+YBR234C,1,,,,,,False,t20
+YBR235W,2,,,,,,False,t80
+YBR236C,1,,,,,,False,t60
+YBR237W,2,,,,,,False,t90
+YBR238C,2,,,,,,False,t60
+YBR239C,2,,,,,,False,t0
+YBR240C,0,,,,,,False,t40
+YBR241C,0,,,,,,False,t20
+YBR242W,2,G2/M,YBR242W,613.0,138.0,ORF column,True,t0
+YBR243C,0,S/G2,ALG7,502.0,718.0,ORF column,True,t30
+YBR244W,2,,,,,,False,t120
+YBR245C,0,,,,,,False,t20
+YBR246W,1,,,,,,False,t110
+YBR247C,2,,,,,,False,t0
+YBR248C,1,,,,,,False,t20
+YBR249C,1,,,,,,False,t20
+YBR250W,0,,,,,,False,t90
+YBR251W,0,,,,,,False,t120
+YBR252W,0,,,,,,False,t20
+YBR253W,0,,,,,,False,t80
+YBR254C,2,,,,,,False,t60
+YBR255W,2,,,,,,False,t120
+YBR256C,1,S/G2,RIB5,513.0,314.0,ORF column,True,t20
+YBR257W,2,,,,,,False,t110
+YBR258C,2,,,,,,False,t60
+YBR259W,2,,,,,,False,t0
+YBR260C,2,,,,,,False,t60
+YBR261C,2,,,,,,False,t60
+YBR262C,2,,,,,,False,t60
+YBR263W,0,,,,,,False,t20
+YBR264C,1,,,,,,False,t110
+YBR265W,2,,,,,,False,t50
+YBR266C,2,,,,,,False,t0
+YBR267W,2,,,,,,False,t0
+YBR268W,2,,,,,,False,t60
+YBR269C,1,,,,,,False,t60
+YBR270C,2,,,,,,False,t120
+YBR271W,2,,,,,,False,t60
+YBR272C,2,,,,,,False,t40
+YBR273C,1,M/G1,YBR273C,99.0,317.0,ORF column,True,t0
+YBR274W,1,,,,,,False,t30
+YBR275C,0,,,,,,False,t20
+YBR276C,0,,,,,,False,t20
+YBR277C,0,,,,,,False,t10
+YBR278W,2,,,,,,False,t50
+YBR279W,2,,,,,,False,t120
+YBR280C,1,,,,,,False,t60
+YBR281C,1,,,,,,False,t10
+YBR282W,2,,,,,,False,t60
+YBR283C,2,,,,,,False,t60
+YBR284W,0,,,,,,False,t100
+YBR285W,1,,,,,,False,t10
+YBR286W,1,,,,,,False,t70
+YBR287W,1,G2/M,YBR287W,763.0,23.0,ORF column,True,t10
+YBR288C,2,,,,,,False,t70
+YBR289W,0,,,,,,False,t30
+YBR290W,0,,,,,,False,t90
+YBR291C,2,,,,,,False,t30
+YBR292C,1,,,,,,False,t60
+YBR293W,0,,,,,,False,t30
+YBR294W,1,,,,,,False,t0
+YBR295W,1,,,,,,False,t0
+YBR296C,1,M/G1,YBR296C,29.0,380.0,ORF column,True,t10
+YBR297W,1,,,,,,False,t20
+YBR298C,1,,,,,,False,t10
+YBR299W,1,,,,,,False,t10
+YBR300C,1,,,,,,False,t50
+YBR301W,1,,,,,,False,t80
+YBR302C,1,,,,,,False,t20
+YCL001W,0,,,,,,False,t30
+YCL001W-A,2,,,,,,False,t60
+YCL002C,2,,,,,,False,t40
+YCL004W,0,,,,,,False,t120
+YCL005W,2,,,,,,False,t30
+YCL006C,1,,,,,,False,t120
+YCL007C,2,,,,,,False,t40
+YCL008C,2,,,,,,False,t60
+YCL009C,0,,,,,,False,t30
+YCL010C,1,,,,,,False,t10
+YCL011C,2,,,,,,False,t100
+YCL012W,2,G2/M,YCL012W,608.0,213.0,ORF column,True,t50
+YCL014W,2,S/G2,BUD3,595.0,214.0,ORF column,True,t40
+YCL016C,2,,,,,,False,t90
+YCL017C,1,,,,,,False,t0
+YCL018W,2,,,,,,False,t60
+YCL019W,1,,,,,,False,t10
+YCL020W,1,,,,,,False,t10
+YCL022C,2,G1,YCL022C,194.0,496.0,ORF column,True,t40
+YCL023C,2,G1,YCL023C,207.0,401.0,ORF column,True,t50
+YCL024W,1,G1,YCL024W,200.0,497.0,ORF column,True,t10
+YCL025C,0,S/G2,AGP1,575.0,126.0,ORF column,True,t80
+YCL026C-A,0,,,,,,False,t30
+YCL027W,2,M/G1,FUS1,112.0,309.0,ORF column,True,t0
+YCL028W,0,,,,,,False,t20
+YCL029C,1,,,,,,False,t0
+YCL030C,0,,,,,,False,t30
+YCL031C,2,,,,,,False,t0
+YCL032W,0,,,,,,False,t100
+YCL033C,1,,,,,,False,t20
+YCL034W,0,,,,,,False,t30
+YCL035C,1,,,,,,False,t0
+YCL036W,2,,,,,,False,t120
+YCL037C,2,,,,,,False,t120
+YCL038C,1,G2/M,YCL038C,725.0,195.0,ORF column,True,t10
+YCL040W,0,M/G1,GLK1,111.0,340.0,ORF column,True,t20
+YCL041C,2,,,,,,False,t50
+YCL042W,1,G1,YCL042W,177.0,339.0,ORF column,True,t0
+YCL043C,0,G2/M,PDI1,708.0,158.0,ORF column,True,t30
+YCL044C,0,,,,,,False,t30
+YCL045C,2,,,,,,False,t100
+YCL046W,2,,,,,,False,t60
+YCL047C,1,,,,,,False,t10
+YCL048W,2,,,,,,False,t70
+YCL049C,1,,,,,,False,t0
+YCL050C,0,,,,,,False,t100
+YCL051W,0,,,,,,False,t100
+YCL052C,1,,,,,,False,t10
+YCL054W,2,,,,,,False,t0
+YCL055W,1,M/G1,KAR4,81.0,306.0,ORF column,True,t0
+YCL056C,2,,,,,,False,t0
+YCL057W,2,,,,,,False,t120
+YCL058C,1,,,,,,False,t0
+YCL059C,1,,,,,,False,t0
+YCL061C,0,G1,YCL061C,238.0,442.0,ORF column,True,t10
+YCL063W,2,S/G2,YCL063W,603.0,208.0,ORF column,True,t40
+YCL064C,0,,,,,,False,t30
+YCL065W,1,G2/M,YCL065W,762.0,46.0,ORF column,True,t80
+YCL066W,1,G2/M,ALPHA1,773.0,48.0,ORF column,True,t0
+YCL067C,2,,,,,,False,t110
+YCL068C,2,,,,,,False,t60
+YCL069W,2,,,,,,False,t60
+YCL073C,1,,,,,,False,t10
+YCL074W,1,,,,,,False,t0
+YCL075W,1,,,,,,False,t10
+YCL076W,1,,,,,,False,t10
+YCR001W,1,,,,,,False,t70
+YCR002C,2,S/G2,CDC10,601.0,156.0,ORF column,True,t100
+YCR003W,2,,,,,,False,t90
+YCR004C,2,,,,,,False,t60
+YCR005C,0,,,,,,False,t20
+YCR006C,1,,,,,,False,t20
+YCR007C,2,,,,,,False,t80
+YCR008W,2,,,,,,False,t40
+YCR009C,1,,,,,,False,t0
+YCR010C,1,,,,,,False,t80
+YCR011C,0,,,,,,False,t30
+YCR012W,0,,,,,,False,t30
+YCR013C,0,,,,,,False,t40
+YCR014C,0,,,,,,False,t100
+YCR015C,2,,,,,,False,t100
+YCR016W,2,,,,,,False,t0
+YCR017C,0,,,,,,False,t100
+YCR018C-A,1,,,,,,False,t10
+YCR019W,1,,,,,,False,t60
+YCR020C,1,,,,,,False,t60
+YCR020C-A,1,,,,,,False,t20
+YCR020W-B,0,,,,,,False,t50
+YCR021C,1,,,,,,False,t10
+YCR022C,2,,,,,,False,t50
+YCR023C,0,,,,,,False,t100
+YCR024C,0,,,,,,False,t70
+YCR024C-A,2,G2/M,PMP1,713.0,200.0,ORF column,True,t60
+YCR025C,1,,,,,,False,t10
+YCR026C,0,,,,,,False,t90
+YCR027C,2,,,,,,False,t0
+YCR028C,0,,,,,,False,t40
+YCR028C-A,0,,,,,,False,t100
+YCR030C,1,,,,,,False,t10
+YCR031C,2,,,,,,False,t20
+YCR032W,2,,,,,,False,t80
+YCR033W,2,,,,,,False,t60
+YCR034W,0,,,,,,False,t100
+YCR035C,2,,,,,,False,t0
+YCR036W,2,,,,,,False,t60
+YCR037C,2,,,,,,False,t100
+YCR038C,2,,,,,,False,t100
+YCR039C,2,,,,,,False,t60
+YCR040W,2,G2/M,ALPHA1,772.0,47.0,ORF column,True,t60
+YCR041W,2,G2/M,YCR041W,781.0,68.0,ORF column,True,t0
+YCR042C,1,G2/M,TSM1,777.0,78.0,ORF column,True,t60
+YCR043C,2,,,,,,False,t40
+YCR044C,2,,,,,,False,t60
+YCR045C,2,,,,,,False,t60
+YCR046C,0,,,,,,False,t20
+YCR047C,2,,,,,,False,t100
+YCR048W,2,,,,,,False,t60
+YCR049C,0,,,,,,False,t90
+YCR050C,2,,,,,,False,t100
+YCR051W,2,,,,,,False,t0
+YCR052W,0,,,,,,False,t20
+YCR053W,0,,,,,,False,t30
+YCR054C,2,,,,,,False,t100
+YCR057C,2,,,,,,False,t0
+YCR059C,1,,,,,,False,t20
+YCR060W,1,,,,,,False,t50
+YCR061W,1,,,,,,False,t80
+YCR062W,1,,,,,,False,t10
+YCR063W,0,,,,,,False,t30
+YCR064C,1,,,,,,False,t40
+YCR065W,0,G1,HCM1,260.0,475.0,ORF column,True,t80
+YCR066W,0,,,,,,False,t110
+YCR067C,0,,,,,,False,t30
+YCR068W,1,,,,,,False,t40
+YCR069W,0,S/G2,SCC3,551.0,245.0,ORF column,True,t30
+YCR071C,1,,,,,,False,t40
+YCR072C,2,,,,,,False,t0
+YCR073C,0,,,,,,False,t90
+YCR073W-A,2,,,,,,False,t60
+YCR075C,0,,,,,,False,t20
+YCR076C,2,,,,,,False,t120
+YCR077C,2,,,,,,False,t80
+YCR079W,1,,,,,,False,t0
+YCR081W,2,,,,,,False,t60
+YCR082W,2,,,,,,False,t50
+YCR083W,1,,,,,,False,t110
+YCR084C,0,,,,,,False,t100
+YCR085W,2,,,,,,False,t30
+YCR086W,0,,,,,,False,t30
+YCR087C-A,2,,,,,,False,t0
+YCR087W,2,,,,,,False,t0
+YCR088W,0,,,,,,False,t20
+YCR089W,1,,,,,,False,t0
+YCR090C,2,,,,,,False,t0
+YCR091W,2,,,,,,False,t80
+YCR092C,1,,,,,,False,t0
+YCR093W,0,,,,,,False,t80
+YCR094W,2,,,,,,False,t90
+YCR095C,2,,,,,,False,t0
+YCR096C,2,,,,,,False,t60
+YCR097W,2,,,,,,False,t0
+YCR097W-A,2,,,,,,False,t0
+YCR098C,1,,,,,,False,t10
+YCR099C,1,,,,,,False,t50
+YCR100C,1,,,,,,False,t60
+YCR101C,1,,,,,,False,t60
+YCR102C,2,,,,,,False,t60
+YCR102W-A,1,,,,,,False,t50
+YCR103C,1,,,,,,False,t60
+YCR104W,0,,,,,,False,t80
+YCR105W,1,,,,,,False,t60
+YCR106W,0,,,,,,False,t30
+YCR107W,2,,,,,,False,t120
+YDL001W,1,,,,,,False,t10
+YDL002C,2,,,,,,False,t60
+YDL003W,0,G1,MCD1,255.0,539.0,ORF column,True,t10
+YDL004W,0,,,,,,False,t20
+YDL005C,2,,,,,,False,t90
+YDL006W,2,,,,,,False,t100
+YDL007W,2,,,,,,False,t120
+YDL008W,0,,,,,,False,t40
+YDL009C,0,,,,,,False,t10
+YDL010W,1,G1,YDL010W,214.0,508.0,ORF column,True,t10
+YDL011C,1,G1,YDL011C,242.0,507.0,ORF column,True,t10
+YDL012C,2,,,,,,False,t50
+YDL013W,0,,,,,,False,t30
+YDL014W,2,,,,,,False,t50
+YDL015C,0,,,,,,False,t20
+YDL016C,2,,,,,,False,t110
+YDL017W,1,,,,,,False,t60
+YDL018C,0,G1,ERP3,298.0,486.0,ORF column,True,t20
+YDL019C,0,,,,,,False,t80
+YDL020C,0,,,,,,False,t30
+YDL021W,0,,,,,,False,t10
+YDL022W,1,,,,,,False,t10
+YDL023C,1,,,,,,False,t10
+YDL024C,0,,,,,,False,t80
+YDL025C,0,,,,,,False,t10
+YDL026W,2,,,,,,False,t70
+YDL027C,1,,,,,,False,t10
+YDL028C,2,,,,,,False,t90
+YDL029W,1,,,,,,False,t10
+YDL030W,2,,,,,,False,t40
+YDL031W,2,,,,,,False,t40
+YDL032W,0,,,,,,False,t110
+YDL033C,0,,,,,,False,t30
+YDL034W,1,,,,,,False,t110
+YDL035C,1,,,,,,False,t10
+YDL036C,2,,,,,,False,t30
+YDL037C,2,G2/M,YDL037C,749.0,8.0,ORF column,True,t0
+YDL038C,2,,,,,,False,t0
+YDL039C,2,G2/M,YDL039C,746.0,7.0,ORF column,True,t0
+YDL040C,2,,,,,,False,t100
+YDL041W,2,,,,,,False,t110
+YDL042C,1,,,,,,False,t0
+YDL043C,1,,,,,,False,t60
+YDL044C,1,,,,,,False,t50
+YDL045C,1,,,,,,False,t0
+YDL045W-A,1,,,,,,False,t20
+YDL046W,1,,,,,,False,t20
+YDL047W,2,,,,,,False,t60
+YDL048C,1,G2/M,STP4,681.0,43.0,ORF column,True,t80
+YDL049C,2,,,,,,False,t100
+YDL050C,1,,,,,,False,t0
+YDL051W,1,,,,,,False,t40
+YDL052C,0,,,,,,False,t20
+YDL053C,1,,,,,,False,t80
+YDL054C,0,,,,,,False,t30
+YDL055C,0,G1,PSA1,410.0,787.0,ORF column,True,t100
+YDL056W,0,,,,,,False,t20
+YDL057W,0,,,,,,False,t100
+YDL058W,1,,,,,,False,t90
+YDL059C,2,,,,,,False,t60
+YDL060W,1,,,,,,False,t0
+YDL061C,2,,,,,,False,t80
+YDL062W,0,,,,,,False,t120
+YDL063C,2,,,,,,False,t0
+YDL064W,2,,,,,,False,t60
+YDL065C,1,,,,,,False,t20
+YDL066W,0,,,,,,False,t30
+YDL067C,1,,,,,,False,t10
+YDL068W,2,,,,,,False,t40
+YDL069C,2,,,,,,False,t50
+YDL070W,2,,,,,,False,t120
+YDL071C,0,,,,,,False,t80
+YDL072C,0,,,,,,False,t10
+YDL073W,2,,,,,,False,t40
+YDL074C,2,,,,,,False,t60
+YDL075W,2,,,,,,False,t120
+YDL076C,2,,,,,,False,t100
+YDL077C,2,,,,,,False,t60
+YDL078C,0,,,,,,False,t100
+YDL079C,2,,,,,,False,t60
+YDL080C,2,,,,,,False,t0
+YDL081C,1,,,,,,False,t30
+YDL082W,1,,,,,,False,t70
+YDL083C,1,,,,,,False,t10
+YDL084W,2,,,,,,False,t120
+YDL085W,2,,,,,,False,t60
+YDL086W,1,,,,,,False,t0
+YDL087C,2,,,,,,False,t50
+YDL088C,2,,,,,,False,t100
+YDL089W,1,M/G1,YDL089W,42.0,327.0,ORF column,True,t120
+YDL090C,0,,,,,,False,t70
+YDL091C,0,,,,,,False,t60
+YDL092W,1,,,,,,False,t20
+YDL093W,0,G1,PMT5,326.0,436.0,ORF column,True,t20
+YDL094C,0,,,,,,False,t70
+YDL095W,0,G1,PMT1,325.0,773.0,ORF column,True,t30
+YDL096C,0,G1,YDL096C,352.0,553.0,ORF column,True,t30
+YDL097C,2,,,,,,False,t70
+YDL098C,1,,,,,,False,t0
+YDL100C,0,,,,,,False,t20
+YDL101C,0,G1,DUN1,320.0,474.0,ORF column,True,t10
+YDL102W,1,G1,CDC2,147.0,454.0,ORF column,True,t20
+YDL103C,0,G1,QRI1,193.0,550.0,ORF column,True,t20
+YDL104C,0,,,,,,False,t120
+YDL105W,1,G1,QRI2,186.0,440.0,ORF column,True,t10
+YDL106C,0,,,,,,False,t10
+YDL107W,0,,,,,,False,t50
+YDL108W,0,,,,,,False,t20
+YDL109C,0,,,,,,False,t80
+YDL110C,1,,,,,,False,t10
+YDL111C,2,,,,,,False,t0
+YDL112W,2,,,,,,False,t60
+YDL113C,1,,,,,,False,t10
+YDL114W,2,,,,,,False,t50
+YDL115C,2,,,,,,False,t50
+YDL116W,2,,,,,,False,t30
+YDL118W,1,,,,,,False,t70
+YDL119C,2,,,,,,False,t70
+YDL120W,1,,,,,,False,t10
+YDL121C,2,,,,,,False,t0
+YDL122W,2,,,,,,False,t0
+YDL123W,2,,,,,,False,t60
+YDL124W,0,,,,,,False,t20
+YDL125C,2,,,,,,False,t20
+YDL126C,2,,,,,,False,t90
+YDL127W,1,G1,PCL2,141.0,566.0,ORF column,True,t0
+YDL128W,2,G2/M,VCX1,775.0,204.0,ORF column,True,t70
+YDL129W,2,,,,,,False,t120
+YDL130W,2,,,,,,False,t80
+YDL130W-A,1,,,,,,False,t10
+YDL131W,1,,,,,,False,t10
+YDL132W,2,,,,,,False,t40
+YDL133C-A,2,,,,,,False,t110
+YDL133W,2,,,,,,False,t40
+YDL134C,2,,,,,,False,t0
+YDL135C,1,,,,,,False,t0
+YDL136W,2,,,,,,False,t50
+YDL137W,0,,,,,,False,t40
+YDL138W,1,G2/M,RGT2,787.0,64.0,ORF column,True,t10
+YDL139C,1,,,,,,False,t60
+YDL140C,2,,,,,,False,t80
+YDL141W,1,,,,,,False,t0
+YDL143W,2,,,,,,False,t50
+YDL144C,1,,,,,,False,t20
+YDL145C,0,,,,,,False,t80
+YDL146W,0,,,,,,False,t120
+YDL147W,2,,,,,,False,t100
+YDL148C,2,,,,,,False,t0
+YDL149W,2,,,,,,False,t40
+YDL150W,2,,,,,,False,t0
+YDL151C,1,,,,,,False,t10
+YDL152W,2,,,,,,False,t50
+YDL153C,2,,,,,,False,t0
+YDL154W,2,,,,,,False,t120
+YDL155W,0,,,,,,False,t60
+YDL156W,1,G1,YDL156W,156.0,441.0,ORF column,True,t10
+YDL157C,0,G1,YDL157C,373.0,606.0,ORF column,True,t20
+YDL158C,2,,,,,,False,t30
+YDL159W,2,,,,,,False,t60
+YDL160C,2,,,,,,False,t70
+YDL161W,1,,,,,,False,t10
+YDL162C,1,,,,,,False,t10
+YDL163W,0,G1,YDL163W,188.0,515.0,ORF column,True,t20
+YDL164C,1,G1,CDC9,159.0,516.0,ORF column,True,t60
+YDL165W,1,,,,,,False,t70
+YDL166C,2,,,,,,False,t110
+YDL167C,2,,,,,,False,t0
+YDL168W,1,,,,,,False,t0
+YDL169C,1,M/G1,UGX2,98.0,318.0,ORF column,True,t100
+YDL170W,0,,,,,,False,t30
+YDL171C,0,,,,,,False,t100
+YDL172C,1,,,,,,False,t120
+YDL173W,1,,,,,,False,t10
+YDL174C,0,,,,,,False,t20
+YDL175C,2,,,,,,False,t40
+YDL176W,2,,,,,,False,t100
+YDL177C,2,,,,,,False,t60
+YDL178W,0,,,,,,False,t20
+YDL179W,2,M/G1,PCL9,4.0,269.0,ORF column,True,t70
+YDL180W,1,G2/M,YDL180W,699.0,157.0,ORF column,True,t10
+YDL181W,0,,,,,,False,t100
+YDL182W,1,,,,,,False,t10
+YDL183C,2,,,,,,False,t110
+YDL184C,2,,,,,,False,t80
+YDL185W,1,,,,,,False,t10
+YDL186W,2,,,,,,False,t70
+YDL187C,1,,,,,,False,t60
+YDL188C,2,,,,,,False,t70
+YDL189W,2,,,,,,False,t0
+YDL190C,0,,,,,,False,t30
+YDL191W,1,,,,,,False,t10
+YDL192W,0,,,,,,False,t110
+YDL193W,0,,,,,,False,t100
+YDL194W,1,,,,,,False,t10
+YDL195W,0,,,,,,False,t30
+YDL196W,1,,,,,,False,t0
+YDL197C,0,G1,ASF2,195.0,509.0,ORF column,True,t20
+YDL198C,0,,,,,,False,t30
+YDL199C,2,,,,,,False,t60
+YDL200C,2,,,,,,False,t60
+YDL201W,2,,,,,,False,t0
+YDL202W,2,,,,,,False,t40
+YDL203C,2,,,,,,False,t50
+YDL204W,0,,,,,,False,t20
+YDL205C,2,,,,,,False,t120
+YDL206W,2,,,,,,False,t60
+YDL207W,2,,,,,,False,t0
+YDL208W,2,,,,,,False,t50
+YDL209C,2,,,,,,False,t0
+YDL210W,2,,,,,,False,t100
+YDL211C,0,G1,YDL211C,367.0,467.0,ORF column,True,t20
+YDL212W,0,,,,,,False,t100
+YDL213C,1,,,,,,False,t0
+YDL214C,1,,,,,,False,t60
+YDL215C,0,,,,,,False,t40
+YDL216C,0,,,,,,False,t60
+YDL217C,2,,,,,,False,t100
+YDL218W,1,,,,,,False,t60
+YDL219W,0,,,,,,False,t20
+YDL220C,0,,,,,,False,t20
+YDL221W,0,,,,,,False,t20
+YDL222C,1,,,,,,False,t20
+YDL223C,1,,,,,,False,t0
+YDL224C,2,,,,,,False,t120
+YDL225W,2,,,,,,False,t60
+YDL226C,0,,,,,,False,t20
+YDL227C,2,G1,HO,220.0,414.0,ORF column,True,t80
+YDL228C,2,,,,,,False,t40
+YDL229W,0,,,,,,False,t20
+YDL230W,2,,,,,,False,t110
+YDL231C,2,,,,,,False,t90
+YDL232W,1,,,,,,False,t10
+YDL233W,1,,,,,,False,t80
+YDL234C,1,,,,,,False,t10
+YDL235C,1,,,,,,False,t0
+YDL236W,2,,,,,,False,t60
+YDL237W,1,,,,,,False,t10
+YDL238C,1,,,,,,False,t10
+YDL239C,2,,,,,,False,t60
+YDL240W,2,,,,,,False,t100
+YDL241W,2,,,,,,False,t80
+YDL242W,1,,,,,,False,t50
+YDL243C,1,,,,,,False,t10
+YDL244W,2,,,,,,False,t60
+YDL245C,1,,,,,,False,t10
+YDL246C,0,,,,,,False,t20
+YDL247W,1,,,,,,False,t60
+YDL248W,0,,,,,,False,t20
+YDR001C,1,G1,YDR001C,151.0,25.0,ORF column,True,t10
+YDR002W,2,,,,,,False,t0
+YDR003W,0,,,,,,False,t80
+YDR004W,1,,,,,,False,t0
+YDR005C,0,,,,,,False,t30
+YDR006C,2,,,,,,False,t0
+YDR007W,0,,,,,,False,t70
+YDR008C,2,,,,,,False,t40
+YDR009W,1,,,,,,False,t80
+YDR010C,1,,,,,,False,t120
+YDR011W,0,S/G2,SNQ2,579.0,186.0,ORF column,True,t30
+YDR012W,0,,,,,,False,t20
+YDR013W,1,,,,,,False,t10
+YDR014W,1,,,,,,False,t10
+YDR015C,2,,,,,,False,t80
+YDR016C,0,,,,,,False,t110
+YDR017C,2,,,,,,False,t60
+YDR018C,2,,,,,,False,t120
+YDR019C,0,,,,,,False,t40
+YDR020C,1,,,,,,False,t0
+YDR021W,2,,,,,,False,t0
+YDR022C,0,,,,,,False,t40
+YDR023W,1,,,,,,False,t120
+YDR024W,1,,,,,,False,t10
+YDR025W,1,,,,,,False,t110
+YDR026C,2,,,,,,False,t110
+YDR027C,0,,,,,,False,t30
+YDR028C,0,,,,,,False,t90
+YDR029W,1,S/G2,YDR029W,592.0,616.0,ORF column,True,t10
+YDR030C,2,,,,,,False,t70
+YDR031W,2,,,,,,False,t110
+YDR032C,1,,,,,,False,t0
+YDR033W,2,G2/M,YDR033W,751.0,92.0,ORF column,True,t60
+YDR034C,2,,,,,,False,t50
+YDR034C-A,1,,,,,,False,t10
+YDR034W-B,1,,,,,,False,t10
+YDR035W,1,,,,,,False,t100
+YDR036C,2,,,,,,False,t100
+YDR037W,1,,,,,,False,t100
+YDR038C,0,,,,,,False,t10
+YDR039C,1,,,,,,False,t10
+YDR040C,0,,,,,,False,t10
+YDR041W,1,,,,,,False,t20
+YDR042C,1,,,,,,False,t10
+YDR043C,0,,,,,,False,t30
+YDR044W,0,,,,,,False,t50
+YDR045C,2,,,,,,False,t0
+YDR046C,1,,,,,,False,t10
+YDR047W,0,,,,,,False,t100
+YDR048C,1,,,,,,False,t10
+YDR049W,2,,,,,,False,t100
+YDR051C,2,,,,,,False,t110
+YDR052C,0,,,,,,False,t120
+YDR053W,1,G1,YDR053W,278.0,605.0,ORF column,True,t10
+YDR054C,1,,,,,,False,t60
+YDR055W,2,M/G1,PTS1,32.0,265.0,ORF column,True,t70
+YDR056C,2,,,,,,False,t60
+YDR057W,2,,,,,,False,t100
+YDR058C,2,,,,,,False,t70
+YDR059C,0,,,,,,False,t30
+YDR060W,2,,,,,,False,t40
+YDR061W,0,,,,,,False,t30
+YDR062W,0,,,,,,False,t90
+YDR063W,0,,,,,,False,t20
+YDR064W,2,,,,,,False,t110
+YDR065W,1,,,,,,False,t10
+YDR066C,1,,,,,,False,t30
+YDR067C,1,,,,,,False,t110
+YDR068W,1,,,,,,False,t10
+YDR069C,0,,,,,,False,t90
+YDR070C,1,,,,,,False,t10
+YDR071C,1,,,,,,False,t0
+YDR072C,2,,,,,,False,t80
+YDR073W,2,,,,,,False,t60
+YDR074W,1,,,,,,False,t10
+YDR075W,2,,,,,,False,t0
+YDR076W,1,,,,,,False,t110
+YDR077W,1,G2/M,SED1,800.0,67.0,ORF column,True,t0
+YDR078C,1,,,,,,False,t70
+YDR079W,1,,,,,,False,t0
+YDR080W,2,,,,,,False,t60
+YDR081C,2,,,,,,False,t0
+YDR082W,0,,,,,,False,t30
+YDR083W,2,,,,,,False,t0
+YDR084C,0,,,,,,False,t60
+YDR085C,1,M/G1,AFR1,63.0,315.0,ORF column,True,t0
+YDR086C,1,,,,,,False,t10
+YDR087C,0,,,,,,False,t80
+YDR088C,2,,,,,,False,t110
+YDR089W,0,S/G2,YDR089W,574.0,676.0,ORF column,True,t100
+YDR090C,2,,,,,,False,t50
+YDR091C,2,,,,,,False,t120
+YDR092W,2,,,,,,False,t60
+YDR093W,0,,,,,,False,t20
+YDR094W,0,,,,,,False,t60
+YDR095C,1,,,,,,False,t30
+YDR096W,1,,,,,,False,t10
+YDR097C,0,G1,MSH6,227.0,532.0,ORF column,True,t20
+YDR098C,1,,,,,,False,t0
+YDR099W,0,,,,,,False,t10
+YDR100W,2,,,,,,False,t0
+YDR101C,2,,,,,,False,t0
+YDR102C,2,,,,,,False,t40
+YDR103W,2,,,,,,False,t0
+YDR104C,2,,,,,,False,t120
+YDR105C,0,,,,,,False,t100
+YDR106W,1,,,,,,False,t10
+YDR107C,0,,,,,,False,t100
+YDR108W,2,,,,,,False,t60
+YDR109C,0,,,,,,False,t30
+YDR110W,0,,,,,,False,t100
+YDR111C,2,,,,,,False,t40
+YDR112W,2,,,,,,False,t60
+YDR113C,0,G1,PDS1,396.0,752.0,ORF column,True,t20
+YDR114C,2,,,,,,False,t40
+YDR115W,1,,,,,,False,t20
+YDR116C,1,,,,,,False,t70
+YDR117C,2,,,,,,False,t60
+YDR118W,2,,,,,,False,t60
+YDR119W,2,,,,,,False,t70
+YDR120C,2,,,,,,False,t50
+YDR121W,2,,,,,,False,t60
+YDR122W,1,,,,,,False,t60
+YDR123C,1,,,,,,False,t0
+YDR124W,1,,,,,,False,t0
+YDR125C,1,,,,,,False,t0
+YDR126W,1,,,,,,False,t60
+YDR127W,0,,,,,,False,t10
+YDR128W,2,,,,,,False,t80
+YDR129C,1,,,,,,False,t10
+YDR130C,0,S/G2,YDR130C,542.0,672.0,ORF column,True,t30
+YDR131C,2,,,,,,False,t120
+YDR132C,2,,,,,,False,t60
+YDR133C,2,,,,,,False,t40
+YDR134C,2,,,,,,False,t100
+YDR135C,2,,,,,,False,t100
+YDR136C,2,,,,,,False,t50
+YDR137W,1,,,,,,False,t10
+YDR138W,2,,,,,,False,t120
+YDR139C,2,,,,,,False,t50
+YDR140W,0,,,,,,False,t20
+YDR141C,1,,,,,,False,t70
+YDR142C,2,,,,,,False,t0
+YDR143C,2,,,,,,False,t60
+YDR144C,0,G1,MKC7,274.0,729.0,ORF column,True,t20
+YDR145W,2,,,,,,False,t90
+YDR146C,2,G2/M,SWI5,668.0,237.0,ORF column,True,t50
+YDR147W,2,,,,,,False,t40
+YDR148C,0,,,,,,False,t80
+YDR149C,2,S/G2,YDR149C,570.0,697.0,ORF column,True,t40
+YDR150W,2,S/G2,NUM1,605.0,207.0,ORF column,True,t110
+YDR151C,2,,,,,,False,t20
+YDR152W,2,,,,,,False,t0
+YDR153C,2,,,,,,False,t60
+YDR154C,2,,,,,,False,t40
+YDR155C,0,,,,,,False,t10
+YDR156W,2,,,,,,False,t0
+YDR158W,0,,,,,,False,t30
+YDR159W,2,,,,,,False,t120
+YDR160W,2,,,,,,False,t80
+YDR161W,2,,,,,,False,t60
+YDR162C,2,,,,,,False,t110
+YDR163W,2,,,,,,False,t110
+YDR164C,1,,,,,,False,t10
+YDR165W,2,,,,,,False,t0
+YDR166C,2,,,,,,False,t60
+YDR167W,2,,,,,,False,t40
+YDR168W,1,,,,,,False,t10
+YDR169C,1,,,,,,False,t60
+YDR170C,0,,,,,,False,t90
+YDR170W-A,1,,,,,,False,t40
+YDR171W,0,,,,,,False,t10
+YDR172W,2,,,,,,False,t100
+YDR173C,2,,,,,,False,t90
+YDR174W,2,,,,,,False,t120
+YDR175C,0,,,,,,False,t70
+YDR176W,2,,,,,,False,t120
+YDR177W,1,,,,,,False,t30
+YDR178W,0,,,,,,False,t20
+YDR179C,2,,,,,,False,t20
+YDR179W-A,0,,,,,,False,t90
+YDR180W,1,,,,,,False,t10
+YDR181C,0,,,,,,False,t100
+YDR182W,0,,,,,,False,t60
+YDR183W,1,,,,,,False,t10
+YDR184C,2,,,,,,False,t0
+YDR185C,2,,,,,,False,t80
+YDR186C,2,,,,,,False,t120
+YDR187C,0,,,,,,False,t110
+YDR188W,2,,,,,,False,t100
+YDR189W,0,,,,,,False,t30
+YDR190C,1,G2/M,YDR190C,779.0,98.0,ORF column,True,t0
+YDR191W,1,M/G1,HST4,24.0,76.0,ORF column,True,t10
+YDR192C,0,,,,,,False,t70
+YDR193W,1,,,,,,False,t0
+YDR194C,2,,,,,,False,t110
+YDR195W,2,,,,,,False,t120
+YDR196C,1,,,,,,False,t0
+YDR197W,2,,,,,,False,t0
+YDR198C,2,,,,,,False,t60
+YDR199W,1,,,,,,False,t80
+YDR200C,2,,,,,,False,t60
+YDR201W,0,,,,,,False,t40
+YDR202C,2,,,,,,False,t50
+YDR203W,2,,,,,,False,t50
+YDR204W,2,,,,,,False,t60
+YDR205W,2,,,,,,False,t110
+YDR206W,2,,,,,,False,t110
+YDR207C,2,,,,,,False,t30
+YDR208W,2,,,,,,False,t50
+YDR209C,0,,,,,,False,t30
+YDR210W,2,,,,,,False,t100
+YDR211W,2,,,,,,False,t0
+YDR212W,2,,,,,,False,t100
+YDR213W,0,,,,,,False,t90
+YDR214W,0,,,,,,False,t30
+YDR215C,0,,,,,,False,t100
+YDR216W,0,,,,,,False,t30
+YDR217C,0,,,,,,False,t80
+YDR218C,0,,,,,,False,t40
+YDR219C,0,,,,,,False,t90
+YDR221W,0,,,,,,False,t40
+YDR222W,0,,,,,,False,t30
+YDR223W,0,,,,,,False,t90
+YDR224C,0,S,HTB1,432.0,794.0,ORF column,True,t30
+YDR225W,0,S,HTA1,437.0,796.0,ORF column,True,t30
+YDR226W,0,,,,,,False,t20
+YDR227W,2,,,,,,False,t40
+YDR228C,2,,,,,,False,t120
+YDR229W,2,,,,,,False,t120
+YDR230W,1,,,,,,False,t10
+YDR231C,1,,,,,,False,t10
+YDR232W,0,,,,,,False,t50
+YDR233C,2,,,,,,False,t70
+YDR234W,0,,,,,,False,t30
+YDR235W,0,,,,,,False,t110
+YDR236C,2,,,,,,False,t60
+YDR237W,0,,,,,,False,t20
+YDR238C,0,,,,,,False,t80
+YDR239C,2,,,,,,False,t60
+YDR240C,2,,,,,,False,t0
+YDR241W,1,,,,,,False,t10
+YDR242W,1,,,,,,False,t10
+YDR243C,2,,,,,,False,t40
+YDR244W,1,,,,,,False,t120
+YDR245W,2,,,,,,False,t100
+YDR246W,2,,,,,,False,t110
+YDR247W,0,S,YDR247W,466.0,698.0,ORF column,True,t80
+YDR248C,1,,,,,,False,t10
+YDR249C,2,,,,,,False,t0
+YDR250C,2,,,,,,False,t40
+YDR251W,1,,,,,,False,t80
+YDR252W,0,,,,,,False,t30
+YDR253C,0,,,,,,False,t30
+YDR254W,0,,,,,,False,t30
+YDR255C,0,,,,,,False,t30
+YDR256C,0,,,,,,False,t20
+YDR257C,1,,,,,,False,t0
+YDR259C,1,,,,,,False,t10
+YDR260C,2,,,,,,False,t30
+YDR261C,0,S,EXG2,456.0,782.0,ORF column,True,t90
+YDR262W,2,,,,,,False,t0
+YDR263C,0,,,,,,False,t30
+YDR264C,0,,,,,,False,t30
+YDR265W,2,,,,,,False,t60
+YDR266C,2,,,,,,False,t120
+YDR267C,2,,,,,,False,t100
+YDR268W,2,,,,,,False,t80
+YDR269C,2,,,,,,False,t40
+YDR270W,2,,,,,,False,t40
+YDR271C,0,,,,,,False,t30
+YDR272W,1,,,,,,False,t0
+YDR273W,2,,,,,,False,t50
+YDR274C,2,,,,,,False,t50
+YDR275W,2,,,,,,False,t120
+YDR276C,2,G2/M,YDR276C,670.0,115.0,ORF column,True,t90
+YDR277C,1,,,,,,False,t80
+YDR278C,2,,,,,,False,t110
+YDR279W,0,G1,YDR279W,305.0,468.0,ORF column,True,t20
+YDR280W,1,,,,,,False,t0
+YDR281C,1,,,,,,False,t30
+YDR282C,1,,,,,,False,t10
+YDR283C,2,,,,,,False,t0
+YDR284C,0,,,,,,False,t120
+YDR285W,0,,,,,,False,t80
+YDR286C,2,,,,,,False,t50
+YDR287W,2,,,,,,False,t120
+YDR288W,2,,,,,,False,t60
+YDR289C,1,,,,,,False,t0
+YDR290W,2,,,,,,False,t50
+YDR291W,2,,,,,,False,t80
+YDR292C,2,,,,,,False,t100
+YDR293C,0,,,,,,False,t0
+YDR294C,0,,,,,,False,t100
+YDR295C,0,,,,,,False,t10
+YDR296W,0,,,,,,False,t30
+YDR297W,0,G1,SUR2,392.0,780.0,ORF column,True,t20
+YDR298C,0,,,,,,False,t100
+YDR299W,2,,,,,,False,t0
+YDR300C,2,,,,,,False,t60
+YDR301W,2,,,,,,False,t60
+YDR302W,0,S/G2,YDR302W,522.0,706.0,ORF column,True,t20
+YDR303C,2,,,,,,False,t50
+YDR304C,1,,,,,,False,t0
+YDR305C,1,,,,,,False,t120
+YDR306C,0,,,,,,False,t120
+YDR307W,0,G1,YDR307W,235.0,555.0,ORF column,True,t20
+YDR308C,2,,,,,,False,t70
+YDR309C,1,G1,GIC2,119.0,561.0,ORF column,True,t70
+YDR310C,0,,,,,,False,t20
+YDR311W,2,,,,,,False,t100
+YDR312W,2,,,,,,False,t60
+YDR313C,2,,,,,,False,t30
+YDR314C,0,,,,,,False,t90
+YDR315C,1,,,,,,False,t10
+YDR316W,1,,,,,,False,t0
+YDR317W,0,,,,,,False,t80
+YDR318W,0,,,,,,False,t20
+YDR319C,1,,,,,,False,t60
+YDR320C,2,,,,,,False,t120
+YDR321W,2,,,,,,False,t60
+YDR322C-A,1,,,,,,False,t10
+YDR322W,0,,,,,,False,t100
+YDR323C,2,,,,,,False,t110
+YDR324C,2,,,,,,False,t0
+YDR325W,0,,,,,,False,t40
+YDR326C,2,,,,,,False,t120
+YDR327W,2,,,,,,False,t0
+YDR328C,1,,,,,,False,t90
+YDR329C,0,,,,,,False,t90
+YDR330W,1,,,,,,False,t10
+YDR331W,0,,,,,,False,t90
+YDR332W,2,,,,,,False,t120
+YDR333C,2,,,,,,False,t60
+YDR334W,2,,,,,,False,t120
+YDR335W,1,,,,,,False,t60
+YDR336W,2,,,,,,False,t100
+YDR337W,2,G2/M,MRPS28,789.0,62.0,ORF column,True,t60
+YDR338C,2,,,,,,False,t80
+YDR339C,2,,,,,,False,t100
+YDR340W,0,,,,,,False,t30
+YDR341C,1,,,,,,False,t40
+YDR342C,0,M/G1,HXT7,23.0,12.0,ORF column,True,t10
+YDR343C,0,,,,,,False,t10
+YDR344C,1,,,,,,False,t10
+YDR345C,0,,,,,,False,t80
+YDR346C,2,S/G2,YDR346C,576.0,663.0,ORF column,True,t40
+YDR347W,0,,,,,,False,t80
+YDR348C,0,,,,,,False,t20
+YDR349C,0,,,,,,False,t0
+YDR350C,1,,,,,,False,t0
+YDR351W,2,,,,,,False,t100
+YDR352W,0,,,,,,False,t90
+YDR353W,0,G1,TRR1,346.0,385.0,ORF column,True,t90
+YDR354W,0,,,,,,False,t30
+YDR355C,2,S,YDR355C,425.0,797.0,ORF column,True,t40
+YDR356W,0,G1,NUF1,406.0,722.0,ORF column,True,t40
+YDR357C,1,,,,,,False,t10
+YDR358W,1,,,,,,False,t10
+YDR359C,1,,,,,,False,t110
+YDR360W,2,,,,,,False,t60
+YDR361C,2,,,,,,False,t100
+YDR362C,0,,,,,,False,t50
+YDR363W,2,,,,,,False,t40
+YDR363W-A,2,,,,,,False,t110
+YDR364C,2,,,,,,False,t50
+YDR365C,2,,,,,,False,t0
+YDR366C,2,,,,,,False,t110
+YDR367W,2,,,,,,False,t50
+YDR368W,1,G1,YPR1,148.0,341.0,ORF column,True,t20
+YDR369C,1,,,,,,False,t10
+YDR370C,2,,,,,,False,t60
+YDR371W,1,,,,,,False,t20
+YDR372C,1,,,,,,False,t0
+YDR373W,1,,,,,,False,t0
+YDR374C,2,,,,,,False,t70
+YDR375C,0,,,,,,False,t100
+YDR376W,1,,,,,,False,t0
+YDR377W,1,,,,,,False,t20
+YDR378C,1,,,,,,False,t10
+YDR379W,1,,,,,,False,t10
+YDR380W,0,G2/M,YDR380W,771.0,130.0,ORF column,True,t30
+YDR381W,2,,,,,,False,t100
+YDR382W,2,,,,,,False,t40
+YDR383C,1,,,,,,False,t60
+YDR384C,0,,,,,,False,t20
+YDR385W,1,,,,,,False,t20
+YDR387C,2,,,,,,False,t80
+YDR388W,1,,,,,,False,t10
+YDR389W,1,,,,,,False,t10
+YDR390C,2,,,,,,False,t110
+YDR391C,1,,,,,,False,t10
+YDR392W,1,,,,,,False,t10
+YDR393W,1,,,,,,False,t30
+YDR394W,2,,,,,,False,t70
+YDR395W,2,,,,,,False,t70
+YDR396W,2,,,,,,False,t60
+YDR397C,2,,,,,,False,t100
+YDR398W,2,,,,,,False,t0
+YDR399W,1,,,,,,False,t20
+YDR400W,0,G1,YDR400W,335.0,472.0,ORF column,True,t20
+YDR401W,2,,,,,,False,t60
+YDR402C,0,,,,,,False,t40
+YDR403W,0,,,,,,False,t20
+YDR404C,2,,,,,,False,t110
+YDR405W,1,,,,,,False,t100
+YDR406W,0,,,,,,False,t100
+YDR408C,2,,,,,,False,t50
+YDR409W,2,,,,,,False,t50
+YDR410C,1,,,,,,False,t0
+YDR411C,0,,,,,,False,t100
+YDR412W,2,,,,,,False,t50
+YDR413C,1,,,,,,False,t10
+YDR414C,0,,,,,,False,t20
+YDR415C,2,,,,,,False,t100
+YDR416W,2,,,,,,False,t120
+YDR417C,1,,,,,,False,t100
+YDR418W,2,,,,,,False,t100
+YDR419W,2,,,,,,False,t0
+YDR420W,2,,,,,,False,t70
+YDR421W,0,,,,,,False,t100
+YDR422C,0,,,,,,False,t20
+YDR423C,2,,,,,,False,t110
+YDR424C,1,,,,,,False,t0
+YDR425W,2,,,,,,False,t60
+YDR426C,2,,,,,,False,t60
+YDR427W,2,,,,,,False,t80
+YDR428C,1,,,,,,False,t70
+YDR429C,1,,,,,,False,t0
+YDR430C,0,,,,,,False,t40
+YDR431W,0,,,,,,False,t80
+YDR432W,0,G2/M,NPL3,698.0,111.0,ORF column,True,t20
+YDR433W,2,,,,,,False,t110
+YDR434W,0,,,,,,False,t20
+YDR435C,1,,,,,,False,t10
+YDR436W,1,,,,,,False,t120
+YDR437W,1,,,,,,False,t30
+YDR438W,0,,,,,,False,t50
+YDR439W,2,,,,,,False,t120
+YDR440W,0,G1,DOT1,267.0,383.0,ORF column,True,t20
+YDR441C,2,,,,,,False,t20
+YDR442W,1,,,,,,False,t0
+YDR443C,1,,,,,,False,t50
+YDR444W,2,,,,,,False,t120
+YDR445C,1,,,,,,False,t10
+YDR446W,2,,,,,,False,t60
+YDR447C,2,,,,,,False,t100
+YDR448W,2,S,ADA2,470.0,658.0,ORF column,True,t110
+YDR449C,2,,,,,,False,t60
+YDR450W,2,,,,,,False,t50
+YDR451C,2,S,YDR451C,469.0,734.0,ORF column,True,t40
+YDR452W,2,,,,,,False,t120
+YDR453C,2,,,,,,False,t100
+YDR454C,1,,,,,,False,t20
+YDR455C,1,,,,,,False,t0
+YDR456W,2,,,,,,False,t90
+YDR457W,2,,,,,,False,t60
+YDR458C,2,,,,,,False,t80
+YDR459C,2,,,,,,False,t60
+YDR460W,2,,,,,,False,t120
+YDR461W,1,G1,MFA1,333.0,3.0,ORF column,True,t0
+YDR462W,2,,,,,,False,t60
+YDR463W,2,,,,,,False,t120
+YDR464W,0,,,,,,False,t30
+YDR465C,2,,,,,,False,t0
+YDR466W,2,,,,,,False,t60
+YDR467C,1,,,,,,False,t80
+YDR468C,0,,,,,,False,t40
+YDR469W,0,,,,,,False,t40
+YDR470C,2,,,,,,False,t40
+YDR471W,2,,,,,,False,t80
+YDR472W,2,,,,,,False,t40
+YDR473C,1,,,,,,False,t40
+YDR474C,2,,,,,,False,t120
+YDR475C,0,,,,,,False,t90
+YDR476C,1,,,,,,False,t70
+YDR477W,2,,,,,,False,t60
+YDR478W,2,,,,,,False,t30
+YDR479C,0,,,,,,False,t80
+YDR480W,1,,,,,,False,t20
+YDR481C,0,G1,PHO8,163.0,554.0,ORF column,True,t20
+YDR482C,2,,,,,,False,t110
+YDR483W,1,,,,,,False,t0
+YDR484W,2,,,,,,False,t50
+YDR485C,2,,,,,,False,t30
+YDR486C,2,,,,,,False,t0
+YDR487C,0,,,,,,False,t20
+YDR488C,0,G1,PAC11,386.0,721.0,ORF column,True,t20
+YDR489W,1,,,,,,False,t60
+YDR490C,1,,,,,,False,t0
+YDR491C,2,,,,,,False,t110
+YDR492W,2,,,,,,False,t120
+YDR493W,1,M/G1,YDR493W,22.0,299.0,ORF column,True,t10
+YDR494W,2,,,,,,False,t60
+YDR495C,0,,,,,,False,t70
+YDR496C,2,,,,,,False,t0
+YDR497C,1,,,,,,False,t10
+YDR498C,0,,,,,,False,t100
+YDR499W,0,,,,,,False,t20
+YDR500C,2,,,,,,False,t110
+YDR501W,0,G1,YDR501W,341.0,416.0,ORF column,True,t20
+YDR502C,1,,,,,,False,t10
+YDR503C,0,G1,LPP1,247.0,487.0,ORF column,True,t20
+YDR504C,0,,,,,,False,t60
+YDR505C,0,,,,,,False,t90
+YDR506C,0,,,,,,False,t120
+YDR507C,0,G1,GIN4,157.0,446.0,ORF column,True,t20
+YDR508C,1,,,,,,False,t20
+YDR509W,0,,,,,,False,t30
+YDR510W,0,,,,,,False,t40
+YDR511W,1,,,,,,False,t20
+YDR512C,1,,,,,,False,t70
+YDR513W,1,,,,,,False,t20
+YDR514C,2,,,,,,False,t0
+YDR515W,0,,,,,,False,t90
+YDR516C,0,,,,,,False,t20
+YDR517W,0,,,,,,False,t80
+YDR518W,0,,,,,,False,t20
+YDR519W,1,,,,,,False,t0
+YDR520C,1,,,,,,False,t10
+YDR521W,1,,,,,,False,t70
+YDR522C,2,,,,,,False,t100
+YDR523C,2,,,,,,False,t60
+YDR524C,0,,,,,,False,t20
+YDR525W,2,,,,,,False,t40
+YDR525W-A,1,,,,,,False,t20
+YDR526C,2,,,,,,False,t50
+YDR527W,2,,,,,,False,t60
+YDR528W,1,G1,YDR528W,178.0,403.0,ORF column,True,t10
+YDR529C,1,,,,,,False,t10
+YDR530C,1,,,,,,False,t10
+YDR531W,1,,,,,,False,t100
+YDR532C,2,,,,,,False,t120
+YDR533C,1,,,,,,False,t30
+YDR534C,2,,,,,,False,t50
+YDR535C,1,,,,,,False,t50
+YDR536W,1,,,,,,False,t20
+YDR537C,0,,,,,,False,t20
+YDR538W,1,,,,,,False,t110
+YDR539W,1,,,,,,False,t70
+YDR540C,1,,,,,,False,t10
+YDR541C,1,,,,,,False,t20
+YDR542W,1,,,,,,False,t60
+YDR543C,1,,,,,,False,t0
+YDR544C,1,,,,,,False,t10
+YDR545W,1,M/G1,YDR545W,47.0,600.0,ORF column,True,t10
+YEL001C,1,,,,,,False,t20
+YEL002C,0,,,,,,False,t20
+YEL003W,1,,,,,,False,t50
+YEL004W,1,,,,,,False,t60
+YEL005C,2,,,,,,False,t120
+YEL006W,0,,,,,,False,t100
+YEL008W,2,,,,,,False,t60
+YEL009C,0,,,,,,False,t40
+YEL010W,1,,,,,,False,t40
+YEL011W,0,,,,,,False,t90
+YEL012W,1,,,,,,False,t30
+YEL013W,2,,,,,,False,t80
+YEL014C,2,,,,,,False,t60
+YEL015W,0,,,,,,False,t100
+YEL016C,0,,,,,,False,t100
+YEL017C-A,2,,,,,,False,t60
+YEL017W,0,S/G2,YEL017W,529.0,680.0,ORF column,True,t30
+YEL018W,2,,,,,,False,t60
+YEL019C,1,,,,,,False,t40
+YEL020C,1,,,,,,False,t20
+YEL020W-A,1,,,,,,False,t80
+YEL021W,2,,,,,,False,t40
+YEL022W,0,,,,,,False,t90
+YEL023C,0,,,,,,False,t10
+YEL024W,1,,,,,,False,t10
+YEL025C,2,G2/M,YEL025C,740.0,185.0,ORF column,True,t60
+YEL026W,2,,,,,,False,t40
+YEL027W,0,,,,,,False,t30
+YEL028W,2,,,,,,False,t60
+YEL029C,2,,,,,,False,t120
+YEL030W,2,,,,,,False,t40
+YEL031W,0,,,,,,False,t90
+YEL032W,1,M/G1,MCM3,5.0,72.0,ORF column,True,t10
+YEL033W,2,,,,,,False,t70
+YEL034W,2,,,,,,False,t40
+YEL035C,2,,,,,,False,t110
+YEL036C,0,,,,,,False,t30
+YEL037C,2,,,,,,False,t40
+YEL038W,2,,,,,,False,t60
+YEL039C,1,,,,,,False,t10
+YEL040W,1,M/G1,UTR2,43.0,560.0,ORF column,True,t10
+YEL041W,1,,,,,,False,t90
+YEL042W,0,S,GDA1,481.0,760.0,ORF column,True,t30
+YEL043W,2,,,,,,False,t100
+YEL044W,2,,,,,,False,t60
+YEL045C,2,,,,,,False,t60
+YEL046C,0,,,,,,False,t110
+YEL047C,0,G1,YEL047C,372.0,750.0,ORF column,True,t20
+YEL048C,2,,,,,,False,t0
+YEL049W,2,,,,,,False,t60
+YEL050C,0,,,,,,False,t90
+YEL051W,0,,,,,,False,t100
+YEL052W,2,,,,,,False,t90
+YEL053C,1,,,,,,False,t0
+YEL054C,1,,,,,,False,t110
+YEL055C,2,,,,,,False,t60
+YEL056W,2,,,,,,False,t110
+YEL057C,2,,,,,,False,t110
+YEL058W,1,,,,,,False,t0
+YEL059C-A,1,,,,,,False,t0
+YEL059W,1,,,,,,False,t10
+YEL060C,1,S,PRB1,453.0,352.0,ORF column,True,t10
+YEL061C,0,S,CIN8,414.0,732.0,ORF column,True,t90
+YEL062W,2,,,,,,False,t100
+YEL063C,2,,,,,,False,t110
+YEL064C,2,G1,YEL064C,225.0,384.0,ORF column,True,t110
+YEL065W,2,G2/M,YEL065W,712.0,193.0,ORF column,True,t40
+YEL066W,1,,,,,,False,t10
+YEL067C,1,,,,,,False,t10
+YEL068C,1,S,YEL068C,447.0,377.0,ORF column,True,t10
+YEL069C,1,,,,,,False,t20
+YEL070W,1,,,,,,False,t10
+YEL071W,1,,,,,,False,t10
+YEL072W,1,,,,,,False,t10
+YEL073C,1,,,,,,False,t10
+YEL074W,1,,,,,,False,t120
+YEL075C,1,G1,YEL075C,120.0,569.0,ORF column,True,t10
+YEL076C,1,G1,YEL076C,118.0,570.0,ORF column,True,t10
+YEL076C-A,1,G1,YEL076C-A,184.0,578.0,ORF column,True,t10
+YEL076W-C,1,,,,,,False,t10
+YEL077C,1,G1,YEL077C,130.0,573.0,"blank ORF; identical YPD and SGD systematic IDs, confirmed in orf800",True,t10
+YER001W,0,G1,MNN1,359.0,471.0,ORF column,True,t20
+YER002W,2,,,,,,False,t0
+YER003C,0,S,PMI40,451.0,786.0,ORF column,True,t30
+YER004W,2,,,,,,False,t120
+YER005W,2,,,,,,False,t100
+YER006W,2,,,,,,False,t0
+YER007C-A,1,,,,,,False,t50
+YER007W,0,,,,,,False,t0
+YER009W,1,,,,,,False,t50
+YER010C,1,,,,,,False,t20
+YER011W,2,,,,,,False,t0
+YER012W,0,,,,,,False,t40
+YER013W,2,,,,,,False,t100
+YER014W,0,,,,,,False,t20
+YER015W,0,,,,,,False,t120
+YER016W,0,G1,BIM1,371.0,608.0,ORF column,True,t90
+YER017C,0,,,,,,False,t70
+YER018C,0,S/G2,SPC25,496.0,627.0,ORF column,True,t30
+YER019C-A,2,,,,,,False,t100
+YER019W,0,G1,YER019W,403.0,630.0,ORF column,True,t100
+YER020W,1,,,,,,False,t60
+YER021W,2,,,,,,False,t100
+YER022W,0,,,,,,False,t90
+YER023W,2,,,,,,False,t70
+YER024W,1,,,,,,False,t10
+YER025W,2,,,,,,False,t100
+YER026C,1,,,,,,False,t10
+YER027C,0,,,,,,False,t90
+YER028C,2,,,,,,False,t20
+YER029C,2,,,,,,False,t40
+YER030W,2,,,,,,False,t50
+YER031C,2,,,,,,False,t60
+YER032W,2,S/G2,FIR1,520.0,699.0,ORF column,True,t30
+YER033C,2,,,,,,False,t70
+YER034W,2,,,,,,False,t0
+YER035W,2,,,,,,False,t0
+YER036C,2,,,,,,False,t0
+YER037W,2,,,,,,False,t0
+YER038C,2,,,,,,False,t0
+YER039C,0,,,,,,False,t10
+YER039C-A,0,,,,,,False,t30
+YER040W,0,,,,,,False,t30
+YER041W,2,,,,,,False,t0
+YER042W,1,S/G2,MXR1,518.0,639.0,ORF column,True,t10
+YER043C,1,,,,,,False,t0
+YER044C,2,,,,,,False,t60
+YER044C-A,0,,,,,,False,t80
+YER045C,1,,,,,,False,t20
+YER046W,1,,,,,,False,t10
+YER047C,1,,,,,,False,t0
+YER048C,0,,,,,,False,t100
+YER048W-A,1,,,,,,False,t0
+YER049W,2,,,,,,False,t100
+YER050C,2,,,,,,False,t40
+YER051W,2,,,,,,False,t90
+YER052C,1,,,,,,False,t10
+YER053C,0,,,,,,False,t80
+YER054C,0,,,,,,False,t120
+YER055C,0,,,,,,False,t30
+YER056C,1,,,,,,False,t0
+YER056C-A,1,,,,,,False,t10
+YER057C,1,,,,,,False,t20
+YER058W,2,,,,,,False,t60
+YER059W,2,,,,,,False,t120
+YER060W,0,,,,,,False,t20
+YER061C,1,,,,,,False,t10
+YER062C,0,,,,,,False,t40
+YER063W,2,,,,,,False,t100
+YER064C,0,,,,,,False,t30
+YER065C,2,,,,,,False,t80
+YER066C-A,1,,,,,,False,t10
+YER066W,1,,,,,,False,t80
+YER067W,0,,,,,,False,t80
+YER068W,0,,,,,,False,t90
+YER069W,0,,,,,,False,t10
+YER070W,0,G1,RNR1,179.0,514.0,ORF column,True,t20
+YER071C,1,,,,,,False,t10
+YER072W,2,,,,,,False,t50
+YER073W,0,,,,,,False,t70
+YER074W,1,,,,,,False,t30
+YER075C,0,,,,,,False,t30
+YER076C,2,,,,,,False,t60
+YER077C,2,,,,,,False,t100
+YER078C,1,,,,,,False,t0
+YER079W,1,,,,,,False,t10
+YER080W,1,,,,,,False,t10
+YER081W,1,,,,,,False,t10
+YER082C,2,,,,,,False,t0
+YER083C,0,,,,,,False,t20
+YER084W,2,,,,,,False,t50
+YER085C,2,,,,,,False,t110
+YER086W,0,,,,,,False,t20
+YER087C-A,0,,,,,,False,t80
+YER087W,0,,,,,,False,t100
+YER088C,2,,,,,,False,t50
+YER089C,2,,,,,,False,t60
+YER090W,1,,,,,,False,t120
+YER091C,1,S,MET6,457.0,656.0,ORF column,True,t10
+YER091C-A,1,,,,,,False,t10
+YER092W,0,,,,,,False,t90
+YER093C,2,,,,,,False,t120
+YER093C-A,0,,,,,,False,t20
+YER094C,2,,,,,,False,t80
+YER095W,1,G1,RAD51,303.0,482.0,ORF column,True,t10
+YER096W,1,,,,,,False,t10
+YER097W,1,,,,,,False,t100
+YER098W,0,,,,,,False,t10
+YER099C,2,,,,,,False,t100
+YER100W,2,,,,,,False,t100
+YER101C,1,,,,,,False,t10
+YER102W,1,,,,,,False,t70
+YER103W,0,,,,,,False,t40
+YER104W,0,,,,,,False,t20
+YER105C,2,,,,,,False,t100
+YER106W,1,,,,,,False,t10
+YER107C,2,,,,,,False,t70
+YER108C,0,,,,,,False,t110
+YER109C,2,,,,,,False,t40
+YER110C,2,,,,,,False,t120
+YER111C,1,M/G1,SWI4,101.0,568.0,ORF column,True,t10
+YER112W,2,,,,,,False,t90
+YER113C,0,,,,,,False,t20
+YER114C,2,,,,,,False,t100
+YER115C,2,,,,,,False,t40
+YER116C,2,,,,,,False,t40
+YER117W,2,,,,,,False,t110
+YER118C,0,G1,SSU81,366.0,762.0,ORF column,True,t20
+YER119C,0,,,,,,False,t30
+YER119C-A,0,,,,,,False,t100
+YER120W,2,,,,,,False,t100
+YER121W,2,,,,,,False,t40
+YER122C,0,,,,,,False,t100
+YER123W,2,,,,,,False,t60
+YER124C,2,G1,YER124C,271.0,285.0,ORF column,True,t80
+YER125W,1,,,,,,False,t100
+YER126C,2,,,,,,False,t40
+YER127W,2,,,,,,False,t0
+YER128W,0,,,,,,False,t100
+YER129W,2,,,,,,False,t120
+YER130C,2,,,,,,False,t120
+YER131W,2,,,,,,False,t110
+YER132C,2,,,,,,False,t60
+YER133W,2,,,,,,False,t0
+YER134C,1,,,,,,False,t10
+YER135C,2,,,,,,False,t0
+YER136W,0,,,,,,False,t100
+YER137C,1,,,,,,False,t0
+YER138C,1,,,,,,False,t10
+YER138W-A,1,,,,,,False,t10
+YER139C,2,,,,,,False,t10
+YER140W,2,,,,,,False,t60
+YER141W,0,,,,,,False,t100
+YER142C,0,,,,,,False,t70
+YER143W,0,,,,,,False,t70
+YER144C,2,,,,,,False,t80
+YER145C,2,G2/M,FTR1,754.0,252.0,ORF column,True,t40
+YER146W,2,,,,,,False,t60
+YER147C,2,,,,,,False,t120
+YER148W,2,,,,,,False,t40
+YER149C,1,G1,PEA2,273.0,612.0,ORF column,True,t20
+YER150W,1,M/G1,SPI1,65.0,1.0,ORF column,True,t10
+YER151C,0,,,,,,False,t90
+YER152C,0,G1,YER152C,338.0,365.0,ORF column,True,t80
+YER153C,1,,,,,,False,t0
+YER154W,0,,,,,,False,t80
+YER155C,0,,,,,,False,t0
+YER156C,0,,,,,,False,t100
+YER157W,2,,,,,,False,t70
+YER158C,1,,,,,,False,t120
+YER159C,2,,,,,,False,t40
+YER160C,1,,,,,,False,t40
+YER161C,2,,,,,,False,t60
+YER162C,2,,,,,,False,t40
+YER163C,1,,,,,,False,t20
+YER164W,2,,,,,,False,t60
+YER165W,0,,,,,,False,t100
+YER166W,2,,,,,,False,t90
+YER167W,2,,,,,,False,t0
+YER168C,2,,,,,,False,t0
+YER169W,2,,,,,,False,t0
+YER170W,0,G1,ADK2,302.0,448.0,ORF column,True,t20
+YER171W,2,,,,,,False,t120
+YER172C,2,,,,,,False,t90
+YER173W,0,,,,,,False,t100
+YER174C,0,,,,,,False,t20
+YER175C,1,,,,,,False,t30
+YER176W,2,,,,,,False,t70
+YER177W,1,,,,,,False,t40
+YER178W,0,,,,,,False,t20
+YER179W,1,,,,,,False,t50
+YER180C,2,,,,,,False,t60
+YER181C,1,,,,,,False,t10
+YER182W,2,,,,,,False,t60
+YER183C,2,,,,,,False,t0
+YER184C,2,,,,,,False,t60
+YER185W,1,,,,,,False,t40
+YER186C,2,,,,,,False,t80
+YER187W,1,,,,,,False,t30
+YER188W,1,,,,,,False,t0
+YER189W,1,G1,YER189W,116.0,571.0,ORF column,True,t10
+YER190W,1,G1,YER190W,145.0,584.0,ORF column,True,t10
+YFL001W,2,,,,,,False,t0
+YFL002C,2,,,,,,False,t60
+YFL002W-A,1,,,,,,False,t10
+YFL003C,2,,,,,,False,t40
+YFL004W,1,,,,,,False,t20
+YFL005W,2,,,,,,False,t100
+YFL006W,2,G2/M,YFL006W,791.0,6.0,ORF column,True,t50
+YFL007W,2,,,,,,False,t80
+YFL008W,1,G1,SMC1,217.0,491.0,ORF column,True,t20
+YFL009W,2,,,,,,False,t110
+YFL010C,1,,,,,,False,t10
+YFL011W,1,M/G1,HXT10,45.0,24.0,ORF column,True,t10
+YFL011W-A,2,,,,,,False,t50
+YFL012W,1,,,,,,False,t60
+YFL013C,2,,,,,,False,t80
+YFL013W-A,1,,,,,,False,t10
+YFL014W,1,,,,,,False,t30
+YFL015C,0,,,,,,False,t110
+YFL016C,0,,,,,,False,t30
+YFL017C,2,,,,,,False,t50
+YFL017W-A,2,,,,,,False,t110
+YFL018C,0,,,,,,False,t20
+YFL019C,2,,,,,,False,t30
+YFL020C,0,,,,,,False,t20
+YFL021W,2,,,,,,False,t70
+YFL022C,2,,,,,,False,t0
+YFL023W,2,,,,,,False,t90
+YFL024C,2,,,,,,False,t120
+YFL025C,0,,,,,,False,t90
+YFL026W,1,G2/M,STE2,788.0,56.0,ORF column,True,t0
+YFL027C,2,,,,,,False,t0
+YFL028C,1,,,,,,False,t0
+YFL029C,2,,,,,,False,t80
+YFL030W,2,,,,,,False,t50
+YFL031W,2,,,,,,False,t50
+YFL032W,2,,,,,,False,t40
+YFL033C,2,,,,,,False,t120
+YFL034C-A,0,,,,,,False,t20
+YFL034W,2,,,,,,False,t30
+YFL035C,1,,,,,,False,t10
+YFL035C-A,1,,,,,,False,t40
+YFL036W,2,,,,,,False,t60
+YFL037W,0,S/G2,TUB2,563.0,717.0,ORF column,True,t30
+YFL038C,0,,,,,,False,t100
+YFL039C,1,,,,,,False,t30
+YFL040W,2,,,,,,False,t100
+YFL041W,0,,,,,,False,t30
+YFL042C,2,,,,,,False,t60
+YFL043C,1,,,,,,False,t10
+YFL044C,2,M/G1,YFL044C,15.0,30.0,ORF column,True,t70
+YFL045C,0,,,,,,False,t50
+YFL046W,0,,,,,,False,t120
+YFL047W,2,,,,,,False,t0
+YFL048C,2,,,,,,False,t90
+YFL049W,2,,,,,,False,t60
+YFL050C,2,,,,,,False,t120
+YFL051C,2,,,,,,False,t120
+YFL052W,2,,,,,,False,t60
+YFL053W,1,,,,,,False,t10
+YFL054C,1,,,,,,False,t10
+YFL055W,1,,,,,,False,t10
+YFL056C,2,,,,,,False,t80
+YFL057C,1,,,,,,False,t10
+YFL058W,1,,,,,,False,t20
+YFL059W,1,,,,,,False,t10
+YFL061W,1,,,,,,False,t20
+YFL062W,1,,,,,,False,t20
+YFL063W,1,,,,,,False,t10
+YFL064C,1,G1,YFL064C,131.0,572.0,ORF column,True,t10
+YFL065C,1,M/G1,YFL065C,54.0,587.0,ORF column,True,t10
+YFL066C,1,M/G1,YFL066C,68.0,588.0,ORF column,True,t10
+YFL067W,1,M/G1,YFL067W,89.0,585.0,ORF column,True,t10
+YFL068W,1,,,,,,False,t10
+YFR001W,1,,,,,,False,t0
+YFR002W,2,G2/M,NIC96,797.0,250.0,ORF column,True,t120
+YFR003C,2,,,,,,False,t60
+YFR004W,2,,,,,,False,t0
+YFR005C,2,,,,,,False,t100
+YFR006W,0,,,,,,False,t10
+YFR007W,2,,,,,,False,t90
+YFR008W,2,,,,,,False,t50
+YFR009W,2,,,,,,False,t40
+YFR010W,2,,,,,,False,t60
+YFR011C,1,,,,,,False,t10
+YFR012W,2,,,,,,False,t60
+YFR013W,0,,,,,,False,t10
+YFR014C,2,,,,,,False,t60
+YFR015C,0,M/G1,GSY1,76.0,337.0,ORF column,True,t10
+YFR016C,2,,,,,,False,t120
+YFR017C,0,,,,,,False,t20
+YFR018C,1,,,,,,False,t20
+YFR019W,0,,,,,,False,t100
+YFR021W,0,,,,,,False,t20
+YFR022W,2,,,,,,False,t100
+YFR024C,0,,,,,,False,t100
+YFR024C-A,2,,,,,,False,t60
+YFR025C,1,,,,,,False,t20
+YFR026C,1,,,,,,False,t10
+YFR027W,1,G1,ECO1,162.0,510.0,ORF column,True,t10
+YFR028C,2,,,,,,False,t40
+YFR029W,0,,,,,,False,t30
+YFR030W,1,S,MET10,478.0,651.0,ORF column,True,t10
+YFR031C,0,,,,,,False,t30
+YFR031C-A,2,,,,,,False,t60
+YFR032C,2,,,,,,False,t70
+YFR032C-A,2,,,,,,False,t120
+YFR033C,2,,,,,,False,t90
+YFR034C,0,,,,,,False,t30
+YFR035C,2,,,,,,False,t60
+YFR036W,1,,,,,,False,t0
+YFR037C,0,,,,,,False,t100
+YFR038W,0,,,,,,False,t20
+YFR039C,2,G2/M,YFR039C,632.0,145.0,ORF column,True,t50
+YFR040W,2,,,,,,False,t80
+YFR041C,0,,,,,,False,t20
+YFR042W,0,,,,,,False,t20
+YFR043C,1,,,,,,False,t0
+YFR044C,0,,,,,,False,t110
+YFR045W,1,,,,,,False,t10
+YFR046C,1,,,,,,False,t10
+YFR047C,0,,,,,,False,t60
+YFR048W,2,,,,,,False,t50
+YFR049W,2,,,,,,False,t60
+YFR050C,2,,,,,,False,t60
+YFR051C,0,,,,,,False,t100
+YFR052W,1,,,,,,False,t10
+YFR053C,0,,,,,,False,t20
+YFR054C,1,,,,,,False,t120
+YFR055W,1,,,,,,False,t0
+YFR056C,1,,,,,,False,t110
+YFR057W,1,,,,,,False,t30
+YGL001C,1,,,,,,False,t0
+YGL002W,1,,,,,,False,t60
+YGL003C,2,,,,,,False,t70
+YGL004C,1,,,,,,False,t60
+YGL005C,1,,,,,,False,t10
+YGL006W,1,,,,,,False,t10
+YGL007W,2,,,,,,False,t40
+YGL008C,2,G2/M,PMA1,704.0,201.0,ORF column,True,t60
+YGL009C,0,,,,,,False,t90
+YGL010W,0,,,,,,False,t50
+YGL011C,2,,,,,,False,t40
+YGL012W,0,,,,,,False,t30
+YGL013C,2,,,,,,False,t110
+YGL014W,2,,,,,,False,t40
+YGL015C,2,,,,,,False,t70
+YGL016W,0,,,,,,False,t90
+YGL017W,0,,,,,,False,t80
+YGL018C,0,,,,,,False,t90
+YGL019W,2,,,,,,False,t60
+YGL021W,2,G2/M,ALK1,617.0,238.0,ORF column,True,t50
+YGL022W,0,,,,,,False,t30
+YGL023C,0,,,,,,False,t20
+YGL024W,2,,,,,,False,t110
+YGL025C,0,,,,,,False,t20
+YGL026C,1,,,,,,False,t20
+YGL027C,0,G1,CWH41,380.0,772.0,ORF column,True,t30
+YGL028C,2,G1,YGL028C,144.0,288.0,ORF column,True,t0
+YGL029W,2,,,,,,False,t0
+YGL030W,2,,,,,,False,t100
+YGL031C,1,,,,,,False,t10
+YGL032C,1,M/G1,AGA2,52.0,55.0,ORF column,True,t0
+YGL033W,1,,,,,,False,t10
+YGL034C,2,,,,,,False,t60
+YGL035C,1,,,,,,False,t100
+YGL036W,2,,,,,,False,t0
+YGL037C,0,M/G1,YGL037C,74.0,332.0,ORF column,True,t10
+YGL038C,0,G1,OCH1,167.0,456.0,ORF column,True,t10
+YGL039W,1,,,,,,False,t50
+YGL040C,0,,,,,,False,t100
+YGL041C,2,,,,,,False,t40
+YGL043W,2,,,,,,False,t100
+YGL044C,2,,,,,,False,t0
+YGL045W,0,,,,,,False,t0
+YGL047W,0,,,,,,False,t90
+YGL048C,2,,,,,,False,t70
+YGL049C,1,,,,,,False,t0
+YGL050W,2,,,,,,False,t0
+YGL051W,1,,,,,,False,t0
+YGL052W,2,,,,,,False,t120
+YGL053W,1,,,,,,False,t0
+YGL054C,2,,,,,,False,t100
+YGL055W,2,M/G1,OLE1,55.0,258.0,ORF column,True,t0
+YGL056C,2,,,,,,False,t50
+YGL057C,2,,,,,,False,t120
+YGL058W,2,,,,,,False,t0
+YGL059W,0,,,,,,False,t120
+YGL060W,0,G1,YGL060W,361.0,399.0,ORF column,True,t20
+YGL061C,0,G1,DUO1,348.0,418.0,ORF column,True,t20
+YGL062W,1,,,,,,False,t10
+YGL063W,0,,,,,,False,t20
+YGL064C,2,,,,,,False,t60
+YGL065C,0,,,,,,False,t20
+YGL066W,2,,,,,,False,t40
+YGL067W,0,,,,,,False,t20
+YGL068W,0,,,,,,False,t20
+YGL069C,0,,,,,,False,t30
+YGL070C,2,,,,,,False,t50
+YGL071W,2,,,,,,False,t30
+YGL072C,0,,,,,,False,t40
+YGL073W,2,,,,,,False,t50
+YGL074C,0,,,,,,False,t50
+YGL075C,1,,,,,,False,t70
+YGL076C,2,,,,,,False,t100
+YGL077C,1,,,,,,False,t10
+YGL078C,2,,,,,,False,t100
+YGL079W,2,,,,,,False,t40
+YGL080W,1,,,,,,False,t110
+YGL081W,0,,,,,,False,t90
+YGL082W,0,,,,,,False,t0
+YGL083W,2,,,,,,False,t110
+YGL084C,0,,,,,,False,t60
+YGL085W,2,,,,,,False,t100
+YGL086W,2,,,,,,False,t40
+YGL087C,2,,,,,,False,t50
+YGL088W,0,,,,,,False,t50
+YGL089C,2,G1,MF(ALPHA)2,153.0,301.0,ORF column,True,t60
+YGL090W,2,M/G1,LIF1,103.0,300.0,ORF column,True,t60
+YGL091C,2,,,,,,False,t60
+YGL092W,2,,,,,,False,t120
+YGL093W,0,G1,SPC105,388.0,798.0,ORF column,True,t30
+YGL094C,2,,,,,,False,t50
+YGL095C,2,,,,,,False,t120
+YGL096W,0,,,,,,False,t20
+YGL097W,0,,,,,,False,t40
+YGL098W,1,,,,,,False,t60
+YGL099W,2,,,,,,False,t50
+YGL100W,2,,,,,,False,t100
+YGL101W,2,S/G2,YGL101W,541.0,682.0,ORF column,True,t60
+YGL102C,1,,,,,,False,t110
+YGL103W,2,,,,,,False,t50
+YGL104C,0,,,,,,False,t100
+YGL105W,1,,,,,,False,t70
+YGL106W,1,,,,,,False,t0
+YGL107C,2,,,,,,False,t60
+YGL108C,2,,,,,,False,t40
+YGL109W,2,,,,,,False,t80
+YGL110C,2,,,,,,False,t0
+YGL111W,2,,,,,,False,t120
+YGL112C,2,,,,,,False,t120
+YGL113W,1,,,,,,False,t0
+YGL114W,2,,,,,,False,t100
+YGL115W,0,,,,,,False,t100
+YGL116W,2,G2/M,CDC20,717.0,233.0,ORF column,True,t120
+YGL117W,1,,,,,,False,t10
+YGL118C,0,,,,,,False,t80
+YGL119W,2,,,,,,False,t120
+YGL120C,2,,,,,,False,t0
+YGL121C,0,,,,,,False,t20
+YGL122C,2,,,,,,False,t30
+YGL123W,2,,,,,,False,t110
+YGL124C,2,,,,,,False,t60
+YGL125W,1,S,MET13,479.0,638.0,ORF column,True,t10
+YGL126W,0,,,,,,False,t20
+YGL127C,1,,,,,,False,t20
+YGL128C,0,,,,,,False,t30
+YGL129C,0,,,,,,False,t70
+YGL130W,1,,,,,,False,t100
+YGL131C,0,,,,,,False,t80
+YGL132W,1,,,,,,False,t40
+YGL133W,0,,,,,,False,t80
+YGL134W,0,,,,,,False,t40
+YGL135W,2,,,,,,False,t30
+YGL136C,1,,,,,,False,t0
+YGL137W,0,,,,,,False,t90
+YGL138C,2,,,,,,False,t90
+YGL139W,2,,,,,,False,t40
+YGL140C,2,,,,,,False,t120
+YGL142C,2,,,,,,False,t70
+YGL143C,0,,,,,,False,t20
+YGL144C,0,,,,,,False,t100
+YGL145W,2,,,,,,False,t40
+YGL146C,2,,,,,,False,t120
+YGL147C,1,,,,,,False,t10
+YGL148W,0,,,,,,False,t20
+YGL149W,1,,,,,,False,t10
+YGL150C,0,,,,,,False,t20
+YGL151W,2,,,,,,False,t120
+YGL152C,2,,,,,,False,t80
+YGL153W,2,,,,,,False,t50
+YGL154C,2,,,,,,False,t60
+YGL155W,2,,,,,,False,t90
+YGL156W,1,,,,,,False,t0
+YGL157W,1,,,,,,False,t20
+YGL158W,1,,,,,,False,t20
+YGL159W,2,,,,,,False,t0
+YGL160W,0,,,,,,False,t120
+YGL161C,1,,,,,,False,t120
+YGL162W,2,G2/M,SUT1,722.0,108.0,ORF column,True,t0
+YGL163C,1,G1,RAD54,253.0,391.0,ORF column,True,t10
+YGL164C,2,,,,,,False,t120
+YGL165C,1,,,,,,False,t40
+YGL166W,0,,,,,,False,t20
+YGL167C,1,,,,,,False,t100
+YGL168W,1,,,,,,False,t60
+YGL169W,2,,,,,,False,t60
+YGL170C,2,,,,,,False,t60
+YGL171W,2,,,,,,False,t0
+YGL172W,2,,,,,,False,t0
+YGL173C,2,,,,,,False,t60
+YGL174W,0,,,,,,False,t20
+YGL175C,0,,,,,,False,t20
+YGL176C,0,,,,,,False,t80
+YGL177W,2,,,,,,False,t110
+YGL178W,1,,,,,,False,t0
+YGL179C,0,,,,,,False,t30
+YGL180W,1,,,,,,False,t10
+YGL181W,0,,,,,,False,t30
+YGL182C,2,,,,,,False,t110
+YGL183C,1,,,,,,False,t60
+YGL184C,1,S,YGL184C,438.0,643.0,ORF column,True,t10
+YGL185C,1,G1,YGL185C,168.0,392.0,ORF column,True,t10
+YGL186C,2,,,,,,False,t0
+YGL187C,0,,,,,,False,t80
+YGL188C,1,,,,,,False,t10
+YGL189C,2,,,,,,False,t110
+YGL190C,2,,,,,,False,t0
+YGL191W,1,,,,,,False,t10
+YGL192W,2,,,,,,False,t60
+YGL193C,2,,,,,,False,t50
+YGL194C,2,,,,,,False,t120
+YGL195W,1,G1,GCN1,306.0,614.0,ORF column,True,t60
+YGL196W,2,,,,,,False,t60
+YGL197W,0,,,,,,False,t120
+YGL198W,1,,,,,,False,t0
+YGL199C,0,,,,,,False,t20
+YGL200C,0,G1,EMP24,399.0,757.0,ORF column,True,t20
+YGL201C,1,G2/M,MCM6,796.0,77.0,ORF column,True,t10
+YGL202W,1,,,,,,False,t20
+YGL203C,2,,,,,,False,t90
+YGL204C,0,,,,,,False,t30
+YGL205W,1,,,,,,False,t0
+YGL206C,1,,,,,,False,t0
+YGL207W,0,G1,SPT16,196.0,549.0,ORF column,True,t20
+YGL208W,0,,,,,,False,t120
+YGL209W,2,G2/M,MIG2,667.0,39.0,ORF column,True,t60
+YGL210W,0,,,,,,False,t20
+YGL211W,2,,,,,,False,t0
+YGL212W,0,S/G2,VAM7,544.0,368.0,ORF column,True,t110
+YGL213C,2,,,,,,False,t60
+YGL214W,2,,,,,,False,t110
+YGL215W,2,,,,,,False,t60
+YGL216W,0,S/G2,KIP3,498.0,745.0,ORF column,True,t40
+YGL217C,2,,,,,,False,t120
+YGL218W,1,,,,,,False,t10
+YGL219C,0,,,,,,False,t90
+YGL220W,1,,,,,,False,t50
+YGL221C,1,,,,,,False,t20
+YGL222C,2,,,,,,False,t60
+YGL223C,1,,,,,,False,t0
+YGL224C,1,,,,,,False,t10
+YGL225W,0,S,GOG5,426.0,769.0,ORF column,True,t20
+YGL226C-A,0,,,,,,False,t100
+YGL226W,0,,,,,,False,t100
+YGL227W,1,,,,,,False,t10
+YGL228W,1,,,,,,False,t0
+YGL229C,1,,,,,,False,t120
+YGL230C,0,,,,,,False,t10
+YGL231C,1,,,,,,False,t0
+YGL232W,2,,,,,,False,t40
+YGL233W,2,,,,,,False,t100
+YGL234W,2,,,,,,False,t30
+YGL235W,2,,,,,,False,t60
+YGL236C,0,,,,,,False,t20
+YGL237C,2,,,,,,False,t60
+YGL238W,2,,,,,,False,t40
+YGL239C,2,,,,,,False,t50
+YGL240W,1,,,,,,False,t70
+YGL241W,0,,,,,,False,t20
+YGL242C,1,,,,,,False,t30
+YGL243W,1,,,,,,False,t120
+YGL244W,2,,,,,,False,t60
+YGL245W,1,,,,,,False,t30
+YGL246C,2,,,,,,False,t60
+YGL247W,2,,,,,,False,t0
+YGL248W,1,,,,,,False,t10
+YGL249W,2,,,,,,False,t60
+YGL250W,2,,,,,,False,t10
+YGL251C,1,,,,,,False,t0
+YGL252C,1,,,,,,False,t20
+YGL253W,0,,,,,,False,t30
+YGL254W,2,,,,,,False,t120
+YGL255W,2,G2/M,ZRT1,665.0,146.0,ORF column,True,t120
+YGL256W,2,,,,,,False,t60
+YGL257C,2,,,,,,False,t0
+YGL258W,1,,,,,,False,t20
+YGL259W,1,,,,,,False,t10
+YGL260W,1,,,,,,False,t120
+YGL261C,0,,,,,,False,t40
+YGL262W,1,,,,,,False,t10
+YGL263W,0,,,,,,False,t30
+YGR001C,1,,,,,,False,t0
+YGR002C,0,,,,,,False,t0
+YGR003W,2,,,,,,False,t0
+YGR004W,0,,,,,,False,t100
+YGR005C,1,,,,,,False,t10
+YGR006W,2,,,,,,False,t60
+YGR007W,0,,,,,,False,t100
+YGR008C,1,,,,,,False,t20
+YGR009C,2,,,,,,False,t10
+YGR010W,0,,,,,,False,t100
+YGR011W,0,,,,,,False,t40
+YGR012W,0,,,,,,False,t40
+YGR013W,1,,,,,,False,t10
+YGR014W,0,G1,MSB2,345.0,763.0,ORF column,True,t90
+YGR015C,0,,,,,,False,t90
+YGR016W,1,,,,,,False,t10
+YGR017W,2,,,,,,False,t110
+YGR018C,2,,,,,,False,t40
+YGR019W,0,,,,,,False,t30
+YGR020C,2,,,,,,False,t0
+YGR021W,2,,,,,,False,t60
+YGR022C,1,,,,,,False,t0
+YGR023W,2,,,,,,False,t60
+YGR024C,1,,,,,,False,t0
+YGR025W,1,,,,,,False,t40
+YGR026W,0,,,,,,False,t100
+YGR027C,2,,,,,,False,t100
+YGR028W,1,,,,,,False,t40
+YGR029W,2,,,,,,False,t60
+YGR030C,2,,,,,,False,t40
+YGR031W,1,,,,,,False,t0
+YGR032W,1,,,,,,False,t10
+YGR033C,2,,,,,,False,t0
+YGR034W,2,,,,,,False,t110
+YGR035C,2,G2/M,YGR035C,627.0,168.0,ORF column,True,t110
+YGR036C,1,,,,,,False,t0
+YGR037C,1,,,,,,False,t0
+YGR040W,2,,,,,,False,t80
+YGR041W,0,G1,BUD9,161.0,565.0,ORF column,True,t80
+YGR042W,1,G1,YGR042W,164.0,295.0,ORF column,True,t10
+YGR043C,1,,,,,,False,t20
+YGR044C,2,G1,RME1,183.0,290.0,ORF column,True,t70
+YGR045C,2,,,,,,False,t110
+YGR046W,2,,,,,,False,t70
+YGR047C,0,,,,,,False,t90
+YGR048W,2,,,,,,False,t120
+YGR049W,0,,,,,,False,t30
+YGR050C,2,,,,,,False,t80
+YGR051C,2,,,,,,False,t120
+YGR052W,2,,,,,,False,t60
+YGR053C,1,,,,,,False,t0
+YGR054W,0,,,,,,False,t0
+YGR055W,2,G1,MUP1,411.0,654.0,ORF column,True,t120
+YGR056W,2,,,,,,False,t50
+YGR057C,2,,,,,,False,t70
+YGR058W,2,,,,,,False,t120
+YGR059W,2,,,,,,False,t120
+YGR060W,2,,,,,,False,t30
+YGR061C,2,,,,,,False,t30
+YGR062C,2,,,,,,False,t80
+YGR063C,0,,,,,,False,t20
+YGR064W,2,,,,,,False,t80
+YGR065C,1,G2/M,YGR065C,758.0,59.0,ORF column,True,t10
+YGR066C,1,,,,,,False,t10
+YGR067C,1,,,,,,False,t20
+YGR068C,2,,,,,,False,t0
+YGR069W,1,,,,,,False,t0
+YGR070W,2,,,,,,False,t120
+YGR071C,2,,,,,,False,t90
+YGR072W,2,,,,,,False,t40
+YGR073C,2,,,,,,False,t100
+YGR074W,2,,,,,,False,t60
+YGR075C,2,,,,,,False,t60
+YGR076C,1,,,,,,False,t20
+YGR077C,2,,,,,,False,t60
+YGR078C,2,,,,,,False,t120
+YGR079W,2,,,,,,False,t60
+YGR080W,2,,,,,,False,t90
+YGR081C,2,,,,,,False,t110
+YGR082W,0,,,,,,False,t20
+YGR083C,1,,,,,,False,t40
+YGR084C,0,,,,,,False,t100
+YGR085C,2,,,,,,False,t40
+YGR086C,2,M/G1,YGR086C,72.0,284.0,ORF column,True,t70
+YGR087C,2,,,,,,False,t100
+YGR088W,2,,,,,,False,t20
+YGR089W,2,,,,,,False,t40
+YGR090W,2,,,,,,False,t0
+YGR091W,2,,,,,,False,t50
+YGR092W,2,G2/M,DBF2,760.0,86.0,ORF column,True,t0
+YGR093W,2,,,,,,False,t0
+YGR094W,0,,,,,,False,t30
+YGR095C,2,,,,,,False,t0
+YGR096W,1,,,,,,False,t120
+YGR097W,0,,,,,,False,t30
+YGR098C,0,,,,,,False,t40
+YGR099W,0,S,TEL2,460.0,741.0,ORF column,True,t30
+YGR100W,1,,,,,,False,t80
+YGR101W,1,,,,,,False,t70
+YGR102C,2,,,,,,False,t0
+YGR103W,2,,,,,,False,t0
+YGR104C,2,,,,,,False,t90
+YGR105W,2,,,,,,False,t120
+YGR106C,2,,,,,,False,t120
+YGR107W,2,,,,,,False,t40
+YGR108W,2,G2/M,CLB1,657.0,241.0,ORF column,True,t40
+YGR109C,1,G1,CLB6,176.0,500.0,ORF column,True,t10
+YGR110W,0,,,,,,False,t120
+YGR111W,0,,,,,,False,t90
+YGR112W,2,,,,,,False,t80
+YGR113W,0,S,DAM1,452.0,723.0,ORF column,True,t30
+YGR114C,1,,,,,,False,t100
+YGR115C,2,,,,,,False,t40
+YGR117C,2,,,,,,False,t120
+YGR118W,1,,,,,,False,t20
+YGR119C,2,,,,,,False,t40
+YGR120C,2,,,,,,False,t40
+YGR121C,1,,,,,,False,t10
+YGR122C-A,1,,,,,,False,t0
+YGR122W,2,,,,,,False,t60
+YGR123C,2,,,,,,False,t0
+YGR124W,0,S/G2,ASN2,503.0,634.0,ORF column,True,t70
+YGR125W,2,,,,,,False,t120
+YGR126W,1,,,,,,False,t0
+YGR127W,1,,,,,,False,t110
+YGR128C,2,,,,,,False,t120
+YGR129W,2,,,,,,False,t100
+YGR130C,0,,,,,,False,t120
+YGR131W,2,,,,,,False,t70
+YGR132C,2,,,,,,False,t100
+YGR133W,2,,,,,,False,t120
+YGR134W,2,,,,,,False,t60
+YGR136W,1,,,,,,False,t90
+YGR137W,2,,,,,,False,t60
+YGR138C,1,S/G2,YGR138C,591.0,625.0,ORF column,True,t10
+YGR139W,2,,,,,,False,t60
+YGR140W,0,G1,CBF2,409.0,726.0,ORF column,True,t20
+YGR141W,0,,,,,,False,t10
+YGR142W,0,,,,,,False,t30
+YGR143W,2,G2/M,SKN1,738.0,82.0,ORF column,True,t120
+YGR144W,2,,,,,,False,t60
+YGR145W,2,,,,,,False,t0
+YGR146C,2,G2/M,YGR146C,759.0,2.0,ORF column,True,t0
+YGR147C,2,,,,,,False,t0
+YGR148C,2,,,,,,False,t120
+YGR149W,1,,,,,,False,t0
+YGR150C,0,,,,,,False,t70
+YGR151C,0,G1,YGR151C,248.0,530.0,ORF column,True,t10
+YGR152C,0,G1,RSR1,236.0,529.0,ORF column,True,t20
+YGR153W,1,G1,YGR153W,283.0,404.0,ORF column,True,t10
+YGR154C,1,,,,,,False,t10
+YGR155W,1,,,,,,False,t0
+YGR156W,2,,,,,,False,t60
+YGR157W,1,,,,,,False,t10
+YGR158C,2,,,,,,False,t60
+YGR159C,2,,,,,,False,t40
+YGR160W,2,,,,,,False,t0
+YGR161C,0,,,,,,False,t20
+YGR162W,2,,,,,,False,t0
+YGR163W,2,,,,,,False,t120
+YGR164W,2,,,,,,False,t110
+YGR165W,2,,,,,,False,t100
+YGR166W,2,,,,,,False,t0
+YGR167W,1,,,,,,False,t10
+YGR168C,0,,,,,,False,t30
+YGR169C,2,,,,,,False,t70
+YGR170W,2,,,,,,False,t110
+YGR171C,1,,,,,,False,t70
+YGR172C,0,,,,,,False,t20
+YGR173W,2,,,,,,False,t100
+YGR175C,1,,,,,,False,t0
+YGR176W,0,G2/M,YGR176W,688.0,102.0,ORF column,True,t20
+YGR177C,2,G2/M,ATF2,694.0,101.0,ORF column,True,t70
+YGR178C,2,,,,,,False,t60
+YGR179C,2,,,,,,False,t40
+YGR180C,1,,,,,,False,t20
+YGR181W,1,,,,,,False,t10
+YGR182C,1,,,,,,False,t10
+YGR184C,2,,,,,,False,t110
+YGR185C,0,,,,,,False,t20
+YGR186W,2,,,,,,False,t110
+YGR187C,0,,,,,,False,t0
+YGR188C,2,G1,BUB1,370.0,425.0,ORF column,True,t60
+YGR189C,0,G1,YGR189C,270.0,754.0,ORF column,True,t20
+YGR190C,1,,,,,,False,t10
+YGR191W,2,,,,,,False,t0
+YGR192C,2,,,,,,False,t40
+YGR193C,0,,,,,,False,t30
+YGR195W,2,,,,,,False,t100
+YGR196C,2,,,,,,False,t90
+YGR197C,2,,,,,,False,t60
+YGR198W,0,,,,,,False,t0
+YGR200C,2,,,,,,False,t60
+YGR201C,0,,,,,,False,t30
+YGR202C,0,,,,,,False,t100
+YGR203W,0,,,,,,False,t30
+YGR204W,0,,,,,,False,t10
+YGR205W,2,,,,,,False,t60
+YGR206W,1,,,,,,False,t0
+YGR207C,0,,,,,,False,t100
+YGR208W,0,,,,,,False,t20
+YGR209C,2,,,,,,False,t100
+YGR210C,2,,,,,,False,t100
+YGR211W,2,,,,,,False,t30
+YGR212W,2,,,,,,False,t0
+YGR213C,1,,,,,,False,t10
+YGR214W,1,,,,,,False,t0
+YGR215W,2,,,,,,False,t60
+YGR216C,2,,,,,,False,t100
+YGR217W,0,,,,,,False,t120
+YGR218W,2,,,,,,False,t110
+YGR219W,1,M/G1,YGR219W,79.0,324.0,ORF column,True,t10
+YGR220C,0,,,,,,False,t50
+YGR221C,0,G1,YGR221C,264.0,525.0,ORF column,True,t20
+YGR222W,1,,,,,,False,t90
+YGR223C,0,,,,,,False,t100
+YGR224W,0,,,,,,False,t100
+YGR225W,2,,,,,,False,t80
+YGR226C,1,,,,,,False,t0
+YGR227W,2,,,,,,False,t70
+YGR228W,2,,,,,,False,t80
+YGR229C,0,,,,,,False,t20
+YGR230W,2,G2/M,YGR230W,799.0,85.0,ORF column,True,t60
+YGR231C,2,,,,,,False,t120
+YGR232W,1,,,,,,False,t50
+YGR233C,2,,,,,,False,t0
+YGR234W,1,M/G1,YHB1,83.0,264.0,ORF column,True,t70
+YGR235C,2,,,,,,False,t90
+YGR236C,1,,,,,,False,t10
+YGR237C,2,,,,,,False,t60
+YGR238C,1,G1,KEL2,203.0,427.0,ORF column,True,t10
+YGR239C,0,,,,,,False,t30
+YGR240C,0,G2/M,PFK1,646.0,153.0,ORF column,True,t40
+YGR241C,1,,,,,,False,t0
+YGR242W,1,,,,,,False,t60
+YGR243W,1,,,,,,False,t10
+YGR244C,0,,,,,,False,t10
+YGR245C,2,,,,,,False,t0
+YGR246C,1,,,,,,False,t50
+YGR247W,2,,,,,,False,t60
+YGR248W,0,,,,,,False,t90
+YGR249W,2,,,,,,False,t80
+YGR250C,1,,,,,,False,t10
+YGR251W,2,,,,,,False,t0
+YGR252W,2,,,,,,False,t90
+YGR253C,2,,,,,,False,t40
+YGR254W,0,,,,,,False,t100
+YGR255C,1,,,,,,False,t20
+YGR256W,0,,,,,,False,t10
+YGR257C,2,,,,,,False,t60
+YGR258C,1,,,,,,False,t0
+YGR259C,2,G2/M,YGR259C,692.0,9.0,ORF column,True,t70
+YGR260W,2,G2/M,YGR260W,727.0,10.0,ORF column,True,t60
+YGR261C,0,,,,,,False,t10
+YGR262C,0,,,,,,False,t100
+YGR263C,0,,,,,,False,t0
+YGR264C,1,,,,,,False,t0
+YGR265W,1,,,,,,False,t0
+YGR266W,2,,,,,,False,t120
+YGR267C,1,,,,,,False,t110
+YGR268C,1,,,,,,False,t50
+YGR269W,2,,,,,,False,t90
+YGR270W,1,,,,,,False,t60
+YGR271W,2,,,,,,False,t60
+YGR272C,2,,,,,,False,t0
+YGR273C,2,,,,,,False,t60
+YGR274C,2,,,,,,False,t90
+YGR275W,0,,,,,,False,t100
+YGR276C,2,M/G1,RNH70,69.0,294.0,ORF column,True,t60
+YGR277C,0,,,,,,False,t20
+YGR278W,1,,,,,,False,t0
+YGR279C,1,G2/M,YGR279C,640.0,198.0,ORF column,True,t120
+YGR280C,2,,,,,,False,t0
+YGR281W,2,,,,,,False,t120
+YGR282C,0,,,,,,False,t20
+YGR283C,2,,,,,,False,t0
+YGR284C,2,G2/M,YGR284C,742.0,45.0,ORF column,True,t70
+YGR285C,1,,,,,,False,t0
+YGR286C,0,,,,,,False,t30
+YGR287C,1,,,,,,False,t20
+YGR288W,1,,,,,,False,t10
+YGR289C,1,,,,,,False,t10
+YGR290W,0,,,,,,False,t100
+YGR291C,1,,,,,,False,t40
+YGR292W,1,,,,,,False,t10
+YGR293C,1,,,,,,False,t60
+YGR294W,2,,,,,,False,t80
+YGR295C,0,,,,,,False,t20
+YGR296W,1,G1,YGR296W,150.0,591.0,ORF column,True,t10
+YHL001W,2,,,,,,False,t70
+YHL002W,1,,,,,,False,t0
+YHL003C,0,,,,,,False,t100
+YHL004W,1,,,,,,False,t70
+YHL005C,0,,,,,,False,t10
+YHL006C,2,,,,,,False,t60
+YHL007C,2,,,,,,False,t60
+YHL008C,1,,,,,,False,t0
+YHL009C,2,,,,,,False,t60
+YHL010C,1,,,,,,False,t80
+YHL011C,2,,,,,,False,t0
+YHL012W,0,,,,,,False,t0
+YHL013C,1,,,,,,False,t100
+YHL014C,2,,,,,,False,t60
+YHL015W,2,,,,,,False,t100
+YHL016C,2,,,,,,False,t100
+YHL017W,2,,,,,,False,t120
+YHL018W,1,,,,,,False,t40
+YHL019C,1,,,,,,False,t10
+YHL020C,1,,,,,,False,t0
+YHL021C,1,,,,,,False,t10
+YHL022C,1,,,,,,False,t60
+YHL023C,2,,,,,,False,t90
+YHL024W,2,,,,,,False,t60
+YHL025W,2,,,,,,False,t60
+YHL026C,2,G2/M,YHL026C,756.0,65.0,ORF column,True,t60
+YHL027W,2,,,,,,False,t120
+YHL028W,2,G2/M,WSC4,634.0,180.0,ORF column,True,t120
+YHL029C,2,,,,,,False,t0
+YHL030W,2,,,,,,False,t90
+YHL031C,1,,,,,,False,t10
+YHL032C,2,,,,,,False,t60
+YHL033C,1,,,,,,False,t0
+YHL034C,0,,,,,,False,t30
+YHL035C,2,,,,,,False,t50
+YHL036W,1,,,,,,False,t10
+YHL037C,1,,,,,,False,t10
+YHL038C,0,,,,,,False,t70
+YHL039W,1,,,,,,False,t0
+YHL040C,2,G2/M,YHL040C,735.0,100.0,ORF column,True,t60
+YHL041W,2,,,,,,False,t60
+YHL042W,1,,,,,,False,t10
+YHL043W,1,,,,,,False,t70
+YHL044W,0,,,,,,False,t30
+YHL045W,1,,,,,,False,t60
+YHL046C,0,,,,,,False,t30
+YHL047C,2,,,,,,False,t40
+YHL048W,0,,,,,,False,t20
+YHL049C,1,G1,YHL049C,129.0,574.0,ORF column,True,t10
+YHL050C,1,G1,YHL050C,121.0,589.0,ORF column,True,t10
+YHR001W,1,,,,,,False,t50
+YHR001W-A,1,,,,,,False,t10
+YHR002W,1,,,,,,False,t0
+YHR003C,2,,,,,,False,t0
+YHR004C,2,,,,,,False,t120
+YHR005C,1,M/G1,GPA1,10.0,75.0,ORF column,True,t0
+YHR005C-A,0,,,,,,False,t40
+YHR006W,0,S/G2,STP2,530.0,367.0,ORF column,True,t0
+YHR007C,2,,,,,,False,t70
+YHR008C,0,,,,,,False,t80
+YHR009C,0,,,,,,False,t110
+YHR010W,2,,,,,,False,t110
+YHR011W,1,,,,,,False,t90
+YHR012W,2,,,,,,False,t100
+YHR013C,0,,,,,,False,t100
+YHR014W,0,,,,,,False,t10
+YHR015W,1,,,,,,False,t10
+YHR016C,1,,,,,,False,t10
+YHR017W,0,,,,,,False,t100
+YHR018C,1,,,,,,False,t10
+YHR019C,0,,,,,,False,t30
+YHR020W,2,,,,,,False,t120
+YHR021C,2,,,,,,False,t110
+YHR021W-A,1,,,,,,False,t0
+YHR022C,2,M/G1,YHR022C,13.0,28.0,ORF column,True,t60
+YHR023W,2,G2/M,MYO1,653.0,225.0,ORF column,True,t50
+YHR024C,2,,,,,,False,t20
+YHR025W,1,,,,,,False,t20
+YHR026W,0,,,,,,False,t20
+YHR027C,2,,,,,,False,t120
+YHR028C,1,,,,,,False,t10
+YHR029C,2,G2/M,YHR029C,675.0,129.0,ORF column,True,t100
+YHR030C,1,S,SLT2,444.0,356.0,ORF column,True,t0
+YHR031C,2,,,,,,False,t0
+YHR032W,2,,,,,,False,t110
+YHR033W,2,,,,,,False,t20
+YHR034C,1,,,,,,False,t0
+YHR035W,2,,,,,,False,t120
+YHR036W,2,,,,,,False,t100
+YHR037W,0,,,,,,False,t90
+YHR038W,1,,,,,,False,t70
+YHR039C,0,,,,,,False,t70
+YHR039C-B,1,,,,,,False,t10
+YHR040W,2,,,,,,False,t70
+YHR042W,0,,,,,,False,t80
+YHR043C,1,,,,,,False,t10
+YHR044C,0,,,,,,False,t100
+YHR045W,1,,,,,,False,t60
+YHR046C,1,,,,,,False,t60
+YHR047C,0,,,,,,False,t100
+YHR048W,1,,,,,,False,t0
+YHR049C-A,1,,,,,,False,t0
+YHR049W,1,,,,,,False,t0
+YHR050W,0,,,,,,False,t20
+YHR051W,1,,,,,,False,t10
+YHR052W,2,,,,,,False,t0
+YHR053C,0,,,,,,False,t30
+YHR054C,2,,,,,,False,t60
+YHR055C,2,,,,,,False,t80
+YHR056C,2,,,,,,False,t110
+YHR057C,0,,,,,,False,t20
+YHR058C,0,,,,,,False,t100
+YHR059W,2,,,,,,False,t60
+YHR060W,1,,,,,,False,t0
+YHR061C,0,S,GIC1,454.0,740.0,ORF column,True,t20
+YHR062C,0,,,,,,False,t20
+YHR063C,0,,,,,,False,t100
+YHR064C,1,,,,,,False,t20
+YHR065C,2,,,,,,False,t0
+YHR066W,2,,,,,,False,t0
+YHR067W,1,G1,YHR067W,125.0,373.0,ORF column,True,t10
+YHR068W,1,,,,,,False,t0
+YHR069C,2,,,,,,False,t120
+YHR070W,2,,,,,,False,t0
+YHR071W,1,,,,,,False,t20
+YHR072W,2,,,,,,False,t60
+YHR073W,2,,,,,,False,t60
+YHR074W,0,,,,,,False,t100
+YHR075C,1,,,,,,False,t110
+YHR076W,0,,,,,,False,t30
+YHR077C,2,,,,,,False,t0
+YHR078W,2,,,,,,False,t60
+YHR079C,2,,,,,,False,t60
+YHR079C-B,0,,,,,,False,t100
+YHR080C,2,,,,,,False,t80
+YHR081W,2,,,,,,False,t110
+YHR082C,0,,,,,,False,t30
+YHR083W,2,,,,,,False,t80
+YHR084W,2,,,,,,False,t0
+YHR085W,2,,,,,,False,t0
+YHR086W,0,S/G2,NAM8,493.0,694.0,ORF column,True,t30
+YHR087W,1,,,,,,False,t10
+YHR088W,2,,,,,,False,t0
+YHR089C,2,,,,,,False,t40
+YHR090C,2,,,,,,False,t110
+YHR091C,0,,,,,,False,t30
+YHR092C,0,M/G1,HXT4,3.0,13.0,ORF column,True,t10
+YHR093W,1,,,,,,False,t60
+YHR094C,2,M/G1,HXT1,107.0,18.0,ORF column,True,t50
+YHR095W,2,,,,,,False,t60
+YHR096C,0,,,,,,False,t30
+YHR097C,1,,,,,,False,t0
+YHR098C,0,S,SFB3,463.0,778.0,ORF column,True,t40
+YHR099W,2,,,,,,False,t40
+YHR100C,2,,,,,,False,t120
+YHR101C,2,,,,,,False,t0
+YHR102W,0,,,,,,False,t80
+YHR103W,2,,,,,,False,t120
+YHR104W,1,,,,,,False,t10
+YHR105W,2,,,,,,False,t120
+YHR106W,0,G1,TRR2,239.0,349.0,ORF column,True,t90
+YHR107C,2,,,,,,False,t40
+YHR108W,0,S/G2,YHR108W,536.0,784.0,ORF column,True,t30
+YHR109W,1,,,,,,False,t20
+YHR110W,2,G1,ERP5,307.0,488.0,ORF column,True,t100
+YHR111W,0,,,,,,False,t90
+YHR112C,0,,,,,,False,t20
+YHR113W,1,G1,YHR113W,140.0,323.0,ORF column,True,t80
+YHR114W,2,,,,,,False,t90
+YHR115C,2,,,,,,False,t70
+YHR116W,0,,,,,,False,t40
+YHR117W,0,,,,,,False,t90
+YHR118C,2,,,,,,False,t120
+YHR119W,0,,,,,,False,t20
+YHR120W,0,,,,,,False,t20
+YHR121W,0,,,,,,False,t20
+YHR122W,2,,,,,,False,t40
+YHR123W,0,G1,EPT1,228.0,405.0,ORF column,True,t120
+YHR124W,1,,,,,,False,t0
+YHR125W,2,,,,,,False,t60
+YHR126C,1,M/G1,YHR126C,1.0,52.0,ORF column,True,t0
+YHR127W,0,G1,HSN1,290.0,607.0,ORF column,True,t20
+YHR128W,2,,,,,,False,t40
+YHR129C,1,,,,,,False,t0
+YHR130C,2,,,,,,False,t30
+YHR131C,2,,,,,,False,t90
+YHR132C,1,,,,,,False,t120
+YHR133C,2,,,,,,False,t60
+YHR134W,2,,,,,,False,t110
+YHR135C,2,S/G2,YCK1,545.0,669.0,ORF column,True,t120
+YHR136C,1,,,,,,False,t40
+YHR137W,2,G2/M,ARO9,631.0,121.0,ORF column,True,t40
+YHR138C,1,,,,,,False,t10
+YHR139C,2,,,,,,False,t60
+YHR139C-A,2,,,,,,False,t110
+YHR140W,2,,,,,,False,t60
+YHR141C,2,,,,,,False,t110
+YHR142W,1,,,,,,False,t0
+YHR143W,2,G1,YHR143W,287.0,286.0,ORF column,True,t80
+YHR143W-A,2,,,,,,False,t0
+YHR144C,1,,,,,,False,t0
+YHR145C,0,,,,,,False,t110
+YHR146W,2,S/G2,YHR146W,537.0,244.0,ORF column,True,t40
+YHR147C,0,,,,,,False,t20
+YHR148W,2,,,,,,False,t0
+YHR149C,1,G1,YHR149C,155.0,473.0,ORF column,True,t10
+YHR150W,2,,,,,,False,t80
+YHR151C,2,G2/M,YHR151C,741.0,161.0,ORF column,True,t60
+YHR152W,2,G2/M,SPO12,729.0,87.0,ORF column,True,t60
+YHR153C,0,G1,SPO16,277.0,524.0,ORF column,True,t10
+YHR154W,0,G1,ESC4,364.0,437.0,ORF column,True,t20
+YHR155W,0,,,,,,False,t70
+YHR156C,2,,,,,,False,t110
+YHR157W,1,,,,,,False,t20
+YHR158C,0,,,,,,False,t20
+YHR159W,1,G1,YHR159W,279.0,410.0,ORF column,True,t60
+YHR160C,0,,,,,,False,t20
+YHR162W,1,,,,,,False,t50
+YHR163W,0,,,,,,False,t30
+YHR164C,0,,,,,,False,t80
+YHR165C,2,,,,,,False,t60
+YHR166C,2,,,,,,False,t120
+YHR167W,2,,,,,,False,t120
+YHR168W,2,,,,,,False,t120
+YHR169W,2,,,,,,False,t0
+YHR170W,2,,,,,,False,t0
+YHR171W,2,,,,,,False,t100
+YHR172W,0,G1,SPC97,384.0,728.0,ORF column,True,t30
+YHR173C,0,G1,YHR173C,374.0,765.0,ORF column,True,t20
+YHR174W,0,,,,,,False,t40
+YHR175W,0,,,,,,False,t20
+YHR176W,0,,,,,,False,t90
+YHR177W,0,,,,,,False,t30
+YHR178W,2,S/G2,STB5,524.0,695.0,ORF column,True,t120
+YHR179W,0,,,,,,False,t40
+YHR180W,1,,,,,,False,t60
+YHR181W,0,,,,,,False,t30
+YHR182W,2,,,,,,False,t40
+YHR183W,0,,,,,,False,t20
+YHR184W,2,,,,,,False,t40
+YHR185C,2,,,,,,False,t60
+YHR186C,2,,,,,,False,t50
+YHR187W,0,,,,,,False,t90
+YHR188C,0,,,,,,False,t20
+YHR189W,2,,,,,,False,t50
+YHR190W,0,,,,,,False,t100
+YHR191C,1,,,,,,False,t80
+YHR192W,0,,,,,,False,t120
+YHR193C,1,,,,,,False,t0
+YHR194W,2,,,,,,False,t90
+YHR195W,2,,,,,,False,t0
+YHR196W,2,,,,,,False,t0
+YHR197W,2,,,,,,False,t0
+YHR198C,0,,,,,,False,t20
+YHR199C,2,,,,,,False,t30
+YHR200W,2,,,,,,False,t50
+YHR201C,2,,,,,,False,t0
+YHR202W,0,,,,,,False,t90
+YHR203C,1,,,,,,False,t80
+YHR204W,0,,,,,,False,t20
+YHR205W,2,G2/M,SCH9,610.0,626.0,ORF column,True,t40
+YHR206W,2,,,,,,False,t0
+YHR207C,0,,,,,,False,t90
+YHR208W,0,S/G2,BAT1,508.0,633.0,ORF column,True,t40
+YHR209W,1,,,,,,False,t0
+YHR210C,0,,,,,,False,t30
+YHR211W,1,,,,,,False,t20
+YHR212C,1,,,,,,False,t10
+YHR213W,2,,,,,,False,t120
+YHR214C-B,1,,,,,,False,t10
+YHR214W,1,,,,,,False,t0
+YHR214W-A,1,,,,,,False,t0
+YHR215W,1,G2/M,PHO12,750.0,93.0,ORF column,True,t10
+YHR216W,2,,,,,,False,t40
+YHR217C,1,,,,,,False,t10
+YHR218W,1,G1,YHR218W,133.0,579.0,ORF column,True,t10
+YHR219W,1,M/G1,YHR219W,108.0,586.0,ORF column,True,t10
+YIL001W,2,,,,,,False,t110
+YIL002C,2,,,,,,False,t60
+YIL003W,2,,,,,,False,t60
+YIL004C,0,,,,,,False,t30
+YIL005W,1,,,,,,False,t10
+YIL006W,0,,,,,,False,t90
+YIL007C,1,,,,,,False,t110
+YIL008W,1,,,,,,False,t0
+YIL009C-A,1,,,,,,False,t0
+YIL009W,2,M/G1,FAA3,48.0,274.0,ORF column,True,t70
+YIL010W,1,,,,,,False,t0
+YIL012W,2,,,,,,False,t60
+YIL013C,1,,,,,,False,t60
+YIL014W,2,,,,,,False,t50
+YIL015C-A,0,,,,,,False,t20
+YIL015W,2,,,,,,False,t0
+YIL016W,2,,,,,,False,t60
+YIL017C,0,,,,,,False,t10
+YIL018W,1,,,,,,False,t60
+YIL019W,0,,,,,,False,t0
+YIL020C,2,,,,,,False,t100
+YIL021W,2,,,,,,False,t60
+YIL022W,1,,,,,,False,t0
+YIL024C,1,,,,,,False,t20
+YIL025C,0,G1,YIL025C,332.0,420.0,ORF column,True,t10
+YIL026C,0,G1,IRR1,245.0,426.0,ORF column,True,t20
+YIL027C,2,,,,,,False,t0
+YIL028W,2,,,,,,False,t120
+YIL029C,1,,,,,,False,t60
+YIL030C,2,,,,,,False,t100
+YIL031W,2,,,,,,False,t120
+YIL032C,2,,,,,,False,t120
+YIL033C,1,,,,,,False,t0
+YIL034C,1,,,,,,False,t0
+YIL035C,1,,,,,,False,t0
+YIL036W,2,,,,,,False,t70
+YIL037C,1,,,,,,False,t0
+YIL038C,2,,,,,,False,t40
+YIL039W,1,,,,,,False,t40
+YIL040W,2,,,,,,False,t60
+YIL041W,2,,,,,,False,t110
+YIL042C,2,,,,,,False,t70
+YIL043C,1,,,,,,False,t50
+YIL044C,2,,,,,,False,t40
+YIL045W,1,,,,,,False,t80
+YIL046W,1,,,,,,False,t0
+YIL047C,2,,,,,,False,t50
+YIL048W,2,,,,,,False,t120
+YIL049W,1,,,,,,False,t0
+YIL050W,0,S/G2,PCL7,552.0,690.0,ORF column,True,t30
+YIL051C,2,,,,,,False,t50
+YIL052C,2,,,,,,False,t40
+YIL053W,0,,,,,,False,t30
+YIL054W,2,,,,,,False,t110
+YIL055C,1,,,,,,False,t60
+YIL056W,0,G2/M,YIL056W,648.0,42.0,ORF column,True,t110
+YIL057C,1,,,,,,False,t90
+YIL058W,2,,,,,,False,t60
+YIL059C,1,,,,,,False,t80
+YIL060W,1,,,,,,False,t10
+YIL061C,1,,,,,,False,t100
+YIL062C,1,,,,,,False,t10
+YIL063C,0,,,,,,False,t20
+YIL064W,1,,,,,,False,t110
+YIL065C,1,,,,,,False,t10
+YIL066C,0,G1,RNR3,244.0,477.0,ORF column,True,t20
+YIL067C,1,,,,,,False,t0
+YIL068C,2,,,,,,False,t80
+YIL069C,1,,,,,,False,t70
+YIL070C,0,,,,,,False,t30
+YIL071C,1,,,,,,False,t10
+YIL072W,0,S/G2,HOP1,557.0,36.0,ORF column,True,t10
+YIL073C,2,,,,,,False,t70
+YIL074C,1,S,YIL074C,434.0,646.0,ORF column,True,t10
+YIL075C,2,,,,,,False,t50
+YIL076W,0,G1,SEC28,355.0,387.0,ORF column,True,t90
+YIL077C,2,,,,,,False,t60
+YIL078W,0,,,,,,False,t100
+YIL079C,1,,,,,,False,t0
+YIL080W,1,,,,,,False,t0
+YIL082W,1,,,,,,False,t0
+YIL082W-A,1,,,,,,False,t10
+YIL083C,2,,,,,,False,t50
+YIL084C,2,,,,,,False,t40
+YIL085C,2,,,,,,False,t120
+YIL086C,2,,,,,,False,t110
+YIL087C,1,,,,,,False,t0
+YIL088C,0,,,,,,False,t20
+YIL089W,1,,,,,,False,t0
+YIL090W,2,,,,,,False,t40
+YIL091C,2,,,,,,False,t0
+YIL092W,2,,,,,,False,t60
+YIL093C,0,,,,,,False,t100
+YIL094C,0,G2/M,LYS12,624.0,105.0,ORF column,True,t50
+YIL095W,2,,,,,,False,t120
+YIL096C,2,,,,,,False,t0
+YIL097W,1,,,,,,False,t100
+YIL098C,1,,,,,,False,t100
+YIL099W,1,,,,,,False,t120
+YIL100W,1,,,,,,False,t10
+YIL101C,0,,,,,,False,t110
+YIL102C,1,,,,,,False,t10
+YIL103W,2,,,,,,False,t100
+YIL104C,2,G1,YIL104C,240.0,364.0,ORF column,True,t0
+YIL105C,1,,,,,,False,t30
+YIL106W,2,G2/M,MOB1,664.0,230.0,ORF column,True,t60
+YIL107C,1,,,,,,False,t10
+YIL108W,1,,,,,,False,t10
+YIL109C,2,,,,,,False,t100
+YIL110W,2,,,,,,False,t0
+YIL111W,1,,,,,,False,t10
+YIL112W,0,,,,,,False,t80
+YIL113W,0,,,,,,False,t10
+YIL114C,1,M/G1,POR2,94.0,20.0,ORF column,True,t50
+YIL115C,2,,,,,,False,t70
+YIL116W,1,,,,,,False,t20
+YIL117C,1,S,YIL117C,415.0,358.0,ORF column,True,t0
+YIL118W,2,,,,,,False,t90
+YIL119C,2,G2/M,RPI1,705.0,106.0,ORF column,True,t120
+YIL120W,2,,,,,,False,t120
+YIL121W,1,G2/M,YIL121W,776.0,159.0,ORF column,True,t30
+YIL122W,2,G2/M,YIL122W,663.0,188.0,ORF column,True,t60
+YIL123W,0,S/G2,SIM1,525.0,716.0,ORF column,True,t40
+YIL124W,1,,,,,,False,t20
+YIL125W,0,,,,,,False,t100
+YIL126W,2,,,,,,False,t40
+YIL127C,2,,,,,,False,t0
+YIL128W,2,,,,,,False,t40
+YIL129C,2,S/G2,YIL129C,515.0,713.0,ORF column,True,t90
+YIL130W,2,,,,,,False,t60
+YIL131C,2,S/G2,FKH1,540.0,700.0,ORF column,True,t40
+YIL132C,0,G1,YIL132C,315.0,424.0,ORF column,True,t20
+YIL133C,2,,,,,,False,t110
+YIL134W,0,,,,,,False,t100
+YIL135C,0,S/G2,YIL135C,505.0,691.0,ORF column,True,t30
+YIL136W,1,,,,,,False,t10
+YIL137C,1,,,,,,False,t10
+YIL138C,2,S/G2,TPM2,582.0,369.0,ORF column,True,t40
+YIL139C,0,,,,,,False,t80
+YIL140W,0,G1,SRO4,330.0,534.0,ORF column,True,t20
+YIL141W,0,G1,YIL141W,301.0,483.0,ORF column,True,t30
+YIL142W,0,,,,,,False,t100
+YIL143C,1,,,,,,False,t50
+YIL144W,0,S,TID3,422.0,720.0,ORF column,True,t90
+YIL145C,2,,,,,,False,t120
+YIL146C,2,,,,,,False,t60
+YIL147C,1,,,,,,False,t30
+YIL148W,2,,,,,,False,t100
+YIL149C,0,,,,,,False,t30
+YIL150C,2,,,,,,False,t30
+YIL151C,2,,,,,,False,t60
+YIL152W,0,,,,,,False,t20
+YIL153W,1,,,,,,False,t60
+YIL154C,1,,,,,,False,t10
+YIL155C,0,,,,,,False,t10
+YIL156W,1,,,,,,False,t10
+YIL157C,0,,,,,,False,t120
+YIL158W,2,G2/M,YIL158W,607.0,227.0,ORF column,True,t50
+YIL159W,2,,,,,,False,t70
+YIL160C,1,,,,,,False,t10
+YIL161W,2,,,,,,False,t110
+YIL162W,2,G2/M,SUC2,677.0,194.0,ORF column,True,t50
+YIL163C,1,,,,,,False,t0
+YIL164C,1,,,,,,False,t10
+YIL165C,1,,,,,,False,t10
+YIL166C,1,,,,,,False,t10
+YIL168W,1,G2/M,SDL1,765.0,32.0,ORF column,True,t110
+YIL169C,2,,,,,,False,t80
+YIL170W,0,,,,,,False,t30
+YIL171W,1,,,,,,False,t50
+YIL172C,0,,,,,,False,t40
+YIL173W,1,,,,,,False,t10
+YIL174W,1,,,,,,False,t20
+YIL175W,1,,,,,,False,t10
+YIL176C,1,,,,,,False,t20
+YIL177C,1,G1,YIL177C,149.0,595.0,ORF column,True,t10
+YIR001C,1,,,,,,False,t10
+YIR002C,2,,,,,,False,t120
+YIR003W,1,,,,,,False,t20
+YIR004W,2,,,,,,False,t0
+YIR005W,2,,,,,,False,t120
+YIR006C,1,,,,,,False,t70
+YIR007W,0,,,,,,False,t110
+YIR008C,1,,,,,,False,t20
+YIR009W,1,,,,,,False,t0
+YIR010W,0,S/G2,YIR010W,506.0,683.0,ORF column,True,t30
+YIR011C,2,,,,,,False,t0
+YIR012W,2,,,,,,False,t0
+YIR013C,2,,,,,,False,t110
+YIR014W,1,,,,,,False,t10
+YIR015W,2,,,,,,False,t50
+YIR016W,1,,,,,,False,t60
+YIR017C,1,S,MET28,431.0,642.0,ORF column,True,t10
+YIR018W,1,,,,,,False,t120
+YIR020C,2,,,,,,False,t50
+YIR020W-B,2,,,,,,False,t50
+YIR021W,2,,,,,,False,t70
+YIR022W,2,,,,,,False,t40
+YIR023W,2,,,,,,False,t110
+YIR024C,2,,,,,,False,t120
+YIR025W,0,,,,,,False,t20
+YIR026C,2,,,,,,False,t0
+YIR027C,2,,,,,,False,t60
+YIR028W,0,,,,,,False,t30
+YIR029W,0,,,,,,False,t30
+YIR030C,2,,,,,,False,t110
+YIR031C,0,,,,,,False,t20
+YIR032C,2,,,,,,False,t60
+YIR033W,2,,,,,,False,t60
+YIR034C,0,,,,,,False,t20
+YIR036C,0,M/G1,YIR036C,86.0,334.0,ORF column,True,t80
+YIR037W,1,,,,,,False,t0
+YIR038C,1,,,,,,False,t20
+YIR039C,1,,,,,,False,t80
+YIR040C,1,,,,,,False,t10
+YIR041W,0,,,,,,False,t40
+YIR042C,0,,,,,,False,t30
+YIR043C,0,,,,,,False,t20
+YIR044C,1,,,,,,False,t20
+YJL001W,1,,,,,,False,t40
+YJL002C,0,,,,,,False,t20
+YJL003W,1,,,,,,False,t60
+YJL004C,2,,,,,,False,t60
+YJL005W,2,,,,,,False,t60
+YJL006C,2,,,,,,False,t90
+YJL007C,1,,,,,,False,t10
+YJL008C,0,,,,,,False,t0
+YJL009W,2,,,,,,False,t110
+YJL010C,2,,,,,,False,t60
+YJL011C,2,,,,,,False,t0
+YJL012C,0,,,,,,False,t30
+YJL013C,0,,,,,,False,t60
+YJL014W,2,,,,,,False,t100
+YJL015C,1,G1,YJL015C,124.0,4.0,ORF column,True,t110
+YJL016W,2,,,,,,False,t60
+YJL017W,1,,,,,,False,t70
+YJL018W,1,G1,YJL018W,319.0,484.0,ORF column,True,t60
+YJL019W,1,G1,YJL019W,362.0,485.0,ORF column,True,t60
+YJL020C,2,,,,,,False,t0
+YJL021C,1,,,,,,False,t10
+YJL022W,2,,,,,,False,t40
+YJL023C,2,,,,,,False,t60
+YJL024C,1,,,,,,False,t0
+YJL025W,2,,,,,,False,t60
+YJL026W,0,,,,,,False,t30
+YJL027C,1,,,,,,False,t20
+YJL028W,1,,,,,,False,t10
+YJL029C,2,,,,,,False,t0
+YJL030W,1,,,,,,False,t60
+YJL031C,2,,,,,,False,t110
+YJL032W,1,,,,,,False,t110
+YJL033W,2,,,,,,False,t0
+YJL034W,0,,,,,,False,t30
+YJL035C,0,,,,,,False,t90
+YJL036W,2,,,,,,False,t60
+YJL037W,2,,,,,,False,t110
+YJL038C,0,,,,,,False,t40
+YJL039C,2,,,,,,False,t100
+YJL041W,2,,,,,,False,t90
+YJL042W,0,,,,,,False,t90
+YJL043W,1,,,,,,False,t10
+YJL044C,2,M/G1,GYP6,7.0,316.0,ORF column,True,t120
+YJL045W,1,,,,,,False,t10
+YJL046W,0,,,,,,False,t40
+YJL047C,1,,,,,,False,t0
+YJL048C,2,,,,,,False,t90
+YJL049W,2,,,,,,False,t60
+YJL050W,2,,,,,,False,t0
+YJL051W,2,G2/M,YJL051W,635.0,226.0,ORF column,True,t120
+YJL052W,0,,,,,,False,t40
+YJL053W,0,,,,,,False,t30
+YJL054W,0,,,,,,False,t50
+YJL055W,0,,,,,,False,t30
+YJL056C,2,,,,,,False,t100
+YJL057C,1,,,,,,False,t0
+YJL058C,2,,,,,,False,t60
+YJL059W,0,,,,,,False,t20
+YJL060W,1,S/G2,YJL060W,509.0,711.0,ORF column,True,t10
+YJL061W,2,,,,,,False,t0
+YJL062W,0,,,,,,False,t30
+YJL063C,0,,,,,,False,t70
+YJL064W,2,,,,,,False,t60
+YJL065C,2,,,,,,False,t50
+YJL066C,1,,,,,,False,t0
+YJL067W,1,M/G1,YJL067W,17.0,330.0,ORF column,True,t10
+YJL068C,0,,,,,,False,t20
+YJL069C,2,,,,,,False,t80
+YJL070C,1,,,,,,False,t10
+YJL071W,1,,,,,,False,t0
+YJL072C,1,G1,YJL072C,336.0,394.0,ORF column,True,t20
+YJL073W,1,G1,JEM1,219.0,457.0,ORF column,True,t10
+YJL074C,0,G1,SMC3,226.0,505.0,ORF column,True,t20
+YJL075C,2,,,,,,False,t100
+YJL076W,2,,,,,,False,t60
+YJL077C,2,,,,,,False,t60
+YJL078C,2,G1,PRY3,190.0,289.0,ORF column,True,t80
+YJL079C,1,G2/M,PRY1,792.0,70.0,ORF column,True,t10
+YJL080C,0,,,,,,False,t30
+YJL081C,2,,,,,,False,t120
+YJL082W,1,,,,,,False,t10
+YJL083W,1,,,,,,False,t0
+YJL084C,2,,,,,,False,t0
+YJL085W,2,,,,,,False,t60
+YJL086C,2,,,,,,False,t60
+YJL087C,2,,,,,,False,t120
+YJL088W,1,,,,,,False,t10
+YJL089W,1,,,,,,False,t60
+YJL090C,2,,,,,,False,t60
+YJL091C,0,G1,YJL091C,377.0,730.0,ORF column,True,t20
+YJL092W,0,S,HPR5,446.0,737.0,ORF column,True,t30
+YJL093C,1,,,,,,False,t80
+YJL094C,2,,,,,,False,t60
+YJL095W,0,,,,,,False,t20
+YJL096W,0,,,,,,False,t20
+YJL097W,0,,,,,,False,t20
+YJL098W,2,,,,,,False,t110
+YJL099W,0,S/G2,CHS6,516.0,622.0,ORF column,True,t0
+YJL100W,2,,,,,,False,t30
+YJL101C,2,,,,,,False,t120
+YJL102W,0,,,,,,False,t30
+YJL103C,1,,,,,,False,t0
+YJL104W,2,,,,,,False,t60
+YJL105W,0,,,,,,False,t20
+YJL106W,2,,,,,,False,t40
+YJL107C,2,,,,,,False,t0
+YJL108C,1,,,,,,False,t0
+YJL109C,2,,,,,,False,t0
+YJL110C,2,,,,,,False,t60
+YJL111W,2,,,,,,False,t100
+YJL112W,0,,,,,,False,t40
+YJL113W,1,,,,,,False,t0
+YJL114W,1,,,,,,False,t0
+YJL115W,1,G1,ASF1,250.0,430.0,ORF column,True,t10
+YJL116C,1,,,,,,False,t10
+YJL117W,1,,,,,,False,t0
+YJL118W,0,S,YJL118W,472.0,687.0,ORF column,True,t30
+YJL119C,0,S,YJL119C,477.0,628.0,ORF column,True,t110
+YJL120W,2,,,,,,False,t60
+YJL121C,2,,,,,,False,t20
+YJL122W,1,,,,,,False,t0
+YJL123C,0,,,,,,False,t20
+YJL124C,2,,,,,,False,t110
+YJL125C,2,,,,,,False,t0
+YJL126W,2,,,,,,False,t70
+YJL127C,0,,,,,,False,t20
+YJL128C,2,,,,,,False,t110
+YJL129C,2,,,,,,False,t0
+YJL130C,2,,,,,,False,t50
+YJL131C,2,,,,,,False,t80
+YJL132W,1,,,,,,False,t120
+YJL133W,2,,,,,,False,t50
+YJL134W,2,S/G2,LCB3,546.0,679.0,ORF column,True,t30
+YJL135W,1,,,,,,False,t40
+YJL136C,1,,,,,,False,t40
+YJL137C,0,S/G2,GLG2,554.0,675.0,ORF column,True,t100
+YJL138C,0,,,,,,False,t30
+YJL139C,1,,,,,,False,t0
+YJL140W,2,,,,,,False,t90
+YJL141C,2,,,,,,False,t80
+YJL142C,1,,,,,,False,t20
+YJL143W,2,,,,,,False,t60
+YJL144W,1,,,,,,False,t10
+YJL145W,2,,,,,,False,t0
+YJL146W,2,,,,,,False,t100
+YJL147C,2,,,,,,False,t40
+YJL148W,2,,,,,,False,t0
+YJL149W,1,,,,,,False,t20
+YJL150W,1,,,,,,False,t0
+YJL151C,1,,,,,,False,t10
+YJL152W,1,,,,,,False,t90
+YJL153C,1,,,,,,False,t10
+YJL154C,2,,,,,,False,t120
+YJL155C,1,,,,,,False,t20
+YJL156C,2,,,,,,False,t60
+YJL157C,2,G2/M,FAR1,795.0,84.0,ORF column,True,t0
+YJL158C,0,S/G2,CIS3,553.0,715.0,ORF column,True,t100
+YJL159W,1,M/G1,HSP150,44.0,276.0,ORF column,True,t70
+YJL160C,2,,,,,,False,t70
+YJL161W,1,,,,,,False,t20
+YJL162C,2,,,,,,False,t100
+YJL163C,0,,,,,,False,t90
+YJL164C,1,,,,,,False,t10
+YJL165C,1,,,,,,False,t10
+YJL166W,1,,,,,,False,t10
+YJL167W,1,,,,,,False,t10
+YJL168C,2,,,,,,False,t120
+YJL169W,1,,,,,,False,t0
+YJL170C,1,,,,,,False,t0
+YJL171C,0,,,,,,False,t120
+YJL172W,0,,,,,,False,t80
+YJL173C,0,G1,RFA3,394.0,751.0,ORF column,True,t20
+YJL174W,0,,,,,,False,t40
+YJL175W,0,,,,,,False,t30
+YJL176C,0,,,,,,False,t90
+YJL177W,2,,,,,,False,t80
+YJL178C,2,,,,,,False,t60
+YJL179W,2,,,,,,False,t60
+YJL180C,2,,,,,,False,t70
+YJL181W,0,G1,YJL181W,197.0,493.0,ORF column,True,t100
+YJL182C,1,,,,,,False,t10
+YJL183W,0,,,,,,False,t30
+YJL184W,0,,,,,,False,t40
+YJL185C,0,,,,,,False,t20
+YJL186W,0,,,,,,False,t100
+YJL187C,0,G1,SWE1,284.0,520.0,ORF column,True,t20
+YJL188C,2,,,,,,False,t100
+YJL189W,2,,,,,,False,t120
+YJL190C,2,,,,,,False,t50
+YJL191W,2,,,,,,False,t110
+YJL192C,0,,,,,,False,t120
+YJL193W,0,,,,,,False,t100
+YJL194W,2,M/G1,CDC6,9.0,54.0,ORF column,True,t70
+YJL195C,1,M/G1,YJL195C,12.0,53.0,ORF column,True,t10
+YJL196C,0,M/G1,ELO1,61.0,381.0,ORF column,True,t120
+YJL197W,2,,,,,,False,t70
+YJL198W,2,,,,,,False,t60
+YJL199C,1,,,,,,False,t70
+YJL200C,1,,,,,,False,t40
+YJL201W,0,S,ECM25,423.0,739.0,ORF column,True,t20
+YJL202C,1,,,,,,False,t60
+YJL203W,1,,,,,,False,t40
+YJL204C,1,,,,,,False,t40
+YJL206C,1,,,,,,False,t60
+YJL206C-A,1,,,,,,False,t60
+YJL207C,2,,,,,,False,t110
+YJL208C,1,,,,,,False,t20
+YJL209W,2,,,,,,False,t90
+YJL210W,2,,,,,,False,t70
+YJL211C,2,,,,,,False,t50
+YJL212C,2,,,,,,False,t120
+YJL213W,0,,,,,,False,t10
+YJL214W,0,,,,,,False,t80
+YJL215C,2,,,,,,False,t60
+YJL216C,0,,,,,,False,t120
+YJL217W,0,G1,YJL217W,189.0,348.0,ORF column,True,t70
+YJL218W,1,,,,,,False,t20
+YJL219W,1,,,,,,False,t60
+YJL220W,1,,,,,,False,t80
+YJL221C,1,,,,,,False,t80
+YJL222W,1,,,,,,False,t0
+YJL223C,1,,,,,,False,t60
+YJL225C,1,M/G1,YJL225C,109.0,592.0,ORF column,True,t10
+YJR001W,0,S/G2,YJR001W,486.0,712.0,ORF column,True,t30
+YJR002W,2,,,,,,False,t0
+YJR003C,2,G2/M,YJR003C,658.0,109.0,ORF column,True,t40
+YJR004C,1,M/G1,SAG1,110.0,302.0,ORF column,True,t0
+YJR005W,1,,,,,,False,t10
+YJR006W,1,G1,HYS2,318.0,431.0,ORF column,True,t20
+YJR007W,1,,,,,,False,t0
+YJR008W,1,,,,,,False,t10
+YJR009C,0,,,,,,False,t40
+YJR010C-A,1,,,,,,False,t10
+YJR010W,1,S/G2,MET3,504.0,650.0,ORF column,True,t10
+YJR011C,0,,,,,,False,t10
+YJR012C,0,,,,,,False,t80
+YJR013W,2,,,,,,False,t30
+YJR014W,1,,,,,,False,t0
+YJR015W,2,,,,,,False,t100
+YJR016C,0,,,,,,False,t30
+YJR017C,1,,,,,,False,t10
+YJR018W,2,,,,,,False,t100
+YJR019C,1,,,,,,False,t80
+YJR020W,2,,,,,,False,t100
+YJR021C,0,,,,,,False,t110
+YJR022W,1,,,,,,False,t80
+YJR023C,2,,,,,,False,t50
+YJR024C,1,,,,,,False,t20
+YJR025C,1,,,,,,False,t10
+YJR026W,1,,,,,,False,t10
+YJR027W,1,,,,,,False,t10
+YJR028W,1,,,,,,False,t10
+YJR029W,1,,,,,,False,t10
+YJR030C,1,G1,YJR030C,198.0,429.0,ORF column,True,t10
+YJR031C,0,,,,,,False,t30
+YJR032W,2,,,,,,False,t60
+YJR033C,0,,,,,,False,t90
+YJR034W,1,,,,,,False,t80
+YJR035W,2,,,,,,False,t120
+YJR036C,2,,,,,,False,t60
+YJR037W,2,,,,,,False,t90
+YJR038C,1,,,,,,False,t10
+YJR039W,1,,,,,,False,t80
+YJR040W,0,,,,,,False,t20
+YJR041C,2,,,,,,False,t120
+YJR042W,2,,,,,,False,t40
+YJR043C,1,G1,POL32,308.0,611.0,ORF column,True,t10
+YJR045C,0,,,,,,False,t40
+YJR046W,0,,,,,,False,t30
+YJR047C,2,,,,,,False,t120
+YJR048W,0,S/G2,CYC1,564.0,117.0,ORF column,True,t120
+YJR049C,1,,,,,,False,t10
+YJR050W,2,,,,,,False,t60
+YJR051W,1,,,,,,False,t0
+YJR052W,1,,,,,,False,t60
+YJR053W,0,,,,,,False,t30
+YJR054W,0,G1,YJR054W,181.0,312.0,ORF column,True,t80
+YJR055W,0,,,,,,False,t0
+YJR056C,2,,,,,,False,t60
+YJR057W,0,,,,,,False,t20
+YJR058C,0,,,,,,False,t0
+YJR059W,0,,,,,,False,t30
+YJR060W,0,,,,,,False,t90
+YJR061W,0,,,,,,False,t110
+YJR062C,0,,,,,,False,t100
+YJR063W,2,,,,,,False,t40
+YJR064W,2,,,,,,False,t50
+YJR065C,1,,,,,,False,t10
+YJR066W,2,,,,,,False,t120
+YJR067C,1,,,,,,False,t20
+YJR068W,1,,,,,,False,t20
+YJR069C,2,,,,,,False,t0
+YJR070C,2,,,,,,False,t110
+YJR071W,2,,,,,,False,t120
+YJR072C,2,,,,,,False,t110
+YJR073C,1,,,,,,False,t20
+YJR074W,1,,,,,,False,t0
+YJR075W,0,,,,,,False,t90
+YJR076C,0,,,,,,False,t100
+YJR077C,0,,,,,,False,t20
+YJR078W,0,,,,,,False,t80
+YJR079W,1,,,,,,False,t120
+YJR080C,2,,,,,,False,t0
+YJR082C,2,,,,,,False,t0
+YJR083C,2,,,,,,False,t60
+YJR084W,2,,,,,,False,t100
+YJR085C,1,,,,,,False,t10
+YJR086W,2,,,,,,False,t0
+YJR087W,2,,,,,,False,t60
+YJR088C,2,,,,,,False,t50
+YJR089W,2,,,,,,False,t70
+YJR090C,2,,,,,,False,t120
+YJR091C,2,,,,,,False,t120
+YJR092W,2,G2/M,BUD4,621.0,220.0,ORF column,True,t50
+YJR093C,2,,,,,,False,t100
+YJR094C,2,,,,,,False,t70
+YJR094W-A,2,,,,,,False,t110
+YJR095W,1,,,,,,False,t0
+YJR096W,1,,,,,,False,t20
+YJR097W,2,,,,,,False,t50
+YJR098C,2,,,,,,False,t100
+YJR099W,2,,,,,,False,t70
+YJR100C,1,,,,,,False,t10
+YJR101W,2,,,,,,False,t60
+YJR102C,1,,,,,,False,t50
+YJR103W,1,,,,,,False,t20
+YJR104C,0,,,,,,False,t90
+YJR105W,1,,,,,,False,t30
+YJR106W,1,,,,,,False,t10
+YJR107W,1,,,,,,False,t60
+YJR108W,0,,,,,,False,t90
+YJR109C,1,,,,,,False,t10
+YJR110W,2,S/G2,YJR110W,567.0,617.0,ORF column,True,t120
+YJR111C,2,,,,,,False,t40
+YJR112W,2,,,,,,False,t60
+YJR113C,2,,,,,,False,t60
+YJR114W,0,,,,,,False,t60
+YJR115W,1,,,,,,False,t10
+YJR116W,0,,,,,,False,t20
+YJR117W,0,,,,,,False,t20
+YJR118C,0,,,,,,False,t80
+YJR119C,0,,,,,,False,t0
+YJR120W,1,,,,,,False,t80
+YJR121W,0,,,,,,False,t10
+YJR122W,0,,,,,,False,t30
+YJR123W,2,,,,,,False,t110
+YJR124C,2,,,,,,False,t60
+YJR125C,1,,,,,,False,t10
+YJR126C,2,,,,,,False,t80
+YJR127C,0,,,,,,False,t90
+YJR129C,1,,,,,,False,t60
+YJR130C,0,,,,,,False,t10
+YJR131W,1,,,,,,False,t60
+YJR132W,2,,,,,,False,t0
+YJR133W,1,,,,,,False,t10
+YJR134C,1,,,,,,False,t60
+YJR135C,2,,,,,,False,t120
+YJR136C,2,,,,,,False,t60
+YJR137C,1,S,ECM17,480.0,652.0,ORF column,True,t10
+YJR138W,0,,,,,,False,t90
+YJR139C,0,,,,,,False,t30
+YJR140C,0,,,,,,False,t40
+YJR141W,2,,,,,,False,t110
+YJR142W,0,,,,,,False,t10
+YJR143C,0,,,,,,False,t30
+YJR144W,0,,,,,,False,t20
+YJR145C,1,,,,,,False,t10
+YJR146W,2,,,,,,False,t110
+YJR147W,2,,,,,,False,t80
+YJR148W,0,G1,BAT2,322.0,386.0,ORF column,True,t20
+YJR149W,1,,,,,,False,t10
+YJR150C,2,,,,,,False,t60
+YJR151C,1,,,,,,False,t10
+YJR152W,1,,,,,,False,t100
+YJR153W,1,,,,,,False,t0
+YJR154W,1,G1,YJR154W,313.0,407.0,ORF column,True,t10
+YJR155W,1,G1,AAD10,158.0,408.0,ORF column,True,t10
+YJR156C,1,,,,,,False,t60
+YJR157W,0,,,,,,False,t20
+YJR158W,1,,,,,,False,t0
+YJR159W,1,,,,,,False,t30
+YJR160C,1,,,,,,False,t10
+YJR161C,0,,,,,,False,t20
+YJR162C,1,,,,,,False,t10
+YKL001C,1,S,MET14,443.0,648.0,ORF column,True,t10
+YKL002W,1,,,,,,False,t0
+YKL003C,0,,,,,,False,t40
+YKL004W,2,S/G2,AUR1,597.0,662.0,ORF column,True,t40
+YKL005C,2,,,,,,False,t90
+YKL006C-A,2,,,,,,False,t60
+YKL006W,2,,,,,,False,t50
+YKL007W,1,,,,,,False,t10
+YKL008C,0,S,YKL008C,427.0,781.0,ORF column,True,t90
+YKL009W,2,,,,,,False,t0
+YKL010C,0,,,,,,False,t110
+YKL011C,2,,,,,,False,t40
+YKL012W,2,,,,,,False,t100
+YKL013C,1,,,,,,False,t10
+YKL014C,2,,,,,,False,t40
+YKL015W,2,,,,,,False,t60
+YKL016C,0,,,,,,False,t90
+YKL017C,2,,,,,,False,t120
+YKL018W,2,,,,,,False,t0
+YKL019W,2,,,,,,False,t60
+YKL020C,2,,,,,,False,t60
+YKL021C,2,,,,,,False,t0
+YKL022C,2,,,,,,False,t60
+YKL023W,0,,,,,,False,t50
+YKL024C,2,,,,,,False,t50
+YKL025C,2,,,,,,False,t110
+YKL026C,2,,,,,,False,t110
+YKL027W,1,,,,,,False,t10
+YKL028W,2,,,,,,False,t0
+YKL029C,0,,,,,,False,t30
+YKL030W,0,,,,,,False,t40
+YKL031W,2,,,,,,False,t60
+YKL032C,2,,,,,,False,t100
+YKL033W,0,,,,,,False,t0
+YKL033W-A,1,,,,,,False,t10
+YKL034W,1,,,,,,False,t60
+YKL035W,0,S/G2,UGP1,501.0,249.0,ORF column,True,t90
+YKL036C,0,,,,,,False,t120
+YKL037W,1,,,,,,False,t80
+YKL038W,2,,,,,,False,t120
+YKL039W,1,,,,,,False,t10
+YKL040C,2,,,,,,False,t40
+YKL041W,0,,,,,,False,t90
+YKL042W,0,G1,SPC42,258.0,444.0,ORF column,True,t30
+YKL043W,2,G2/M,PHD1,715.0,16.0,ORF column,True,t120
+YKL044W,2,G2/M,YKL044W,730.0,17.0,ORF column,True,t50
+YKL045W,1,G1,PRI2,210.0,533.0,ORF column,True,t10
+YKL046C,0,,,,,,False,t20
+YKL047W,2,,,,,,False,t120
+YKL048C,2,S/G2,ELM1,507.0,667.0,ORF column,True,t30
+YKL049C,0,,,,,,False,t30
+YKL050C,0,,,,,,False,t20
+YKL051W,0,,,,,,False,t30
+YKL052C,2,S/G2,YKL052C,519.0,666.0,ORF column,True,t60
+YKL053C-A,1,,,,,,False,t10
+YKL053W,2,,,,,,False,t50
+YKL054C,1,,,,,,False,t90
+YKL055C,2,,,,,,False,t90
+YKL056C,1,,,,,,False,t40
+YKL057C,2,,,,,,False,t110
+YKL058W,2,,,,,,False,t50
+YKL059C,2,,,,,,False,t90
+YKL060C,0,,,,,,False,t30
+YKL061W,2,,,,,,False,t110
+YKL062W,2,,,,,,False,t80
+YKL063C,1,,,,,,False,t20
+YKL064W,0,,,,,,False,t110
+YKL065C,1,S,YET1,484.0,350.0,ORF column,True,t10
+YKL066W,0,G1,YKL066W,360.0,397.0,ORF column,True,t20
+YKL067W,0,G1,YNK1,375.0,396.0,ORF column,True,t20
+YKL068W,2,,,,,,False,t100
+YKL069W,0,S/G2,YKL069W,549.0,678.0,ORF column,True,t30
+YKL070W,2,,,,,,False,t60
+YKL071W,0,,,,,,False,t0
+YKL073W,0,,,,,,False,t120
+YKL074C,2,,,,,,False,t60
+YKL075C,2,,,,,,False,t50
+YKL076C,2,,,,,,False,t50
+YKL077W,1,,,,,,False,t0
+YKL078W,2,,,,,,False,t0
+YKL079W,2,,,,,,False,t90
+YKL080W,2,,,,,,False,t120
+YKL081W,0,,,,,,False,t30
+YKL082C,2,,,,,,False,t40
+YKL083W,2,,,,,,False,t0
+YKL084W,0,,,,,,False,t30
+YKL085W,0,,,,,,False,t20
+YKL087C,0,,,,,,False,t30
+YKL088W,2,,,,,,False,t60
+YKL089W,0,G1,MIF2,300.0,449.0,ORF column,True,t10
+YKL090W,1,,,,,,False,t0
+YKL091C,1,,,,,,False,t20
+YKL092C,0,,,,,,False,t10
+YKL093W,2,,,,,,False,t50
+YKL094W,2,,,,,,False,t120
+YKL095W,2,,,,,,False,t120
+YKL096W,0,S/G2,CWP1,512.0,710.0,ORF column,True,t90
+YKL097C,1,,,,,,False,t30
+YKL097W-A,2,,,,,,False,t120
+YKL098W,1,,,,,,False,t70
+YKL100C,0,,,,,,False,t120
+YKL101W,0,G1,HSL1,350.0,438.0,ORF column,True,t20
+YKL102C,0,,,,,,False,t20
+YKL103C,0,G1,LAP4,268.0,338.0,ORF column,True,t80
+YKL104C,1,M/G1,GFA1,50.0,60.0,ORF column,True,t10
+YKL105C,0,,,,,,False,t80
+YKL106W,2,,,,,,False,t120
+YKL107W,1,,,,,,False,t30
+YKL108W,1,G1,SLD2,171.0,428.0,ORF column,True,t10
+YKL109W,2,,,,,,False,t80
+YKL110C,2,,,,,,False,t0
+YKL111C,1,,,,,,False,t10
+YKL112W,0,,,,,,False,t100
+YKL113C,0,G1,RAD27,180.0,512.0,ORF column,True,t20
+YKL114C,1,,,,,,False,t0
+YKL115C,2,,,,,,False,t60
+YKL116C,2,M/G1,YKL116C,77.0,281.0,ORF column,True,t70
+YKL117W,2,,,,,,False,t90
+YKL118W,2,,,,,,False,t110
+YKL120W,2,,,,,,False,t100
+YKL121W,1,,,,,,False,t10
+YKL122C,0,,,,,,False,t20
+YKL123W,1,,,,,,False,t0
+YKL124W,2,,,,,,False,t60
+YKL125W,2,,,,,,False,t50
+YKL126W,0,,,,,,False,t10
+YKL127W,0,G1,PGM1,402.0,800.0,ORF column,True,t20
+YKL128C,2,,,,,,False,t70
+YKL129C,1,,,,,,False,t10
+YKL130C,2,G2/M,SHE2,666.0,221.0,ORF column,True,t50
+YKL131W,2,,,,,,False,t110
+YKL132C,2,,,,,,False,t60
+YKL133C,0,,,,,,False,t20
+YKL134C,0,,,,,,False,t30
+YKL135C,2,,,,,,False,t60
+YKL136W,2,,,,,,False,t0
+YKL137W,2,,,,,,False,t60
+YKL138C,2,,,,,,False,t60
+YKL139W,2,,,,,,False,t110
+YKL140W,0,,,,,,False,t90
+YKL141W,0,,,,,,False,t20
+YKL142W,1,,,,,,False,t10
+YKL143W,2,,,,,,False,t120
+YKL144C,1,,,,,,False,t50
+YKL145W,2,,,,,,False,t100
+YKL146W,0,,,,,,False,t120
+YKL147C,1,,,,,,False,t10
+YKL148C,0,,,,,,False,t10
+YKL149C,2,,,,,,False,t60
+YKL150W,0,,,,,,False,t70
+YKL151C,1,M/G1,YKL151C,27.0,329.0,ORF column,True,t10
+YKL152C,0,,,,,,False,t40
+YKL153W,0,,,,,,False,t40
+YKL154W,2,,,,,,False,t40
+YKL155C,2,,,,,,False,t120
+YKL156W,2,,,,,,False,t70
+YKL157W,0,,,,,,False,t90
+YKL158W,2,,,,,,False,t50
+YKL159C,0,,,,,,False,t100
+YKL160W,2,,,,,,False,t120
+YKL161C,1,,,,,,False,t80
+YKL162C,1,,,,,,False,t10
+YKL162C-A,1,,,,,,False,t120
+YKL163W,1,M/G1,PIR3,49.0,278.0,ORF column,True,t10
+YKL164C,2,M/G1,PIR1,59.0,277.0,ORF column,True,t70
+YKL165C,0,G1,MCD4,259.0,447.0,ORF column,True,t20
+YKL166C,2,,,,,,False,t0
+YKL167C,0,,,,,,False,t100
+YKL168C,2,,,,,,False,t60
+YKL169C,2,,,,,,False,t60
+YKL170W,1,,,,,,False,t70
+YKL171W,0,,,,,,False,t120
+YKL172W,2,G2/M,EBP2,656.0,366.0,ORF column,True,t0
+YKL173W,2,,,,,,False,t100
+YKL174C,0,,,,,,False,t30
+YKL175W,2,,,,,,False,t30
+YKL176C,2,,,,,,False,t120
+YKL177W,2,M/G1,YKL177W,73.0,303.0,ORF column,True,t60
+YKL178C,2,M/G1,STE3,60.0,304.0,ORF column,True,t80
+YKL179C,2,,,,,,False,t100
+YKL180W,2,,,,,,False,t90
+YKL181W,2,,,,,,False,t70
+YKL182W,1,M/G1,FAS1,106.0,260.0,ORF column,True,t0
+YKL183W,2,S/G2,YKL183W,599.0,110.0,ORF column,True,t120
+YKL184W,2,,,,,,False,t100
+YKL185W,2,M/G1,ASH1,35.0,279.0,ORF column,True,t70
+YKL186C,2,,,,,,False,t70
+YKL187C,1,,,,,,False,t60
+YKL188C,2,,,,,,False,t60
+YKL189W,2,,,,,,False,t0
+YKL190W,1,,,,,,False,t20
+YKL191W,2,,,,,,False,t0
+YKL192C,2,,,,,,False,t110
+YKL193C,0,,,,,,False,t90
+YKL194C,0,,,,,,False,t0
+YKL195W,0,,,,,,False,t100
+YKL196C,2,,,,,,False,t40
+YKL197C,1,,,,,,False,t20
+YKL198C,1,,,,,,False,t60
+YKL199C,2,,,,,,False,t40
+YKL200C,0,,,,,,False,t30
+YKL201C,1,,,,,,False,t10
+YKL202W,1,,,,,,False,t30
+YKL203C,2,,,,,,False,t120
+YKL204W,0,,,,,,False,t120
+YKL205W,2,,,,,,False,t120
+YKL207W,2,,,,,,False,t100
+YKL208W,1,,,,,,False,t0
+YKL209C,2,G2/M,STE6,786.0,58.0,ORF column,True,t0
+YKL210W,2,,,,,,False,t120
+YKL211C,1,,,,,,False,t10
+YKL212W,1,,,,,,False,t20
+YKL213C,1,,,,,,False,t10
+YKL214C,2,,,,,,False,t100
+YKL215C,2,,,,,,False,t70
+YKL216W,2,,,,,,False,t50
+YKL217W,1,,,,,,False,t50
+YKL218C,1,,,,,,False,t10
+YKL219W,1,,,,,,False,t20
+YKL220C,2,,,,,,False,t90
+YKL221W,1,,,,,,False,t110
+YKL222C,1,,,,,,False,t10
+YKL223W,2,,,,,,False,t110
+YKL224C,1,,,,,,False,t10
+YKL225W,1,,,,,,False,t60
+YKR001C,0,,,,,,False,t20
+YKR002W,2,,,,,,False,t120
+YKR003W,1,,,,,,False,t0
+YKR004C,2,,,,,,False,t80
+YKR005C,0,,,,,,False,t90
+YKR006C,2,,,,,,False,t0
+YKR007W,1,,,,,,False,t10
+YKR008W,2,,,,,,False,t100
+YKR009C,1,,,,,,False,t90
+YKR010C,0,S,TOF2,462.0,685.0,ORF column,True,t30
+YKR011C,0,,,,,,False,t100
+YKR012C,1,G1,YKR012C,321.0,479.0,ORF column,True,t0
+YKR013W,0,G1,PRY2,334.0,480.0,ORF column,True,t20
+YKR014C,1,,,,,,False,t10
+YKR015C,0,,,,,,False,t120
+YKR016W,1,,,,,,False,t120
+YKR017C,1,,,,,,False,t90
+YKR018C,1,,,,,,False,t0
+YKR019C,2,,,,,,False,t20
+YKR020W,1,,,,,,False,t10
+YKR021W,1,G2/M,YKR021W,678.0,190.0,ORF column,True,t120
+YKR022C,1,,,,,,False,t10
+YKR023W,2,,,,,,False,t0
+YKR024C,2,,,,,,False,t0
+YKR025W,2,,,,,,False,t0
+YKR026C,1,,,,,,False,t0
+YKR027W,0,,,,,,False,t100
+YKR028W,2,,,,,,False,t80
+YKR029C,2,,,,,,False,t60
+YKR030W,2,,,,,,False,t50
+YKR031C,2,,,,,,False,t50
+YKR032W,2,,,,,,False,t50
+YKR033C,1,,,,,,False,t10
+YKR034W,1,,,,,,False,t10
+YKR035C,1,,,,,,False,t0
+YKR035W-A,2,,,,,,False,t60
+YKR036C,1,,,,,,False,t0
+YKR037C,0,S,SPC34,450.0,744.0,ORF column,True,t30
+YKR038C,2,,,,,,False,t60
+YKR039W,0,S/G2,GAP1,602.0,127.0,ORF column,True,t100
+YKR040C,2,,,,,,False,t110
+YKR041W,1,S/G2,YKR041W,543.0,623.0,ORF column,True,t110
+YKR042W,1,G2/M,UTH1,766.0,66.0,ORF column,True,t0
+YKR043C,1,,,,,,False,t10
+YKR044W,0,,,,,,False,t20
+YKR045C,2,,,,,,False,t50
+YKR046C,0,G2/M,YKR046C,615.0,123.0,ORF column,True,t20
+YKR047W,2,,,,,,False,t60
+YKR048C,1,,,,,,False,t0
+YKR049C,1,,,,,,False,t10
+YKR050W,2,,,,,,False,t30
+YKR051W,2,,,,,,False,t120
+YKR052C,0,,,,,,False,t30
+YKR053C,2,,,,,,False,t30
+YKR054C,2,,,,,,False,t90
+YKR055W,2,,,,,,False,t100
+YKR056W,2,,,,,,False,t0
+YKR057W,2,,,,,,False,t10
+YKR058W,2,,,,,,False,t60
+YKR059W,0,,,,,,False,t30
+YKR060W,2,,,,,,False,t110
+YKR061W,1,,,,,,False,t0
+YKR062W,2,,,,,,False,t60
+YKR063C,2,,,,,,False,t60
+YKR064W,2,,,,,,False,t100
+YKR065C,2,,,,,,False,t110
+YKR066C,0,,,,,,False,t70
+YKR067W,1,,,,,,False,t10
+YKR068C,0,,,,,,False,t120
+YKR069W,1,S,MET1,461.0,645.0,ORF column,True,t10
+YKR070W,0,,,,,,False,t20
+YKR071C,2,,,,,,False,t50
+YKR072C,1,,,,,,False,t0
+YKR073C,2,,,,,,False,t0
+YKR074W,1,,,,,,False,t60
+YKR075C,1,,,,,,False,t20
+YKR076W,1,,,,,,False,t0
+YKR077W,1,G1,YKR077W,152.0,562.0,ORF column,True,t10
+YKR078W,2,,,,,,False,t0
+YKR079C,2,G2/M,YKR079C,769.0,103.0,ORF column,True,t0
+YKR080W,0,,,,,,False,t90
+YKR081C,2,,,,,,False,t0
+YKR082W,2,,,,,,False,t40
+YKR083C,2,,,,,,False,t50
+YKR084C,2,,,,,,False,t120
+YKR085C,0,,,,,,False,t20
+YKR086W,2,,,,,,False,t60
+YKR087C,1,,,,,,False,t20
+YKR088C,2,,,,,,False,t60
+YKR089C,0,,,,,,False,t90
+YKR090W,0,G1,YKR090W,328.0,439.0,ORF column,True,t80
+YKR091W,1,G1,SRL3,323.0,357.0,ORF column,True,t10
+YKR092C,2,,,,,,False,t0
+YKR093W,1,,,,,,False,t70
+YKR094C,2,,,,,,False,t100
+YKR095W,2,,,,,,False,t90
+YKR096W,0,,,,,,False,t40
+YKR097W,2,,,,,,False,t50
+YKR098C,1,,,,,,False,t50
+YKR099W,2,,,,,,False,t60
+YKR100C,2,,,,,,False,t60
+YKR101W,1,,,,,,False,t10
+YKR102W,1,,,,,,False,t0
+YKR103W,2,M/G1,YKR103W,8.0,27.0,ORF column,True,t80
+YKR104W,0,,,,,,False,t30
+YKR105C,0,,,,,,False,t120
+YKR106W,0,,,,,,False,t20
+YLL001W,2,,,,,,False,t60
+YLL002W,0,G1,KIM2,263.0,522.0,ORF column,True,t20
+YLL003W,0,,,,,,False,t20
+YLL004W,0,,,,,,False,t100
+YLL005C,1,,,,,,False,t10
+YLL006W,0,,,,,,False,t50
+YLL007C,2,,,,,,False,t90
+YLL008W,2,,,,,,False,t0
+YLL009C,1,,,,,,False,t20
+YLL010C,0,,,,,,False,t110
+YLL011W,2,,,,,,False,t0
+YLL012W,0,G1,YLL012W,404.0,603.0,ORF column,True,t0
+YLL013C,0,,,,,,False,t90
+YLL014W,1,,,,,,False,t110
+YLL015W,1,,,,,,False,t10
+YLL016W,2,,,,,,False,t60
+YLL017W,1,,,,,,False,t0
+YLL018C,0,,,,,,False,t70
+YLL018C-A,2,,,,,,False,t0
+YLL019C,2,,,,,,False,t60
+YLL020C,1,,,,,,False,t20
+YLL021W,0,,,,,,False,t80
+YLL022C,0,G1,HIF1,310.0,531.0,ORF column,True,t20
+YLL023C,0,,,,,,False,t30
+YLL024C,0,,,,,,False,t40
+YLL025W,0,,,,,,False,t10
+YLL026W,0,,,,,,False,t30
+YLL027W,0,,,,,,False,t30
+YLL028W,1,G2/M,YLL028W,700.0,162.0,ORF column,True,t0
+YLL029W,2,,,,,,False,t50
+YLL030C,2,,,,,,False,t60
+YLL031C,0,,,,,,False,t100
+YLL032C,2,S/G2,YLL032C,589.0,673.0,ORF column,True,t40
+YLL034C,2,,,,,,False,t100
+YLL035W,2,,,,,,False,t60
+YLL037W,2,,,,,,False,t110
+YLL038C,2,,,,,,False,t0
+YLL039C,1,,,,,,False,t40
+YLL040C,0,,,,,,False,t20
+YLL041C,0,,,,,,False,t80
+YLL042C,2,,,,,,False,t60
+YLL043W,0,,,,,,False,t90
+YLL044W,1,,,,,,False,t70
+YLL045C,1,,,,,,False,t10
+YLL046C,1,,,,,,False,t100
+YLL047W,0,,,,,,False,t80
+YLL048C,1,,,,,,False,t90
+YLL049W,0,,,,,,False,t110
+YLL050C,1,,,,,,False,t10
+YLL051C,2,,,,,,False,t20
+YLL052C,0,,,,,,False,t100
+YLL053C,2,,,,,,False,t110
+YLL054C,2,,,,,,False,t0
+YLL055W,1,,,,,,False,t10
+YLL056C,2,,,,,,False,t110
+YLL057C,1,,,,,,False,t110
+YLL058W,1,,,,,,False,t0
+YLL059C,0,,,,,,False,t100
+YLL060C,1,,,,,,False,t0
+YLL061W,1,S,YLL061W,482.0,644.0,ORF column,True,t10
+YLL062C,1,S,YLL062C,439.0,647.0,ORF column,True,t10
+YLL063C,1,,,,,,False,t10
+YLL064C,1,,,,,,False,t60
+YLL065W,1,,,,,,False,t10
+YLL066C,1,G1,YLL066C,136.0,593.0,ORF column,True,t20
+YLL067C,1,G1,YLL067C,117.0,581.0,ORF column,True,t10
+YLR001C,1,,,,,,False,t10
+YLR002C,2,,,,,,False,t110
+YLR003C,2,,,,,,False,t40
+YLR004C,2,,,,,,False,t70
+YLR005W,2,,,,,,False,t60
+YLR006C,2,,,,,,False,t80
+YLR007W,2,,,,,,False,t60
+YLR008C,2,,,,,,False,t60
+YLR009W,2,,,,,,False,t0
+YLR010C,2,,,,,,False,t50
+YLR011W,1,,,,,,False,t110
+YLR012C,1,,,,,,False,t10
+YLR013W,1,M/G1,YLR013W,34.0,29.0,ORF column,True,t30
+YLR014C,2,,,,,,False,t60
+YLR015W,2,,,,,,False,t120
+YLR016C,2,,,,,,False,t0
+YLR017W,1,,,,,,False,t0
+YLR018C,2,,,,,,False,t0
+YLR019W,2,,,,,,False,t0
+YLR020C,0,,,,,,False,t20
+YLR021W,2,,,,,,False,t50
+YLR022C,2,,,,,,False,t0
+YLR023C,0,,,,,,False,t110
+YLR024C,0,,,,,,False,t60
+YLR025W,1,,,,,,False,t80
+YLR026C,2,,,,,,False,t100
+YLR027C,0,,,,,,False,t110
+YLR028C,1,,,,,,False,t100
+YLR029C,1,,,,,,False,t0
+YLR030W,0,,,,,,False,t70
+YLR031W,2,,,,,,False,t60
+YLR032W,1,G1,RAD5,134.0,461.0,ORF column,True,t20
+YLR033W,2,,,,,,False,t110
+YLR034C,2,G2/M,YLR034C,686.0,170.0,ORF column,True,t50
+YLR035C,2,,,,,,False,t60
+YLR035C-A,1,,,,,,False,t10
+YLR036C,0,,,,,,False,t40
+YLR037C,0,,,,,,False,t20
+YLR038C,0,,,,,,False,t90
+YLR039C,2,,,,,,False,t100
+YLR040C,1,M/G1,YLR040C,31.0,305.0,ORF column,True,t0
+YLR041W,2,M/G1,YLR041W,30.0,26.0,ORF column,True,t110
+YLR042C,2,,,,,,False,t80
+YLR043C,2,,,,,,False,t100
+YLR044C,2,,,,,,False,t120
+YLR045C,0,S,STU2,449.0,736.0,ORF column,True,t100
+YLR046C,0,,,,,,False,t30
+YLR047C,0,,,,,,False,t90
+YLR048W,2,,,,,,False,t70
+YLR049C,1,G1,YLR049C,128.0,564.0,ORF column,True,t70
+YLR050C,0,G1,YLR050C,329.0,393.0,ORF column,True,t30
+YLR051C,2,,,,,,False,t0
+YLR052W,1,,,,,,False,t0
+YLR053C,2,,,,,,False,t110
+YLR054C,1,,,,,,False,t10
+YLR055C,2,,,,,,False,t120
+YLR056W,0,S/G2,ERG3,568.0,143.0,ORF column,True,t30
+YLR057W,2,G2/M,YLR057W,733.0,210.0,ORF column,True,t50
+YLR058C,1,S/G2,SHM2,583.0,113.0,ORF column,True,t40
+YLR059C,2,,,,,,False,t110
+YLR060W,1,,,,,,False,t10
+YLR061W,2,,,,,,False,t120
+YLR062C,2,,,,,,False,t80
+YLR063W,2,,,,,,False,t60
+YLR064W,0,,,,,,False,t110
+YLR065C,0,,,,,,False,t100
+YLR066W,1,,,,,,False,t20
+YLR067C,2,,,,,,False,t50
+YLR068W,2,,,,,,False,t0
+YLR069C,0,,,,,,False,t20
+YLR070C,0,,,,,,False,t90
+YLR071C,2,,,,,,False,t70
+YLR072W,2,,,,,,False,t50
+YLR073C,2,,,,,,False,t0
+YLR074C,1,,,,,,False,t0
+YLR075W,2,,,,,,False,t50
+YLR076C,2,,,,,,False,t120
+YLR077W,0,,,,,,False,t20
+YLR078C,0,,,,,,False,t20
+YLR079W,2,M/G1,SIC1,67.0,283.0,ORF column,True,t70
+YLR080W,0,,,,,,False,t20
+YLR081W,1,,,,,,False,t10
+YLR082C,2,,,,,,False,t90
+YLR083C,2,,,,,,False,t90
+YLR084C,2,G2/M,YLR084C,674.0,242.0,ORF column,True,t60
+YLR085C,2,,,,,,False,t50
+YLR086W,2,,,,,,False,t60
+YLR087C,1,,,,,,False,t60
+YLR088W,0,,,,,,False,t60
+YLR089C,0,,,,,,False,t120
+YLR090W,2,,,,,,False,t0
+YLR091W,0,,,,,,False,t30
+YLR092W,1,,,,,,False,t10
+YLR093C,1,,,,,,False,t10
+YLR094C,2,,,,,,False,t70
+YLR095C,0,G2/M,YLR095C,701.0,613.0,ORF column,True,t120
+YLR096W,2,,,,,,False,t60
+YLR097C,2,,,,,,False,t100
+YLR098C,0,G2/M,CHA4,637.0,624.0,ORF column,True,t100
+YLR099C,2,S/G2,YLR099C,584.0,44.0,ORF column,True,t100
+YLR100W,2,G2/M,YLR100W,744.0,132.0,ORF column,True,t100
+YLR101C,2,,,,,,False,t120
+YLR102C,2,,,,,,False,t60
+YLR103C,1,G1,CDC45,234.0,506.0,ORF column,True,t10
+YLR104W,1,,,,,,False,t40
+YLR105C,1,,,,,,False,t0
+YLR106C,2,,,,,,False,t110
+YLR108C,0,,,,,,False,t30
+YLR109W,0,,,,,,False,t30
+YLR110C,2,,,,,,False,t110
+YLR111W,2,,,,,,False,t110
+YLR112W,2,,,,,,False,t120
+YLR113W,2,,,,,,False,t90
+YLR114C,2,,,,,,False,t40
+YLR115W,2,,,,,,False,t120
+YLR116W,2,,,,,,False,t0
+YLR117C,2,,,,,,False,t120
+YLR118C,1,,,,,,False,t0
+YLR119W,1,,,,,,False,t60
+YLR120C,1,,,,,,False,t0
+YLR121C,1,G1,YPS4,324.0,460.0,ORF column,True,t10
+YLR122C,1,,,,,,False,t10
+YLR123C,1,,,,,,False,t10
+YLR124W,2,,,,,,False,t40
+YLR125W,1,,,,,,False,t10
+YLR126C,0,,,,,,False,t20
+YLR127C,0,,,,,,False,t120
+YLR128W,1,,,,,,False,t110
+YLR129W,2,,,,,,False,t60
+YLR130C,2,,,,,,False,t110
+YLR131C,2,G2/M,ACE2,651.0,232.0,ORF column,True,t40
+YLR132C,2,,,,,,False,t120
+YLR133W,1,,,,,,False,t10
+YLR134W,2,,,,,,False,t70
+YLR135W,0,G1,YLR135W,316.0,388.0,ORF column,True,t20
+YLR137W,0,,,,,,False,t30
+YLR138W,1,,,,,,False,t0
+YLR139C,2,,,,,,False,t100
+YLR140W,0,,,,,,False,t90
+YLR141W,2,,,,,,False,t60
+YLR142W,0,S/G2,PUT1,559.0,248.0,ORF column,True,t30
+YLR143W,1,,,,,,False,t0
+YLR144C,2,,,,,,False,t50
+YLR145W,2,,,,,,False,t110
+YLR146C,2,,,,,,False,t0
+YLR147C,2,,,,,,False,t60
+YLR148W,1,,,,,,False,t0
+YLR149C,2,,,,,,False,t60
+YLR150W,1,,,,,,False,t70
+YLR151C,0,G1,YLR151C,344.0,400.0,ORF column,True,t10
+YLR152C,1,,,,,,False,t0
+YLR153C,0,,,,,,False,t100
+YLR154C,1,G1,YLR154C,363.0,609.0,ORF column,True,t20
+YLR155C,0,,,,,,False,t20
+YLR156W,2,,,,,,False,t50
+YLR157C,0,,,,,,False,t20
+YLR158C,0,,,,,,False,t20
+YLR159W,0,,,,,,False,t30
+YLR160C,0,,,,,,False,t20
+YLR161W,2,,,,,,False,t30
+YLR163C,0,,,,,,False,t120
+YLR164W,2,,,,,,False,t60
+YLR165C,2,,,,,,False,t50
+YLR166C,0,,,,,,False,t100
+YLR167W,2,,,,,,False,t100
+YLR168C,2,,,,,,False,t120
+YLR169W,2,S/G2,YLR169W,590.0,166.0,ORF column,True,t80
+YLR170C,1,,,,,,False,t10
+YLR171W,1,,,,,,False,t30
+YLR172C,1,,,,,,False,t0
+YLR173W,2,,,,,,False,t120
+YLR174W,1,,,,,,False,t50
+YLR175W,2,,,,,,False,t40
+YLR176C,1,,,,,,False,t10
+YLR177W,0,,,,,,False,t80
+YLR178C,0,,,,,,False,t20
+YLR179C,1,,,,,,False,t20
+YLR180W,1,S/G2,SAM1,521.0,635.0,ORF column,True,t0
+YLR181C,0,,,,,,False,t120
+YLR182W,0,,,,,,False,t20
+YLR183C,0,G1,YLR183C,291.0,540.0,ORF column,True,t20
+YLR184W,2,,,,,,False,t120
+YLR185W,2,,,,,,False,t120
+YLR186W,1,,,,,,False,t0
+YLR187W,0,,,,,,False,t110
+YLR188W,0,,,,,,False,t20
+YLR189C,2,,,,,,False,t120
+YLR190W,2,G2/M,YLR190W,689.0,236.0,ORF column,True,t50
+YLR191W,2,,,,,,False,t70
+YLR192C,2,,,,,,False,t0
+YLR193C,0,,,,,,False,t30
+YLR194C,2,M/G1,YLR194C,92.0,292.0,ORF column,True,t70
+YLR195C,0,,,,,,False,t70
+YLR196W,2,,,,,,False,t60
+YLR197W,2,,,,,,False,t100
+YLR198C,2,,,,,,False,t40
+YLR199C,1,,,,,,False,t0
+YLR200W,2,,,,,,False,t60
+YLR201C,2,,,,,,False,t50
+YLR202C,2,,,,,,False,t40
+YLR203C,2,,,,,,False,t60
+YLR204W,2,,,,,,False,t110
+YLR205C,0,,,,,,False,t30
+YLR206W,1,,,,,,False,t0
+YLR207W,0,,,,,,False,t120
+YLR208W,2,,,,,,False,t40
+YLR209C,2,S/G2,YLR209C,523.0,719.0,ORF column,True,t50
+YLR210W,0,S/G2,CLB4,489.0,665.0,ORF column,True,t100
+YLR211C,0,,,,,,False,t10
+YLR212C,0,G1,TUB4,272.0,451.0,ORF column,True,t10
+YLR213C,2,,,,,,False,t60
+YLR214W,2,G2/M,FRE1,672.0,99.0,ORF column,True,t40
+YLR215C,2,,,,,,False,t90
+YLR216C,0,,,,,,False,t40
+YLR217W,1,,,,,,False,t80
+YLR218C,1,,,,,,False,t60
+YLR219W,2,,,,,,False,t110
+YLR220W,2,,,,,,False,t60
+YLR221C,1,,,,,,False,t40
+YLR222C,2,,,,,,False,t40
+YLR223C,2,,,,,,False,t120
+YLR224W,2,,,,,,False,t110
+YLR225C,2,S/G2,YLR225C,535.0,359.0,ORF column,True,t120
+YLR226W,2,,,,,,False,t120
+YLR227C,2,,,,,,False,t0
+YLR228C,2,,,,,,False,t110
+YLR229C,2,,,,,,False,t120
+YLR230W,0,,,,,,False,t100
+YLR231C,0,G1,YLR231C,314.0,313.0,ORF column,True,t30
+YLR232W,2,,,,,,False,t40
+YLR233C,1,G1,EST1,231.0,489.0,ORF column,True,t10
+YLR234W,1,G1,TOP3,327.0,463.0,ORF column,True,t20
+YLR235C,1,G1,YLR235C,280.0,422.0,ORF column,True,t20
+YLR236C,1,G1,YLR236C,289.0,423.0,ORF column,True,t40
+YLR237W,1,,,,,,False,t30
+YLR238W,2,,,,,,False,t0
+YLR239C,1,,,,,,False,t0
+YLR240W,2,,,,,,False,t70
+YLR241W,1,,,,,,False,t10
+YLR242C,1,,,,,,False,t50
+YLR243W,2,,,,,,False,t0
+YLR244C,2,,,,,,False,t110
+YLR245C,0,,,,,,False,t90
+YLR246W,2,,,,,,False,t90
+YLR247C,2,,,,,,False,t50
+YLR248W,1,,,,,,False,t0
+YLR249W,2,,,,,,False,t40
+YLR250W,1,,,,,,False,t0
+YLR251W,2,,,,,,False,t40
+YLR252W,2,,,,,,False,t60
+YLR253W,2,,,,,,False,t60
+YLR254C,2,G2/M,YLR254C,764.0,83.0,ORF column,True,t0
+YLR255C,2,,,,,,False,t120
+YLR256W,2,,,,,,False,t60
+YLR257W,1,,,,,,False,t10
+YLR258W,0,,,,,,False,t90
+YLR259C,0,,,,,,False,t30
+YLR260W,0,,,,,,False,t30
+YLR261C,2,,,,,,False,t40
+YLR262C,2,,,,,,False,t70
+YLR262C-A,1,,,,,,False,t120
+YLR263W,2,,,,,,False,t120
+YLR264W,2,,,,,,False,t70
+YLR265C,1,,,,,,False,t0
+YLR266C,1,,,,,,False,t10
+YLR267W,1,,,,,,False,t10
+YLR268W,2,,,,,,False,t30
+YLR269C,2,,,,,,False,t100
+YLR270W,1,,,,,,False,t10
+YLR271W,0,,,,,,False,t10
+YLR272C,0,,,,,,False,t20
+YLR273C,1,M/G1,PIG1,84.0,322.0,ORF column,True,t10
+YLR274W,1,M/G1,CDC46,11.0,74.0,ORF column,True,t10
+YLR275W,2,,,,,,False,t40
+YLR276C,2,,,,,,False,t0
+YLR277C,2,,,,,,False,t120
+YLR278C,0,,,,,,False,t110
+YLR279W,1,,,,,,False,t60
+YLR280C,0,,,,,,False,t90
+YLR281C,1,,,,,,False,t0
+YLR282C,1,,,,,,False,t40
+YLR283W,1,,,,,,False,t40
+YLR284C,0,,,,,,False,t90
+YLR285W,2,,,,,,False,t50
+YLR287C,2,,,,,,False,t0
+YLR287C-A,2,,,,,,False,t100
+YLR288C,2,S/G2,MEC3,490.0,618.0,ORF column,True,t0
+YLR289W,0,,,,,,False,t20
+YLR290C,0,,,,,,False,t90
+YLR291C,2,,,,,,False,t0
+YLR292C,1,,,,,,False,t0
+YLR293C,1,,,,,,False,t10
+YLR294C,1,,,,,,False,t60
+YLR295C,1,,,,,,False,t10
+YLR296W,2,,,,,,False,t100
+YLR297W,2,G2/M,YLR297W,768.0,71.0,ORF column,True,t60
+YLR298C,2,,,,,,False,t120
+YLR299W,1,,,,,,False,t10
+YLR300W,0,G1,EXG1,381.0,756.0,ORF column,True,t90
+YLR301W,2,,,,,,False,t60
+YLR302C,1,S/G2,YLR302C,487.0,640.0,ORF column,True,t10
+YLR303W,1,S/G2,MET17,491.0,655.0,ORF column,True,t10
+YLR304C,0,,,,,,False,t10
+YLR305C,2,,,,,,False,t120
+YLR306W,2,,,,,,False,t50
+YLR307W,0,,,,,,False,t30
+YLR308W,1,,,,,,False,t10
+YLR309C,1,,,,,,False,t40
+YLR310C,2,,,,,,False,t60
+YLR311C,0,,,,,,False,t10
+YLR312C,0,,,,,,False,t60
+YLR312W-A,0,,,,,,False,t70
+YLR313C,1,G1,SPH1,251.0,503.0,ORF column,True,t10
+YLR314C,0,,,,,,False,t40
+YLR315W,1,,,,,,False,t20
+YLR316C,2,,,,,,False,t0
+YLR317W,1,,,,,,False,t0
+YLR318W,0,,,,,,False,t110
+YLR319C,2,,,,,,False,t60
+YLR320W,2,,,,,,False,t120
+YLR321C,0,,,,,,False,t110
+YLR322W,2,,,,,,False,t60
+YLR323C,2,,,,,,False,t40
+YLR324W,2,,,,,,False,t70
+YLR325C,2,,,,,,False,t110
+YLR326W,0,G1,YLR326W,390.0,753.0,ORF column,True,t20
+YLR327C,1,,,,,,False,t10
+YLR328W,2,,,,,,False,t100
+YLR329W,0,,,,,,False,t20
+YLR330W,1,,,,,,False,t10
+YLR331C,1,,,,,,False,t0
+YLR332W,1,,,,,,False,t0
+YLR333C,2,,,,,,False,t80
+YLR334C,1,,,,,,False,t10
+YLR335W,2,,,,,,False,t100
+YLR336C,2,,,,,,False,t50
+YLR337C,1,,,,,,False,t10
+YLR338W,1,,,,,,False,t0
+YLR339C,2,,,,,,False,t50
+YLR340W,2,,,,,,False,t80
+YLR341W,0,,,,,,False,t120
+YLR342W,0,G1,FKS1,405.0,779.0,ORF column,True,t30
+YLR343W,0,G1,YLR343W,296.0,725.0,ORF column,True,t20
+YLR344W,1,,,,,,False,t120
+YLR345W,1,,,,,,False,t10
+YLR346C,0,,,,,,False,t50
+YLR347C,2,G2/M,KAP95,793.0,254.0,ORF column,True,t0
+YLR348C,0,,,,,,False,t60
+YLR349W,1,,,,,,False,t10
+YLR350W,2,,,,,,False,t120
+YLR351C,1,,,,,,False,t20
+YLR352W,0,,,,,,False,t20
+YLR353W,2,G2/M,BUD8,639.0,212.0,ORF column,True,t120
+YLR354C,0,,,,,,False,t20
+YLR355C,2,,,,,,False,t70
+YLR356W,0,,,,,,False,t30
+YLR357W,2,,,,,,False,t60
+YLR358C,2,,,,,,False,t70
+YLR359W,1,,,,,,False,t90
+YLR360W,0,,,,,,False,t50
+YLR361C,0,,,,,,False,t70
+YLR362W,1,,,,,,False,t0
+YLR363C,2,,,,,,False,t50
+YLR364W,1,,,,,,False,t10
+YLR365W,2,,,,,,False,t40
+YLR366W,0,,,,,,False,t40
+YLR367W,1,,,,,,False,t90
+YLR368W,2,,,,,,False,t90
+YLR369W,1,,,,,,False,t10
+YLR370C,1,,,,,,False,t20
+YLR371W,0,,,,,,False,t80
+YLR372W,0,G1,SUR4,397.0,759.0,ORF column,True,t100
+YLR373C,0,S/G2,YLR373C,494.0,783.0,ORF column,True,t100
+YLR374C,1,,,,,,False,t80
+YLR375W,2,,,,,,False,t70
+YLR376C,0,,,,,,False,t60
+YLR377C,0,,,,,,False,t120
+YLR378C,0,,,,,,False,t30
+YLR379W,2,,,,,,False,t50
+YLR380W,0,G1,YLR380W,412.0,747.0,ORF column,True,t30
+YLR382C,1,,,,,,False,t10
+YLR383W,0,G1,RHC18,349.0,502.0,ORF column,True,t20
+YLR384C,2,,,,,,False,t60
+YLR385C,1,,,,,,False,t60
+YLR386W,0,,,,,,False,t20
+YLR387C,0,,,,,,False,t20
+YLR388W,2,,,,,,False,t60
+YLR389C,1,,,,,,False,t10
+YLR390W,0,,,,,,False,t20
+YLR391W-A,0,,,,,,False,t30
+YLR392C,2,,,,,,False,t60
+YLR393W,1,,,,,,False,t10
+YLR394W,1,,,,,,False,t10
+YLR395C,0,,,,,,False,t100
+YLR396C,2,,,,,,False,t0
+YLR397C,2,,,,,,False,t110
+YLR398C,2,,,,,,False,t40
+YLR399C,2,,,,,,False,t120
+YLR400W,2,,,,,,False,t60
+YLR401C,2,,,,,,False,t0
+YLR402W,2,,,,,,False,t40
+YLR403W,2,,,,,,False,t110
+YLR404W,1,,,,,,False,t20
+YLR405W,2,,,,,,False,t100
+YLR406C,2,,,,,,False,t50
+YLR407W,2,,,,,,False,t40
+YLR408C,2,,,,,,False,t110
+YLR409C,2,,,,,,False,t0
+YLR410W,1,,,,,,False,t30
+YLR411W,1,,,,,,False,t10
+YLR412W,2,,,,,,False,t50
+YLR413W,2,G2/M,YLR413W,774.0,257.0,ORF column,True,t0
+YLR414C,2,,,,,,False,t70
+YLR415C,2,,,,,,False,t0
+YLR416C,2,,,,,,False,t50
+YLR417W,2,,,,,,False,t60
+YLR418C,2,,,,,,False,t0
+YLR419W,2,,,,,,False,t30
+YLR420W,2,,,,,,False,t50
+YLR421C,2,,,,,,False,t60
+YLR422W,0,,,,,,False,t120
+YLR423C,2,,,,,,False,t80
+YLR424W,0,,,,,,False,t30
+YLR425W,0,,,,,,False,t110
+YLR426W,1,,,,,,False,t70
+YLR427W,2,,,,,,False,t50
+YLR428C,2,,,,,,False,t60
+YLR429W,2,,,,,,False,t120
+YLR430W,2,,,,,,False,t50
+YLR431C,1,,,,,,False,t0
+YLR432W,2,,,,,,False,t40
+YLR433C,1,,,,,,False,t0
+YLR434C,2,,,,,,False,t50
+YLR435W,2,,,,,,False,t40
+YLR436C,0,,,,,,False,t30
+YLR437C,2,S/G2,YLR437C,578.0,689.0,ORF column,True,t40
+YLR438C-A,2,,,,,,False,t60
+YLR438W,2,G2/M,CAR2,660.0,253.0,ORF column,True,t50
+YLR439W,0,,,,,,False,t20
+YLR440C,0,,,,,,False,t90
+YLR441C,0,,,,,,False,t90
+YLR442C,1,,,,,,False,t20
+YLR443W,0,,,,,,False,t20
+YLR444C,0,,,,,,False,t90
+YLR445W,0,,,,,,False,t30
+YLR446W,2,,,,,,False,t60
+YLR447C,2,,,,,,False,t100
+YLR448W,1,,,,,,False,t10
+YLR449W,1,,,,,,False,t0
+YLR450W,2,,,,,,False,t0
+YLR451W,2,,,,,,False,t40
+YLR452C,2,M/G1,SST2,56.0,308.0,ORF column,True,t0
+YLR453C,2,,,,,,False,t0
+YLR454W,1,,,,,,False,t10
+YLR455W,0,S,YLR455W,475.0,686.0,ORF column,True,t90
+YLR456W,1,,,,,,False,t60
+YLR457C,1,G1,NBP1,202.0,411.0,ORF column,True,t10
+YLR458W,1,G1,YLR458W,265.0,412.0,ORF column,True,t10
+YLR459W,0,,,,,,False,t30
+YLR460C,2,,,,,,False,t40
+YLR461W,1,,,,,,False,t60
+YLR462W,1,G1,YLR462W,139.0,577.0,ORF column,True,t10
+YLR463C,1,M/G1,YLR463C,100.0,576.0,ORF column,True,t10
+YLR464W,1,G1,YLR464W,122.0,575.0,ORF column,True,t10
+YLR465C,1,M/G1,YLR465C,91.0,559.0,ORF column,True,t10
+YLR466W,1,M/G1,YLR466W,102.0,599.0,ORF column,True,t10
+YLR467W,1,G1,YLR467W,115.0,596.0,ORF column,True,t10
+YML001W,0,,,,,,False,t30
+YML002W,0,,,,,,False,t20
+YML003W,2,,,,,,False,t60
+YML004C,1,,,,,,False,t20
+YML005W,2,,,,,,False,t0
+YML006C,2,,,,,,False,t0
+YML007W,2,,,,,,False,t60
+YML008C,0,,,,,,False,t30
+YML009C,2,,,,,,False,t80
+YML010C-B,2,,,,,,False,t40
+YML010W,2,,,,,,False,t60
+YML010W-A,2,,,,,,False,t60
+YML011C,2,,,,,,False,t60
+YML012W,0,S,ERV25,429.0,785.0,ORF column,True,t30
+YML013C-A,0,,,,,,False,t10
+YML013W,2,,,,,,False,t60
+YML015C,1,,,,,,False,t0
+YML016C,0,,,,,,False,t100
+YML017W,2,,,,,,False,t60
+YML018C,2,,,,,,False,t0
+YML019W,0,,,,,,False,t100
+YML020W,1,G1,YML020W,266.0,389.0,ORF column,True,t20
+YML021C,0,G1,UNG1,343.0,511.0,ORF column,True,t20
+YML022W,2,,,,,,False,t60
+YML023C,0,,,,,,False,t120
+YML024W,2,,,,,,False,t40
+YML025C,0,,,,,,False,t110
+YML026C,2,,,,,,False,t100
+YML027W,0,G1,YOX1,276.0,537.0,ORF column,True,t10
+YML028W,2,,,,,,False,t100
+YML029W,2,,,,,,False,t0
+YML030W,1,,,,,,False,t60
+YML031W,2,,,,,,False,t90
+YML032C,2,,,,,,False,t40
+YML032C-A,1,,,,,,False,t100
+YML033W,2,G2/M,YML033W,638.0,228.0,ORF column,True,t50
+YML034W,2,G2/M,YML034W,628.0,229.0,ORF column,True,t50
+YML035C,2,,,,,,False,t60
+YML035C-A,2,G2/M,YML035C-A,662.0,178.0,ORF column,True,t40
+YML036W,2,,,,,,False,t120
+YML037C,2,,,,,,False,t60
+YML038C,1,,,,,,False,t70
+YML039W,1,,,,,,False,t40
+YML040W,1,,,,,,False,t10
+YML041C,2,,,,,,False,t40
+YML042W,1,,,,,,False,t0
+YML043C,2,,,,,,False,t0
+YML045W,1,,,,,,False,t90
+YML046W,2,,,,,,False,t0
+YML047C,2,,,,,,False,t0
+YML048W,2,,,,,,False,t70
+YML048W-A,0,,,,,,False,t0
+YML049C,2,,,,,,False,t120
+YML050W,0,G2/M,YML050W,761.0,63.0,ORF column,True,t100
+YML051W,0,,,,,,False,t30
+YML052W,2,G2/M,SUR7,636.0,155.0,ORF column,True,t50
+YML053C,2,,,,,,False,t40
+YML054C,2,,,,,,False,t0
+YML055W,1,,,,,,False,t110
+YML056C,2,,,,,,False,t40
+YML057W,1,,,,,,False,t20
+YML058C-A,1,,,,,,False,t100
+YML058W,2,S/G2,SML1,596.0,147.0,ORF column,True,t50
+YML059C,0,,,,,,False,t20
+YML060W,0,G1,OGG1,261.0,465.0,ORF column,True,t20
+YML061C,0,G1,PIF1,342.0,466.0,ORF column,True,t20
+YML062C,2,,,,,,False,t110
+YML063W,2,,,,,,False,t90
+YML064C,2,G2/M,TEM1,714.0,222.0,ORF column,True,t50
+YML065W,2,S/G2,ORC1,561.0,664.0,ORF column,True,t40
+YML066C,2,G2/M,YML066C,702.0,37.0,ORF column,True,t30
+YML067C,0,,,,,,False,t100
+YML068W,2,,,,,,False,t80
+YML069W,1,,,,,,False,t10
+YML070W,0,,,,,,False,t20
+YML071C,2,,,,,,False,t120
+YML072C,0,S/G2,YML072C,585.0,149.0,ORF column,True,t40
+YML073C,0,,,,,,False,t30
+YML074C,1,,,,,,False,t0
+YML075C,2,,,,,,False,t70
+YML076C,2,,,,,,False,t80
+YML077W,2,,,,,,False,t50
+YML078W,0,,,,,,False,t20
+YML079W,1,,,,,,False,t60
+YML080W,2,,,,,,False,t0
+YML081C-A,1,,,,,,False,t120
+YML081W,2,,,,,,False,t120
+YML082W,2,,,,,,False,t80
+YML083C,0,,,,,,False,t30
+YML084W,2,,,,,,False,t100
+YML085C,0,,,,,,False,t40
+YML086C,1,,,,,,False,t120
+YML087C,0,,,,,,False,t90
+YML088W,2,,,,,,False,t120
+YML089C,1,,,,,,False,t10
+YML090W,1,,,,,,False,t10
+YML091C,1,,,,,,False,t10
+YML092C,2,,,,,,False,t100
+YML093W,2,,,,,,False,t60
+YML094W,2,,,,,,False,t40
+YML095C,2,,,,,,False,t40
+YML095C-A,0,,,,,,False,t110
+YML096W,0,,,,,,False,t20
+YML097C,2,,,,,,False,t60
+YML098W,1,,,,,,False,t0
+YML099C,2,,,,,,False,t60
+YML100W,0,G1,TSL1,142.0,342.0,ORF column,True,t80
+YML100W-A,1,,,,,,False,t40
+YML101C,1,,,,,,False,t20
+YML102C-A,0,,,,,,False,t20
+YML102W,1,G1,CAC2,191.0,492.0,ORF column,True,t20
+YML103C,2,,,,,,False,t50
+YML104C,2,,,,,,False,t120
+YML105C,0,,,,,,False,t70
+YML106W,2,,,,,,False,t50
+YML107C,2,,,,,,False,t0
+YML108W,2,,,,,,False,t0
+YML109W,0,G1,ZDS2,378.0,462.0,ORF column,True,t30
+YML110C,1,M/G1,DBI56,58.0,325.0,ORF column,True,t10
+YML111W,1,,,,,,False,t10
+YML112W,2,,,,,,False,t50
+YML113W,2,,,,,,False,t0
+YML114C,2,,,,,,False,t120
+YML115C,0,,,,,,False,t100
+YML116W,0,G2/M,ATR1,676.0,164.0,ORF column,True,t30
+YML117W,0,S,YML117W,428.0,360.0,ORF column,True,t30
+YML118W,2,,,,,,False,t120
+YML119W,2,G2/M,YML119W,707.0,235.0,ORF column,True,t50
+YML120C,1,G2/M,NDI1,622.0,128.0,ORF column,True,t10
+YML121W,1,,,,,,False,t0
+YML122C,2,,,,,,False,t60
+YML123C,0,G2/M,PHO84,641.0,140.0,ORF column,True,t40
+YML124C,0,,,,,,False,t40
+YML125C,0,S/G2,YML125C,560.0,661.0,ORF column,True,t40
+YML126C,0,,,,,,False,t100
+YML127W,0,,,,,,False,t90
+YML128C,0,,,,,,False,t10
+YML129C,1,,,,,,False,t10
+YML130C,2,,,,,,False,t60
+YML131W,1,,,,,,False,t30
+YML132W,1,,,,,,False,t20
+YML133C,1,G1,YML133C,146.0,517.0,ORF column,True,t10
+YMR001C,2,G2/M,CDC5,647.0,240.0,ORF column,True,t50
+YMR002W,2,S/G2,YMR002W,581.0,116.0,ORF column,True,t40
+YMR003W,0,S/G2,YMR003W,526.0,684.0,ORF column,True,t100
+YMR004W,2,,,,,,False,t0
+YMR005W,2,,,,,,False,t120
+YMR006C,2,,,,,,False,t110
+YMR007W,1,,,,,,False,t90
+YMR008C,1,,,,,,False,t20
+YMR009W,1,,,,,,False,t10
+YMR010W,0,,,,,,False,t80
+YMR011W,1,M/G1,HXT2,57.0,11.0,ORF column,True,t20
+YMR012W,0,,,,,,False,t90
+YMR013C,1,,,,,,False,t10
+YMR014W,2,,,,,,False,t0
+YMR015C,2,G2/M,ERG5,619.0,142.0,ORF column,True,t120
+YMR016C,1,,,,,,False,t10
+YMR017W,2,,,,,,False,t120
+YMR018W,2,,,,,,False,t60
+YMR019W,0,,,,,,False,t30
+YMR020W,0,,,,,,False,t20
+YMR021C,2,,,,,,False,t120
+YMR022W,1,,,,,,False,t20
+YMR023C,2,,,,,,False,t60
+YMR024W,0,,,,,,False,t70
+YMR025W,1,,,,,,False,t10
+YMR026C,2,,,,,,False,t110
+YMR027W,0,,,,,,False,t20
+YMR028W,1,,,,,,False,t60
+YMR029C,0,,,,,,False,t10
+YMR030W,1,,,,,,False,t10
+YMR031C,2,G2/M,YMR031C,748.0,81.0,ORF column,True,t60
+YMR031W-A,2,,,,,,False,t50
+YMR032W,2,G2/M,HOF1,693.0,234.0,ORF column,True,t50
+YMR033W,2,,,,,,False,t50
+YMR034C,2,,,,,,False,t50
+YMR035W,2,,,,,,False,t40
+YMR036C,0,,,,,,False,t30
+YMR037C,0,,,,,,False,t30
+YMR038C,2,,,,,,False,t70
+YMR039C,1,,,,,,False,t0
+YMR040W,2,,,,,,False,t70
+YMR041C,1,,,,,,False,t0
+YMR042W,2,,,,,,False,t120
+YMR043W,2,,,,,,False,t90
+YMR044W,2,,,,,,False,t120
+YMR045C,1,,,,,,False,t10
+YMR046C,1,,,,,,False,t40
+YMR046W-A,1,,,,,,False,t10
+YMR047C,2,,,,,,False,t60
+YMR048W,0,G1,YMR048W,229.0,413.0,ORF column,True,t20
+YMR049C,2,,,,,,False,t0
+YMR050C,2,,,,,,False,t40
+YMR051C,1,,,,,,False,t10
+YMR052C-A,1,,,,,,False,t80
+YMR052W,2,,,,,,False,t50
+YMR053C,1,,,,,,False,t90
+YMR054W,0,,,,,,False,t30
+YMR055C,0,S/G2,BUB2,548.0,659.0,ORF column,True,t100
+YMR056C,2,,,,,,False,t40
+YMR057C,2,,,,,,False,t70
+YMR058W,2,G2/M,FET3,710.0,131.0,ORF column,True,t120
+YMR059W,2,,,,,,False,t60
+YMR060C,0,,,,,,False,t40
+YMR061W,2,,,,,,False,t100
+YMR062C,0,,,,,,False,t20
+YMR063W,2,,,,,,False,t60
+YMR064W,2,,,,,,False,t80
+YMR065W,2,,,,,,False,t0
+YMR066W,2,,,,,,False,t50
+YMR067C,2,,,,,,False,t50
+YMR068W,1,,,,,,False,t30
+YMR069W,1,,,,,,False,t20
+YMR070W,0,,,,,,False,t40
+YMR071C,2,,,,,,False,t0
+YMR072W,2,,,,,,False,t100
+YMR073C,2,,,,,,False,t40
+YMR074C,1,,,,,,False,t60
+YMR075C-A,1,,,,,,False,t10
+YMR075W,1,,,,,,False,t10
+YMR076C,0,G1,PDS5,257.0,443.0,ORF column,True,t20
+YMR077C,1,,,,,,False,t80
+YMR078C,0,G1,CTF18,192.0,445.0,ORF column,True,t20
+YMR079W,0,,,,,,False,t90
+YMR080C,2,,,,,,False,t100
+YMR081C,2,,,,,,False,t60
+YMR082C,2,,,,,,False,t60
+YMR083W,0,,,,,,False,t20
+YMR084W,1,,,,,,False,t0
+YMR085W,0,,,,,,False,t20
+YMR086C-A,2,,,,,,False,t120
+YMR086W,2,,,,,,False,t80
+YMR087W,0,,,,,,False,t100
+YMR088C,0,,,,,,False,t100
+YMR089C,2,,,,,,False,t80
+YMR090W,2,,,,,,False,t120
+YMR091C,2,,,,,,False,t100
+YMR092C,2,,,,,,False,t50
+YMR093W,2,,,,,,False,t0
+YMR095C,0,,,,,,False,t90
+YMR096W,0,,,,,,False,t20
+YMR097C,1,,,,,,False,t10
+YMR098C,1,,,,,,False,t10
+YMR099C,0,,,,,,False,t20
+YMR100W,2,,,,,,False,t110
+YMR101C,2,,,,,,False,t110
+YMR102C,2,,,,,,False,t60
+YMR103C,1,,,,,,False,t10
+YMR105C,0,,,,,,False,t20
+YMR106C,2,,,,,,False,t60
+YMR107W,1,,,,,,False,t10
+YMR108W,0,,,,,,False,t40
+YMR109W,1,,,,,,False,t10
+YMR110C,1,,,,,,False,t10
+YMR111C,1,,,,,,False,t10
+YMR112C,1,,,,,,False,t0
+YMR113W,2,,,,,,False,t60
+YMR114C,0,,,,,,False,t10
+YMR115W,2,,,,,,False,t60
+YMR116C,0,,,,,,False,t30
+YMR117C,0,,,,,,False,t40
+YMR118C,2,,,,,,False,t60
+YMR119W,1,,,,,,False,t10
+YMR119W-A,2,,,,,,False,t100
+YMR120C,0,,,,,,False,t20
+YMR121C,2,,,,,,False,t90
+YMR122C,2,,,,,,False,t40
+YMR123W,2,,,,,,False,t120
+YMR124W,1,,,,,,False,t0
+YMR125W,2,,,,,,False,t0
+YMR126C,2,,,,,,False,t60
+YMR127C,0,,,,,,False,t110
+YMR128W,2,,,,,,False,t120
+YMR129W,2,,,,,,False,t90
+YMR130W,2,,,,,,False,t120
+YMR131C,2,,,,,,False,t100
+YMR132C,2,,,,,,False,t110
+YMR133W,1,,,,,,False,t0
+YMR134W,2,,,,,,False,t30
+YMR135C,0,,,,,,False,t120
+YMR135W-A,1,,,,,,False,t50
+YMR136W,2,,,,,,False,t80
+YMR137C,2,,,,,,False,t90
+YMR138W,2,,,,,,False,t50
+YMR139W,1,,,,,,False,t10
+YMR140W,1,,,,,,False,t10
+YMR141C,1,,,,,,False,t50
+YMR142C,1,,,,,,False,t100
+YMR143W,2,,,,,,False,t40
+YMR144W,0,S,YMR144W,433.0,774.0,ORF column,True,t20
+YMR145C,2,G2/M,YMR145C,649.0,118.0,ORF column,True,t120
+YMR146C,1,,,,,,False,t0
+YMR147W,2,,,,,,False,t60
+YMR148W,2,,,,,,False,t50
+YMR149W,0,,,,,,False,t100
+YMR150C,1,,,,,,False,t20
+YMR151W,2,,,,,,False,t30
+YMR152W,0,,,,,,False,t20
+YMR153C-A,1,,,,,,False,t10
+YMR153W,2,,,,,,False,t100
+YMR154C,2,,,,,,False,t0
+YMR155W,0,,,,,,False,t120
+YMR156C,2,,,,,,False,t60
+YMR157C,0,,,,,,False,t70
+YMR158C-B,1,,,,,,False,t0
+YMR158W,0,,,,,,False,t90
+YMR158W-A,0,,,,,,False,t100
+YMR160W,0,,,,,,False,t90
+YMR161W,0,,,,,,False,t30
+YMR162C,2,,,,,,False,t60
+YMR163C,0,S/G2,YMR163C,514.0,671.0,ORF column,True,t40
+YMR164C,1,,,,,,False,t0
+YMR165C,2,,,,,,False,t60
+YMR166C,0,,,,,,False,t30
+YMR167W,2,,,,,,False,t120
+YMR168C,2,,,,,,False,t50
+YMR169C,1,,,,,,False,t20
+YMR170C,2,,,,,,False,t60
+YMR171C,2,,,,,,False,t0
+YMR172C-A,2,,,,,,False,t0
+YMR172W,2,,,,,,False,t50
+YMR173W,1,,,,,,False,t0
+YMR173W-A,1,,,,,,False,t0
+YMR174C,1,,,,,,False,t10
+YMR175W,0,,,,,,False,t100
+YMR176W,2,,,,,,False,t120
+YMR177W,0,,,,,,False,t100
+YMR178W,0,,,,,,False,t120
+YMR179W,1,G1,SPT21,175.0,499.0,ORF column,True,t10
+YMR180C,0,,,,,,False,t80
+YMR181C,2,,,,,,False,t60
+YMR182C,2,,,,,,False,t120
+YMR183C,2,S/G2,SSO2,577.0,243.0,ORF column,True,t100
+YMR184W,2,,,,,,False,t60
+YMR185W,0,,,,,,False,t20
+YMR186W,0,,,,,,False,t40
+YMR187C,2,,,,,,False,t0
+YMR188C,2,,,,,,False,t40
+YMR189W,0,G2/M,GCV2,642.0,114.0,ORF column,True,t40
+YMR190C,0,,,,,,False,t30
+YMR191W,0,,,,,,False,t30
+YMR192W,2,,,,,,False,t0
+YMR193C-A,2,,,,,,False,t110
+YMR193W,0,,,,,,False,t20
+YMR194C-A,1,,,,,,False,t60
+YMR194W,2,,,,,,False,t110
+YMR195W,0,,,,,,False,t20
+YMR196W,2,,,,,,False,t50
+YMR197C,1,,,,,,False,t10
+YMR198W,2,S/G2,CIK1,528.0,670.0,ORF column,True,t0
+YMR199W,0,G1,CLN1,304.0,476.0,ORF column,True,t10
+YMR200W,0,,,,,,False,t100
+YMR201C,2,,,,,,False,t90
+YMR202W,2,G2/M,ERG2,650.0,141.0,ORF column,True,t50
+YMR203W,0,,,,,,False,t30
+YMR204C,2,,,,,,False,t90
+YMR205C,0,,,,,,False,t50
+YMR206W,1,,,,,,False,t0
+YMR207C,0,,,,,,False,t100
+YMR208W,2,,,,,,False,t70
+YMR209C,1,,,,,,False,t20
+YMR210W,2,,,,,,False,t60
+YMR211W,2,,,,,,False,t0
+YMR212C,2,,,,,,False,t120
+YMR213W,2,,,,,,False,t100
+YMR214W,0,,,,,,False,t0
+YMR215W,0,S/G2,YMR215W,517.0,714.0,ORF column,True,t100
+YMR216C,2,,,,,,False,t90
+YMR217W,1,,,,,,False,t0
+YMR218C,1,,,,,,False,t0
+YMR219W,2,,,,,,False,t60
+YMR220W,2,,,,,,False,t100
+YMR221C,0,,,,,,False,t80
+YMR222C,2,,,,,,False,t80
+YMR223W,2,,,,,,False,t0
+YMR224C,1,,,,,,False,t0
+YMR225C,1,,,,,,False,t40
+YMR226C,1,,,,,,False,t20
+YMR227C,2,,,,,,False,t0
+YMR228W,2,,,,,,False,t60
+YMR229C,2,,,,,,False,t60
+YMR230W,2,,,,,,False,t40
+YMR231W,2,,,,,,False,t60
+YMR232W,1,,,,,,False,t0
+YMR233W,2,,,,,,False,t40
+YMR234W,2,,,,,,False,t110
+YMR235C,2,,,,,,False,t70
+YMR236W,1,,,,,,False,t0
+YMR237W,0,,,,,,False,t100
+YMR238W,0,S,DFG5,465.0,775.0,ORF column,True,t20
+YMR239C,2,,,,,,False,t0
+YMR240C,2,,,,,,False,t60
+YMR241W,0,,,,,,False,t20
+YMR242C,1,,,,,,False,t60
+YMR243C,2,,,,,,False,t60
+YMR244C-A,2,,,,,,False,t60
+YMR244W,2,,,,,,False,t90
+YMR245W,2,,,,,,False,t60
+YMR246W,2,M/G1,FAA4,14.0,259.0,ORF column,True,t100
+YMR247C,2,,,,,,False,t70
+YMR250W,1,,,,,,False,t10
+YMR251W,1,,,,,,False,t30
+YMR251W-A,1,,,,,,False,t80
+YMR252C,0,,,,,,False,t20
+YMR253C,1,G2/M,YMR253C,734.0,33.0,ORF column,True,t10
+YMR254C,1,G2/M,YMR254C,753.0,176.0,ORF column,True,t10
+YMR255W,2,,,,,,False,t120
+YMR256C,1,,,,,,False,t10
+YMR257C,1,,,,,,False,t10
+YMR258C,0,,,,,,False,t30
+YMR259C,2,,,,,,False,t70
+YMR260C,1,,,,,,False,t10
+YMR261C,0,,,,,,False,t80
+YMR262W,1,,,,,,False,t10
+YMR263W,2,,,,,,False,t110
+YMR264W,1,,,,,,False,t20
+YMR265C,2,,,,,,False,t0
+YMR266W,0,,,,,,False,t0
+YMR267W,2,,,,,,False,t120
+YMR268C,2,,,,,,False,t0
+YMR269W,2,,,,,,False,t0
+YMR270C,2,,,,,,False,t90
+YMR271C,0,,,,,,False,t30
+YMR272C,0,,,,,,False,t100
+YMR273C,1,,,,,,False,t60
+YMR274C,2,,,,,,False,t110
+YMR275C,0,,,,,,False,t10
+YMR276W,0,,,,,,False,t100
+YMR278W,0,S/G2,YMR278W,547.0,355.0,ORF column,True,t30
+YMR279C,1,,,,,,False,t20
+YMR280C,1,,,,,,False,t10
+YMR281W,1,,,,,,False,t10
+YMR282C,1,,,,,,False,t20
+YMR283C,2,,,,,,False,t110
+YMR284W,2,,,,,,False,t120
+YMR285C,2,,,,,,False,t0
+YMR286W,1,,,,,,False,t0
+YMR287C,1,,,,,,False,t40
+YMR288W,2,,,,,,False,t120
+YMR289W,1,,,,,,False,t0
+YMR290C,2,,,,,,False,t110
+YMR290W-A,2,,,,,,False,t120
+YMR291W,0,,,,,,False,t20
+YMR292W,0,,,,,,False,t20
+YMR293C,2,,,,,,False,t60
+YMR294W,0,,,,,,False,t50
+YMR294W-A,0,,,,,,False,t30
+YMR295C,0,S,YMR295C,416.0,631.0,ORF column,True,t100
+YMR296C,1,,,,,,False,t20
+YMR297W,0,,,,,,False,t100
+YMR298W,0,,,,,,False,t20
+YMR299C,2,,,,,,False,t40
+YMR300C,2,,,,,,False,t100
+YMR301C,0,,,,,,False,t30
+YMR302C,0,,,,,,False,t100
+YMR303C,0,,,,,,False,t50
+YMR304C-A,0,,,,,,False,t20
+YMR304W,1,,,,,,False,t10
+YMR305C,0,G1,YMR305C,339.0,478.0,ORF column,True,t20
+YMR306C-A,2,,,,,,False,t60
+YMR306W,2,,,,,,False,t60
+YMR307W,0,G1,GAS1,407.0,767.0,ORF column,True,t90
+YMR308C,1,,,,,,False,t0
+YMR309C,2,,,,,,False,t0
+YMR310C,2,,,,,,False,t0
+YMR311C,1,,,,,,False,t10
+YMR312W,2,,,,,,False,t100
+YMR313C,2,,,,,,False,t110
+YMR314W,2,,,,,,False,t100
+YMR315W,1,,,,,,False,t10
+YMR316C-A,0,,,,,,False,t0
+YMR316C-B,2,,,,,,False,t90
+YMR316W,2,,,,,,False,t110
+YMR317W,1,,,,,,False,t0
+YMR318C,1,,,,,,False,t20
+YMR319C,2,,,,,,False,t60
+YMR320W,2,,,,,,False,t60
+YMR321C,2,,,,,,False,t110
+YMR322C,2,,,,,,False,t60
+YMR323W,2,,,,,,False,t120
+YMR324C,2,,,,,,False,t30
+YMR325W,2,,,,,,False,t60
+YMR326C,0,,,,,,False,t10
+YNL001W,2,,,,,,False,t60
+YNL002C,2,,,,,,False,t0
+YNL003C,0,S/G2,PET8,555.0,657.0,ORF column,True,t110
+YNL004W,2,,,,,,False,t100
+YNL005C,0,,,,,,False,t20
+YNL006W,0,,,,,,False,t30
+YNL007C,0,,,,,,False,t30
+YNL008C,0,,,,,,False,t30
+YNL009W,0,,,,,,False,t80
+YNL010W,2,,,,,,False,t40
+YNL011C,2,,,,,,False,t60
+YNL012W,1,,,,,,False,t60
+YNL013C,0,,,,,,False,t0
+YNL014W,2,,,,,,False,t80
+YNL015W,2,G1,PBI2,246.0,343.0,ORF column,True,t90
+YNL016W,0,,,,,,False,t70
+YNL017C,2,,,,,,False,t50
+YNL018C,2,,,,,,False,t70
+YNL019C,1,,,,,,False,t10
+YNL020C,0,,,,,,False,t90
+YNL021W,2,,,,,,False,t120
+YNL022C,2,,,,,,False,t0
+YNL023C,2,,,,,,False,t0
+YNL024C,2,,,,,,False,t40
+YNL025C,2,,,,,,False,t60
+YNL026W,1,,,,,,False,t20
+YNL027W,2,,,,,,False,t120
+YNL030W,0,S,HHF2,418.0,792.0,ORF column,True,t30
+YNL031C,0,S,HHT2,430.0,793.0,ORF column,True,t30
+YNL032W,2,,,,,,False,t110
+YNL033W,2,,,,,,False,t100
+YNL034W,1,,,,,,False,t10
+YNL035C,1,,,,,,False,t0
+YNL036W,1,,,,,,False,t10
+YNL037C,0,G2/M,IDH1,606.0,119.0,ORF column,True,t30
+YNL038W,0,,,,,,False,t40
+YNL039W,1,,,,,,False,t10
+YNL040W,1,,,,,,False,t20
+YNL041C,1,,,,,,False,t90
+YNL042W,1,,,,,,False,t0
+YNL043C,0,S/G2,YNL043C,510.0,705.0,ORF column,True,t40
+YNL044W,1,,,,,,False,t50
+YNL045W,1,,,,,,False,t0
+YNL046W,2,M/G1,YNL046W,39.0,271.0,ORF column,True,t70
+YNL047C,2,,,,,,False,t120
+YNL048W,2,,,,,,False,t120
+YNL049C,2,,,,,,False,t100
+YNL051W,0,,,,,,False,t100
+YNL052W,2,,,,,,False,t120
+YNL053W,2,,,,,,False,t0
+YNL054W,2,,,,,,False,t50
+YNL055C,0,,,,,,False,t20
+YNL056W,2,G2/M,YNL056W,745.0,171.0,ORF column,True,t60
+YNL057W,2,G2/M,YNL057W,752.0,206.0,ORF column,True,t60
+YNL058C,2,G2/M,YNL058C,737.0,223.0,ORF column,True,t120
+YNL059C,2,,,,,,False,t120
+YNL061W,2,,,,,,False,t0
+YNL062C,2,,,,,,False,t110
+YNL063W,0,,,,,,False,t90
+YNL064C,0,,,,,,False,t30
+YNL065W,2,,,,,,False,t0
+YNL066W,2,,,,,,False,t80
+YNL067W,2,,,,,,False,t110
+YNL068C,2,,,,,,False,t40
+YNL070W,1,,,,,,False,t40
+YNL071W,0,,,,,,False,t20
+YNL072W,0,G1,RNH35,185.0,518.0,ORF column,True,t20
+YNL073W,0,,,,,,False,t100
+YNL074C,2,,,,,,False,t70
+YNL075W,2,,,,,,False,t0
+YNL076W,2,,,,,,False,t80
+YNL077W,1,,,,,,False,t10
+YNL078W,2,M/G1,YNL078W,38.0,266.0,ORF column,True,t70
+YNL080C,2,,,,,,False,t60
+YNL081C,1,,,,,,False,t10
+YNL082W,1,G1,PMS1,160.0,557.0,ORF column,True,t0
+YNL083W,0,,,,,,False,t70
+YNL084C,2,,,,,,False,t100
+YNL085W,2,,,,,,False,t110
+YNL086W,1,,,,,,False,t20
+YNL087W,2,,,,,,False,t100
+YNL088W,0,,,,,,False,t20
+YNL089C,0,,,,,,False,t10
+YNL090W,1,,,,,,False,t10
+YNL091W,2,,,,,,False,t30
+YNL092W,1,,,,,,False,t10
+YNL093W,1,,,,,,False,t10
+YNL094W,0,,,,,,False,t30
+YNL095C,2,,,,,,False,t100
+YNL096C,2,,,,,,False,t40
+YNL097C,0,,,,,,False,t10
+YNL098C,2,,,,,,False,t100
+YNL099C,0,,,,,,False,t40
+YNL100W,2,,,,,,False,t60
+YNL101W,2,,,,,,False,t120
+YNL102W,0,G1,POL1,199.0,415.0,ORF column,True,t20
+YNL103W,1,,,,,,False,t80
+YNL104C,0,,,,,,False,t20
+YNL105W,2,,,,,,False,t0
+YNL106C,0,,,,,,False,t0
+YNL107W,2,,,,,,False,t60
+YNL108C,2,,,,,,False,t80
+YNL109W,0,,,,,,False,t30
+YNL110C,2,,,,,,False,t0
+YNL111C,2,G2/M,CYB5,685.0,139.0,ORF column,True,t50
+YNL112W,2,,,,,,False,t90
+YNL113W,2,,,,,,False,t0
+YNL114C,2,,,,,,False,t40
+YNL115C,1,,,,,,False,t10
+YNL116W,2,,,,,,False,t60
+YNL117W,2,,,,,,False,t90
+YNL118C,2,,,,,,False,t120
+YNL119W,2,,,,,,False,t110
+YNL120C,2,,,,,,False,t60
+YNL121C,2,,,,,,False,t100
+YNL122C,1,,,,,,False,t30
+YNL123W,2,,,,,,False,t0
+YNL124W,2,,,,,,False,t0
+YNL125C,0,,,,,,False,t30
+YNL126W,0,G1,SPC98,391.0,733.0,ORF column,True,t90
+YNL127W,1,,,,,,False,t60
+YNL128W,0,,,,,,False,t50
+YNL129W,1,,,,,,False,t30
+YNL131W,0,,,,,,False,t100
+YNL132W,2,,,,,,False,t50
+YNL133C,1,,,,,,False,t0
+YNL134C,0,M/G1,YNL134C,19.0,331.0,ORF column,True,t10
+YNL135C,1,,,,,,False,t20
+YNL136W,2,,,,,,False,t60
+YNL137C,0,,,,,,False,t20
+YNL138W,0,,,,,,False,t20
+YNL139C,2,,,,,,False,t50
+YNL140C,2,,,,,,False,t60
+YNL141W,1,,,,,,False,t0
+YNL142W,0,,,,,,False,t20
+YNL143C,2,,,,,,False,t110
+YNL144C,2,,,,,,False,t110
+YNL145W,2,G2/M,MFA2,783.0,57.0,ORF column,True,t0
+YNL146W,1,,,,,,False,t10
+YNL147W,2,,,,,,False,t120
+YNL148C,2,,,,,,False,t60
+YNL149C,2,,,,,,False,t60
+YNL150W,2,,,,,,False,t60
+YNL151C,2,,,,,,False,t60
+YNL152W,2,,,,,,False,t60
+YNL153C,2,,,,,,False,t60
+YNL154C,0,,,,,,False,t100
+YNL155W,2,,,,,,False,t40
+YNL156C,2,,,,,,False,t50
+YNL157W,2,,,,,,False,t110
+YNL158W,2,,,,,,False,t60
+YNL159C,0,,,,,,False,t70
+YNL160W,2,M/G1,YGP1,6.0,69.0,ORF column,True,t60
+YNL161W,2,,,,,,False,t120
+YNL162W,2,,,,,,False,t110
+YNL163C,2,,,,,,False,t0
+YNL164C,2,,,,,,False,t60
+YNL165W,0,G1,YNL165W,358.0,459.0,ORF column,True,t20
+YNL166C,0,G1,YNL166C,393.0,768.0,ORF column,True,t20
+YNL167C,0,,,,,,False,t80
+YNL168C,0,,,,,,False,t20
+YNL169C,1,G1,PSD1,337.0,552.0,ORF column,True,t10
+YNL170W,1,,,,,,False,t40
+YNL171C,2,G2/M,YNL171C,625.0,172.0,ORF column,True,t30
+YNL172W,2,G2/M,APC1,629.0,211.0,ORF column,True,t50
+YNL173C,2,M/G1,MDG1,80.0,333.0,ORF column,True,t70
+YNL174W,2,,,,,,False,t50
+YNL176C,0,S/G2,YNL176C,539.0,701.0,ORF column,True,t30
+YNL177C,0,,,,,,False,t100
+YNL178W,1,,,,,,False,t10
+YNL179C,1,,,,,,False,t10
+YNL180C,1,,,,,,False,t10
+YNL181W,0,G1,YNL181W,286.0,455.0,ORF column,True,t20
+YNL182C,2,,,,,,False,t0
+YNL183C,2,,,,,,False,t60
+YNL184C,2,,,,,,False,t60
+YNL185C,1,,,,,,False,t40
+YNL186W,2,,,,,,False,t0
+YNL187W,1,,,,,,False,t0
+YNL188W,0,,,,,,False,t70
+YNL189W,1,,,,,,False,t0
+YNL190W,2,,,,,,False,t50
+YNL191W,1,,,,,,False,t0
+YNL192W,1,M/G1,CHS1,16.0,273.0,ORF column,True,t70
+YNL193W,0,,,,,,False,t80
+YNL194C,0,,,,,,False,t80
+YNL195C,1,,,,,,False,t60
+YNL196C,1,,,,,,False,t0
+YNL197C,0,S/G2,WHI3,500.0,702.0,ORF column,True,t30
+YNL198C,2,,,,,,False,t110
+YNL199C,2,,,,,,False,t50
+YNL200C,1,,,,,,False,t10
+YNL201C,0,,,,,,False,t0
+YNL202W,2,,,,,,False,t110
+YNL203C,2,,,,,,False,t50
+YNL204C,2,,,,,,False,t60
+YNL205C,1,,,,,,False,t110
+YNL206C,0,,,,,,False,t20
+YNL207W,1,,,,,,False,t0
+YNL208W,1,G1,YNL208W,395.0,351.0,ORF column,True,t0
+YNL209W,1,,,,,,False,t10
+YNL210W,2,,,,,,False,t0
+YNL211C,2,,,,,,False,t0
+YNL212W,2,,,,,,False,t120
+YNL213C,2,,,,,,False,t80
+YNL214W,2,,,,,,False,t30
+YNL215W,1,,,,,,False,t60
+YNL216W,2,S/G2,RAP1,497.0,743.0,ORF column,True,t50
+YNL217W,2,,,,,,False,t100
+YNL218W,1,,,,,,False,t70
+YNL219C,2,,,,,,False,t80
+YNL220W,0,,,,,,False,t80
+YNL221C,2,,,,,,False,t40
+YNL222W,1,,,,,,False,t10
+YNL223W,2,,,,,,False,t120
+YNL224C,1,,,,,,False,t40
+YNL225C,1,G1,CNM67,230.0,450.0,ORF column,True,t10
+YNL226W,1,,,,,,False,t10
+YNL227C,2,,,,,,False,t120
+YNL228W,2,,,,,,False,t40
+YNL229C,1,,,,,,False,t0
+YNL230C,2,,,,,,False,t80
+YNL231C,0,G1,PDR16,233.0,604.0,ORF column,True,t20
+YNL232W,2,,,,,,False,t0
+YNL233W,1,G1,BNI4,174.0,543.0,ORF column,True,t10
+YNL234W,0,,,,,,False,t110
+YNL235C,2,,,,,,False,t110
+YNL236W,2,,,,,,False,t20
+YNL237W,1,,,,,,False,t30
+YNL238W,0,,,,,,False,t0
+YNL239W,1,,,,,,False,t20
+YNL240C,2,,,,,,False,t0
+YNL241C,1,,,,,,False,t70
+YNL242W,1,,,,,,False,t20
+YNL243W,0,,,,,,False,t100
+YNL244C,1,,,,,,False,t0
+YNL245C,2,,,,,,False,t120
+YNL246W,0,,,,,,False,t120
+YNL247W,0,,,,,,False,t100
+YNL248C,2,,,,,,False,t0
+YNL249C,2,,,,,,False,t50
+YNL250W,2,,,,,,False,t60
+YNL251C,0,,,,,,False,t90
+YNL252C,2,,,,,,False,t0
+YNL253W,0,,,,,,False,t100
+YNL254C,2,,,,,,False,t110
+YNL255C,1,,,,,,False,t0
+YNL256W,2,,,,,,False,t0
+YNL257C,0,,,,,,False,t10
+YNL258C,2,,,,,,False,t70
+YNL259C,2,,,,,,False,t120
+YNL260C,2,,,,,,False,t40
+YNL261W,1,,,,,,False,t60
+YNL262W,0,G1,POL2,297.0,481.0,ORF column,True,t20
+YNL263C,0,G1,YIF1,382.0,758.0,ORF column,True,t20
+YNL264C,0,,,,,,False,t30
+YNL266W,2,,,,,,False,t50
+YNL267W,2,,,,,,False,t60
+YNL268W,0,,,,,,False,t30
+YNL269W,2,,,,,,False,t60
+YNL270C,0,,,,,,False,t20
+YNL271C,2,,,,,,False,t60
+YNL272C,1,,,,,,False,t20
+YNL273W,0,G1,TOF1,182.0,501.0,ORF column,True,t10
+YNL274C,0,,,,,,False,t20
+YNL275W,2,,,,,,False,t90
+YNL276C,1,S/G2,YNL276C,492.0,653.0,ORF column,True,t10
+YNL277W,1,,,,,,False,t10
+YNL278W,1,,,,,,False,t20
+YNL279W,1,,,,,,False,t0
+YNL280C,1,,,,,,False,t0
+YNL281W,1,,,,,,False,t0
+YNL282W,2,,,,,,False,t0
+YNL283C,0,S,WSC2,455.0,777.0,ORF column,True,t30
+YNL284C,1,,,,,,False,t20
+YNL285W,2,,,,,,False,t60
+YNL286W,2,,,,,,False,t0
+YNL287W,0,,,,,,False,t90
+YNL288W,2,,,,,,False,t0
+YNL289W,0,G1,PCL1,288.0,421.0,ORF column,True,t10
+YNL290W,0,,,,,,False,t20
+YNL291C,0,,,,,,False,t20
+YNL292W,1,,,,,,False,t0
+YNL293W,1,,,,,,False,t10
+YNL294C,1,,,,,,False,t30
+YNL295W,1,,,,,,False,t60
+YNL296W,0,,,,,,False,t60
+YNL297C,2,,,,,,False,t80
+YNL298W,1,,,,,,False,t60
+YNL299W,2,,,,,,False,t110
+YNL300W,0,G1,YNL300W,317.0,521.0,ORF column,True,t20
+YNL301C,2,,,,,,False,t110
+YNL302C,2,,,,,,False,t120
+YNL303W,2,,,,,,False,t50
+YNL304W,0,G1,YNL304W,172.0,402.0,ORF column,True,t10
+YNL305C,0,,,,,,False,t20
+YNL306W,2,,,,,,False,t50
+YNL307C,2,,,,,,False,t120
+YNL308C,2,,,,,,False,t0
+YNL309W,1,G1,STB1,201.0,546.0,ORF column,True,t10
+YNL310C,0,,,,,,False,t20
+YNL311C,0,,,,,,False,t80
+YNL312W,0,G1,RFA2,221.0,513.0,ORF column,True,t20
+YNL313C,1,,,,,,False,t20
+YNL314W,0,,,,,,False,t0
+YNL315C,1,,,,,,False,t60
+YNL316C,2,,,,,,False,t60
+YNL317W,2,,,,,,False,t120
+YNL318C,2,,,,,,False,t120
+YNL319W,2,,,,,,False,t50
+YNL320W,0,,,,,,False,t20
+YNL321W,0,,,,,,False,t30
+YNL322C,1,,,,,,False,t20
+YNL323W,0,,,,,,False,t120
+YNL324W,0,,,,,,False,t100
+YNL325C,1,,,,,,False,t10
+YNL326C,1,M/G1,YNL326C,95.0,346.0,ORF column,True,t70
+YNL327W,2,M/G1,EGT2,75.0,268.0,ORF column,True,t70
+YNL328C,2,M/G1,MDJ2,97.0,345.0,ORF column,True,t70
+YNL329C,0,,,,,,False,t80
+YNL330C,0,,,,,,False,t20
+YNL331C,2,,,,,,False,t40
+YNL332W,2,,,,,,False,t20
+YNL333W,0,,,,,,False,t20
+YNL334C,0,,,,,,False,t10
+YNL335W,1,,,,,,False,t10
+YNL336W,0,,,,,,False,t20
+YNL337W,1,,,,,,False,t10
+YNL338W,1,,,,,,False,t10
+YNL339C,1,G1,YNL339C,135.0,594.0,ORF column,True,t10
+YNR001C,1,,,,,,False,t10
+YNR002C,1,,,,,,False,t10
+YNR003C,2,,,,,,False,t0
+YNR004W,2,,,,,,False,t40
+YNR005C,1,,,,,,False,t30
+YNR006W,1,,,,,,False,t110
+YNR007C,0,,,,,,False,t100
+YNR008W,0,,,,,,False,t120
+YNR009W,0,S,YNR009W,474.0,688.0,ORF column,True,t40
+YNR010W,2,,,,,,False,t60
+YNR011C,0,,,,,,False,t40
+YNR012W,2,,,,,,False,t0
+YNR013C,1,,,,,,False,t0
+YNR014W,2,,,,,,False,t40
+YNR015W,2,,,,,,False,t0
+YNR016C,1,,,,,,False,t10
+YNR017W,0,,,,,,False,t0
+YNR018W,2,,,,,,False,t0
+YNR019W,2,,,,,,False,t50
+YNR020C,1,,,,,,False,t50
+YNR021W,0,,,,,,False,t110
+YNR022C,0,,,,,,False,t20
+YNR023W,0,,,,,,False,t40
+YNR024W,2,,,,,,False,t0
+YNR025C,2,,,,,,False,t60
+YNR026C,1,,,,,,False,t0
+YNR027W,1,,,,,,False,t0
+YNR028W,2,,,,,,False,t100
+YNR029C,0,,,,,,False,t0
+YNR030W,2,,,,,,False,t60
+YNR031C,2,,,,,,False,t50
+YNR032C-A,2,,,,,,False,t50
+YNR032W,2,,,,,,False,t0
+YNR033W,0,,,,,,False,t20
+YNR034W,2,,,,,,False,t110
+YNR035C,0,,,,,,False,t20
+YNR036C,0,,,,,,False,t20
+YNR037C,0,,,,,,False,t110
+YNR038W,2,,,,,,False,t120
+YNR039C,2,,,,,,False,t110
+YNR040W,0,,,,,,False,t20
+YNR041C,1,,,,,,False,t0
+YNR042W,2,,,,,,False,t40
+YNR043W,1,,,,,,False,t0
+YNR044W,1,M/G1,AGA1,96.0,307.0,ORF column,True,t0
+YNR045W,1,,,,,,False,t10
+YNR046W,2,,,,,,False,t50
+YNR047W,2,,,,,,False,t70
+YNR048W,0,,,,,,False,t60
+YNR049C,2,,,,,,False,t50
+YNR050C,2,G2/M,LYS9,695.0,104.0,ORF column,True,t50
+YNR051C,2,,,,,,False,t40
+YNR052C,2,,,,,,False,t120
+YNR053C,2,,,,,,False,t0
+YNR054C,2,,,,,,False,t0
+YNR055C,0,,,,,,False,t0
+YNR056C,1,,,,,,False,t30
+YNR057C,0,,,,,,False,t80
+YNR058W,0,,,,,,False,t20
+YNR059W,2,,,,,,False,t60
+YNR060W,2,,,,,,False,t110
+YNR061C,0,,,,,,False,t20
+YNR062C,0,,,,,,False,t10
+YNR063W,0,,,,,,False,t90
+YNR064C,1,,,,,,False,t20
+YNR065C,1,,,,,,False,t10
+YNR066C,1,S,YNR066C,435.0,354.0,ORF column,True,t10
+YNR067C,2,M/G1,YNR067C,62.0,267.0,ORF column,True,t70
+YNR068C,1,,,,,,False,t10
+YNR069C,1,,,,,,False,t30
+YNR070W,1,,,,,,False,t10
+YNR071C,1,,,,,,False,t10
+YNR072W,1,,,,,,False,t10
+YNR073C,1,,,,,,False,t10
+YNR075W,2,,,,,,False,t40
+YNR076W,2,,,,,,False,t70
+YNR077C,1,,,,,,False,t20
+YOL001W,2,,,,,,False,t60
+YOL002C,2,,,,,,False,t0
+YOL003C,1,,,,,,False,t10
+YOL004W,0,,,,,,False,t100
+YOL005C,2,,,,,,False,t110
+YOL006C,0,,,,,,False,t80
+YOL007C,0,G1,CSI2,309.0,535.0,ORF column,True,t20
+YOL008W,1,,,,,,False,t20
+YOL009C,1,,,,,,False,t110
+YOL010W,1,,,,,,False,t0
+YOL011W,0,M/G1,YOL011W,66.0,602.0,ORF column,True,t60
+YOL012C,0,S,HTA3,476.0,696.0,ORF column,True,t100
+YOL013C,2,,,,,,False,t0
+YOL013W-A,1,,,,,,False,t40
+YOL014W,2,G2/M,YOL014W,620.0,177.0,ORF column,True,t60
+YOL015W,2,,,,,,False,t50
+YOL016C,1,G1,CMK2,383.0,353.0,ORF column,True,t10
+YOL017W,1,G1,YOL017W,269.0,526.0,ORF column,True,t10
+YOL018C,0,,,,,,False,t120
+YOL019W,0,G1,YOL019W,311.0,755.0,ORF column,True,t80
+YOL020W,0,,,,,,False,t80
+YOL021C,2,,,,,,False,t100
+YOL022C,2,,,,,,False,t0
+YOL023W,0,,,,,,False,t120
+YOL024W,2,,,,,,False,t80
+YOL025W,1,,,,,,False,t0
+YOL026C,1,,,,,,False,t30
+YOL027C,0,,,,,,False,t40
+YOL028C,2,,,,,,False,t60
+YOL029C,2,,,,,,False,t40
+YOL030W,2,S/G2,YOL030W,586.0,148.0,ORF column,True,t110
+YOL031C,0,,,,,,False,t20
+YOL032W,1,,,,,,False,t10
+YOL033W,0,,,,,,False,t20
+YOL034W,0,G1,YOL034W,241.0,551.0,ORF column,True,t10
+YOL035C,1,,,,,,False,t10
+YOL036W,1,,,,,,False,t60
+YOL037C,1,,,,,,False,t60
+YOL039W,2,,,,,,False,t40
+YOL040C,2,,,,,,False,t100
+YOL041C,2,,,,,,False,t0
+YOL042W,1,,,,,,False,t0
+YOL043C,2,,,,,,False,t0
+YOL044W,2,,,,,,False,t110
+YOL045W,0,,,,,,False,t20
+YOL046C,0,,,,,,False,t60
+YOL047C,2,,,,,,False,t110
+YOL048C,1,,,,,,False,t10
+YOL049W,1,,,,,,False,t100
+YOL050C,2,,,,,,False,t40
+YOL051W,0,,,,,,False,t30
+YOL052C,0,,,,,,False,t40
+YOL053C-A,1,,,,,,False,t10
+YOL053W,1,,,,,,False,t10
+YOL054W,1,,,,,,False,t10
+YOL055C,0,,,,,,False,t60
+YOL056W,0,,,,,,False,t100
+YOL057W,2,,,,,,False,t0
+YOL058W,0,S/G2,ARG1,488.0,370.0,ORF column,True,t10
+YOL059W,0,,,,,,False,t30
+YOL060C,2,,,,,,False,t30
+YOL061W,2,,,,,,False,t120
+YOL062C,2,,,,,,False,t120
+YOL063C,0,,,,,,False,t50
+YOL064C,1,,,,,,False,t10
+YOL065C,0,,,,,,False,t60
+YOL066C,2,,,,,,False,t0
+YOL067C,2,,,,,,False,t50
+YOL068C,2,,,,,,False,t120
+YOL069W,2,G2/M,NUF2,616.0,174.0,ORF column,True,t50
+YOL070C,2,G2/M,YOL070C,739.0,89.0,ORF column,True,t50
+YOL071W,0,,,,,,False,t120
+YOL072W,0,,,,,,False,t50
+YOL073C,1,,,,,,False,t10
+YOL075C,2,,,,,,False,t50
+YOL076W,2,,,,,,False,t100
+YOL077C,2,,,,,,False,t0
+YOL078W,2,,,,,,False,t60
+YOL079W,1,,,,,,False,t0
+YOL080C,2,,,,,,False,t0
+YOL081W,2,,,,,,False,t30
+YOL082W,1,,,,,,False,t0
+YOL083W,1,,,,,,False,t10
+YOL084W,1,,,,,,False,t0
+YOL085C,2,,,,,,False,t40
+YOL086C,0,,,,,,False,t30
+YOL087C,2,,,,,,False,t120
+YOL088C,0,S/G2,MPD2,499.0,371.0,ORF column,True,t100
+YOL089C,0,,,,,,False,t10
+YOL090W,0,G1,MSH2,312.0,528.0,ORF column,True,t20
+YOL091W,2,,,,,,False,t60
+YOL092W,0,,,,,,False,t20
+YOL093W,1,,,,,,False,t0
+YOL094C,0,G1,RFC4,132.0,374.0,ORF column,True,t20
+YOL095C,1,,,,,,False,t0
+YOL096C,2,,,,,,False,t70
+YOL097C,1,,,,,,False,t20
+YOL098C,2,,,,,,False,t60
+YOL099C,2,,,,,,False,t50
+YOL100W,2,,,,,,False,t70
+YOL101C,2,M/G1,YOL101C,21.0,261.0,ORF column,True,t90
+YOL102C,2,,,,,,False,t60
+YOL103W,0,,,,,,False,t20
+YOL104C,1,,,,,,False,t10
+YOL105C,0,,,,,,False,t30
+YOL106W,1,,,,,,False,t10
+YOL107W,0,,,,,,False,t90
+YOL108C,1,,,,,,False,t10
+YOL109W,2,,,,,,False,t90
+YOL110W,0,,,,,,False,t30
+YOL111C,2,,,,,,False,t30
+YOL112W,0,S/G2,MSB4,495.0,742.0,ORF column,True,t90
+YOL113W,0,,,,,,False,t30
+YOL114C,1,S/G2,YOL114C,556.0,165.0,ORF column,True,t30
+YOL115W,2,,,,,,False,t100
+YOL116W,2,,,,,,False,t100
+YOL117W,1,,,,,,False,t10
+YOL118C,2,,,,,,False,t40
+YOL119C,1,G2/M,YOL119C,732.0,112.0,ORF column,True,t10
+YOL120C,2,,,,,,False,t50
+YOL121C,2,,,,,,False,t0
+YOL122C,0,,,,,,False,t80
+YOL123W,2,,,,,,False,t100
+YOL124C,2,,,,,,False,t0
+YOL125W,2,,,,,,False,t120
+YOL126C,0,,,,,,False,t20
+YOL127W,1,,,,,,False,t10
+YOL128C,2,,,,,,False,t60
+YOL129W,1,,,,,,False,t10
+YOL130W,2,,,,,,False,t0
+YOL131W,1,,,,,,False,t10
+YOL132W,2,G2/M,YOL132W,682.0,262.0,ORF column,True,t110
+YOL133W,0,,,,,,False,t10
+YOL134C,0,,,,,,False,t90
+YOL135C,2,,,,,,False,t60
+YOL136C,1,,,,,,False,t0
+YOL137W,2,,,,,,False,t0
+YOL138C,2,,,,,,False,t0
+YOL139C,2,,,,,,False,t110
+YOL140W,2,,,,,,False,t120
+YOL141W,2,,,,,,False,t0
+YOL142W,2,,,,,,False,t110
+YOL143C,2,,,,,,False,t50
+YOL144W,2,,,,,,False,t90
+YOL145C,2,,,,,,False,t80
+YOL146W,1,,,,,,False,t110
+YOL147C,0,,,,,,False,t20
+YOL148C,2,,,,,,False,t120
+YOL149W,2,,,,,,False,t60
+YOL150C,2,G2/M,YOL150C,724.0,15.0,ORF column,True,t60
+YOL151W,2,,,,,,False,t110
+YOL152W,1,,,,,,False,t0
+YOL153C,0,,,,,,False,t80
+YOL154W,2,,,,,,False,t120
+YOL155C,0,,,,,,False,t80
+YOL156W,1,,,,,,False,t30
+YOL157C,2,,,,,,False,t60
+YOL158C,2,G2/M,YOL158C,697.0,192.0,ORF column,True,t50
+YOL159C,1,,,,,,False,t10
+YOL160W,1,,,,,,False,t50
+YOL161C,2,,,,,,False,t60
+YOL162W,1,,,,,,False,t10
+YOL163W,1,,,,,,False,t60
+YOL164W,1,,,,,,False,t10
+YOL165C,1,,,,,,False,t0
+YOL166C,1,,,,,,False,t10
+YOR001W,2,,,,,,False,t0
+YOR002W,2,,,,,,False,t0
+YOR003W,0,,,,,,False,t80
+YOR004W,2,,,,,,False,t0
+YOR005C,1,,,,,,False,t0
+YOR006C,2,,,,,,False,t60
+YOR007C,0,,,,,,False,t30
+YOR008C,1,,,,,,False,t10
+YOR008C-A,2,,,,,,False,t0
+YOR009W,2,,,,,,False,t110
+YOR010C,2,,,,,,False,t60
+YOR011W,2,,,,,,False,t80
+YOR012W,2,,,,,,False,t50
+YOR013W,1,,,,,,False,t80
+YOR014W,1,,,,,,False,t10
+YOR015W,1,,,,,,False,t10
+YOR016C,0,,,,,,False,t20
+YOR017W,0,,,,,,False,t20
+YOR018W,2,M/G1,ROD1,82.0,22.0,ORF column,True,t60
+YOR019W,0,,,,,,False,t100
+YOR020C,1,,,,,,False,t40
+YOR021C,2,,,,,,False,t60
+YOR022C,2,,,,,,False,t50
+YOR023C,2,G2/M,YOR023C,719.0,40.0,ORF column,True,t50
+YOR024W,2,,,,,,False,t60
+YOR025W,2,G2/M,HST3,652.0,231.0,ORF column,True,t50
+YOR026W,0,,,,,,False,t20
+YOR027W,0,,,,,,False,t30
+YOR028C,1,,,,,,False,t20
+YOR029W,1,,,,,,False,t10
+YOR030W,2,,,,,,False,t0
+YOR031W,2,,,,,,False,t40
+YOR032C,2,,,,,,False,t0
+YOR033C,1,G1,DHS1,165.0,453.0,ORF column,True,t10
+YOR034C,0,,,,,,False,t20
+YOR035C,1,,,,,,False,t10
+YOR036W,1,,,,,,False,t120
+YOR037W,0,,,,,,False,t120
+YOR038C,0,,,,,,False,t20
+YOR039W,0,,,,,,False,t20
+YOR040W,0,,,,,,False,t80
+YOR041C,2,,,,,,False,t70
+YOR042W,2,,,,,,False,t60
+YOR043W,2,,,,,,False,t0
+YOR044W,2,,,,,,False,t40
+YOR045W,2,,,,,,False,t60
+YOR046C,1,,,,,,False,t0
+YOR047C,2,,,,,,False,t90
+YOR048C,2,,,,,,False,t40
+YOR049C,2,G2/M,YOR049C,736.0,160.0,ORF column,True,t110
+YOR050C,2,,,,,,False,t80
+YOR051C,2,,,,,,False,t0
+YOR052C,2,M/G1,YOR052C,40.0,31.0,ORF column,True,t0
+YOR053W,1,,,,,,False,t110
+YOR054C,2,,,,,,False,t60
+YOR055W,2,,,,,,False,t50
+YOR056C,2,,,,,,False,t0
+YOR057W,2,,,,,,False,t120
+YOR058C,2,G2/M,ASE1,687.0,187.0,ORF column,True,t50
+YOR059C,2,,,,,,False,t0
+YOR060C,2,,,,,,False,t40
+YOR061W,2,,,,,,False,t90
+YOR062C,0,,,,,,False,t20
+YOR063W,2,,,,,,False,t120
+YOR064C,2,,,,,,False,t110
+YOR065W,0,,,,,,False,t70
+YOR066W,1,M/G1,YOR066W,2.0,73.0,ORF column,True,t10
+YOR067C,2,,,,,,False,t120
+YOR068C,2,,,,,,False,t50
+YOR069W,2,,,,,,False,t60
+YOR070C,2,,,,,,False,t60
+YOR071C,1,,,,,,False,t30
+YOR073W,0,S,YOR073W,464.0,735.0,ORF column,True,t40
+YOR074C,0,G1,CDC21,243.0,504.0,ORF column,True,t20
+YOR075W,0,G1,UFE1,281.0,390.0,ORF column,True,t10
+YOR076C,2,,,,,,False,t60
+YOR077W,2,,,,,,False,t0
+YOR078W,2,,,,,,False,t0
+YOR079C,2,,,,,,False,t0
+YOR080W,2,,,,,,False,t120
+YOR081C,0,,,,,,False,t20
+YOR082C,2,,,,,,False,t50
+YOR083W,1,G1,YOR083W,369.0,632.0,ORF column,True,t30
+YOR084W,0,G1,YOR084W,389.0,799.0,ORF column,True,t20
+YOR085W,0,,,,,,False,t30
+YOR086C,0,,,,,,False,t70
+YOR087W,2,,,,,,False,t60
+YOR088W,2,,,,,,False,t120
+YOR089C,2,,,,,,False,t120
+YOR090C,1,,,,,,False,t40
+YOR091W,2,,,,,,False,t110
+YOR092W,1,,,,,,False,t0
+YOR093C,2,,,,,,False,t120
+YOR094W,2,,,,,,False,t60
+YOR095C,2,,,,,,False,t0
+YOR096W,2,,,,,,False,t110
+YOR097C,0,,,,,,False,t90
+YOR098C,2,,,,,,False,t50
+YOR099W,0,,,,,,False,t120
+YOR100C,2,,,,,,False,t100
+YOR101W,2,,,,,,False,t0
+YOR102W,0,,,,,,False,t80
+YOR103C,0,,,,,,False,t100
+YOR104W,2,G2/M,YOR104W,680.0,173.0,ORF column,True,t120
+YOR105W,1,G2/M,YOR105W,612.0,169.0,ORF column,True,t30
+YOR106W,2,,,,,,False,t70
+YOR107W,2,,,,,,False,t0
+YOR108W,2,,,,,,False,t60
+YOR109W,2,,,,,,False,t100
+YOR110W,0,,,,,,False,t10
+YOR111W,0,,,,,,False,t30
+YOR112W,0,,,,,,False,t20
+YOR113W,0,,,,,,False,t80
+YOR114W,0,G1,YOR114W,356.0,458.0,ORF column,True,t20
+YOR115C,1,G1,YOR115C,285.0,376.0,ORF column,True,t20
+YOR116C,2,,,,,,False,t40
+YOR117W,1,,,,,,False,t120
+YOR118W,2,,,,,,False,t50
+YOR119C,2,,,,,,False,t0
+YOR120W,1,,,,,,False,t10
+YOR121C,0,,,,,,False,t100
+YOR122C,0,,,,,,False,t20
+YOR123C,2,,,,,,False,t70
+YOR124C,2,,,,,,False,t80
+YOR125C,0,,,,,,False,t40
+YOR126C,2,M/G1,IAH1,70.0,19.0,ORF column,True,t70
+YOR127W,1,M/G1,RGA1,28.0,21.0,ORF column,True,t10
+YOR128C,2,,,,,,False,t90
+YOR129C,2,G2/M,YOR129C,618.0,674.0,ORF column,True,t0
+YOR130C,1,,,,,,False,t10
+YOR131C,0,,,,,,False,t20
+YOR132W,1,,,,,,False,t10
+YOR133W,0,,,,,,False,t30
+YOR134W,1,,,,,,False,t60
+YOR135C,1,,,,,,False,t30
+YOR136W,0,,,,,,False,t30
+YOR137C,2,,,,,,False,t60
+YOR138C,0,,,,,,False,t120
+YOR139C,2,,,,,,False,t50
+YOR140W,2,,,,,,False,t0
+YOR141C,2,,,,,,False,t100
+YOR142W,0,,,,,,False,t100
+YOR143C,2,,,,,,False,t60
+YOR144C,1,G1,YOR144C,166.0,452.0,ORF column,True,t10
+YOR145C,2,,,,,,False,t60
+YOR146W,2,,,,,,False,t0
+YOR147W,2,,,,,,False,t60
+YOR148C,2,,,,,,False,t120
+YOR149C,0,,,,,,False,t30
+YOR150W,0,,,,,,False,t30
+YOR151C,2,,,,,,False,t90
+YOR152C,2,S/G2,YOR152C,588.0,133.0,ORF column,True,t30
+YOR153W,2,G2/M,PDR5,611.0,150.0,ORF column,True,t100
+YOR154W,2,,,,,,False,t0
+YOR155C,1,,,,,,False,t0
+YOR156C,0,,,,,,False,t20
+YOR157C,2,,,,,,False,t50
+YOR158W,0,,,,,,False,t70
+YOR159C,0,,,,,,False,t40
+YOR160W,2,,,,,,False,t60
+YOR162C,0,,,,,,False,t10
+YOR163W,1,,,,,,False,t60
+YOR164C,0,,,,,,False,t90
+YOR165W,2,,,,,,False,t100
+YOR166C,1,,,,,,False,t100
+YOR167C,2,,,,,,False,t50
+YOR168W,2,,,,,,False,t70
+YOR169C,2,,,,,,False,t110
+YOR170W,2,,,,,,False,t40
+YOR171C,2,,,,,,False,t60
+YOR172W,2,,,,,,False,t50
+YOR173W,0,,,,,,False,t110
+YOR174W,1,,,,,,False,t30
+YOR175C,0,,,,,,False,t90
+YOR176W,0,G1,HEM15,354.0,395.0,ORF column,True,t20
+YOR177C,0,,,,,,False,t30
+YOR178C,1,,,,,,False,t10
+YOR179C,2,,,,,,False,t100
+YOR180C,2,,,,,,False,t60
+YOR181W,1,,,,,,False,t20
+YOR182C,2,,,,,,False,t110
+YOR183W,1,,,,,,False,t40
+YOR184W,0,,,,,,False,t20
+YOR185C,1,,,,,,False,t0
+YOR186W,1,,,,,,False,t10
+YOR187W,0,,,,,,False,t20
+YOR188W,2,S,MSB1,483.0,746.0,ORF column,True,t30
+YOR189W,2,,,,,,False,t60
+YOR190W,2,,,,,,False,t110
+YOR191W,0,,,,,,False,t100
+YOR192C,1,,,,,,False,t50
+YOR193W,1,,,,,,False,t0
+YOR194C,1,,,,,,False,t90
+YOR195W,0,G1,SLK19,376.0,435.0,ORF column,True,t10
+YOR196C,2,,,,,,False,t60
+YOR197W,1,,,,,,False,t0
+YOR198C,0,,,,,,False,t30
+YOR199W,2,,,,,,False,t30
+YOR200W,2,,,,,,False,t60
+YOR201C,2,,,,,,False,t60
+YOR202W,2,,,,,,False,t80
+YOR203W,2,,,,,,False,t120
+YOR204W,2,,,,,,False,t0
+YOR205C,2,,,,,,False,t60
+YOR206W,2,,,,,,False,t40
+YOR207C,2,,,,,,False,t0
+YOR208W,1,,,,,,False,t0
+YOR209C,1,,,,,,False,t0
+YOR210W,2,,,,,,False,t50
+YOR211C,2,,,,,,False,t100
+YOR212W,2,,,,,,False,t0
+YOR213C,1,,,,,,False,t50
+YOR214C,2,,,,,,False,t120
+YOR215C,1,,,,,,False,t60
+YOR216C,0,,,,,,False,t30
+YOR217W,2,,,,,,False,t60
+YOR218C,2,,,,,,False,t40
+YOR219C,0,,,,,,False,t100
+YOR220W,1,,,,,,False,t10
+YOR221C,2,,,,,,False,t100
+YOR222W,0,,,,,,False,t30
+YOR223W,0,,,,,,False,t50
+YOR224C,2,,,,,,False,t40
+YOR225W,2,,,,,,False,t40
+YOR226C,2,,,,,,False,t50
+YOR227W,0,,,,,,False,t20
+YOR228C,2,,,,,,False,t0
+YOR229W,2,G2/M,WTM2,770.0,79.0,ORF column,True,t60
+YOR230W,2,M/G1,WTM1,88.0,326.0,ORF column,True,t80
+YOR231W,1,,,,,,False,t60
+YOR232W,2,,,,,,False,t120
+YOR233W,2,,,,,,False,t120
+YOR234C,1,,,,,,False,t40
+YOR235W,0,S/G2,SNR17A,562.0,615.0,ORF column,True,t40
+YOR236W,2,,,,,,False,t60
+YOR237W,0,,,,,,False,t100
+YOR238W,0,,,,,,False,t0
+YOR239W,1,,,,,,False,t40
+YOR240W,0,,,,,,False,t100
+YOR241W,2,,,,,,False,t100
+YOR242C,2,M/G1,SSP2,51.0,263.0,ORF column,True,t40
+YOR243C,2,,,,,,False,t60
+YOR244W,2,,,,,,False,t120
+YOR245C,0,,,,,,False,t20
+YOR246C,2,,,,,,False,t100
+YOR247W,0,G1,SRL1,357.0,766.0,ORF column,True,t100
+YOR248W,0,G1,YOR248W,353.0,770.0,ORF column,True,t100
+YOR249C,2,,,,,,False,t60
+YOR250C,2,S,CLP1,419.0,362.0,ORF column,True,t100
+YOR251C,2,,,,,,False,t110
+YOR252W,2,,,,,,False,t60
+YOR253W,1,,,,,,False,t110
+YOR254C,1,,,,,,False,t0
+YOR255W,1,,,,,,False,t70
+YOR256C,1,G2/M,YOR256C,683.0,124.0,ORF column,True,t10
+YOR257W,2,,,,,,False,t110
+YOR258W,2,G2/M,YOR258W,655.0,50.0,ORF column,True,t60
+YOR259C,2,,,,,,False,t60
+YOR260W,2,,,,,,False,t60
+YOR261C,1,,,,,,False,t70
+YOR262W,2,,,,,,False,t0
+YOR263C,2,M/G1,YOR263C,37.0,270.0,ORF column,True,t40
+YOR264W,2,M/G1,YOR264W,25.0,272.0,ORF column,True,t70
+YOR265W,2,,,,,,False,t40
+YOR266W,2,,,,,,False,t20
+YOR267C,1,,,,,,False,t20
+YOR268C,2,,,,,,False,t60
+YOR269W,2,,,,,,False,t120
+YOR270C,2,G1,VPH1,114.0,255.0,ORF column,True,t100
+YOR271C,0,,,,,,False,t20
+YOR272W,2,,,,,,False,t120
+YOR273C,2,G2/M,YOR273C,726.0,163.0,ORF column,True,t120
+YOR274W,2,,,,,,False,t0
+YOR275C,2,,,,,,False,t100
+YOR276W,2,,,,,,False,t80
+YOR277C,1,,,,,,False,t70
+YOR278W,2,,,,,,False,t60
+YOR279C,1,,,,,,False,t10
+YOR280C,1,,,,,,False,t20
+YOR281C,1,,,,,,False,t60
+YOR282W,0,,,,,,False,t40
+YOR283W,1,G1,YOR283W,365.0,375.0,ORF column,True,t0
+YOR284W,1,,,,,,False,t10
+YOR285W,0,,,,,,False,t20
+YOR286W,1,,,,,,False,t20
+YOR287C,2,,,,,,False,t80
+YOR288C,0,,,,,,False,t20
+YOR289W,1,,,,,,False,t20
+YOR290C,2,,,,,,False,t90
+YOR291W,2,,,,,,False,t120
+YOR292C,0,,,,,,False,t120
+YOR293W,2,,,,,,False,t100
+YOR294W,2,,,,,,False,t0
+YOR295W,2,,,,,,False,t120
+YOR296W,2,,,,,,False,t0
+YOR297C,0,,,,,,False,t0
+YOR298C-A,0,,,,,,False,t30
+YOR298W,2,G2/M,YOR298W,626.0,49.0,ORF column,True,t100
+YOR299W,2,,,,,,False,t60
+YOR300W,2,,,,,,False,t70
+YOR301W,2,,,,,,False,t70
+YOR302W,1,,,,,,False,t40
+YOR303W,1,,,,,,False,t0
+YOR304C-A,1,,,,,,False,t110
+YOR304W,2,,,,,,False,t60
+YOR305W,1,,,,,,False,t40
+YOR306C,1,,,,,,False,t0
+YOR307C,2,G1,SLY41,143.0,298.0,ORF column,True,t40
+YOR308C,2,G1,YOR308C,126.0,297.0,ORF column,True,t30
+YOR309C,2,,,,,,False,t110
+YOR310C,2,,,,,,False,t0
+YOR312C,2,,,,,,False,t70
+YOR313C,2,G2/M,SPS4,721.0,182.0,ORF column,True,t120
+YOR314W,2,G2/M,YOR314W,718.0,183.0,ORF column,True,t60
+YOR315W,2,G2/M,YOR315W,633.0,184.0,ORF column,True,t120
+YOR316C,2,,,,,,False,t70
+YOR317W,0,M/G1,FAA1,78.0,344.0,ORF column,True,t10
+YOR318C,2,,,,,,False,t40
+YOR319W,2,,,,,,False,t100
+YOR320C,0,G1,YOR320C,292.0,636.0,ORF column,True,t20
+YOR321W,0,G1,PMT3,256.0,771.0,ORF column,True,t20
+YOR322C,2,,,,,,False,t0
+YOR323C,1,S/G2,PRO2,534.0,708.0,ORF column,True,t70
+YOR324C,2,S/G2,YOR324C,527.0,707.0,ORF column,True,t120
+YOR325W,2,,,,,,False,t60
+YOR326W,0,,,,,,False,t40
+YOR327C,0,,,,,,False,t20
+YOR328W,0,,,,,,False,t90
+YOR329C,1,,,,,,False,t0
+YOR330C,2,,,,,,False,t90
+YOR331C,1,,,,,,False,t100
+YOR332W,2,S/G2,VMA4,558.0,372.0,ORF column,True,t50
+YOR333C,2,,,,,,False,t40
+YOR334W,0,,,,,,False,t30
+YOR335C,2,,,,,,False,t120
+YOR336W,2,,,,,,False,t80
+YOR337W,2,S/G2,TEA1,572.0,35.0,ORF column,True,t0
+YOR338W,2,,,,,,False,t0
+YOR339C,2,,,,,,False,t60
+YOR340C,2,,,,,,False,t0
+YOR341W,2,,,,,,False,t0
+YOR342C,1,M/G1,YOR342C,46.0,379.0,ORF column,True,t70
+YOR343C,1,,,,,,False,t0
+YOR344C,2,,,,,,False,t0
+YOR345C,2,,,,,,False,t60
+YOR346W,2,,,,,,False,t40
+YOR347C,1,,,,,,False,t10
+YOR348C,2,,,,,,False,t120
+YOR349W,2,,,,,,False,t0
+YOR350C,2,,,,,,False,t50
+YOR351C,2,,,,,,False,t100
+YOR352W,0,,,,,,False,t20
+YOR353C,2,,,,,,False,t0
+YOR354C,0,,,,,,False,t70
+YOR355W,2,G1,GDS1,218.0,378.0,ORF column,True,t60
+YOR356W,0,,,,,,False,t20
+YOR357C,1,,,,,,False,t20
+YOR358W,0,,,,,,False,t50
+YOR359W,2,,,,,,False,t0
+YOR360C,2,,,,,,False,t0
+YOR361C,2,,,,,,False,t50
+YOR362C,2,,,,,,False,t70
+YOR363C,0,,,,,,False,t80
+YOR364W,2,,,,,,False,t60
+YOR365C,2,,,,,,False,t110
+YOR366W,1,,,,,,False,t0
+YOR367W,1,,,,,,False,t0
+YOR368W,0,,,,,,False,t60
+YOR369C,2,,,,,,False,t100
+YOR370C,0,,,,,,False,t110
+YOR371C,2,,,,,,False,t50
+YOR372C,0,G1,YOR372C,413.0,724.0,ORF column,True,t30
+YOR373W,0,,,,,,False,t20
+YOR374W,0,,,,,,False,t20
+YOR375C,0,,,,,,False,t90
+YOR376W,1,,,,,,False,t40
+YOR377W,2,,,,,,False,t40
+YOR378W,2,,,,,,False,t80
+YOR379C,0,,,,,,False,t30
+YOR380W,2,,,,,,False,t120
+YOR381W,0,,,,,,False,t30
+YOR382W,2,,,,,,False,t50
+YOR383C,2,G2/M,YOR383C,720.0,251.0,ORF column,True,t30
+YOR384W,2,,,,,,False,t70
+YOR385W,2,,,,,,False,t90
+YOR386W,1,,,,,,False,t10
+YOR387C,1,,,,,,False,t10
+YOR388C,2,,,,,,False,t60
+YOR389W,0,,,,,,False,t30
+YOR390W,2,,,,,,False,t110
+YOR391C,1,S/G2,YOR391C,485.0,34.0,ORF column,True,t10
+YOR392W,1,,,,,,False,t10
+YOR393W,1,,,,,,False,t10
+YOR394W,1,,,,,,False,t10
+YPL001W,2,,,,,,False,t60
+YPL002C,1,,,,,,False,t10
+YPL003W,1,,,,,,False,t10
+YPL004C,0,,,,,,False,t100
+YPL005W,1,,,,,,False,t10
+YPL006W,0,,,,,,False,t20
+YPL007C,0,,,,,,False,t10
+YPL008W,1,,,,,,False,t10
+YPL009C,1,,,,,,False,t0
+YPL010W,2,,,,,,False,t50
+YPL011C,2,,,,,,False,t0
+YPL012W,2,,,,,,False,t110
+YPL013C,1,,,,,,False,t10
+YPL014W,1,M/G1,YPL014W,71.0,382.0,ORF column,True,t10
+YPL015C,0,,,,,,False,t80
+YPL016W,2,,,,,,False,t80
+YPL017C,1,,,,,,False,t20
+YPL018W,0,,,,,,False,t20
+YPL019C,1,,,,,,False,t30
+YPL020C,2,,,,,,False,t90
+YPL021W,1,S/G2,ECM23,598.0,51.0,ORF column,True,t10
+YPL022W,2,,,,,,False,t60
+YPL023C,0,,,,,,False,t20
+YPL024W,1,,,,,,False,t20
+YPL025C,2,S/G2,YPL025C,566.0,38.0,ORF column,True,t50
+YPL026C,1,,,,,,False,t80
+YPL027W,2,,,,,,False,t50
+YPL028W,0,,,,,,False,t70
+YPL029W,2,,,,,,False,t40
+YPL030W,2,,,,,,False,t120
+YPL031C,2,,,,,,False,t70
+YPL032C,0,G1,SVL3,408.0,761.0,ORF column,True,t90
+YPL033C,2,,,,,,False,t40
+YPL034W,1,,,,,,False,t10
+YPL035C,2,,,,,,False,t50
+YPL036W,2,G2/M,PMA2,716.0,199.0,ORF column,True,t120
+YPL037C,1,,,,,,False,t0
+YPL038W,2,,,,,,False,t50
+YPL039W,2,,,,,,False,t90
+YPL040C,1,,,,,,False,t70
+YPL041C,1,,,,,,False,t20
+YPL042C,2,,,,,,False,t0
+YPL043W,2,,,,,,False,t0
+YPL044C,2,,,,,,False,t60
+YPL045W,0,,,,,,False,t90
+YPL046C,2,,,,,,False,t110
+YPL047W,2,,,,,,False,t70
+YPL048W,2,,,,,,False,t120
+YPL049C,2,,,,,,False,t100
+YPL050C,0,,,,,,False,t20
+YPL051W,2,,,,,,False,t80
+YPL052W,2,,,,,,False,t0
+YPL053C,0,,,,,,False,t100
+YPL054W,1,S,LEE1,421.0,361.0,ORF column,True,t0
+YPL055C,2,,,,,,False,t120
+YPL056C,2,,,,,,False,t60
+YPL057C,0,G1,SUR1,204.0,556.0,ORF column,True,t70
+YPL058C,2,G2/M,PDR12,696.0,179.0,ORF column,True,t110
+YPL059W,0,,,,,,False,t120
+YPL060W,2,,,,,,False,t60
+YPL061W,1,G2/M,ALD6,757.0,120.0,ORF column,True,t10
+YPL062W,1,,,,,,False,t120
+YPL063W,2,,,,,,False,t70
+YPL064C,2,,,,,,False,t120
+YPL065W,2,,,,,,False,t90
+YPL066W,0,,,,,,False,t70
+YPL067C,0,,,,,,False,t20
+YPL068C,2,,,,,,False,t0
+YPL069C,2,,,,,,False,t0
+YPL070W,2,,,,,,False,t120
+YPL071C,2,,,,,,False,t50
+YPL072W,2,,,,,,False,t90
+YPL073C,2,,,,,,False,t50
+YPL074W,2,,,,,,False,t70
+YPL075W,0,S/G2,GCR1,571.0,134.0,ORF column,True,t30
+YPL076W,2,,,,,,False,t80
+YPL077C,0,,,,,,False,t80
+YPL078C,0,,,,,,False,t90
+YPL079W,2,,,,,,False,t90
+YPL080C,2,,,,,,False,t40
+YPL081W,0,,,,,,False,t30
+YPL082C,0,,,,,,False,t80
+YPL083C,0,,,,,,False,t100
+YPL084W,2,,,,,,False,t70
+YPL085W,0,,,,,,False,t20
+YPL086C,2,,,,,,False,t60
+YPL087W,0,,,,,,False,t20
+YPL088W,1,,,,,,False,t10
+YPL089C,1,,,,,,False,t0
+YPL090C,1,,,,,,False,t10
+YPL091W,0,,,,,,False,t100
+YPL092W,1,,,,,,False,t10
+YPL093W,2,,,,,,False,t0
+YPL094C,2,,,,,,False,t60
+YPL095C,2,G2/M,YPL095C,743.0,14.0,ORF column,True,t100
+YPL096W,1,,,,,,False,t0
+YPL097W,1,,,,,,False,t20
+YPL098C,2,,,,,,False,t50
+YPL099C,1,,,,,,False,t20
+YPL100W,1,,,,,,False,t20
+YPL101W,2,,,,,,False,t110
+YPL102C,2,,,,,,False,t110
+YPL103C,0,,,,,,False,t20
+YPL104W,0,,,,,,False,t100
+YPL105C,2,,,,,,False,t40
+YPL106C,1,,,,,,False,t40
+YPL107W,1,,,,,,False,t60
+YPL108W,2,,,,,,False,t60
+YPL109C,1,,,,,,False,t0
+YPL110C,1,,,,,,False,t10
+YPL111W,0,G2/M,CAR1,644.0,137.0,ORF column,True,t30
+YPL112C,2,,,,,,False,t70
+YPL114W,0,,,,,,False,t30
+YPL115C,0,,,,,,False,t20
+YPL116W,0,S/G2,HOS3,511.0,681.0,ORF column,True,t40
+YPL117C,2,,,,,,False,t0
+YPL118W,0,,,,,,False,t20
+YPL119C,0,,,,,,False,t90
+YPL120W,0,,,,,,False,t90
+YPL121C,0,,,,,,False,t80
+YPL122C,2,,,,,,False,t60
+YPL123C,0,,,,,,False,t10
+YPL124W,0,G1,NIP29,379.0,548.0,ORF column,True,t10
+YPL125W,2,,,,,,False,t70
+YPL126W,2,,,,,,False,t0
+YPL127C,0,S,HHO1,448.0,788.0,ORF column,True,t30
+YPL128C,2,S/G2,TBF1,550.0,709.0,ORF column,True,t60
+YPL129W,0,,,,,,False,t100
+YPL130W,2,,,,,,False,t100
+YPL131W,2,,,,,,False,t70
+YPL132W,0,,,,,,False,t20
+YPL133C,2,S/G2,YPL133C,538.0,621.0,ORF column,True,t100
+YPL134C,0,,,,,,False,t120
+YPL135W,0,,,,,,False,t20
+YPL136W,1,,,,,,False,t60
+YPL137C,0,,,,,,False,t30
+YPL138C,2,,,,,,False,t60
+YPL139C,2,,,,,,False,t110
+YPL140C,0,,,,,,False,t100
+YPL141C,2,S/G2,YPL141C,594.0,216.0,ORF column,True,t50
+YPL142C,2,,,,,,False,t110
+YPL143W,2,,,,,,False,t110
+YPL144W,2,,,,,,False,t50
+YPL145C,0,,,,,,False,t100
+YPL146C,2,,,,,,False,t0
+YPL147W,2,,,,,,False,t90
+YPL148C,2,,,,,,False,t80
+YPL149W,0,,,,,,False,t30
+YPL150W,2,,,,,,False,t60
+YPL151C,2,,,,,,False,t100
+YPL153C,1,G1,RAD53,209.0,523.0,ORF column,True,t10
+YPL154C,1,,,,,,False,t0
+YPL155C,2,S/G2,KIP2,593.0,217.0,ORF column,True,t50
+YPL156C,2,,,,,,False,t0
+YPL157W,2,,,,,,False,t0
+YPL158C,2,M/G1,YPL158C,36.0,280.0,ORF column,True,t70
+YPL159C,2,,,,,,False,t60
+YPL160W,2,,,,,,False,t90
+YPL161C,0,,,,,,False,t70
+YPL162C,2,,,,,,False,t90
+YPL163C,0,G1,SVS1,249.0,470.0,ORF column,True,t20
+YPL164C,2,,,,,,False,t60
+YPL165C,1,,,,,,False,t10
+YPL166W,2,,,,,,False,t60
+YPL167C,1,,,,,,False,t70
+YPL168W,0,,,,,,False,t110
+YPL169C,2,,,,,,False,t60
+YPL170W,1,,,,,,False,t60
+YPL171C,1,,,,,,False,t10
+YPL172C,0,,,,,,False,t20
+YPL173W,2,,,,,,False,t60
+YPL174C,2,,,,,,False,t90
+YPL175W,2,,,,,,False,t120
+YPL176C,1,,,,,,False,t50
+YPL177C,1,,,,,,False,t0
+YPL178W,1,,,,,,False,t0
+YPL179W,2,,,,,,False,t0
+YPL180W,0,,,,,,False,t80
+YPL181W,2,,,,,,False,t80
+YPL182C,2,,,,,,False,t60
+YPL183C,2,,,,,,False,t0
+YPL183W-A,2,,,,,,False,t50
+YPL184C,0,,,,,,False,t30
+YPL185W,2,,,,,,False,t40
+YPL186C,1,,,,,,False,t50
+YPL187W,1,M/G1,MF(ALPHA)1,33.0,310.0,ORF column,True,t10
+YPL188W,1,,,,,,False,t40
+YPL189W,1,,,,,,False,t0
+YPL190C,0,,,,,,False,t30
+YPL191C,1,,,,,,False,t10
+YPL192C,1,,,,,,False,t0
+YPL193W,1,,,,,,False,t0
+YPL194W,1,,,,,,False,t60
+YPL195W,1,,,,,,False,t80
+YPL196W,0,,,,,,False,t10
+YPL197C,2,,,,,,False,t100
+YPL198W,1,,,,,,False,t50
+YPL199C,2,,,,,,False,t50
+YPL200W,2,,,,,,False,t70
+YPL201C,2,,,,,,False,t60
+YPL202C,2,,,,,,False,t0
+YPL203W,0,,,,,,False,t10
+YPL204W,1,,,,,,False,t0
+YPL205C,2,,,,,,False,t0
+YPL206C,0,,,,,,False,t120
+YPL207W,2,,,,,,False,t100
+YPL208W,0,G1,YPL208W,340.0,542.0,ORF column,True,t20
+YPL209C,0,G1,IPL1,299.0,419.0,ORF column,True,t110
+YPL210C,2,,,,,,False,t40
+YPL211W,2,,,,,,False,t0
+YPL212C,2,,,,,,False,t0
+YPL213W,2,,,,,,False,t60
+YPL214C,2,,,,,,False,t60
+YPL215W,2,,,,,,False,t110
+YPL216W,0,,,,,,False,t40
+YPL217C,2,,,,,,False,t0
+YPL218W,0,,,,,,False,t40
+YPL219W,2,,,,,,False,t60
+YPL220W,0,,,,,,False,t30
+YPL221W,1,G1,BOP1,187.0,601.0,ORF column,True,t10
+YPL222W,0,,,,,,False,t80
+YPL223C,1,,,,,,False,t10
+YPL224C,1,,,,,,False,t0
+YPL225W,2,,,,,,False,t90
+YPL226W,2,,,,,,False,t0
+YPL227C,0,,,,,,False,t30
+YPL228W,2,,,,,,False,t50
+YPL229W,2,,,,,,False,t0
+YPL230W,0,,,,,,False,t80
+YPL231W,1,,,,,,False,t0
+YPL232W,0,G1,SSO1,170.0,296.0,ORF column,True,t80
+YPL233W,0,,,,,,False,t110
+YPL234C,2,,,,,,False,t110
+YPL235W,2,,,,,,False,t100
+YPL236C,1,,,,,,False,t0
+YPL237W,2,,,,,,False,t0
+YPL238C,1,,,,,,False,t40
+YPL239W,2,,,,,,False,t40
+YPL240C,0,,,,,,False,t40
+YPL242C,2,G2/M,IQG1,673.0,218.0,ORF column,True,t60
+YPL243W,2,,,,,,False,t100
+YPL244C,2,,,,,,False,t50
+YPL245W,2,,,,,,False,t120
+YPL246C,1,,,,,,False,t0
+YPL247C,2,,,,,,False,t120
+YPL248C,0,,,,,,False,t90
+YPL249C,1,,,,,,False,t120
+YPL249C-A,2,,,,,,False,t110
+YPL250C,0,S,YPL250C,458.0,637.0,ORF column,True,t20
+YPL251W,2,,,,,,False,t110
+YPL252C,0,,,,,,False,t30
+YPL253C,2,S,VIK1,471.0,692.0,ORF column,True,t30
+YPL254W,2,,,,,,False,t100
+YPL255W,0,G1,BBP1,254.0,764.0,ORF column,True,t10
+YPL256C,0,G1,CLN2,294.0,536.0,ORF column,True,t80
+YPL257W,0,,,,,,False,t90
+YPL258C,2,,,,,,False,t90
+YPL259C,2,,,,,,False,t0
+YPL260W,0,,,,,,False,t90
+YPL261C,1,,,,,,False,t0
+YPL262W,0,,,,,,False,t20
+YPL263C,2,,,,,,False,t0
+YPL264C,0,S/G2,YPL264C,533.0,619.0,ORF column,True,t60
+YPL265W,0,G2/M,DIP5,643.0,122.0,ORF column,True,t10
+YPL266W,2,,,,,,False,t0
+YPL267W,1,G1,YPL267W,208.0,519.0,ORF column,True,t10
+YPL268W,2,,,,,,False,t0
+YPL269W,0,S,KAR9,436.0,620.0,ORF column,True,t30
+YPL270W,1,,,,,,False,t10
+YPL271W,1,,,,,,False,t10
+YPL272C,1,,,,,,False,t10
+YPL273W,2,,,,,,False,t0
+YPL274W,1,S,YPL274W,459.0,641.0,ORF column,True,t10
+YPL275W,1,,,,,,False,t40
+YPL276W,1,,,,,,False,t60
+YPL277C,1,,,,,,False,t10
+YPL278C,1,,,,,,False,t30
+YPL279C,0,,,,,,False,t20
+YPL280W,2,,,,,,False,t60
+YPL281C,1,,,,,,False,t20
+YPL282C,1,,,,,,False,t10
+YPL283C,1,M/G1,YPL283C,87.0,567.0,ORF column,True,t10
+YPR001W,0,,,,,,False,t20
+YPR002C-A,1,,,,,,False,t10
+YPR002W,1,,,,,,False,t20
+YPR003C,0,,,,,,False,t110
+YPR004C,0,,,,,,False,t30
+YPR005C,0,,,,,,False,t100
+YPR006C,0,,,,,,False,t20
+YPR007C,1,,,,,,False,t10
+YPR008W,2,,,,,,False,t120
+YPR009W,2,,,,,,False,t110
+YPR010C,2,,,,,,False,t0
+YPR011C,0,,,,,,False,t50
+YPR012W,2,,,,,,False,t30
+YPR013C,2,G2/M,YPR013C,645.0,41.0,ORF column,True,t110
+YPR014C,2,G2/M,YPR014C,630.0,175.0,ORF column,True,t30
+YPR015C,2,,,,,,False,t40
+YPR016C,2,,,,,,False,t0
+YPR017C,1,,,,,,False,t20
+YPR018W,0,G1,RLF2,173.0,406.0,ORF column,True,t10
+YPR019W,1,G2/M,CDC54,794.0,96.0,ORF column,True,t10
+YPR020W,1,,,,,,False,t10
+YPR021C,1,,,,,,False,t90
+YPR022C,2,,,,,,False,t90
+YPR023C,2,,,,,,False,t60
+YPR024W,2,,,,,,False,t40
+YPR025C,2,,,,,,False,t60
+YPR026W,2,,,,,,False,t20
+YPR027C,2,,,,,,False,t0
+YPR028W,0,,,,,,False,t20
+YPR029C,2,,,,,,False,t100
+YPR030W,2,,,,,,False,t60
+YPR031W,2,,,,,,False,t60
+YPR032W,2,,,,,,False,t100
+YPR033C,1,,,,,,False,t10
+YPR034W,2,S,ARP7,468.0,668.0,ORF column,True,t90
+YPR035W,1,,,,,,False,t10
+YPR036W,2,,,,,,False,t70
+YPR037C,1,,,,,,False,t60
+YPR038W,2,,,,,,False,t60
+YPR039W,2,,,,,,False,t80
+YPR040W,0,,,,,,False,t20
+YPR041W,2,,,,,,False,t100
+YPR042C,1,,,,,,False,t60
+YPR043W,2,,,,,,False,t120
+YPR044C,2,,,,,,False,t100
+YPR045C,2,G2/M,YPR045C,609.0,167.0,ORF column,True,t60
+YPR046W,0,,,,,,False,t40
+YPR047W,0,,,,,,False,t60
+YPR048W,2,,,,,,False,t120
+YPR049C,2,,,,,,False,t70
+YPR050C,2,,,,,,False,t40
+YPR051W,2,,,,,,False,t50
+YPR052C,2,,,,,,False,t40
+YPR053C,2,,,,,,False,t60
+YPR054W,0,,,,,,False,t30
+YPR055W,0,,,,,,False,t40
+YPR056W,2,,,,,,False,t80
+YPR057W,0,,,,,,False,t100
+YPR058W,0,,,,,,False,t30
+YPR059C,1,,,,,,False,t50
+YPR060C,1,,,,,,False,t0
+YPR061C,1,,,,,,False,t0
+YPR062W,2,,,,,,False,t90
+YPR063C,0,,,,,,False,t40
+YPR064W,2,,,,,,False,t60
+YPR065W,2,,,,,,False,t110
+YPR066W,2,,,,,,False,t70
+YPR067W,0,,,,,,False,t90
+YPR068C,2,,,,,,False,t100
+YPR069C,1,,,,,,False,t40
+YPR070W,1,,,,,,False,t0
+YPR071W,2,,,,,,False,t60
+YPR072W,2,,,,,,False,t100
+YPR073C,1,,,,,,False,t110
+YPR074C,1,,,,,,False,t30
+YPR075C,0,G1,OPY2,398.0,748.0,ORF column,True,t20
+YPR076W,0,G1,YPR076W,385.0,749.0,ORF column,True,t20
+YPR077C,1,,,,,,False,t0
+YPR078C,2,,,,,,False,t30
+YPR079W,2,,,,,,False,t0
+YPR080W,0,,,,,,False,t120
+YPR081C,0,,,,,,False,t80
+YPR082C,0,,,,,,False,t100
+YPR083W,0,,,,,,False,t30
+YPR084W,2,,,,,,False,t50
+YPR085C,2,,,,,,False,t100
+YPR086W,1,,,,,,False,t0
+YPR087W,2,,,,,,False,t60
+YPR088C,1,,,,,,False,t70
+YPR089W,2,,,,,,False,t110
+YPR090W,2,,,,,,False,t120
+YPR091C,2,,,,,,False,t70
+YPR092W,2,,,,,,False,t110
+YPR093C,1,,,,,,False,t80
+YPR094W,1,,,,,,False,t0
+YPR095C,1,,,,,,False,t10
+YPR096C,1,,,,,,False,t40
+YPR097W,0,,,,,,False,t20
+YPR098C,1,,,,,,False,t0
+YPR099C,1,,,,,,False,t20
+YPR100W,2,,,,,,False,t60
+YPR101W,2,,,,,,False,t40
+YPR102C,2,,,,,,False,t0
+YPR103W,2,,,,,,False,t50
+YPR104C,0,,,,,,False,t90
+YPR105C,2,,,,,,False,t90
+YPR106W,2,G1,ISR1,387.0,398.0,ORF column,True,t80
+YPR107C,2,S,YTH1,440.0,363.0,ORF column,True,t100
+YPR108W,2,,,,,,False,t100
+YPR109W,2,,,,,,False,t40
+YPR110C,2,,,,,,False,t60
+YPR111W,2,S/G2,DBF20,604.0,660.0,ORF column,True,t90
+YPR112C,2,,,,,,False,t0
+YPR113W,2,,,,,,False,t40
+YPR114W,0,,,,,,False,t20
+YPR115W,1,,,,,,False,t0
+YPR116W,2,,,,,,False,t40
+YPR117W,2,,,,,,False,t60
+YPR118W,2,,,,,,False,t60
+YPR119W,2,G2/M,CLB2,661.0,239.0,ORF column,True,t50
+YPR121W,2,,,,,,False,t110
+YPR122W,2,,,,,,False,t0
+YPR123C,2,,,,,,False,t40
+YPR124W,2,,,,,,False,t40
+YPR125W,1,,,,,,False,t0
+YPR126C,2,,,,,,False,t60
+YPR127W,2,,,,,,False,t110
+YPR128C,2,G2/M,YPR128C,654.0,135.0,ORF column,True,t100
+YPR129W,0,,,,,,False,t40
+YPR130C,2,,,,,,False,t60
+YPR131C,2,,,,,,False,t60
+YPR132W,1,,,,,,False,t50
+YPR133C,2,,,,,,False,t120
+YPR133W-A,1,,,,,,False,t120
+YPR134W,2,,,,,,False,t80
+YPR135W,0,G1,CTF4,223.0,558.0,ORF column,True,t20
+YPR136C,2,,,,,,False,t50
+YPR137W,2,,,,,,False,t0
+YPR138C,0,G2/M,MEP3,679.0,136.0,ORF column,True,t80
+YPR139C,1,,,,,,False,t20
+YPR140W,1,,,,,,False,t0
+YPR141C,0,G1,KAR3,400.0,727.0,ORF column,True,t0
+YPR142C,1,,,,,,False,t0
+YPR143W,2,,,,,,False,t60
+YPR144C,2,,,,,,False,t0
+YPR145W,0,,,,,,False,t90
+YPR146C,2,,,,,,False,t50
+YPR147C,2,,,,,,False,t100
+YPR148C,1,,,,,,False,t120
+YPR149W,2,G2/M,NCE102,684.0,203.0,ORF column,True,t120
+YPR150W,2,,,,,,False,t70
+YPR151C,1,,,,,,False,t40
+YPR152C,2,,,,,,False,t50
+YPR153W,0,,,,,,False,t40
+YPR154W,0,,,,,,False,t50
+YPR155C,0,S/G2,NCA2,532.0,247.0,ORF column,True,t100
+YPR156C,2,G2/M,YPR156C,659.0,219.0,ORF column,True,t70
+YPR157W,0,G2/M,YPR157W,671.0,189.0,ORF column,True,t50
+YPR158W,0,,,,,,False,t30
+YPR159W,0,S,KRE6,442.0,776.0,ORF column,True,t20
+YPR160W,0,G1,GPH1,206.0,335.0,ORF column,True,t100
+YPR161C,2,,,,,,False,t90
+YPR162C,2,,,,,,False,t100
+YPR163C,2,,,,,,False,t100
+YPR164W,2,,,,,,False,t100
+YPR165W,0,,,,,,False,t100
+YPR166C,2,,,,,,False,t90
+YPR167C,1,S/G2,MET16,531.0,649.0,ORF column,True,t10
+YPR168W,1,,,,,,False,t10
+YPR169W,2,,,,,,False,t60
+YPR170C,2,,,,,,False,t110
+YPR171W,2,,,,,,False,t120
+YPR172W,1,,,,,,False,t10
+YPR173C,1,,,,,,False,t10
+YPR174C,1,G1,YPR174C,222.0,544.0,ORF column,True,t10
+YPR175W,0,G1,DPB2,205.0,545.0,ORF column,True,t10
+YPR176C,1,,,,,,False,t70
+YPR177C,2,,,,,,False,t60
+YPR178W,0,,,,,,False,t90
+YPR179C,0,,,,,,False,t120
+YPR180W,0,,,,,,False,t90
+YPR181C,0,,,,,,False,t30
+YPR182W,2,,,,,,False,t70
+YPR183W,0,,,,,,False,t20
+YPR184W,2,,,,,,False,t90
+YPR185W,0,,,,,,False,t20
+YPR186C,2,,,,,,False,t110
+YPR187W,2,,,,,,False,t50
+YPR188C,1,,,,,,False,t0
+YPR189W,2,,,,,,False,t80
+YPR190C,2,,,,,,False,t50
+YPR191W,0,,,,,,False,t10
+YPR192W,2,,,,,,False,t70
+YPR193C,1,,,,,,False,t60
+YPR194C,0,,,,,,False,t10
+YPR196W,1,,,,,,False,t120
+YPR197C,2,,,,,,False,t60
+YPR198W,0,,,,,,False,t60
+YPR199C,2,,,,,,False,t110
+YPR201W,2,,,,,,False,t120
+YPR202W,1,G1,YPR202W,154.0,580.0,ORF column,True,t10
+YPR203W,1,G1,YPR203W,138.0,598.0,ORF column,True,t10

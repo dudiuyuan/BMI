@@ -1,0 +1,133 @@
+{
+  "status": "passed",
+  "isolated_environment": true,
+  "executable": "D:\\BMI\\project11\\.venv\\Scripts\\python.exe",
+  "python": "3.13.14",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1",
+    "numba": "0.68.0"
+  },
+  "unit_tests_passed": 6,
+  "real_genes": 6136,
+  "matched_reference_genes": 784,
+  "full_real_assignments_identical_across_environments": true,
+  "simulated_ari": 0.7281215853779676,
+  "simulated_nmi": 0.7846779270078093,
+  "commands": [
+    {
+      "command": [
+        "D:\\BMI\\project11\\.venv\\Scripts\\python.exe",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "exit_code": 0,
+      "seconds": 7.4133877999847755,
+      "log": "results\\acceptance_logs\\01.txt"
+    },
+    {
+      "command": [
+        "D:\\BMI\\project11\\.venv\\Scripts\\python.exe",
+        "simulation.py",
+        "--n",
+        "36",
+        "--t",
+        "17",
+        "--seed",
+        "7",
+        "--output",
+        "data/smoke"
+      ],
+      "exit_code": 0,
+      "seconds": 1.7819780000136234,
+      "log": "results\\acceptance_logs\\02.txt"
+    },
+    {
+      "command": [
+        "D:\\BMI\\project11\\.venv\\Scripts\\python.exe",
+        "main.py",
+        "--input",
+        "data/smoke/expression.csv",
+        "--method",
+        "dtw",
+        "--k",
+        "6",
+        "--window",
+        "2",
+        "--output",
+        "results/smoke",
+        "--seed",
+        "7"
+      ],
+      "exit_code": 0,
+      "seconds": 5.591006800008472,
+      "log": "results\\acceptance_logs\\03.txt"
+    },
+    {
+      "command": [
+        "D:\\BMI\\project11\\.venv\\Scripts\\python.exe",
+        "main.py",
+        "--input",
+        "data/simulated/expression.csv",
+        "--method",
+        "dtw",
+        "--k",
+        "6",
+        "--window",
+        "2",
+        "--output",
+        "results/simulation_cli",
+        "--seed",
+        "11"
+      ],
+      "exit_code": 0,
+      "seconds": 5.859426499984693,
+      "log": "results\\acceptance_logs\\04.txt"
+    },
+    {
+      "command": [
+        "D:\\BMI\\project11\\.venv\\Scripts\\python.exe",
+        "main.py",
+        "--input",
+        "data/gse3635/gene_log10ratio_with_missing.csv",
+        "--method",
+        "dtw",
+        "--k",
+        "3",
+        "--window",
+        "2",
+        "--output",
+        "results/fresh_environment_real",
+        "--seed",
+        "11"
+      ],
+      "exit_code": 0,
+      "seconds": 28.797822699998505,
+      "log": "results\\acceptance_logs\\05.txt"
+    },
+    {
+      "command": [
+        "D:\\BMI\\project11\\.venv\\Scripts\\python.exe",
+        "biological_validation.py",
+        "--assignments",
+        "results/fresh_environment_real/assignments.csv",
+        "--reference",
+        "data/references/spellman800.csv",
+        "--expression",
+        "results/fresh_environment_real/processed_input.csv",
+        "--output",
+        "results/fresh_environment_real"
+      ],
+      "exit_code": 0,
+      "seconds": 5.473534099990502,
+      "log": "results\\acceptance_logs\\06.txt"
+    }
+  ]
+}

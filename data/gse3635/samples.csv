@@ -1,0 +1,14 @@
+sample_id,time_minutes,title,source_scan_date,column,source
+GSM81064,0,Yeast cell cycle-time point 0 min 2001-05-03_0000.rfm,2001-05-03,t0,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81064
+GSM81065,10,Yeast cell cycle-time point 10 min 2001-05-03_0010.rfm,2001-05-03,t10,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81065
+GSM81066,20,Yeast cell cycle-time point 20 min 2001-05-03_0020.rfm,2001-05-03,t20,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81066
+GSM81067,30,Yeast cell cycle-time point 30 min 2001-05-03_0030.rfm,2001-05-03,t30,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81067
+GSM81068,40,Yeast cell cycle-time point 40 min 2001-04-11_0040.rfm,2001-04-11,t40,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81068
+GSM81069,50,Yeast cell cycle-time point 50 min 2001-04-11_0050.rfm,2001-04-11,t50,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81069
+GSM81070,60,Yeast cell cycle-time point 60 min 2001-04-11_0060.rfm,2001-04-11,t60,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81070
+GSM81071,70,Yeast cell cycle-time point 70 min 2001-04-11_0070.rfm,2001-04-11,t70,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81071
+GSM81072,80,Yeast cell cycle-time point 80 min 2001-04-11_0080.rfm,2001-04-11,t80,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81072
+GSM81073,90,Yeast cell cycle-time point 90 min 2001-04-11_0090.rfm,2001-04-11,t90,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81073
+GSM81074,100,Yeast cell cycle-time point 100 min 2001-04-11_0100.rfm,2001-04-11,t100,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81074
+GSM81075,110,Yeast cell cycle-time point 110 min 2001-04-11_0110.rfm,2001-04-11,t110,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81075
+GSM81076,120,Yeast cell cycle-time point 120 min 2001-04-11_0120.rfm,2001-04-11,t120,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81076

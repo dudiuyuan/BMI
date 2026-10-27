@@ -1,0 +1,43 @@
+{
+  "input": "D:\\BMI\\project11\\data\\gse3635\\gene_log10ratio_with_missing.csv",
+  "input_sha256": "ef32c1321b2073c2a639edd94147a9cced372427049b23623e9605350931aca6",
+  "method": "pearson",
+  "k": 3,
+  "window": 2,
+  "seed": 11,
+  "n_init": 5,
+  "objective": 3246.494814163074,
+  "iterations": 3,
+  "preprocessing": {
+    "input_rows": 6214,
+    "unique_genes": 6214,
+    "retained_genes": 6136,
+    "dropped_genes": 78,
+    "imputed_cells": 864,
+    "constant_genes": 0,
+    "scaling": "zscore",
+    "max_missing": 0.2,
+    "duplicate_rule": "per-time median",
+    "interpolation": "linear elapsed time; nearest endpoints",
+    "time_columns": [
+      "t0",
+      "t10",
+      "t20",
+      "t30",
+      "t40",
+      "t50",
+      "t60",
+      "t70",
+      "t80",
+      "t90",
+      "t100",
+      "t110",
+      "t120"
+    ]
+  },
+  "distance_seconds": 0.42340410000178963,
+  "total_seconds": 4.530518000014126,
+  "python": "3.13.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "algorithm": "self-implemented alternating k-medoids; squared local DTW cost, sqrt accumulated cost, no path normalization"
+}

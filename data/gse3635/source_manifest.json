@@ -1,0 +1,58 @@
+[
+  {
+    "file": "data\\gse3635\\raw\\GSE3635_RAW.tar",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3635/suppl/GSE3635_RAW.tar",
+    "bytes": 6481920,
+    "sha256": "34c4d1dd25a9b6401ef900f2e3a885addd3e18970d0642a50b90327e1515e33c",
+    "retrieved_date": "user supplied; original download date unknown",
+    "processed_at": "2026-10-26T14:28:07.432991+08:00"
+  },
+  {
+    "file": "data\\gse3635\\raw\\GSE3635_series.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE3635&targ=self&form=text&view=full",
+    "bytes": 1949,
+    "sha256": "519d64c4797b3a9f6b6e518133c8a96e93b43234cea9e9c5dce5f3f67a81e821",
+    "retrieved_date": "2026-10-26",
+    "processed_at": "2026-10-26T14:28:07.432991+08:00"
+  },
+  {
+    "file": "data\\gse3635\\raw\\GSE3635_family.soft.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3635/soft/GSE3635_family.soft.gz",
+    "bytes": 1339092,
+    "sha256": "ed1a2e8d949ae9d4610aae9080639f5f55ee279ab23214ad40925ff60fc49875",
+    "retrieved_date": "2026-10-26",
+    "processed_at": "2026-10-26T14:28:07.432991+08:00"
+  },
+  {
+    "file": "data\\gse3635\\raw\\GSE3635_series_matrix.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3635/matrix/GSE3635_series_matrix.txt.gz",
+    "bytes": 433575,
+    "sha256": "95a3198fd198d738b4ba6cfdc04c481ada231aa748f89adbd3a335e74e2550c6",
+    "retrieved_date": "2026-10-26",
+    "processed_at": "2026-10-26T14:28:07.432991+08:00"
+  },
+  {
+    "file": "data\\gse3635\\raw\\GPL1914.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL1914&targ=self&form=text&view=full",
+    "bytes": 687238,
+    "sha256": "259fe4b58003c5eaaf1ec5c0953a04666739165804181e7c58035af1b511e9c8",
+    "retrieved_date": "2026-10-26",
+    "processed_at": "2026-10-26T14:28:07.432991+08:00"
+  },
+  {
+    "file": "data\\gse3635\\raw\\GSM81064.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM81064&targ=self&form=text&view=full",
+    "bytes": 245956,
+    "sha256": "cd77c5c76ffe24aa921e31d16342b3052fe1c231169bf9418d96a8311f5ac992",
+    "retrieved_date": "2026-10-26",
+    "processed_at": "2026-10-26T14:28:07.432991+08:00"
+  },
+  {
+    "file": "data\\references\\yeastCC_1.50.0.tar.gz",
+    "url": "https://bioconductor.org/packages/3.22/data/experiment/src/contrib/yeastCC_1.50.0.tar.gz",
+    "bytes": 6126061,
+    "sha256": "07fbe294dd4fa96f8ac9d61645e9cae2f060974f9a941e192e65b47a3a310d04",
+    "retrieved_date": "2026-10-26",
+    "processed_at": "2026-10-26T14:28:07.432991+08:00"
+  }
+]

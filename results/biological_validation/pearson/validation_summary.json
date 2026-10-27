@@ -1,0 +1,13 @@
+{
+  "input_genes": 6136,
+  "reference_genes": 800,
+  "matched": 784,
+  "reference_coverage": 0.98,
+  "background_fraction": 0.12777053455019557,
+  "significant_clusters": [
+    0
+  ],
+  "test": "one-sided Fisher exact; BH across clusters; separate BH across all cluster-phase tests",
+  "phase_background": "only input genes with Spellman phase annotation",
+  "interpretation": "biological support, not clustering accuracy; not independent experimental replication"
+}

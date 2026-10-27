@@ -1,0 +1,22 @@
+{
+  "k": 3,
+  "window": 2,
+  "silhouette": 0.1313857138156891,
+  "seed": 11,
+  "rule": "maximum sampled silhouette, min cluster size >=1%; ties smaller window then k",
+  "candidate_k": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "candidate_windows": [
+    0,
+    1,
+    2
+  ],
+  "score_sample_size": 800,
+  "caveat": "silhouettes use different distance geometries; descriptive heuristic, not independent biological model selection"
+}

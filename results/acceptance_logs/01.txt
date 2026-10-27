@@ -1,0 +1,12 @@
+
+test_cluster_clear_groups_and_ties (test_pipeline.AlgorithmTests.test_cluster_clear_groups_and_ties) ... ok
+test_dtw_known_and_boundaries (test_pipeline.AlgorithmTests.test_dtw_known_and_boundaries) ... ok
+test_enrichment_background_and_fdr (test_pipeline.AlgorithmTests.test_enrichment_background_and_fdr) ... ok
+test_pearson_constants (test_pipeline.AlgorithmTests.test_pearson_constants) ... ok
+test_preprocessing_elapsed_time_and_duplicates (test_pipeline.AlgorithmTests.test_preprocessing_elapsed_time_and_duplicates) ... ok
+test_zero_window_and_symmetry (test_pipeline.AlgorithmTests.test_zero_window_and_symmetry) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 3.169s
+
+OK

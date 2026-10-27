@@ -1,0 +1,41 @@
+{
+  "conditions": {
+    "noise": [
+      0.0,
+      0.15,
+      0.4
+    ],
+    "shift": [
+      0.0,
+      0.08,
+      0.2
+    ],
+    "amplitude": [
+      0.0,
+      0.4,
+      0.8
+    ],
+    "missing": [
+      0.0,
+      0.1,
+      0.25
+    ],
+    "stretch": [
+      0.0,
+      0.3,
+      0.7
+    ]
+  },
+  "seeds": [
+    101,
+    102,
+    103
+  ],
+  "n": 120,
+  "t": 25,
+  "k": 6,
+  "truth": "phase-sensitive",
+  "max_missing": 0.4,
+  "n_init": 3,
+  "limitation": "early and late peaks share shape: DTW can merge them; zscore removes amplitude; supplementary integration benchmark, not Member D full benchmark"
+}

@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="730" viewBox="0 0 1100 730">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" font-family="Arial,sans-serif" font-size="23" font-weight="bold">Effect of missing_rate on one fixed gene (seed 3100)</text>
+<text x="115" y="108" font-family="Arial,sans-serif" font-size="17" font-weight="bold">p=0; red X = missing</text>
+<line x1="115" y1="120.0" x2="525" y2="120.0" stroke="#e1e5ea"/>
+<text x="107" y="124.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">1.08</text>
+<line x1="115" y1="217.5" x2="525" y2="217.5" stroke="#e1e5ea"/>
+<text x="107" y="221.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11">0.48</text>
+<line x1="115" y1="315.0" x2="525" y2="315.0" stroke="#e1e5ea"/>
+<text x="107" y="319.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">-0.13</text>
+<line x1="115" y1="120" x2="115" y2="315" stroke="#48515a"/>
+<line x1="115" y1="315" x2="525" y2="315" stroke="#48515a"/>
+<text x="115.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">0</text>
+<text x="320.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">60</text>
+<text x="525.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">120</text>
+<circle cx="115.0" cy="284.1" r="2.4" fill="#146c94"/>
+<circle cx="149.2" cy="235.6" r="2.4" fill="#146c94"/>
+<circle cx="183.3" cy="149.0" r="2.4" fill="#146c94"/>
+<circle cx="217.5" cy="138.9" r="2.4" fill="#146c94"/>
+<circle cx="251.7" cy="207.4" r="2.4" fill="#146c94"/>
+<circle cx="285.8" cy="267.2" r="2.4" fill="#146c94"/>
+<circle cx="320.0" cy="267.3" r="2.4" fill="#146c94"/>
+<circle cx="354.2" cy="271.4" r="2.4" fill="#146c94"/>
+<circle cx="388.3" cy="296.1" r="2.4" fill="#146c94"/>
+<circle cx="422.5" cy="276.1" r="2.4" fill="#146c94"/>
+<circle cx="456.7" cy="271.1" r="2.4" fill="#146c94"/>
+<circle cx="490.8" cy="286.5" r="2.4" fill="#146c94"/>
+<circle cx="525.0" cy="291.9" r="2.4" fill="#146c94"/>
+<polyline points="115.0,284.1 149.2,235.6 183.3,149.0 217.5,138.9 251.7,207.4 285.8,267.2 320.0,267.3 354.2,271.4 388.3,296.1 422.5,276.1 456.7,271.1 490.8,286.5 525.0,291.9" fill="none" stroke="#146c94" stroke-width="2.2"/>
+<line x1="115" y1="351" x2="133" y2="351" stroke="#146c94" stroke-width="3"/>
+<text x="139" y="355" font-family="Arial,sans-serif" font-size="11">missing_rate=0</text>
+<text x="320.0" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Time after release (min)</text>
+<text x="65" y="217.5" transform="rotate(-90 65 217.5)" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Simulated expression (a.u.)</text>
+<text x="655" y="108" font-family="Arial,sans-serif" font-size="17" font-weight="bold">p=0.08; red X = missing</text>
+<line x1="655" y1="120.0" x2="1065" y2="120.0" stroke="#e1e5ea"/>
+<text x="647" y="124.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">1.08</text>
+<line x1="655" y1="217.5" x2="1065" y2="217.5" stroke="#e1e5ea"/>
+<text x="647" y="221.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11">0.48</text>
+<line x1="655" y1="315.0" x2="1065" y2="315.0" stroke="#e1e5ea"/>
+<text x="647" y="319.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">-0.13</text>
+<line x1="655" y1="120" x2="655" y2="315" stroke="#48515a"/>
+<line x1="655" y1="315" x2="1065" y2="315" stroke="#48515a"/>
+<text x="655.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">0</text>
+<text x="860.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">60</text>
+<text x="1065.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">120</text>
+<circle cx="655.0" cy="284.1" r="2.4" fill="#146c94"/>
+<circle cx="689.2" cy="235.6" r="2.4" fill="#146c94"/>
+<circle cx="723.3" cy="149.0" r="2.4" fill="#146c94"/>
+<circle cx="757.5" cy="138.9" r="2.4" fill="#146c94"/>
+<circle cx="791.7" cy="207.4" r="2.4" fill="#146c94"/>
+<circle cx="825.8" cy="267.2" r="2.4" fill="#146c94"/>
+<circle cx="860.0" cy="267.3" r="2.4" fill="#146c94"/>
+<circle cx="894.2" cy="271.4" r="2.4" fill="#146c94"/>
+<circle cx="928.3" cy="296.1" r="2.4" fill="#146c94"/>
+<circle cx="962.5" cy="276.1" r="2.4" fill="#146c94"/>
+<circle cx="996.7" cy="271.1" r="2.4" fill="#146c94"/>
+<circle cx="1030.8" cy="286.5" r="2.4" fill="#146c94"/>
+<circle cx="1065.0" cy="291.9" r="2.4" fill="#146c94"/>
+<polyline points="655.0,284.1 689.2,235.6 723.3,149.0 757.5,138.9 791.7,207.4 825.8,267.2 860.0,267.3 894.2,271.4 928.3,296.1 962.5,276.1 996.7,271.1 1030.8,286.5 1065.0,291.9" fill="none" stroke="#146c94" stroke-width="2.2"/>
+<line x1="655" y1="351" x2="673" y2="351" stroke="#146c94" stroke-width="3"/>
+<text x="679" y="355" font-family="Arial,sans-serif" font-size="11">missing_rate=0.08</text>
+<text x="860.0" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Time after release (min)</text>
+<text x="605" y="217.5" transform="rotate(-90 605 217.5)" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Simulated expression (a.u.)</text>
+<text x="115" y="428" font-family="Arial,sans-serif" font-size="17" font-weight="bold">p=0.16; red X = missing</text>
+<line x1="115" y1="440.0" x2="525" y2="440.0" stroke="#e1e5ea"/>
+<text x="107" y="444.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">1.08</text>
+<line x1="115" y1="537.5" x2="525" y2="537.5" stroke="#e1e5ea"/>
+<text x="107" y="541.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11">0.48</text>
+<line x1="115" y1="635.0" x2="525" y2="635.0" stroke="#e1e5ea"/>
+<text x="107" y="639.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">-0.13</text>
+<line x1="115" y1="440" x2="115" y2="635" stroke="#48515a"/>
+<line x1="115" y1="635" x2="525" y2="635" stroke="#48515a"/>
+<text x="115.0" y="653" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">0</text>
+<text x="320.0" y="653" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">60</text>
+<text x="525.0" y="653" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">120</text>
+<circle cx="115.0" cy="604.1" r="2.4" fill="#146c94"/>
+<circle cx="149.2" cy="555.6" r="2.4" fill="#146c94"/>
+<circle cx="183.3" cy="469.0" r="2.4" fill="#146c94"/>
+<circle cx="217.5" cy="458.9" r="2.4" fill="#146c94"/>
+<circle cx="251.7" cy="527.4" r="2.4" fill="#146c94"/>
+<circle cx="285.8" cy="587.2" r="2.4" fill="#146c94"/>
+<circle cx="320.0" cy="587.3" r="2.4" fill="#146c94"/>
+<polyline points="115.0,604.1 149.2,555.6 183.3,469.0 217.5,458.9 251.7,527.4 285.8,587.2 320.0,587.3" fill="none" stroke="#146c94" stroke-width="2.2"/>
+<circle cx="388.3" cy="616.1" r="2.4" fill="#146c94"/>
+<circle cx="422.5" cy="596.1" r="2.4" fill="#146c94"/>
+<circle cx="456.7" cy="591.1" r="2.4" fill="#146c94"/>
+<circle cx="490.8" cy="606.5" r="2.4" fill="#146c94"/>
+<circle cx="525.0" cy="611.9" r="2.4" fill="#146c94"/>
+<polyline points="388.3,616.1 422.5,596.1 456.7,591.1 490.8,606.5 525.0,611.9" fill="none" stroke="#146c94" stroke-width="2.2"/>
+<line x1="115" y1="671" x2="133" y2="671" stroke="#146c94" stroke-width="3"/>
+<text x="139" y="675" font-family="Arial,sans-serif" font-size="11">missing_rate=0.16</text>
+<path d="M 349.2,622.0 L 359.2,632.0 M 349.2,632.0 L 359.2,622.0" stroke="#c72b35" stroke-width="2"/>
+<text x="320.0" y="710" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Time after release (min)</text>
+<text x="65" y="537.5" transform="rotate(-90 65 537.5)" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Simulated expression (a.u.)</text>
+<text x="655" y="428" font-family="Arial,sans-serif" font-size="17" font-weight="bold">p=0.31; red X = missing</text>
+<line x1="655" y1="440.0" x2="1065" y2="440.0" stroke="#e1e5ea"/>
+<text x="647" y="444.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">1.01</text>
+<line x1="655" y1="537.5" x2="1065" y2="537.5" stroke="#e1e5ea"/>
+<text x="647" y="541.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11">0.44</text>
+<line x1="655" y1="635.0" x2="1065" y2="635.0" stroke="#e1e5ea"/>
+<text x="647" y="639.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">-0.13</text>
+<line x1="655" y1="440" x2="655" y2="635" stroke="#48515a"/>
+<line x1="655" y1="635" x2="1065" y2="635" stroke="#48515a"/>
+<text x="655.0" y="653" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">0</text>
+<text x="860.0" y="653" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">60</text>
+<text x="1065.0" y="653" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">120</text>
+<circle cx="655.0" cy="603.3" r="2.4" fill="#146c94"/>
+<circle cx="723.3" cy="458.9" r="2.4" fill="#146c94"/>
+<circle cx="791.7" cy="521.3" r="2.4" fill="#146c94"/>
+<circle cx="825.8" cy="585.2" r="2.4" fill="#146c94"/>
+<circle cx="860.0" cy="585.3" r="2.4" fill="#146c94"/>
+<polyline points="791.7,521.3 825.8,585.2 860.0,585.3" fill="none" stroke="#146c94" stroke-width="2.2"/>
+<circle cx="928.3" cy="616.1" r="2.4" fill="#146c94"/>
+<circle cx="962.5" cy="594.7" r="2.4" fill="#146c94"/>
+<circle cx="996.7" cy="589.4" r="2.4" fill="#146c94"/>
+<polyline points="928.3,616.1 962.5,594.7 996.7,589.4" fill="none" stroke="#146c94" stroke-width="2.2"/>
+<circle cx="1065.0" cy="611.6" r="2.4" fill="#146c94"/>
+<line x1="655" y1="671" x2="673" y2="671" stroke="#146c94" stroke-width="3"/>
+<text x="679" y="675" font-family="Arial,sans-serif" font-size="11">missing_rate=0.31</text>
+<path d="M 684.2,622.0 L 694.2,632.0 M 684.2,632.0 L 694.2,622.0" stroke="#c72b35" stroke-width="2"/>
+<path d="M 752.5,622.0 L 762.5,632.0 M 752.5,632.0 L 762.5,622.0" stroke="#c72b35" stroke-width="2"/>
+<path d="M 889.2,622.0 L 899.2,632.0 M 889.2,632.0 L 899.2,622.0" stroke="#c72b35" stroke-width="2"/>
+<path d="M 1025.8,622.0 L 1035.8,632.0 M 1025.8,632.0 L 1035.8,622.0" stroke="#c72b35" stroke-width="2"/>
+<text x="860.0" y="710" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Time after release (min)</text>
+<text x="605" y="537.5" transform="rotate(-90 605 537.5)" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Simulated expression (a.u.)</text>
+</svg>

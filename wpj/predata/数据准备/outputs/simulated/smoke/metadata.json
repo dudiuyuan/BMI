@@ -1,0 +1,37 @@
+{
+  "generator": "simulation.py",
+  "model_version": 1,
+  "purpose": "Small interface check",
+  "config": {
+    "genes_per_class": 2,
+    "timepoints": 7,
+    "seed": 101,
+    "noise_sd": 0.05,
+    "max_shift": 0.03,
+    "amplitude_sd": 0.15,
+    "missing_rate": 0.0,
+    "stretch_sd": 0.08,
+    "duration": 120.0
+  },
+  "classes": [
+    "early_peak",
+    "late_peak",
+    "oscillatory",
+    "transient_induction",
+    "transient_repression",
+    "flat_noise"
+  ],
+  "rows": 12,
+  "time_columns": [
+    "t0",
+    "t20",
+    "t40",
+    "t60",
+    "t80",
+    "t100",
+    "t120"
+  ],
+  "missing_cells": 0,
+  "primary_truth": "true_cluster: six phase-sensitive classes",
+  "secondary_truth": "shape_cluster: early/late peaks merged (five classes)"
+}

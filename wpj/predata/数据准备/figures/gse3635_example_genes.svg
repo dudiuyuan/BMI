@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="410" viewBox="0 0 1100 410">
+<rect width="100%" height="100%" fill="white"/>
+<text x="35" y="40" font-family="Arial,sans-serif" font-size="23" font-weight="bold">GSE3635: four traceable genes</text>
+<text x="115" y="108" font-family="Arial,sans-serif" font-size="17" font-weight="bold">Processed GEO values</text>
+<line x1="115" y1="120.0" x2="525" y2="120.0" stroke="#e1e5ea"/>
+<text x="107" y="124.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">0.39</text>
+<line x1="115" y1="217.5" x2="525" y2="217.5" stroke="#e1e5ea"/>
+<text x="107" y="221.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11">-0.38</text>
+<line x1="115" y1="315.0" x2="525" y2="315.0" stroke="#e1e5ea"/>
+<text x="107" y="319.0" text-anchor="end" font-family="Arial,sans-serif" font-size="11">-1.16</text>
+<line x1="115" y1="120" x2="115" y2="315" stroke="#48515a"/>
+<line x1="115" y1="315" x2="525" y2="315" stroke="#48515a"/>
+<text x="115.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">0</text>
+<text x="320.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">60</text>
+<text x="525.0" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">120</text>
+<circle cx="115.0" cy="158.3" r="2.4" fill="#146c94"/>
+<circle cx="149.2" cy="142.5" r="2.4" fill="#146c94"/>
+<circle cx="183.3" cy="193.0" r="2.4" fill="#146c94"/>
+<circle cx="217.5" cy="213.8" r="2.4" fill="#146c94"/>
+<circle cx="251.7" cy="211.8" r="2.4" fill="#146c94"/>
+<circle cx="285.8" cy="190.6" r="2.4" fill="#146c94"/>
+<circle cx="320.0" cy="161.8" r="2.4" fill="#146c94"/>
+<circle cx="354.2" cy="156.7" r="2.4" fill="#146c94"/>
+<circle cx="388.3" cy="174.9" r="2.4" fill="#146c94"/>
+<circle cx="422.5" cy="206.2" r="2.4" fill="#146c94"/>
+<circle cx="456.7" cy="201.1" r="2.4" fill="#146c94"/>
+<circle cx="490.8" cy="179.6" r="2.4" fill="#146c94"/>
+<circle cx="525.0" cy="171.4" r="2.4" fill="#146c94"/>
+<polyline points="115.0,158.3 149.2,142.5 183.3,193.0 217.5,213.8 251.7,211.8 285.8,190.6 320.0,161.8 354.2,156.7 388.3,174.9 422.5,206.2 456.7,201.1 490.8,179.6 525.0,171.4" fill="none" stroke="#146c94" stroke-width="2.2"/>
+<line x1="115" y1="351" x2="133" y2="351" stroke="#146c94" stroke-width="3"/>
+<text x="139" y="355" font-family="Arial,sans-serif" font-size="11">MCM3 (YEL032W)</text>
+<circle cx="115.0" cy="226.5" r="2.4" fill="#c7522a"/>
+<circle cx="149.2" cy="143.3" r="2.4" fill="#c7522a"/>
+<circle cx="183.3" cy="142.6" r="2.4" fill="#c7522a"/>
+<circle cx="217.5" cy="175.3" r="2.4" fill="#c7522a"/>
+<circle cx="251.7" cy="220.1" r="2.4" fill="#c7522a"/>
+<circle cx="285.8" cy="237.6" r="2.4" fill="#c7522a"/>
+<circle cx="320.0" cy="232.9" r="2.4" fill="#c7522a"/>
+<circle cx="354.2" cy="166.7" r="2.4" fill="#c7522a"/>
+<circle cx="388.3" cy="141.1" r="2.4" fill="#c7522a"/>
+<circle cx="422.5" cy="144.7" r="2.4" fill="#c7522a"/>
+<circle cx="456.7" cy="168.4" r="2.4" fill="#c7522a"/>
+<circle cx="490.8" cy="189.8" r="2.4" fill="#c7522a"/>
+<circle cx="525.0" cy="213.9" r="2.4" fill="#c7522a"/>
+<polyline points="115.0,226.5 149.2,143.3 183.3,142.6 217.5,175.3 251.7,220.1 285.8,237.6 320.0,232.9 354.2,166.7 388.3,141.1 422.5,144.7 456.7,168.4 490.8,189.8 525.0,213.9" fill="none" stroke="#c7522a" stroke-width="2.2"/>
+<line x1="320" y1="351" x2="338" y2="351" stroke="#c7522a" stroke-width="3"/>
+<text x="344" y="355" font-family="Arial,sans-serif" font-size="11">CLN2 (YPL256C)</text>
+<circle cx="115.0" cy="251.8" r="2.4" fill="#227a53"/>
+<circle cx="149.2" cy="250.2" r="2.4" fill="#227a53"/>
+<circle cx="183.3" cy="260.4" r="2.4" fill="#227a53"/>
+<circle cx="217.5" cy="199.1" r="2.4" fill="#227a53"/>
+<circle cx="251.7" cy="142.9" r="2.4" fill="#227a53"/>
+<circle cx="285.8" cy="138.9" r="2.4" fill="#227a53"/>
+<circle cx="320.0" cy="153.1" r="2.4" fill="#227a53"/>
+<circle cx="354.2" cy="178.5" r="2.4" fill="#227a53"/>
+<circle cx="388.3" cy="205.3" r="2.4" fill="#227a53"/>
+<circle cx="422.5" cy="182.1" r="2.4" fill="#227a53"/>
+<circle cx="456.7" cy="157.0" r="2.4" fill="#227a53"/>
+<circle cx="490.8" cy="153.8" r="2.4" fill="#227a53"/>
+<circle cx="525.0" cy="151.2" r="2.4" fill="#227a53"/>
+<polyline points="115.0,251.8 149.2,250.2 183.3,260.4 217.5,199.1 251.7,142.9 285.8,138.9 320.0,153.1 354.2,178.5 388.3,205.3 422.5,182.1 456.7,157.0 490.8,153.8 525.0,151.2" fill="none" stroke="#227a53" stroke-width="2.2"/>
+<line x1="115" y1="368" x2="133" y2="368" stroke="#227a53" stroke-width="3"/>
+<text x="139" y="372" font-family="Arial,sans-serif" font-size="11">CLB2 (YPR119W)</text>
+<circle cx="115.0" cy="296.1" r="2.4" fill="#824b9e"/>
+<circle cx="149.2" cy="268.7" r="2.4" fill="#824b9e"/>
+<circle cx="183.3" cy="167.4" r="2.4" fill="#824b9e"/>
+<circle cx="217.5" cy="141.3" r="2.4" fill="#824b9e"/>
+<circle cx="251.7" cy="175.7" r="2.4" fill="#824b9e"/>
+<circle cx="285.8" cy="217.7" r="2.4" fill="#824b9e"/>
+<circle cx="320.0" cy="263.6" r="2.4" fill="#824b9e"/>
+<circle cx="354.2" cy="232.5" r="2.4" fill="#824b9e"/>
+<circle cx="388.3" cy="165.7" r="2.4" fill="#824b9e"/>
+<circle cx="422.5" cy="149.3" r="2.4" fill="#824b9e"/>
+<circle cx="456.7" cy="163.7" r="2.4" fill="#824b9e"/>
+<circle cx="490.8" cy="187.6" r="2.4" fill="#824b9e"/>
+<circle cx="525.0" cy="216.5" r="2.4" fill="#824b9e"/>
+<polyline points="115.0,296.1 149.2,268.7 183.3,167.4 217.5,141.3 251.7,175.7 285.8,217.7 320.0,263.6 354.2,232.5 388.3,165.7 422.5,149.3 456.7,163.7 490.8,187.6 525.0,216.5" fill="none" stroke="#824b9e" stroke-width="2.2"/>
+<line x1="320" y1="368" x2="338" y2="368" stroke="#824b9e" stroke-width="3"/>
+<text x="344" y="372" font-family="Arial,sans-serif" font-size="11">HTA1 (YDR225W)</text>
+<text x="320.0" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Time after release (min)</text>
+<text x="65" y="217.5" transform="rotate(-90 65 217.5)" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">Normalized log-ratio</text>
+</svg>

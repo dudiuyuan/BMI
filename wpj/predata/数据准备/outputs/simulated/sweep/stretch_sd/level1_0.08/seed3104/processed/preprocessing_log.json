@@ -1,0 +1,42 @@
+{
+  "input": "/Users/pengji/Library/CloudStorage/OneDrive-InternationalCampus,ZhejiangUniversity/note/college/grade3/course/Biomedical Informatics 3/ICA/\u6570\u636e\u51c6\u5907/outputs/simulated/sweep/stretch_sd/level1_0.08/seed3104/expression.csv",
+  "rows_input": 150,
+  "rows_kept": 150,
+  "rows_too_missing": 0,
+  "rows_all_missing": 0,
+  "missing_cells_input": 0,
+  "imputed_cells": 0,
+  "constant_rows_after_imputation": 0,
+  "max_missing": 0.4,
+  "time_columns": [
+    "t0",
+    "t10",
+    "t20",
+    "t30",
+    "t40",
+    "t50",
+    "t60",
+    "t70",
+    "t80",
+    "t90",
+    "t100",
+    "t110",
+    "t120"
+  ],
+  "time_values": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0,
+    90.0,
+    100.0,
+    110.0,
+    120.0
+  ],
+  "method": "filter > threshold; linear interpolation on actual time; nearest endpoint; per-gene population SD"
+}

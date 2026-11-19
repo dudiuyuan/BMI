@@ -1,0 +1,37 @@
+{
+  "config": {
+    "window": 0.0834,
+    "step_penalty": 0.0,
+    "time_penalty": 0.0,
+    "power": 2.0,
+    "dynamics": 0.0,
+    "open_penalty": 0.0,
+    "extend_penalty": 0.0
+  },
+  "input": "/Users/ame/Desktop/大三/BMI3/project/数据准备/outputs/simulated/baseline/processed/zscore.csv",
+  "input_sha256": "e7d4ae67296140d789df5dc07547121da54f87ac09aa14d4dc11edff78320ce7",
+  "original_genes": 150,
+  "selected_genes": 150,
+  "timepoints": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0,
+    90.0,
+    100.0,
+    110.0,
+    120.0
+  ],
+  "distance_definition": "sqrt(minimum cumulative local and transition cost)",
+  "kernel_sha256": "ef50970aa26567e47cf21bd4c53a42a4cde059b58ac633568ea0b0b149851316",
+  "expression_transform": "none; input values used unchanged",
+  "labels_read": false,
+  "mode": "matrix",
+  "pairs_computed": 11175,
+  "elapsed_seconds": 0.7930774999995265
+}

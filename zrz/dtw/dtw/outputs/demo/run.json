@@ -1,0 +1,30 @@
+{
+  "method": "affine",
+  "config": {
+    "window": null,
+    "step_penalty": 0,
+    "time_penalty": 0,
+    "power": 2.0,
+    "dynamics": 0,
+    "open_penalty": 0.2,
+    "extend_penalty": 0.05
+  },
+  "input": "/Users/ame/Desktop/大三/BMI3/project/数据准备/outputs/simulated/smoke/processed/centered.csv",
+  "input_sha256": "e13683602c0e511eb423f771f8675c82e17aa94d615dc4fda095d3b99546a00e",
+  "original_genes": 12,
+  "selected_genes": 12,
+  "timepoints": [
+    0.0,
+    20.0,
+    40.0,
+    60.0,
+    80.0,
+    100.0,
+    120.0
+  ],
+  "distance_definition": "sqrt(minimum cumulative local and transition cost)",
+  "labels_read": false,
+  "mode": "matrix",
+  "pairs_computed": 66,
+  "elapsed_seconds": 0.02114162500947714
+}

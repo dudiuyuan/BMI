@@ -1,0 +1,37 @@
+{
+  "config": {
+    "window": 0.0,
+    "step_penalty": 0.0,
+    "time_penalty": 2.0,
+    "power": 2.0,
+    "dynamics": 0.2,
+    "open_penalty": 0.0,
+    "extend_penalty": 0.0
+  },
+  "input": "/Users/ame/Desktop/大三/BMI3/project/数据准备/outputs/simulated/baseline/processed/centered.csv",
+  "input_sha256": "feb993544fa224431a6a91a4169e664059bcbe367f0fdce40b7b76675e18ce7f",
+  "original_genes": 150,
+  "selected_genes": 150,
+  "timepoints": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0,
+    90.0,
+    100.0,
+    110.0,
+    120.0
+  ],
+  "distance_definition": "sqrt(minimum cumulative local and transition cost)",
+  "kernel_sha256": "ef50970aa26567e47cf21bd4c53a42a4cde059b58ac633568ea0b0b149851316",
+  "expression_transform": "none; input values used unchanged",
+  "labels_read": false,
+  "mode": "matrix",
+  "pairs_computed": 11175,
+  "elapsed_seconds": 2.125674875000186
+}

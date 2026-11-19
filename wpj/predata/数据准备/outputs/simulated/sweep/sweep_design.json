@@ -1,0 +1,53 @@
+{
+  "factors": {
+    "noise_sd": [
+      0.0,
+      0.05,
+      0.12,
+      0.25
+    ],
+    "max_shift": [
+      0.0,
+      0.03,
+      0.08,
+      0.16
+    ],
+    "amplitude_sd": [
+      0.0,
+      0.15,
+      0.35,
+      0.6
+    ],
+    "missing_rate": [
+      0.0,
+      0.08,
+      0.16,
+      0.31
+    ],
+    "stretch_sd": [
+      0.0,
+      0.08,
+      0.2,
+      0.4
+    ]
+  },
+  "fixed_others": {
+    "noise_sd": 0.05,
+    "max_shift": 0.03,
+    "amplitude_sd": 0.15,
+    "missing_rate": 0.0,
+    "stretch_sd": 0.08
+  },
+  "genes_per_class": 25,
+  "timepoints": 13,
+  "seeds": [
+    3100,
+    3101,
+    3102,
+    3103,
+    3104
+  ],
+  "max_missing": 0.4,
+  "datasets": 100,
+  "paired_rule": "For a fixed seed, gene IDs and independent random streams are stable across levels. Non-target parameters and latent draws stay identical."
+}

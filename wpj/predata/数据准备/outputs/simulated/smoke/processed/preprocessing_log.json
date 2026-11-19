@@ -1,0 +1,30 @@
+{
+  "input": "/Users/pengji/Library/CloudStorage/OneDrive-InternationalCampus,ZhejiangUniversity/note/college/grade3/course/Biomedical Informatics 3/ICA/\u6570\u636e\u51c6\u5907/outputs/simulated/smoke/expression.csv",
+  "rows_input": 12,
+  "rows_kept": 12,
+  "rows_too_missing": 0,
+  "rows_all_missing": 0,
+  "missing_cells_input": 0,
+  "imputed_cells": 0,
+  "constant_rows_after_imputation": 0,
+  "max_missing": 0.4,
+  "time_columns": [
+    "t0",
+    "t20",
+    "t40",
+    "t60",
+    "t80",
+    "t100",
+    "t120"
+  ],
+  "time_values": [
+    0.0,
+    20.0,
+    40.0,
+    60.0,
+    80.0,
+    100.0,
+    120.0
+  ],
+  "method": "filter > threshold; linear interpolation on actual time; nearest endpoint; per-gene population SD"
+}

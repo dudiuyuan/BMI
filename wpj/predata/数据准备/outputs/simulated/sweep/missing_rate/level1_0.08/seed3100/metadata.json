@@ -1,0 +1,43 @@
+{
+  "generator": "simulation.py",
+  "model_version": 1,
+  "purpose": "paired sweep: missing_rate level 1",
+  "config": {
+    "genes_per_class": 25,
+    "timepoints": 13,
+    "seed": 3100,
+    "noise_sd": 0.05,
+    "max_shift": 0.03,
+    "amplitude_sd": 0.15,
+    "missing_rate": 0.08,
+    "stretch_sd": 0.08,
+    "duration": 120.0
+  },
+  "classes": [
+    "early_peak",
+    "late_peak",
+    "oscillatory",
+    "transient_induction",
+    "transient_repression",
+    "flat_noise"
+  ],
+  "rows": 150,
+  "time_columns": [
+    "t0",
+    "t10",
+    "t20",
+    "t30",
+    "t40",
+    "t50",
+    "t60",
+    "t70",
+    "t80",
+    "t90",
+    "t100",
+    "t110",
+    "t120"
+  ],
+  "missing_cells": 174,
+  "primary_truth": "true_cluster: six phase-sensitive classes",
+  "secondary_truth": "shape_cluster: early/late peaks merged (five classes)"
+}

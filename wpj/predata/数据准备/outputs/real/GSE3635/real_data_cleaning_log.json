@@ -1,0 +1,48 @@
+{
+  "accession": "GSE3635",
+  "feature_rule": "upper-case ID_REF; retain canonical yeast nuclear ORF Y[A-P][LR][0-9]{3}[CW] with optional -letter suffix",
+  "source_features": 6228,
+  "kept_orf": 6215,
+  "excluded_control_or_noncanonical": 13,
+  "case_normalized_orf": 1,
+  "missingness_threshold": 0.4,
+  "imputation": "linear in actual time for internal gaps; nearest observed endpoint for edge gaps",
+  "runs": [
+    {
+      "run": "run01",
+      "times_min": [
+        0,
+        10,
+        20,
+        30,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "sample_ids": [
+        "GSM81064",
+        "GSM81065",
+        "GSM81066",
+        "GSM81067",
+        "GSM81068",
+        "GSM81069",
+        "GSM81070",
+        "GSM81071",
+        "GSM81072",
+        "GSM81073",
+        "GSM81074",
+        "GSM81075",
+        "GSM81076"
+      ],
+      "rows_kept_after_missing_filter": 6214,
+      "imputed_cells": 165
+    }
+  ],
+  "details": "feature_decisions.csv plus each run's processed/row_log.csv and preprocessing_log.json"
+}

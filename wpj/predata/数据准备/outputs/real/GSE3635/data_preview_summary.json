@@ -1,0 +1,54 @@
+{
+  "accession": "GSE3635",
+  "source_file": "/Users/pengji/Library/CloudStorage/OneDrive-InternationalCampus,ZhejiangUniversity/note/college/grade3/course/Biomedical Informatics 3/ICA/数据准备/GSE3635/GSE3635_series_matrix",
+  "source_sha256": "23df9f5d173fc25957859eb6999c0f0f8ea5d79b92d845d8171b97d949abb9fc",
+  "processed_date": "2026-11-10",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE3635",
+  "platform": "GPL1914",
+  "value_description": "normalized log ratio using Rosetta Resolver",
+  "overall_design": "Cells were synchronized with alpha factor and sampled every 10 min across 2 cell cycles. A total of 13 samples were analyzed. No replicates were included. cDNA of the cell cycle samples were labelled with Cy5. For Cy3 labelling, asynchronous yeast population was used.",
+  "source_features": 6228,
+  "orf_features": 6215,
+  "excluded_features": 13,
+  "samples": 13,
+  "runs": 1,
+  "missing_cells_all_features": 172,
+  "missing_cells_orf": 172,
+  "run_outputs": [
+    {
+      "run": "run01",
+      "times_min": [
+        0,
+        10,
+        20,
+        30,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90,
+        100,
+        110,
+        120
+      ],
+      "sample_ids": [
+        "GSM81064",
+        "GSM81065",
+        "GSM81066",
+        "GSM81067",
+        "GSM81068",
+        "GSM81069",
+        "GSM81070",
+        "GSM81071",
+        "GSM81072",
+        "GSM81073",
+        "GSM81074",
+        "GSM81075",
+        "GSM81076"
+      ],
+      "rows_kept_after_missing_filter": 6214,
+      "imputed_cells": 165
+    }
+  ]
+}

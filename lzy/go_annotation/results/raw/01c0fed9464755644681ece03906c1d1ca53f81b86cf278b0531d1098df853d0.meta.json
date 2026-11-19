@@ -1,0 +1,25 @@
+{
+  "url": "https://rest.uniprot.org/uniprotkb/search?query=%28organism_id%3A559292%29+AND+%28gene_exact%3AYIL168W+OR+gene_exact%3AYJL015C+OR+gene_exact%3AYJL067W+OR+gene_exact%3AYJL119C+OR+gene_exact%3AYJL195C+OR+gene_exact%3AYKL066W+OR+gene_exact%3AYKL177W+OR+gene_exact%3AYKR012C+OR+gene_exact%3AYLR041W+OR+gene_exact%3AYLR169W+OR+gene_exact%3AYLR235C+OR+gene_exact%3AYLR458W+OR+gene_exact%3AYLR463C+OR+gene_exact%3AYLR465C+OR+gene_exact%3AYML035C-A+OR+gene_exact%3AYNL043C+OR+gene_exact%3AYNL057W+OR+gene_exact%3AYNL171C+OR+gene_exact%3AYNL276C+OR+gene_exact%3AYOL150C%29&format=json&fields=accession%2Cgene_names%2Corganism_id%2Cgo&size=500&sort=accession+asc",
+  "retrieved_at_utc": "2026-11-17T07:27:09.240051+00:00",
+  "headers": {
+    "Vary": "accept,accept-encoding,x-uniprot-release,x-api-deployment-date, User-Agent",
+    "Cache-Control": "public, max-age=43200",
+    "x-cache": "miss cached",
+    "Content-Type": "application/json",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Expose-Headers": "Link, X-Total-Results, X-UniProt-Release, X-UniProt-Release-Date, X-API-Deployment-Date",
+    "X-API-Deployment-Date": "10-November-2026",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "Date": "Tue, 17 Nov 2026 07:27:08 GMT",
+    "Access-Control-Max-Age": "1728000",
+    "X-UniProt-Release": "2026_04",
+    "X-Total-Results": "19",
+    "Transfer-Encoding": "chunked",
+    "Access-Control-Allow-Origin": "*",
+    "Connection": "close",
+    "Access-Control-Allow-Methods": "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+    "Access-Control-Allow-Headers": "DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Authorization",
+    "X-UniProt-Release-Date": "04-November-2026"
+  },
+  "sha256": "ba7280e61d481d46a4bc37030bb20778444207044174f60145a802e3bad131f1"
+}

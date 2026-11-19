@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "original_800_ids_identical": true,
+  "raw_response_checksums_valid": true,
+  "all_GO_rows_equal_raw_UniProt": true,
+  "all_800_genes_accounted_for": true,
+  "offline_csv_byte_identical": true,
+  "stats": {
+    "input_genes": 800,
+    "statuses": {
+      "matched_with_GO": 743,
+      "matched_without_GO": 52,
+      "unmatched": 5
+    },
+    "multiple_entry_genes": 0,
+    "shared_entry_genes": 11,
+    "shared_entries": {
+      "P02309": [
+        "YBR009C",
+        "YNL030W"
+      ],
+      "P25558": [
+        "YCL012W",
+        "YCL013W",
+        "YCL014W"
+      ],
+      "P47069": [
+        "YJL018W",
+        "YJL019W"
+      ],
+      "P61830": [
+        "YBR010W",
+        "YNL031C"
+      ],
+      "Q03707": [
+        "YML033W",
+        "YML034W"
+      ]
+    },
+    "long_rows": 6753,
+    "compact_rows": 6684,
+    "unique_GO_terms": 2003,
+    "GO_aspect_rows": {
+      "cellular_component": 2584,
+      "molecular_function": 1509,
+      "biological_process": 2660
+    }
+  }
+}

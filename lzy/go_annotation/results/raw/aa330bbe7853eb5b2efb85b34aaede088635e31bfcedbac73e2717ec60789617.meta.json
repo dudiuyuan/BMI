@@ -1,0 +1,26 @@
+{
+  "url": "https://rest.uniprot.org/uniprotkb/search?format=json&sort=accession%20asc&fields=accession,gene_names,organism_id,go&query=%28proteome%3AUP000002311%29%20AND%20%28organism_id%3A559292%29&cursor=35cxs78x5h41q07nfkgvhjfox&size=500",
+  "retrieved_at_utc": "2026-11-17T07:25:52.606720+00:00",
+  "headers": {
+    "Vary": "accept,accept-encoding,x-uniprot-release,x-api-deployment-date, User-Agent",
+    "Cache-Control": "public, max-age=43200",
+    "x-cache": "miss cached",
+    "Content-Type": "application/json",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Expose-Headers": "Link, X-Total-Results, X-UniProt-Release, X-UniProt-Release-Date, X-API-Deployment-Date",
+    "X-API-Deployment-Date": "10-November-2026",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "Date": "Tue, 17 Nov 2026 07:25:45 GMT",
+    "Access-Control-Max-Age": "1728000",
+    "X-UniProt-Release": "2026_04",
+    "Link": "<https://rest.uniprot.org/uniprotkb/search?format=json&sort=accession%20asc&fields=accession,gene_names,organism_id,go&query=%28proteome%3AUP000002311%29%20AND%20%28organism_id%3A559292%29&cursor=kphkh19et2hnf2blv18kybslyo&size=500>; rel=\"next\"",
+    "X-Total-Results": "6067",
+    "Transfer-Encoding": "chunked",
+    "Access-Control-Allow-Origin": "*",
+    "Connection": "close",
+    "Access-Control-Allow-Methods": "GET, PUT, POST, DELETE, PATCH, OPTIONS",
+    "Access-Control-Allow-Headers": "DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Authorization",
+    "X-UniProt-Release-Date": "04-November-2026"
+  },
+  "sha256": "0bbd60ed149a81dc57103fd8fa345723234b8047e978c0e35df71dbf915ca7cf"
+}

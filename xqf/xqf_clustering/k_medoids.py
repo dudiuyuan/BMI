@@ -23,7 +23,7 @@ def assign_clusters(distances, medoids):
             if row[candidate] < row[current_best]:
                 closest = cluster
 
-    labels[gene] = closest
+        labels[gene] = closest
     return labels
 
 

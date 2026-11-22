@@ -1,0 +1,63 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+\usepackage{microtype}
+\setlist[enumerate]{leftmargin=*,itemsep=0.35em,topsep=0.3em}
+\begin{document}
+
+\section*{II. Proposed Methodology}
+
+\subsection*{1. Data Preprocessing and Baseline Methods}
+Gene expression time-series data will be normalized to reduce differences in expression amplitude across genes. We will implement standard Dynamic Time Warping (DTW) and its modified variants using dynamic programming to quantify trajectory similarity, with Euclidean distance and Pearson correlation serving as baseline methods.
+
+\subsection*{2. Modified DTW Algorithms}
+We propose three modifications to the standard DTW algorithm:
+
+\begin{enumerate}[label=\textbf{(\arabic*)}]
+\item \textbf{Non-diagonal step penalty:} In DTW, horizontal and vertical steps allow one time point to be matched with multiple points in the other trajectory, enabling local temporal stretching. We propose introducing additional costs for these non-diagonal steps to discourage excessive stretching and potentially unrealistic alignments.
+
+\item \textbf{Nonlinear temporal penalty:} A power-law penalty will be introduced to accommodate minor shifts in gene activation timing while penalizing larger displacements more strongly, reducing potentially unrealistic alignments.
+
+\item \textbf{Expression dynamics-aware penalty:} Temporal penalties will be adjusted according to local expression change rates, imposing stronger penalties in rapidly changing regions where temporal alignment may be more sensitive.
+\end{enumerate}
+
+The proposed temporal penalties will be incorporated into the following \textbf{modified local matching cost function}:
+\begin{equation}
+\boxed{c(i,j)=(x_i-y_j)^2+\lambda |t_i-t_j|^p\left(1+\alpha\frac{v_i+v_j}{2}\right)}
+\end{equation}
+where $x_i,y_j$ are normalized expression values, $t_i,t_j$ are normalized time points, and $v_i,v_j$ represent local expression change magnitudes, estimated as:
+\begin{equation}
+ v_i=\left|\frac{x_i-x_{i-1}}{t_i-t_{i-1}}\right|,
+ \qquad
+ v_j=\left|\frac{y_j-y_{j-1}}{t_j-t_{j-1}}\right|.
+\end{equation}
+Here, $\lambda$ controls temporal penalty strength, $p$ determines nonlinear growth, and $\alpha$ controls sensitivity to local expression dynamics.
+
+The \textbf{modified DTW recurrence} is defined as:
+\begin{equation}
+\boxed{D(i,j)=c(i,j)+\min\begin{cases}
+D(i-1,j-1),\\
+D(i-1,j)+\omega,\\
+D(i,j-1)+\omega
+\end{cases}}
+\end{equation}
+where $\omega$ introduces an additional cost for non-diagonal transitions.
+
+Each modification will first be benchmarked independently to evaluate its effectiveness. Different combinations will then be tested and compared to identify the optimal algorithm in terms of clustering accuracy and computational efficiency.
+
+\subsection*{3. Computational Optimization and Clustering}
+To improve computational efficiency, two complementary pruning strategies will be implemented.
+
+First, \textbf{LB\_Keogh lower-bound pruning} will eliminate unnecessary DTW calculations when the estimated lower bound exceeds a predefined cost threshold:
+\begin{equation}
+\boxed{LB_{\mathrm{Keogh}}(X,Y)>\tau}
+\end{equation}
+Second, \textbf{early abandoning} will terminate dynamic programming when the minimum cumulative cost among reachable states in the current row exceeds the threshold:
+\begin{equation}
+\boxed{\min_{j\in J_i}D(i,j)>\tau}
+\end{equation}
+where $\tau$ is the cost threshold and $J_i$ denotes the set of reachable states in row $i$.
+
+
+\end{document}

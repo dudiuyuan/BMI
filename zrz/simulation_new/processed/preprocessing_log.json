@@ -1,0 +1,42 @@
+{
+  "input": "/sessions/rcw-016phz7pxjbbs9mmijlniy8e/mnt/\u5927\u4e09/BMI3/BMI/zrz/simulation_new/expression.csv",
+  "rows_input": 150,
+  "rows_kept": 150,
+  "rows_too_missing": 0,
+  "rows_all_missing": 0,
+  "missing_cells_input": 163,
+  "imputed_cells": 163,
+  "constant_rows_after_imputation": 0,
+  "max_missing": 0.4,
+  "time_columns": [
+    "t0",
+    "t10",
+    "t20",
+    "t30",
+    "t40",
+    "t50",
+    "t60",
+    "t70",
+    "t80",
+    "t90",
+    "t100",
+    "t110",
+    "t120"
+  ],
+  "time_values": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0,
+    90.0,
+    100.0,
+    110.0,
+    120.0
+  ],
+  "method": "filter > threshold; linear interpolation on actual time; nearest endpoint; per-gene population SD"
+}

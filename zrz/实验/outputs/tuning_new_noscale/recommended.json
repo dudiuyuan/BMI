@@ -1,0 +1,318 @@
+{
+  "tuned_on": {
+    "data": "/Users/ame/Desktop/大三/BMI3/BMI/zrz/simulation_new",
+    "scale_floor": 0,
+    "grid": {
+      "window": [
+        0,
+        0.0834,
+        0.1667,
+        0.25
+      ],
+      "step_penalty": [
+        0,
+        0.1,
+        0.5,
+        2
+      ],
+      "open_penalty": [
+        0,
+        0.2,
+        2
+      ],
+      "extend_penalty": [
+        0,
+        0.05,
+        0.5
+      ],
+      "time_penalty": [
+        0,
+        0.5,
+        2,
+        10
+      ],
+      "power": [
+        1,
+        2
+      ],
+      "dynamics": [
+        0,
+        0.3,
+        1
+      ]
+    },
+    "clustering": "xqf k-medoids",
+    "clustering_seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  "schemes": {
+    "true_cluster": {
+      "k": 6,
+      "best": {
+        "name": "window=0.1667, extend_penalty=0.05, time_penalty=2",
+        "params": {
+          "window": 0.1667,
+          "step_penalty": 0.0,
+          "open_penalty": 0.0,
+          "extend_penalty": 0.05,
+          "time_penalty": 2.0,
+          "power": 2.0,
+          "dynamics": 0.0
+        },
+        "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --window 0.1667 --extend-penalty 0.05 --time-penalty 2 --scale-floor 0",
+        "ari_mean": 0.7961053179601068,
+        "ari_min": 0.6345468377542223,
+        "nmi_mean": 0.8395704289198977,
+        "silhouette_true": 0.2660207762688756
+      },
+      "runners_up": [
+        {
+          "name": "window=0.25, time_penalty=2",
+          "params": {
+            "window": 0.25,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.0,
+            "time_penalty": 2.0,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --window 0.25 --time-penalty 2 --scale-floor 0",
+          "ari_mean": 0.7908929241266771,
+          "ari_min": 0.6427679978980557,
+          "nmi_mean": 0.8407809386194168,
+          "silhouette_true": 0.25910229073456564
+        },
+        {
+          "name": "time_penalty=2",
+          "params": {
+            "window": 0.0,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.0,
+            "time_penalty": 2.0,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --time-penalty 2 --scale-floor 0",
+          "ari_mean": 0.7908230013940749,
+          "ari_min": 0.6427679978980557,
+          "nmi_mean": 0.8397955398247052,
+          "silhouette_true": 0.25630496841712885
+        },
+        {
+          "name": "window=0.1667, time_penalty=2",
+          "params": {
+            "window": 0.1667,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.0,
+            "time_penalty": 2.0,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --window 0.1667 --time-penalty 2 --scale-floor 0",
+          "ari_mean": 0.7820590832505095,
+          "ari_min": 0.6329573447426423,
+          "nmi_mean": 0.8345418535396675,
+          "silhouette_true": 0.2643322329540343
+        },
+        {
+          "name": "window=0.25, extend_penalty=0.05, time_penalty=2",
+          "params": {
+            "window": 0.25,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.05,
+            "time_penalty": 2.0,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --window 0.25 --extend-penalty 0.05 --time-penalty 2 --scale-floor 0",
+          "ari_mean": 0.7802829144229826,
+          "ari_min": 0.6425316769243369,
+          "nmi_mean": 0.8352050898531946,
+          "silhouette_true": 0.2618081528092644
+        },
+        {
+          "name": "extend_penalty=0.05, time_penalty=2",
+          "params": {
+            "window": 0.0,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.05,
+            "time_penalty": 2.0,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --extend-penalty 0.05 --time-penalty 2 --scale-floor 0",
+          "ari_mean": 0.7802829144229826,
+          "ari_min": 0.6425316769243369,
+          "nmi_mean": 0.8352050898531946,
+          "silhouette_true": 0.25975421056231796
+        }
+      ],
+      "standard_dtw": {
+        "name": "standard DTW",
+        "params": {
+          "window": 0.0,
+          "step_penalty": 0.0,
+          "open_penalty": 0.0,
+          "extend_penalty": 0.0,
+          "time_penalty": 0.0,
+          "power": 2.0,
+          "dynamics": 0.0
+        },
+        "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --scale-floor 0",
+        "ari_mean": 0.5153087528771214,
+        "ari_min": 0.40972900322641725,
+        "nmi_mean": 0.6415922269154226,
+        "silhouette_true": 0.1972456114125896
+      }
+    },
+    "shape_cluster": {
+      "k": 5,
+      "best": {
+        "name": "window=0.25, time_penalty=2",
+        "params": {
+          "window": 0.25,
+          "step_penalty": 0.0,
+          "open_penalty": 0.0,
+          "extend_penalty": 0.0,
+          "time_penalty": 2.0,
+          "power": 2.0,
+          "dynamics": 0.0
+        },
+        "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --window 0.25 --time-penalty 2 --scale-floor 0",
+        "ari_mean": 0.5476031094107474,
+        "ari_min": 0.4792915926092134,
+        "nmi_mean": 0.7009620220054114,
+        "silhouette_true": 0.14854064895141642
+      },
+      "runners_up": [
+        {
+          "name": "time_penalty=2",
+          "params": {
+            "window": 0.0,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.0,
+            "time_penalty": 2.0,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --time-penalty 2 --scale-floor 0",
+          "ari_mean": 0.545265038321775,
+          "ari_min": 0.4792915926092134,
+          "nmi_mean": 0.6982214968619995,
+          "silhouette_true": 0.145885101274896
+        },
+        {
+          "name": "extend_penalty=0.05, time_penalty=0.5",
+          "params": {
+            "window": 0.0,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.05,
+            "time_penalty": 0.5,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --extend-penalty 0.05 --time-penalty 0.5 --scale-floor 0",
+          "ari_mean": 0.5446796350115608,
+          "ari_min": 0.4506983917403774,
+          "nmi_mean": 0.6994457415133722,
+          "silhouette_true": 0.14450928186245934
+        },
+        {
+          "name": "extend_penalty=0.05, time_penalty=2",
+          "params": {
+            "window": 0.0,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.05,
+            "time_penalty": 2.0,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --extend-penalty 0.05 --time-penalty 2 --scale-floor 0",
+          "ari_mean": 0.5439243760436334,
+          "ari_min": 0.46606694371748086,
+          "nmi_mean": 0.6972264046114436,
+          "silhouette_true": 0.1476960465990111
+        },
+        {
+          "name": "window=0.25, extend_penalty=0.05, time_penalty=2",
+          "params": {
+            "window": 0.25,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.05,
+            "time_penalty": 2.0,
+            "power": 2.0,
+            "dynamics": 0.0
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --window 0.25 --extend-penalty 0.05 --time-penalty 2 --scale-floor 0",
+          "ari_mean": 0.5432464135158305,
+          "ari_min": 0.46606694371748086,
+          "nmi_mean": 0.6971345218300771,
+          "silhouette_true": 0.1497281333608348
+        },
+        {
+          "name": "extend_penalty=0.05, time_penalty=0.5, dynamics=0.3",
+          "params": {
+            "window": 0.0,
+            "step_penalty": 0.0,
+            "open_penalty": 0.0,
+            "extend_penalty": 0.05,
+            "time_penalty": 0.5,
+            "power": 2.0,
+            "dynamics": 0.3
+          },
+          "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --extend-penalty 0.05 --time-penalty 0.5 --dynamics 0.3 --scale-floor 0",
+          "ari_mean": 0.5422072646825152,
+          "ari_min": 0.43529784132075816,
+          "nmi_mean": 0.6969185512309226,
+          "silhouette_true": 0.14616430200147296
+        }
+      ],
+      "standard_dtw": {
+        "name": "standard DTW",
+        "params": {
+          "window": 0.0,
+          "step_penalty": 0.0,
+          "open_penalty": 0.0,
+          "extend_penalty": 0.0,
+          "time_penalty": 0.0,
+          "power": 2.0,
+          "dynamics": 0.0
+        },
+        "command": "python3 dtw.py --input <centered.csv> --output outputs/<name> --scale-floor 0",
+        "ari_mean": 0.46941035655024443,
+        "ari_min": 0.3970796274612988,
+        "nmi_mean": 0.6182698865069585,
+        "silhouette_true": 0.14670962991998457
+      }
+    }
+  }
+}

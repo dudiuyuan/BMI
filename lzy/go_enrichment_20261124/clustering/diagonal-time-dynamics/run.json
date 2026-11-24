@@ -1,0 +1,22 @@
+{
+  "method": "diagonal-time-dynamics",
+  "distance_seconds": 12.3200186000322,
+  "clustering_seconds": 10.819708499999251,
+  "objective": 1655.9782686654532,
+  "cluster_sizes": {
+    "4": 1034,
+    "3": 2482,
+    "0": 1655,
+    "2": 911,
+    "1": 132
+  },
+  "assignment_sha256": "afe21eb2c386b1b8467d29f0d65c1bb876f6a6fa7cf6581841c79bca0fd9a6e6",
+  "distance_sha256": "2b76f2c1a958dc8c0efa8c5f32720f900ee94698f2dcbba6395610273f28e2c9",
+  "medoid_gene_ids": [
+    "YGR151C",
+    "YKR104W",
+    "YLR096W",
+    "YPR036W",
+    "YDR147W"
+  ]
+}

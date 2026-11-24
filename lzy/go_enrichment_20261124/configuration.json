@@ -1,0 +1,89 @@
+{
+  "input": "D:\\BMI\\project11\\lzy\\wpj\\predata\\数据准备\\outputs\\real\\GSE3635\\run01\\processed\\centered.csv",
+  "input_sha256": "d07fc03df99ae716f3c5cb3728093a7fd40320775241a6e5eba34bd761ba5cdc",
+  "genes": 6214,
+  "timepoints": [
+    0.0,
+    10.0,
+    20.0,
+    30.0,
+    40.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0,
+    90.0,
+    100.0,
+    110.0,
+    120.0
+  ],
+  "preprocessing": "wpj centered.csv unchanged; no additional scaling; differs from old E zscore/QC pipeline",
+  "k": 5,
+  "seed": 42,
+  "n_init": 5,
+  "max_iter": 100,
+  "parameters": {
+    "standard": {
+      "window": 0.0,
+      "step_penalty": 0.0,
+      "open_penalty": 0.0,
+      "extend_penalty": 0.0,
+      "time_penalty": 0.0,
+      "power": 2.0,
+      "dynamics": 0.0
+    },
+    "time": {
+      "window": 0.0,
+      "step_penalty": 0.0,
+      "open_penalty": 0.0,
+      "extend_penalty": 0.0,
+      "time_penalty": 2,
+      "power": 2.0,
+      "dynamics": 0.0
+    },
+    "time-dynamics": {
+      "window": 0.0,
+      "step_penalty": 0.0,
+      "open_penalty": 0.0,
+      "extend_penalty": 0.05,
+      "time_penalty": 0.5,
+      "power": 2.0,
+      "dynamics": 0.3
+    },
+    "diagonal-time-dynamics": {
+      "window": 0.25,
+      "step_penalty": 0.0,
+      "open_penalty": 0.0,
+      "extend_penalty": 0.05,
+      "time_penalty": 0.5,
+      "power": 2.0,
+      "dynamics": 0.3
+    },
+    "diagonal-time": {
+      "window": 0.1667,
+      "step_penalty": 0.0,
+      "open_penalty": 0.0,
+      "extend_penalty": 0.05,
+      "time_penalty": 2,
+      "power": 2.0,
+      "dynamics": 0.0
+    },
+    "euclidean": {},
+    "pearson": {}
+  },
+  "source_sha256": {
+    "metrics.py": "15d9ce75e00073a71462e157f2188fe33eb5a61661e441d0a9ec256f6c62ccb8",
+    "benchmark.py": "74efe564fd807e9daced7ebfb441cddc88ebf77930ec13f8d59f2209313e8024",
+    "summarize_results.py": "7b2d369a08de1937ac1d8f742c7fe6045a61fb77e6ef37153cd33a37ec9410a5",
+    "zrz/dtw/dtw.py": "b821700608d6ac8f3a7794162b4b15e82377455c6671e19b18d5efefd170cc27",
+    "zrz/dtw/euclidean.py": "b2db9de30abf1505fffbbd99773e800651b801338fe66bfe551677dfab3fe78b",
+    "zrz/dtw/pearson.py": "4e741bf475d1772f463c42a0db3b95c533d44d489b74301f492b8db9757783b6",
+    "xqf/xqf_clustering/k_medoids.py": "e0facff090e55705b1ae7fe47e80649915949f7b63e5c3160f0df2e5a8afee9a",
+    "xqf/xqf_clustering/cluster_analysis.py": "73daabecd8048fa652c090ba04a76c0aa2ea50a3c7de90f91d647cb0774b7e46",
+    "xqf/clustering": "da35a52010fe543d3da30d073f11fe64d0d88b3b0ea52315765a4ad5c3aa5c32"
+  },
+  "choice": "K=5 fixed before GO, matches xqf reference setting; not inferred true phase count; no GO parameter selection",
+  "python": "3.13.14",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1"
+}

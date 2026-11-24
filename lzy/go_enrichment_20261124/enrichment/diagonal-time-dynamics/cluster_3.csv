@@ -1,0 +1,511 @@
+﻿method,cluster_id,GO_code,GO_meaning,GO_aspect,a,b,c,d,cluster_n,background_N,background_K,fold_enrichment,p_value,q_global,q_within_method,hit_genes
+diagonal-time-dynamics,3,GO:0045454,cell redox homeostasis,biological_process,4,81,1,654,85,740,5,6.96470588235294,0.0007449622852560507,0.10553632374460718,0.07598615309611717,YBL064C;YDR353W;YIL114C;YML050W
+diagonal-time-dynamics,3,GO:0016020,membrane,cellular_component,19,66,72,583,85,740,91,1.8177117000646412,0.00401648818588103,0.2914403012925869,0.22760099719992502,YBR204C;YBR287W;YDL117W;YDR053W;YDR355C;YER019W;YHR110W;YIL011W;YIL117C;YJL118W;YJR004C;YKL044W;YLL012W;YLR458W;YML116W;YMR254C;YOR049C;YOR256C;YPR157W
+diagonal-time-dynamics,3,GO:0006606,protein import into nucleus,biological_process,3,82,1,654,85,740,4,6.529411764705882,0.005383461865696391,0.34083269663040033,0.2841090833124127,YFR002W;YLR347C;YOR230W
+diagonal-time-dynamics,3,GO:0006355,regulation of DNA-templated transcription,biological_process,6,79,16,639,85,740,22,2.3743315508021388,0.03149095606915626,0.755420091185093,0.7872739017289064,YCR018C;YDR190C;YFL044C;YLR095C;YOR230W;YPR120C
+diagonal-time-dynamics,3,GO:0007618,mating,biological_process,2,83,1,654,85,740,3,5.803921568627451,0.03623227835248034,0.8295619908990771,0.8210398084813219,YGL089C;YPL187W
+diagonal-time-dynamics,3,GO:0030968,endoplasmic reticulum unfolded protein response,biological_process,2,83,1,654,85,740,3,5.803921568627451,0.03623227835248034,0.8295619908990771,0.8210398084813219,YFL044C;YHR030C
+diagonal-time-dynamics,3,GO:0031124,mRNA 3'-end processing,biological_process,2,83,1,654,85,740,3,5.803921568627451,0.03623227835248034,0.8295619908990771,0.8210398084813219,YOR250C;YPR107C
+diagonal-time-dynamics,3,GO:0010494,cytoplasmic stress granule,cellular_component,3,82,5,650,85,740,8,3.264705882352941,0.053439399272914,0.9234037597376904,0.9024534314300046,YDR432W;YGR234W;YML117W
+diagonal-time-dynamics,3,GO:0000398,"mRNA splicing, via spliceosome",biological_process,2,83,2,653,85,740,4,4.352941176470588,0.06708109483926428,0.9499825143856795,0.9658866170798183,YDR432W;YOR308C
+diagonal-time-dynamics,3,GO:0000772,mating pheromone activity,molecular_function,2,83,2,653,85,740,4,4.352941176470588,0.06708109483926428,0.9499825143856795,0.9658866170798183,YGL089C;YPL187W
+diagonal-time-dynamics,3,GO:0006351,DNA-templated transcription,biological_process,2,83,2,653,85,740,4,4.352941176470588,0.06708109483926428,0.9499825143856795,0.9658866170798183,YDR191W;YLR098C
+diagonal-time-dynamics,3,GO:0008047,enzyme activator activity,molecular_function,2,83,2,653,85,740,4,4.352941176470588,0.06708109483926428,0.9499825143856795,0.9658866170798183,YGR042W;YMR295C
+diagonal-time-dynamics,3,GO:0008270,zinc ion binding,molecular_function,5,80,15,640,85,740,20,2.176470588235294,0.06840166548677223,0.9499825143856795,0.96902359439594,YCR018C;YHR178W;YLR013W;YLR098C;YOR052C
+diagonal-time-dynamics,3,GO:0005635,nuclear envelope,cellular_component,4,81,11,644,85,740,15,2.32156862745098,0.08231608191301285,0.9776061624399729,0.9966588451511943,YBR273C;YFR002W;YLR286C;YLR347C
+diagonal-time-dynamics,3,GO:0034599,cellular response to oxidative stress,biological_process,4,81,11,644,85,740,15,2.32156862745098,0.08231608191301285,0.9776061624399729,0.9966588451511943,YBL064C;YDR353W;YGR234W;YHR178W
+diagonal-time-dynamics,3,GO:0003723,RNA binding,molecular_function,2,83,3,652,85,740,5,3.48235294117647,0.10357435057453589,1.0,0.9966588451511943,YOR250C;YPR107C
+diagonal-time-dynamics,3,GO:0007030,Golgi organization,biological_process,2,83,3,652,85,740,5,3.48235294117647,0.10357435057453589,1.0,0.9966588451511943,YGR284C;YHR110W
+diagonal-time-dynamics,3,GO:0005739,mitochondrion,cellular_component,16,69,88,567,85,740,104,1.339366515837104,0.12099589745008063,1.0,1.0,YBL064C;YDR191W;YDR337W;YDR353W;YER019W;YGR234W;YHR030C;YHR067W;YIL094C;YIL114C;YIL129C;YKL044W;YKL182W;YNL003C;YOL114C;YPR155C
+diagonal-time-dynamics,3,GO:0005741,mitochondrial outer membrane,cellular_component,3,82,8,647,85,740,11,2.3743315508021388,0.12231114938271562,1.0,1.0,YER019W;YIL114C;YPR155C
+diagonal-time-dynamics,3,GO:0005793,endoplasmic reticulum-Golgi intermediate compartment,cellular_component,2,83,4,651,85,740,6,2.9019607843137254,0.14403966135582344,1.0,1.0,YGR284C;YHR110W
+diagonal-time-dynamics,3,GO:0020037,heme binding,molecular_function,2,83,4,651,85,740,6,2.9019607843137254,0.14403966135582344,1.0,1.0,YGL055W;YGR234W
+diagonal-time-dynamics,3,GO:0030476,ascospore wall assembly,biological_process,2,83,4,651,85,740,6,2.9019607843137254,0.14403966135582344,1.0,1.0,YOL132W;YOR242C
+diagonal-time-dynamics,3,GO:0031965,nuclear membrane,cellular_component,2,83,4,651,85,740,6,2.9019607843137254,0.14403966135582344,1.0,1.0,YDL089W;YFR002W
+diagonal-time-dynamics,3,GO:0000324,fungal-type vacuole,cellular_component,12,73,65,590,85,740,77,1.3567608861726508,0.1575270895404647,1.0,1.0,YBR139W;YGL089C;YHR126C;YIL011W;YIL117C;YJR004C;YLR286C;YNL015W;YOL132W;YOR049C;YOR256C;YPR157W
+diagonal-time-dynamics,3,GO:0005829,cytosol,cellular_component,12,73,65,590,85,740,77,1.3567608861726508,0.1575270895404647,1.0,1.0,YBL064C;YDR353W;YFL044C;YGR234W;YHR030C;YKL182W;YKR021W;YLR347C;YNL015W;YOR323C;YPR107C;YPR160W
+diagonal-time-dynamics,3,GO:0003700,DNA-binding transcription factor activity,molecular_function,2,83,5,650,85,740,7,2.4873949579831933,0.18710710111378234,1.0,1.0,YHR178W;YLR098C
+diagonal-time-dynamics,3,GO:0005758,mitochondrial intermembrane space,cellular_component,2,83,5,650,85,740,7,2.4873949579831933,0.18710710111378234,1.0,1.0,YDR353W;YML050W
+diagonal-time-dynamics,3,GO:0036503,ERAD pathway,biological_process,2,83,5,650,85,740,7,2.4873949579831933,0.18710710111378234,1.0,1.0,YBR273C;YFL044C
+diagonal-time-dynamics,3,GO:0006338,chromatin remodeling,biological_process,3,82,11,644,85,740,14,1.8655462184873948,0.21063996371182925,1.0,1.0,YDR190C;YLR095C;YOR230W
+diagonal-time-dynamics,3,GO:0043565,sequence-specific DNA binding,molecular_function,4,81,17,638,85,740,21,1.6582633053221287,0.21353705260449232,1.0,1.0,YCR018C;YHR178W;YLR013W;YLR098C
+diagonal-time-dynamics,3,GO:0030134,COPII-coated ER to Golgi transport vesicle,cellular_component,2,83,6,649,85,740,8,2.176470588235294,0.23166300172740523,1.0,1.0,YGR284C;YHR110W
+diagonal-time-dynamics,3,GO:0071507,pheromone response MAPK cascade,biological_process,2,83,6,649,85,740,8,2.176470588235294,0.23166300172740523,1.0,1.0,YGL089C;YPL187W
+diagonal-time-dynamics,3,GO:0005811,lipid droplet,cellular_component,3,82,12,643,85,740,15,1.741176470588235,0.24272093416153345,1.0,1.0,YBR204C;YKL182W;YLL012W
+diagonal-time-dynamics,3,GO:0006888,endoplasmic reticulum to Golgi vesicle-mediated transport,biological_process,2,83,7,648,85,740,9,1.9346405228758168,0.27681019844597066,1.0,1.0,YGR284C;YHR110W
+diagonal-time-dynamics,3,GO:0000752,agglutination involved in conjugation with cellular fusion,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YJR004C
+diagonal-time-dynamics,3,GO:0003691,double-stranded telomeric DNA binding,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YDR432W
+diagonal-time-dynamics,3,GO:0003714,transcription corepressor activity,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YOR230W
+diagonal-time-dynamics,3,GO:0005085,guanyl-nucleotide exchange factor activity,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YLR347C
+diagonal-time-dynamics,3,GO:0005681,spliceosomal complex,cellular_component,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YOR308C
+diagonal-time-dynamics,3,GO:0005775,vacuolar lumen,cellular_component,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YBR139W
+diagonal-time-dynamics,3,GO:0006612,protein targeting to membrane,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YLR347C
+diagonal-time-dynamics,3,GO:0006656,phosphatidylcholine biosynthetic process,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YLR347C
+diagonal-time-dynamics,3,GO:0006995,cellular response to nitrogen starvation,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YBR139W
+diagonal-time-dynamics,3,GO:0007035,vacuolar acidification,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YOR332W
+diagonal-time-dynamics,3,GO:0007118,budding cell apical bud growth,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YIL129C
+diagonal-time-dynamics,3,GO:0008843,endochitinase activity,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YLR286C
+diagonal-time-dynamics,3,GO:0009055,electron transfer activity,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YGL055W
+diagonal-time-dynamics,3,GO:0009408,response to heat,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YLR095C
+diagonal-time-dynamics,3,GO:0015179,L-amino acid transmembrane transporter activity,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YCL038C
+diagonal-time-dynamics,3,GO:0030234,enzyme regulator activity,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YDL117W
+diagonal-time-dynamics,3,GO:0030295,protein kinase activator activity,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YOR242C
+diagonal-time-dynamics,3,GO:0030435,sporulation resulting in formation of a cellular spore,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YBR273C
+diagonal-time-dynamics,3,GO:0030950,establishment or maintenance of actin cytoskeleton polarity,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YIL135C
+diagonal-time-dynamics,3,GO:0032968,positive regulation of transcription elongation by RNA polymerase II,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YDR432W
+diagonal-time-dynamics,3,GO:0033698,Rpd3L complex,cellular_component,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YOR230W
+diagonal-time-dynamics,3,GO:0044697,HICS complex,cellular_component,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YDL117W
+diagonal-time-dynamics,3,GO:0045740,positive regulation of DNA replication,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:0045893,positive regulation of DNA-templated transcription,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YLR098C
+diagonal-time-dynamics,3,GO:0046872,metal ion binding,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YPR107C
+diagonal-time-dynamics,3,GO:0050821,protein stabilization,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YDR190C
+diagonal-time-dynamics,3,GO:0050839,cell adhesion molecule binding,molecular_function,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YJR004C
+diagonal-time-dynamics,3,GO:0051286,cell tip,cellular_component,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YIL129C
+diagonal-time-dynamics,3,GO:0055088,lipid homeostasis,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YBR204C
+diagonal-time-dynamics,3,GO:0110085,mitotic actomyosin contractile ring,cellular_component,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YDL117W
+diagonal-time-dynamics,3,GO:1901673,regulation of mitotic spindle assembly,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:1902410,mitotic cytokinetic process,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YDL117W
+diagonal-time-dynamics,3,GO:1905329,sphingoid long-chain base transport,biological_process,1,84,2,653,85,740,3,2.9019607843137254,0.30689391824247764,1.0,1.0,YOR049C
+diagonal-time-dynamics,3,GO:0030170,pyridoxal phosphate binding,molecular_function,2,83,8,647,85,740,10,1.741176470588235,0.3218338734224879,1.0,1.0,YIL168W;YPR160W
+diagonal-time-dynamics,3,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",molecular_function,3,82,15,640,85,740,18,1.4509803921568627,0.34225087944084087,1.0,1.0,YHR006W;YHR178W;YLR098C
+diagonal-time-dynamics,3,GO:0005199,structural constituent of cell wall,molecular_function,2,83,9,646,85,740,11,1.5828877005347592,0.36617225654243724,1.0,1.0,YHR126C;YIL011W
+diagonal-time-dynamics,3,GO:0005759,mitochondrial matrix,cellular_component,2,83,9,646,85,740,11,1.5828877005347592,0.36617225654243724,1.0,1.0,YGR234W;YML050W
+diagonal-time-dynamics,3,GO:0000001,mitochondrion inheritance,biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YGL055W
+diagonal-time-dynamics,3,GO:0000296,spermine transport,biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YPR156C
+diagonal-time-dynamics,3,GO:0000297,spermine transmembrane transporter activity,molecular_function,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YPR156C
+diagonal-time-dynamics,3,GO:0000902,cell morphogenesis,biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YIL129C
+diagonal-time-dynamics,3,GO:0006897,endocytosis,biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YKR021W
+diagonal-time-dynamics,3,GO:0006979,response to oxidative stress,biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YLR225C
+diagonal-time-dynamics,3,GO:0007005,mitochondrion organization,biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YPR155C
+diagonal-time-dynamics,3,GO:0042144,"vacuole fusion, non-autophagic",biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YNL015W
+diagonal-time-dynamics,3,GO:0051287,NAD binding,molecular_function,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YIL094C
+diagonal-time-dynamics,3,GO:0051453,regulation of intracellular pH,biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YKR021W
+diagonal-time-dynamics,3,GO:0065003,protein-containing complex assembly,biological_process,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YML050W
+diagonal-time-dynamics,3,GO:0070210,Rpd3L-Expanded complex,cellular_component,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YOR230W
+diagonal-time-dynamics,3,GO:0071949,FAD binding,molecular_function,1,84,3,652,85,740,4,2.176470588235294,0.38683152604354876,1.0,1.0,YGR234W
+diagonal-time-dynamics,3,GO:0003729,mRNA binding,molecular_function,2,83,10,645,85,740,12,1.4509803921568627,0.4093915364396063,1.0,1.0,YDR432W;YML117W
+diagonal-time-dynamics,3,GO:0043332,mating projection tip,cellular_component,3,82,18,637,85,740,21,1.2436974789915967,0.44112196032317097,1.0,1.0,YHR030C;YIL129C;YMR295C
+diagonal-time-dynamics,3,GO:0000328,fungal-type vacuole lumen,cellular_component,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YBR139W
+diagonal-time-dynamics,3,GO:0005506,iron ion binding,molecular_function,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YGL055W
+diagonal-time-dynamics,3,GO:0005773,vacuole,cellular_component,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YML116W
+diagonal-time-dynamics,3,GO:0006368,transcription elongation by RNA polymerase II,biological_process,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YHR178W
+diagonal-time-dynamics,3,GO:0010696,positive regulation of mitotic spindle pole body separation,biological_process,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:0030437,ascospore formation,biological_process,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YOR242C
+diagonal-time-dynamics,3,GO:0030674,protein-macromolecule adaptor activity,molecular_function,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YKR021W
+diagonal-time-dynamics,3,GO:0031267,small GTPase binding,molecular_function,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YLR347C
+diagonal-time-dynamics,3,GO:0032880,regulation of protein localization,biological_process,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YDR247W
+diagonal-time-dynamics,3,GO:0042124,"1,3-beta-glucanosyltransferase activity",molecular_function,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YOL132W
+diagonal-time-dynamics,3,GO:0071970,fungal-type cell wall (1->3)-beta-D-glucan biosynthetic process,biological_process,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YOL132W
+diagonal-time-dynamics,3,GO:1902600,proton transmembrane transport,biological_process,1,84,4,651,85,740,5,1.741176470588235,0.45764581991080183,1.0,1.0,YOR332W
+diagonal-time-dynamics,3,GO:0005743,mitochondrial inner membrane,cellular_component,2,83,12,643,85,740,14,1.2436974789915967,0.4912518257176751,1.0,1.0,YDR337W;YNL003C
+diagonal-time-dynamics,3,GO:0005576,extracellular region,cellular_component,3,82,20,635,85,740,23,1.1355498721227621,0.503978564484418,1.0,1.0,YGL089C;YLR286C;YPL187W
+diagonal-time-dynamics,3,GO:0006357,regulation of transcription by RNA polymerase II,biological_process,4,81,28,627,85,740,32,1.088235294117647,0.5121830306154311,1.0,1.0,YDR190C;YHR006W;YHR178W;YLR013W
+diagonal-time-dynamics,3,GO:0005815,microtubule organizing center,cellular_component,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:0007096,regulation of exit from mitosis,biological_process,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YDL089W
+diagonal-time-dynamics,3,GO:0016236,macroautophagy,biological_process,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YBR139W
+diagonal-time-dynamics,3,GO:0016791,phosphatase activity,molecular_function,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YOR283W
+diagonal-time-dynamics,3,GO:0035861,site of double-strand break,cellular_component,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YGR042W
+diagonal-time-dynamics,3,GO:0042393,histone binding,molecular_function,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YOR230W
+diagonal-time-dynamics,3,GO:0043007,maintenance of rDNA,biological_process,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YDL089W
+diagonal-time-dynamics,3,GO:0044877,protein-containing complex binding,molecular_function,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YLR347C
+diagonal-time-dynamics,3,GO:0045121,membrane raft,cellular_component,1,84,5,650,85,740,6,1.4509803921568627,0.5203670516217975,1.0,1.0,YOR332W
+diagonal-time-dynamics,3,GO:0000183,rDNA heterochromatin formation,biological_process,1,84,6,649,85,740,7,1.2436974789915967,0.5759103767064668,1.0,1.0,YDR191W
+diagonal-time-dynamics,3,GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",molecular_function,1,84,6,649,85,740,7,1.2436974789915967,0.5759103767064668,1.0,1.0,YHR006W
+diagonal-time-dynamics,3,GO:0008361,regulation of cell size,biological_process,1,84,6,649,85,740,7,1.2436974789915967,0.5759103767064668,1.0,1.0,YHR030C
+diagonal-time-dynamics,3,GO:0035556,intracellular signal transduction,biological_process,1,84,6,649,85,740,7,1.2436974789915967,0.5759103767064668,1.0,1.0,YHR030C
+diagonal-time-dynamics,3,GO:1990414,replication-born double-strand break repair via sister chromatid exchange,biological_process,1,84,6,649,85,740,7,1.2436974789915967,0.5759103767064668,1.0,1.0,YDR191W
+diagonal-time-dynamics,3,GO:0005737,cytoplasm,cellular_component,31,54,244,411,85,740,275,0.9813903743315509,0.5994538398250775,1.0,1.0,YCL042W;YCR018C;YDL117W;YDR191W;YDR247W;YDR432W;YFL044C;YGL101W;YGR042W;YGR219W;YGR234W;YHR006W;YHR030C;YIL129C;YIL135C;YIL167W;YIL168W;YJL217W;YKL182W;YKR021W;YKR041W;YLR225C;YLR347C;YML117W;YNL015W;YOR052C;YOR230W;YOR283W;YOR323C;YPR120C;YPR160W
+diagonal-time-dynamics,3,GO:0000086,G2/M transition of mitotic cell cycle,biological_process,2,83,15,640,85,740,17,1.0242214532871972,0.6000230659163381,1.0,1.0,YDR247W;YPR120C
+diagonal-time-dynamics,3,GO:0000329,fungal-type vacuole membrane,cellular_component,3,82,24,631,85,740,27,0.9673202614379084,0.6179229690757679,1.0,1.0,YCL038C;YOR332W;YPR156C
+diagonal-time-dynamics,3,GO:0045944,positive regulation of transcription by RNA polymerase II,biological_process,3,82,24,631,85,740,27,0.9673202614379084,0.6179229690757679,1.0,1.0,YHR006W;YHR178W;YOR230W
+diagonal-time-dynamics,3,GO:0000142,cellular bud neck contractile ring,cellular_component,1,84,7,648,85,740,8,1.088235294117647,0.625088573132047,1.0,1.0,YDL117W
+diagonal-time-dynamics,3,GO:0000287,magnesium ion binding,molecular_function,1,84,7,648,85,740,8,1.088235294117647,0.625088573132047,1.0,1.0,YIL094C
+diagonal-time-dynamics,3,GO:0005933,cellular bud,cellular_component,2,83,16,639,85,740,18,0.9673202614379084,0.6322445892257755,1.0,1.0,YIL129C;YMR295C
+diagonal-time-dynamics,3,GO:0005628,prospore membrane,cellular_component,1,84,8,647,85,740,9,0.9673202614379084,0.6686233699678066,1.0,1.0,YOR242C
+diagonal-time-dynamics,3,GO:0006279,premeiotic DNA replication,biological_process,1,84,8,647,85,740,9,0.9673202614379084,0.6686233699678066,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:0009060,aerobic respiration,biological_process,1,84,8,647,85,740,9,0.9673202614379084,0.6686233699678066,1.0,1.0,YPR155C
+diagonal-time-dynamics,3,GO:0009272,fungal-type cell wall biogenesis,biological_process,1,84,8,647,85,740,9,0.9673202614379084,0.6686233699678066,1.0,1.0,YHR030C
+diagonal-time-dynamics,3,GO:0071944,cell periphery,cellular_component,8,77,69,586,85,740,77,0.9045072574484339,0.6835190330481925,1.0,1.0,YER019W;YIL011W;YJR004C;YML116W;YMR295C;YOR049C;YPR156C;YPR157W
+diagonal-time-dynamics,3,GO:0000122,negative regulation of transcription by RNA polymerase II,biological_process,2,83,18,637,85,740,20,0.8705882352941176,0.6906427627617222,1.0,1.0,YDR191W;YOR230W
+diagonal-time-dynamics,3,GO:0004674,protein serine/threonine kinase activity,molecular_function,2,83,18,637,85,740,20,0.8705882352941176,0.6906427627617222,1.0,1.0,YDR247W;YHR030C
+diagonal-time-dynamics,3,GO:0005975,carbohydrate metabolic process,biological_process,1,84,9,646,85,740,10,0.8705882352941176,0.7071555362506199,1.0,1.0,YLR286C
+diagonal-time-dynamics,3,GO:0007089,traversing start control point of mitotic cell cycle,biological_process,1,84,9,646,85,740,10,0.8705882352941176,0.7071555362506199,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:0072686,mitotic spindle,cellular_component,1,84,9,646,85,740,10,0.8705882352941176,0.7071555362506199,1.0,1.0,YKR041W
+diagonal-time-dynamics,3,GO:0004672,protein kinase activity,molecular_function,2,83,19,636,85,740,21,0.8291316526610644,0.7169081103868327,1.0,1.0,YDR247W;YHR030C
+diagonal-time-dynamics,3,GO:0055085,transmembrane transport,biological_process,2,83,19,636,85,740,21,0.8291316526610644,0.7169081103868327,1.0,1.0,YBR287W;YPR156C
+diagonal-time-dynamics,3,GO:0005783,endoplasmic reticulum,cellular_component,10,75,88,567,85,740,98,0.8883553421368546,0.7176140364648764,1.0,1.0,YBR204C;YBR273C;YBR287W;YER019W;YGL055W;YGR284C;YHR110W;YLR286C;YOR049C;YPR138C
+diagonal-time-dynamics,3,GO:0032153,cell division site,cellular_component,1,84,10,645,85,740,11,0.7914438502673796,0.7412538642214379,1.0,1.0,YIL129C
+diagonal-time-dynamics,3,GO:0009277,fungal-type cell wall,cellular_component,4,81,39,616,85,740,43,0.8098495212038304,0.7514238688990269,1.0,1.0,YIL011W;YJR004C;YLR286C;YOL132W
+diagonal-time-dynamics,3,GO:0106310,protein serine kinase activity,molecular_function,2,83,21,634,85,740,23,0.7570332480818414,0.7639054391715732,1.0,1.0,YDR247W;YHR030C
+diagonal-time-dynamics,3,GO:0000307,cyclin-dependent protein kinase holoenzyme complex,cellular_component,1,84,11,644,85,740,12,0.7254901960784313,0.771423166747059,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:0006886,intracellular protein transport,biological_process,1,84,11,644,85,740,12,0.7254901960784313,0.771423166747059,1.0,1.0,YHR110W
+diagonal-time-dynamics,3,GO:0007165,signal transduction,biological_process,1,84,11,644,85,740,12,0.7254901960784313,0.771423166747059,1.0,1.0,YHR030C
+diagonal-time-dynamics,3,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity,molecular_function,1,84,11,644,85,740,12,0.7254901960784313,0.771423166747059,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:0000920,septum digestion after cytokinesis,biological_process,1,84,12,643,85,740,13,0.669683257918552,0.7981113959043393,1.0,1.0,YLR286C
+diagonal-time-dynamics,3,GO:0003678,DNA helicase activity,molecular_function,1,84,12,643,85,740,13,0.669683257918552,0.7981113959043393,1.0,1.0,YDR190C
+diagonal-time-dynamics,3,GO:0051321,meiotic cell cycle,biological_process,1,84,12,643,85,740,13,0.669683257918552,0.7981113959043393,1.0,1.0,YOR230W
+diagonal-time-dynamics,3,GO:0000082,G1/S transition of mitotic cell cycle,biological_process,2,83,26,629,85,740,28,0.6218487394957983,0.853102324757863,1.0,1.0,YDR247W;YPR120C
+diagonal-time-dynamics,3,GO:0005934,cellular bud tip,cellular_component,2,83,26,629,85,740,28,0.6218487394957983,0.853102324757863,1.0,1.0,YHR030C;YMR295C
+diagonal-time-dynamics,3,GO:0005794,Golgi apparatus,cellular_component,1,84,15,640,85,740,16,0.5441176470588235,0.8610444816331232,1.0,1.0,YHR110W
+diagonal-time-dynamics,3,GO:0034399,nuclear periphery,cellular_component,1,84,15,640,85,740,16,0.5441176470588235,0.8610444816331232,1.0,1.0,YDL089W
+diagonal-time-dynamics,3,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,molecular_function,1,84,16,639,85,740,17,0.5121107266435986,0.8773583201154223,1.0,1.0,YHR006W
+diagonal-time-dynamics,3,GO:0006974,DNA damage response,biological_process,1,84,16,639,85,740,17,0.5121107266435986,0.8773583201154223,1.0,1.0,YPR120C
+diagonal-time-dynamics,3,GO:0000139,Golgi membrane,cellular_component,1,84,17,638,85,740,18,0.4836601307189542,0.8917767748736368,1.0,1.0,YOR332W
+diagonal-time-dynamics,3,GO:0000781,"chromosome, telomeric region",cellular_component,2,83,30,625,85,740,32,0.5441176470588235,0.9012741875168861,1.0,1.0,YDR191W;YGR042W
+diagonal-time-dynamics,3,GO:0031505,fungal-type cell wall organization,biological_process,2,83,30,625,85,740,32,0.5441176470588235,0.9012741875168861,1.0,1.0,YIL011W;YOL132W
+diagonal-time-dynamics,3,GO:0031509,subtelomeric heterochromatin formation,biological_process,1,84,18,637,85,740,19,0.45820433436532504,0.9045177362804802,1.0,1.0,YDR191W
+diagonal-time-dynamics,3,GO:0005935,cellular bud neck,cellular_component,5,80,64,591,85,740,69,0.6308610400682011,0.92012259900147,1.0,1.0,YDL117W;YHR030C;YIL117C;YLR286C;YMR295C
+diagonal-time-dynamics,3,GO:0005634,nucleus,cellular_component,27,58,255,400,85,740,282,0.8335419274092616,0.9202891376281344,1.0,1.0,YCR018C;YDL117W;YDR190C;YDR191W;YDR247W;YDR432W;YFL044C;YGL101W;YGR042W;YGR219W;YGR234W;YHR006W;YHR030C;YHR178W;YKR041W;YLR098C;YLR347C;YNL015W;YOR052C;YOR230W;YOR242C;YOR250C;YOR283W;YOR308C;YOR323C;YPR107C;YPR120C
+diagonal-time-dynamics,3,GO:0005789,endoplasmic reticulum membrane,cellular_component,4,81,54,601,85,740,58,0.6004056795131846,0.9209324159763418,1.0,1.0,YER019W;YGL055W;YGR284C;YHR110W
+diagonal-time-dynamics,3,GO:0000727,double-strand break repair via break-induced replication,biological_process,1,84,20,635,85,740,21,0.4145658263305322,0.9257176240064623,1.0,1.0,YHR030C
+diagonal-time-dynamics,3,GO:0000131,incipient cellular bud site,cellular_component,1,84,22,633,85,740,23,0.3785166240409207,0.942253532842197,1.0,1.0,YIL129C
+diagonal-time-dynamics,3,GO:0003676,nucleic acid binding,molecular_function,1,84,22,633,85,740,23,0.3785166240409207,0.942253532842197,1.0,1.0,YOR242C
+diagonal-time-dynamics,3,GO:0000785,chromatin,cellular_component,1,84,23,632,85,740,24,0.3627450980392157,0.9490993483351025,1.0,1.0,YDR190C
+diagonal-time-dynamics,3,GO:0042802,identical protein binding,molecular_function,1,84,23,632,85,740,24,0.3627450980392157,0.9490993483351025,1.0,1.0,YDR432W
+diagonal-time-dynamics,3,GO:0006281,DNA repair,biological_process,1,84,29,626,85,740,30,0.2901960784313725,0.9762212503608255,1.0,1.0,YDR190C
+diagonal-time-dynamics,3,GO:0016887,ATP hydrolysis activity,molecular_function,1,84,33,622,85,740,34,0.2560553633217993,0.9857381850426232,1.0,1.0,YDR190C
+diagonal-time-dynamics,3,GO:0005886,plasma membrane,cellular_component,7,78,113,542,85,740,120,0.5078431372549019,0.9925875123920043,1.0,1.0,YHR006W;YHR126C;YML116W;YOL132W;YOR049C;YPR138C;YPR156C
+diagonal-time-dynamics,3,GO:0005524,ATP binding,molecular_function,4,81,81,574,85,740,85,0.40968858131487884,0.9935949429247802,1.0,1.0,YDR190C;YDR247W;YHR030C;YOR250C
+diagonal-time-dynamics,3,GO:0000022,mitotic spindle elongation,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000070,mitotic sister chromatid segregation,biological_process,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000073,initial mitotic spindle pole body separation,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000076,DNA replication checkpoint signaling,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000077,DNA damage checkpoint signaling,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000096,sulfur amino acid metabolic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000103,sulfate assimilation,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000144,cellular bud neck septin ring,cellular_component,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000149,SNARE binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000164,protein phosphatase type 1 complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000166,nucleotide binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000226,microtubule cytoskeleton organization,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000228,nuclear chromosome,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000278,mitotic cell cycle,biological_process,0,85,12,643,85,740,12,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000281,mitotic cytokinesis,biological_process,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000282,cellular bud site selection,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000400,four-way junction DNA binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000500,RNA polymerase I upstream activating factor complex,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000510,H3-H4 histone complex chaperone activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000710,meiotic mismatch repair,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000722,telomere maintenance via recombination,biological_process,0,85,21,634,85,740,21,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000723,telomere maintenance,biological_process,0,85,11,644,85,740,11,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000724,double-strand break repair via homologous recombination,biological_process,0,85,12,643,85,740,12,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000725,recombinational repair,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000742,karyogamy involved in conjugation with cellular fusion,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000743,nuclear migration involved in conjugation with cellular fusion,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000747,conjugation with cellular fusion,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000753,cell morphogenesis involved in conjugation with cellular fusion,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000755,cytogamy,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000775,"chromosome, centromeric region",cellular_component,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000776,kinetochore,cellular_component,0,85,21,634,85,740,21,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000779,"condensed chromosome, centromeric region",cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000786,nucleosome,cellular_component,0,85,13,642,85,740,13,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000794,condensed nuclear chromosome,cellular_component,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000921,septin ring assembly,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000922,spindle pole,cellular_component,0,85,13,642,85,740,13,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000932,P-body,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000940,outer kinetochore,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,molecular_function,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0000987,cis-regulatory region sequence-specific DNA binding,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0001100,negative regulation of exit from mitosis,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0001227,"DNA-binding transcription repressor activity, RNA polymerase II-specific",molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0001402,signal transduction involved in filamentous growth,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0001403,invasive growth in response to glucose limitation,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0001676,long-chain fatty acid metabolic process,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003333,amino acid transmembrane transport,biological_process,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003677,DNA binding,molecular_function,0,85,34,621,85,740,34,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003682,chromatin binding,molecular_function,0,85,27,628,85,740,27,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003684,damaged DNA binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003688,DNA replication origin binding,molecular_function,0,85,14,641,85,740,14,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003690,double-stranded DNA binding,molecular_function,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003697,single-stranded DNA binding,molecular_function,0,85,17,638,85,740,17,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003712,transcription coregulator activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003713,transcription coactivator activity,molecular_function,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003777,microtubule motor activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003887,DNA-directed DNA polymerase activity,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003924,GTPase activity,molecular_function,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0003993,acid phosphatase activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0004169,dolichyl-phosphate-mannose-protein mannosyltransferase activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0004386,helicase activity,molecular_function,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0004467,long-chain fatty acid-CoA ligase activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0004861,cyclin-dependent protein serine/threonine kinase inhibitor activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0004888,transmembrane signaling receptor activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005096,GTPase activator activity,molecular_function,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005198,structural molecule activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005200,structural constituent of cytoskeleton,molecular_function,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005351,carbohydrate:proton symporter activity,molecular_function,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005353,fructose transmembrane transporter activity,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005484,SNAP receptor activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005509,calcium ion binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005525,GTP binding,molecular_function,0,85,11,644,85,740,11,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005543,phospholipid binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005546,"phosphatidylinositol-4,5-bisphosphate binding",molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005621,cellular bud scar,cellular_component,0,85,11,644,85,740,11,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005637,nuclear inner membrane,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005654,nucleoplasm,cellular_component,0,85,10,645,85,740,10,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005656,nuclear pre-replicative complex,cellular_component,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005657,replication fork,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005658,alpha DNA polymerase:primase complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005662,DNA replication factor A complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005667,transcription regulator complex,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005694,chromosome,cellular_component,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005730,nucleolus,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005768,endosome,cellular_component,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005774,vacuolar membrane,cellular_component,0,85,20,635,85,740,20,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005777,peroxisome,cellular_component,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005778,peroxisomal membrane,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005801,cis-Golgi network,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005802,trans-Golgi network,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005816,spindle pole body,cellular_component,0,85,27,628,85,740,27,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005819,spindle,cellular_component,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005822,inner plaque of spindle pole body,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005823,central plaque of spindle pole body,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005824,outer plaque of spindle pole body,cellular_component,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005856,cytoskeleton,cellular_component,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005871,kinesin complex,cellular_component,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005874,microtubule,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005876,spindle microtubule,cellular_component,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005881,cytoplasmic microtubule,cellular_component,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005938,cell cortex,cellular_component,0,85,16,639,85,740,16,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005940,septin ring,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005978,glycogen biosynthetic process,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0005992,trehalose biosynthetic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006031,chitin biosynthetic process,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006078,(1->6)-beta-D-glucan biosynthetic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006259,DNA metabolic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006260,DNA replication,biological_process,0,85,23,632,85,740,23,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006261,DNA-templated DNA replication,biological_process,0,85,10,645,85,740,10,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006265,DNA topological change,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006267,pre-replicative complex assembly involved in nuclear cell cycle DNA replication,biological_process,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006270,DNA replication initiation,biological_process,0,85,15,640,85,740,15,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006271,DNA strand elongation involved in DNA replication,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006272,leading strand elongation,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006273,lagging strand elongation,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006278,RNA-templated DNA biosynthetic process,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006284,base-excision repair,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006289,nucleotide-excision repair,biological_process,0,85,11,644,85,740,11,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006298,mismatch repair,biological_process,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006301,DNA damage tolerance,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006302,double-strand break repair,biological_process,0,85,10,645,85,740,10,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006303,double-strand break repair via nonhomologous end joining,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006310,DNA recombination,biological_process,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006312,mitotic recombination,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006325,chromatin organization,biological_process,0,85,16,639,85,740,16,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006334,nucleosome assembly,biological_process,0,85,11,644,85,740,11,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006335,DNA replication-dependent chromatin assembly,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006457,protein folding,biological_process,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006487,protein N-linked glycosylation,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006506,GPI anchor biosynthetic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006508,proteolysis,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006569,L-tryptophan catabolic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006676,mannosyl diphosphorylinositol ceramide metabolic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006696,ergosterol biosynthetic process,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006796,phosphate-containing compound metabolic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006865,amino acid transport,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006878,intracellular copper ion homeostasis,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006879,intracellular iron ion homeostasis,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006887,exocytosis,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006893,Golgi to plasma membrane transport,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0006906,vesicle fusion,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007004,telomere maintenance via telomerase,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007017,microtubule-based process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007018,microtubule-based movement,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007019,microtubule depolymerization,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007020,microtubule nucleation,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007052,mitotic spindle organization,biological_process,0,85,14,641,85,740,14,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007059,chromosome segregation,biological_process,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007062,sister chromatid cohesion,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007064,mitotic sister chromatid cohesion,biological_process,0,85,22,633,85,740,22,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007076,mitotic chromosome condensation,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007094,mitotic spindle assembly checkpoint signaling,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007117,budding cell bud growth,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007120,axial cellular bud site selection,biological_process,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007121,bipolar cellular bud site selection,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007124,pseudohyphal growth,biological_process,0,85,10,645,85,740,10,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007127,meiosis I,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007129,homologous chromosome pairing at meiosis,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007130,synaptonemal complex assembly,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007131,reciprocal meiotic recombination,biological_process,0,85,10,645,85,740,10,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007232,osmosensory signaling pathway via Sho1 osmosensor,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007264,small GTPase-mediated signal transduction,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0007534,gene conversion at mating-type locus,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008017,microtubule binding,molecular_function,0,85,12,643,85,740,12,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008094,"ATP-dependent activity, acting on DNA",molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008104,intracellular protein localization,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008275,gamma-tubulin small complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008289,lipid binding,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008301,"DNA binding, bending",molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008574,plus-end-directed microtubule motor activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008608,attachment of spindle microtubules to kinetochore,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008643,carbohydrate transport,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0008645,hexose transmembrane transport,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0009101,glycoprotein biosynthetic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0009410,response to xenobiotic stimulus,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0009986,cell surface,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0010008,endosome membrane,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0010181,FMN binding,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0010326,L-methionine:oxo-acid transaminase activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0010458,exit from mitosis,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0010468,regulation of gene expression,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0010526,transposable element silencing,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0010833,telomere maintenance via telomere lengthening,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0010968,regulation of microtubule nucleation,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0012505,endomembrane system,cellular_component,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015035,protein-disulfide reductase activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015146,pentose transmembrane transporter activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015171,amino acid transmembrane transporter activity,molecular_function,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015343,siderophore-iron transmembrane transporter activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015578,mannose transmembrane transporter activity,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015606,spermidine transmembrane transporter activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015848,spermidine transport,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015867,ATP transport,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015891,siderophore transport,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015908,fatty acid transport,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015918,sterol transport,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0015926,glucosidase activity,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0016491,oxidoreductase activity,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0016567,protein ubiquitination,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0016616,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0017108,5'-flap endonuclease activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0019237,centromeric DNA binding,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0019358,nicotinate nucleotide salvage,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0019901,protein kinase binding,molecular_function,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0019985,translesion synthesis,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0022857,transmembrane transporter activity,molecular_function,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030010,establishment of cell polarity,biological_process,0,85,10,645,85,740,10,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030148,sphingolipid biosynthetic process,biological_process,0,85,10,645,85,740,10,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030174,regulation of DNA-templated DNA replication initiation,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030287,cell wall-bounded periplasmic space,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030427,site of polarized growth,cellular_component,0,85,12,643,85,740,12,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030428,cell septum,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030466,silent mating-type cassette heterochromatin formation,biological_process,0,85,12,643,85,740,12,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030473,nuclear migration along microtubule,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030474,spindle pole body duplication,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030491,heteroduplex formation,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030527,structural constituent of chromatin,molecular_function,0,85,10,645,85,740,10,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030892,mitotic cohesin complex,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030893,meiotic cohesin complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030907,MBF transcription complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030915,Smc5-Smc6 complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0030983,mismatched DNA binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031106,septin ring organization,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031116,positive regulation of microtubule polymerization,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031122,cytoplasmic microtubule organization,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031134,sister chromatid biorientation,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031201,SNARE complex,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031261,DNA replication preinitiation complex,cellular_component,0,85,11,644,85,740,11,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031262,Ndc80 complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031297,replication fork processing,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031298,replication fork protection complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031390,Ctf18 RFC-like complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031391,Elg1 RFC-like complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031507,heterochromatin formation,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031536,positive regulation of exit from mitosis,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031573,mitotic intra-S DNA damage checkpoint signaling,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031578,mitotic spindle orientation checkpoint signaling,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0031966,mitochondrial membrane,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032126,eisosome,cellular_component,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032174,cellular bud neck septin collar,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032177,cellular bud neck split septin rings,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032204,regulation of telomere maintenance,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032258,cytoplasm to vacuole targeting by the Cvt pathway,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032266,phosphatidylinositol-3-phosphate binding,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032299,ribonuclease H2 complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032465,regulation of cytokinesis,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032541,cortical endoplasmic reticulum,cellular_component,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032878,regulation of establishment or maintenance of cell polarity,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0032934,sterol binding,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0033101,cellular bud membrane,cellular_component,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0033260,nuclear DNA replication,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0033309,SBF transcription complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0033314,mitotic DNA replication checkpoint signaling,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0033554,cellular response to stress,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0034061,DNA polymerase activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0034087,establishment of mitotic sister chromatid cohesion,biological_process,0,85,11,644,85,740,11,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0034089,establishment of meiotic sister chromatid cohesion,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0034398,telomere tethering at nuclear periphery,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0034501,protein localization to kinetochore,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0034728,nucleosome organization,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0034755,iron ion transmembrane transport,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0034973,Sid2-Mob1 complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0035091,phosphatidylinositol binding,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0035269,protein O-linked glycosylation via mannose,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0035336,long-chain fatty-acyl-CoA metabolic process,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0035753,maintenance of DNA trinucleotide repeats,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0036297,interstrand cross-link repair,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0040029,epigenetic regulation of gene expression,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0042162,telomeric repeat DNA binding,molecular_function,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0042175,nuclear outer membrane-endoplasmic reticulum membrane network,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0042276,error-prone translesion synthesis,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0042555,MCM complex,cellular_component,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0042729,DASH complex,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0042790,nucleolar large rRNA transcription by RNA polymerase I,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0042803,protein homodimerization activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0042973,"glucan endo-1,3-beta-D-glucosidase activity",molecular_function,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0043111,replication fork arrest,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0043137,"DNA replication, removal of RNA primer",biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0043495,protein-membrane adaptor activity,molecular_function,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0043570,maintenance of DNA repeat elements,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0043596,nuclear replication fork,cellular_component,0,85,17,638,85,740,17,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0043625,delta DNA polymerase complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0043934,sporulation,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0044732,mitotic spindle pole body,cellular_component,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0044879,mitotic morphogenesis checkpoint signaling,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0045132,meiotic chromosome segregation,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0045144,meiotic sister chromatid segregation,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0045184,establishment of protein localization,biological_process,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0045943,positive regulation of transcription by RNA polymerase I,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0046982,protein heterodimerization activity,molecular_function,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0048312,intracellular distribution of mitochondria,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051010,microtubule plus-end binding,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051015,actin filament binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051225,spindle assembly,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051233,spindle midzone,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051256,mitotic spindle midzone assembly,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051285,cell cortex of cell tip,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051301,cell division,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051315,attachment of mitotic spindle microtubules to kinetochore,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051382,kinetochore assembly,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051598,meiotic recombination checkpoint signaling,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051726,regulation of cell cycle,biological_process,0,85,6,649,85,740,6,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051880,G-quadruplex DNA binding,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0051987,positive regulation of attachment of spindle microtubules to kinetochore,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0055056,D-glucose transmembrane transporter activity,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0060090,molecular adaptor activity,molecular_function,0,85,9,646,85,740,9,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0060963,positive regulation of ribosomal protein gene transcription by RNA polymerase II,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0061629,RNA polymerase II-specific DNA-binding transcription factor binding,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0061733,protein-lysine-acetyltransferase activity,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0070273,phosphatidylinositol-4-phosphate binding,molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0070300,phosphatidic acid binding,molecular_function,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0070550,rDNA chromatin condensation,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0070814,hydrogen sulfide biosynthetic process,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0070911,global genome nucleotide-excision repair,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0070941,eisosome assembly,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0070987,error-free translesion synthesis,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0071162,CMG complex,cellular_component,0,85,8,647,85,740,8,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0071265,L-methionine biosynthetic process,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0071555,cell wall organization,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0072659,protein localization to plasma membrane,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0072741,protein localization to cell division site,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0080025,"phosphatidylinositol-3,5-bisphosphate binding",molecular_function,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0090307,mitotic spindle assembly,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0097271,protein localization to bud neck,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0097373,MCM core complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0098653,centromere clustering,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0140588,chromatin looping,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:0140664,ATP-dependent DNA damage sensor activity,molecular_function,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1900101,regulation of endoplasmic reticulum unfolded protein response,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1901900,regulation of protein localization to cell division site,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1902404,mitotic actomyosin contractile ring contraction,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1902494,catalytic complex,cellular_component,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1902806,regulation of cell cycle G1/S phase transition,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1902975,mitotic DNA replication initiation,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1903475,mitotic actomyosin contractile ring assembly,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1904659,D-glucose transmembrane transport,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1904750,negative regulation of protein localization to nucleolus,biological_process,0,85,4,651,85,740,4,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1990023,mitotic spindle midzone,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1990317,Gin4 complex,cellular_component,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1990758,mitotic sister chromatid biorientation,biological_process,0,85,7,648,85,740,7,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1990961,xenobiotic detoxification by transmembrane export across the plasma membrane,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:1990976,protein transport along microtubule to mitotic spindle pole body,biological_process,0,85,5,650,85,740,5,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:2000001,regulation of DNA damage checkpoint,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,
+diagonal-time-dynamics,3,GO:2000222,positive regulation of pseudohyphal growth,biological_process,0,85,3,652,85,740,3,0.0,1.0,1.0,1.0,

@@ -1,0 +1,22 @@
+{
+  "method": "standard",
+  "distance_seconds": null,
+  "clustering_seconds": 11.505844299972523,
+  "objective": 1344.9241577065632,
+  "cluster_sizes": {
+    "4": 1159,
+    "0": 2271,
+    "2": 1167,
+    "3": 1474,
+    "1": 143
+  },
+  "assignment_sha256": "a8d7e3b892afbbb3ee2a454b75429bca5efe098f0760124d90c05ceb24d5c1ab",
+  "distance_sha256": "2d362960bafd53fc6ac693ef272bd40cdf35566332722218f0e73e97eb09fa52",
+  "medoid_gene_ids": [
+    "YDR378C",
+    "YKR104W",
+    "YLR096W",
+    "YDR460W",
+    "YGL122C"
+  ]
+}

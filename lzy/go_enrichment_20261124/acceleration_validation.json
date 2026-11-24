@@ -1,0 +1,6 @@
+{
+  "dtw_pairs": 480,
+  "max_absolute_error": 0.0,
+  "cluster_exact_checks": 11,
+  "arithmetic": "Original-source JIT and equivalent array recurrence both checked; fastmath disabled; Python random.Random and main k_medoids unchanged"
+}

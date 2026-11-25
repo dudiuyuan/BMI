@@ -1,0 +1,14 @@
+{
+  "GO_long_sha256": "c5ea16ca481ed1b9784ac66641ea7936ea914e63e577024a508b1b4fa8c04196",
+  "GO_manifest_sha256": "5f56eca04c09f29db1c42741fe5652316f0b8cc69a6229869dcb7972469ec575",
+  "GO_source": "D:\\BMI\\project11\\lzy\\lzy\\go_annotation\\results",
+  "assignments": {
+    "standard": "a8d7e3b892afbbb3ee2a454b75429bca5efe098f0760124d90c05ceb24d5c1ab",
+    "time": "8e076bbfe6d73a00dee79e4968601bc486b13e1ed4a6e4191de864cf3c3b3622",
+    "time-dynamics": "0e5713592da982cb6e4c5f1511c4165c9c469efe797e5bfde1b22fd03bd731b3",
+    "diagonal-time-dynamics": "afe21eb2c386b1b8467d29f0d65c1bb876f6a6fa7cf6581841c79bca0fd9a6e6",
+    "diagonal-time": "ee245c3347f09e65f105d902e38a10b903b31a77a4c3565407bf975fbd1b03f5",
+    "euclidean": "73d06299f4336203f5fba2d6890ca2ae9471301ccee352471b15564bbcf6e232",
+    "pearson": "cdd4c0d0f6726854cc89a3dbea4f8cf458de176acb13619d00416306efe35be2"
+  }
+}

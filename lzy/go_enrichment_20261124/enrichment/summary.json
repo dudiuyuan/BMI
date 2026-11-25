@@ -1,0 +1,24 @@
+{
+  "background_N": 740,
+  "expression_genes": 6214,
+  "spellman_in_expression": 793,
+  "total_terms": 2003,
+  "tested_terms": 510,
+  "tests": 17850,
+  "significant_tests": 69,
+  "release": "2026_04",
+  "minimum_background_term_genes": 3,
+  "global_BH_family": "all seven methods x five clusters x all tested GO terms (including zero hits)",
+  "universe": "actual clustered genes with GO in the downloaded Spellman-only annotation table",
+  "exclude_shared": false,
+  "excluded_shared_genes": [],
+  "significant_by_method": {
+    "diagonal-time": 11,
+    "diagonal-time-dynamics": 10,
+    "euclidean": 11,
+    "pearson": 16,
+    "standard": 2,
+    "time": 11,
+    "time-dynamics": 8
+  }
+}

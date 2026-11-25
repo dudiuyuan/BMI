@@ -1,0 +1,219 @@
+{
+  "status": "passed",
+  "all_6214_assignments_per_method": true,
+  "saved_labels_equal_nearest_medoids": true,
+  "objectives_checked": true,
+  "all_GO_hit_lists_and_contingency_tables_checked": true,
+  "clusters": [
+    {
+      "method": "standard",
+      "cluster": 0,
+      "genes": 2271,
+      "tests": 510
+    },
+    {
+      "method": "standard",
+      "cluster": 1,
+      "genes": 143,
+      "tests": 510
+    },
+    {
+      "method": "standard",
+      "cluster": 2,
+      "genes": 1167,
+      "tests": 510
+    },
+    {
+      "method": "standard",
+      "cluster": 3,
+      "genes": 1474,
+      "tests": 510
+    },
+    {
+      "method": "standard",
+      "cluster": 4,
+      "genes": 1159,
+      "tests": 510
+    },
+    {
+      "method": "time",
+      "cluster": 0,
+      "genes": 1699,
+      "tests": 510
+    },
+    {
+      "method": "time",
+      "cluster": 1,
+      "genes": 140,
+      "tests": 510
+    },
+    {
+      "method": "time",
+      "cluster": 2,
+      "genes": 1464,
+      "tests": 510
+    },
+    {
+      "method": "time",
+      "cluster": 3,
+      "genes": 2045,
+      "tests": 510
+    },
+    {
+      "method": "time",
+      "cluster": 4,
+      "genes": 866,
+      "tests": 510
+    },
+    {
+      "method": "time-dynamics",
+      "cluster": 0,
+      "genes": 1579,
+      "tests": 510
+    },
+    {
+      "method": "time-dynamics",
+      "cluster": 1,
+      "genes": 140,
+      "tests": 510
+    },
+    {
+      "method": "time-dynamics",
+      "cluster": 2,
+      "genes": 1501,
+      "tests": 510
+    },
+    {
+      "method": "time-dynamics",
+      "cluster": 3,
+      "genes": 2070,
+      "tests": 510
+    },
+    {
+      "method": "time-dynamics",
+      "cluster": 4,
+      "genes": 924,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time-dynamics",
+      "cluster": 0,
+      "genes": 1655,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time-dynamics",
+      "cluster": 1,
+      "genes": 132,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time-dynamics",
+      "cluster": 2,
+      "genes": 911,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time-dynamics",
+      "cluster": 3,
+      "genes": 2482,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time-dynamics",
+      "cluster": 4,
+      "genes": 1034,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time",
+      "cluster": 0,
+      "genes": 1701,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time",
+      "cluster": 1,
+      "genes": 128,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time",
+      "cluster": 2,
+      "genes": 1469,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time",
+      "cluster": 3,
+      "genes": 2046,
+      "tests": 510
+    },
+    {
+      "method": "diagonal-time",
+      "cluster": 4,
+      "genes": 870,
+      "tests": 510
+    },
+    {
+      "method": "euclidean",
+      "cluster": 0,
+      "genes": 1729,
+      "tests": 510
+    },
+    {
+      "method": "euclidean",
+      "cluster": 1,
+      "genes": 89,
+      "tests": 510
+    },
+    {
+      "method": "euclidean",
+      "cluster": 2,
+      "genes": 1481,
+      "tests": 510
+    },
+    {
+      "method": "euclidean",
+      "cluster": 3,
+      "genes": 2069,
+      "tests": 510
+    },
+    {
+      "method": "euclidean",
+      "cluster": 4,
+      "genes": 846,
+      "tests": 510
+    },
+    {
+      "method": "pearson",
+      "cluster": 0,
+      "genes": 835,
+      "tests": 510
+    },
+    {
+      "method": "pearson",
+      "cluster": 1,
+      "genes": 1210,
+      "tests": 510
+    },
+    {
+      "method": "pearson",
+      "cluster": 2,
+      "genes": 1229,
+      "tests": 510
+    },
+    {
+      "method": "pearson",
+      "cluster": 3,
+      "genes": 1239,
+      "tests": 510
+    },
+    {
+      "method": "pearson",
+      "cluster": 4,
+      "genes": 1701,
+      "tests": 510
+    }
+  ]
+}

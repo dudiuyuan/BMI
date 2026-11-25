@@ -1,0 +1,35 @@
+{
+  "background_N": 730,
+  "expression_genes": 6214,
+  "spellman_in_expression": 793,
+  "total_terms": 1991,
+  "tested_terms": 501,
+  "tests": 17535,
+  "significant_tests": 44,
+  "release": "2026_04",
+  "minimum_background_term_genes": 3,
+  "global_BH_family": "all seven methods x five clusters x all tested GO terms (including zero hits)",
+  "universe": "actual clustered genes with GO in the downloaded Spellman-only annotation table",
+  "exclude_shared": true,
+  "excluded_shared_genes": [
+    "YBR009C",
+    "YBR010W",
+    "YCL012W",
+    "YCL014W",
+    "YJL018W",
+    "YJL019W",
+    "YML033W",
+    "YML034W",
+    "YNL030W",
+    "YNL031C"
+  ],
+  "significant_by_method": {
+    "diagonal-time": 5,
+    "diagonal-time-dynamics": 9,
+    "euclidean": 4,
+    "pearson": 13,
+    "standard": 1,
+    "time": 5,
+    "time-dynamics": 7
+  }
+}

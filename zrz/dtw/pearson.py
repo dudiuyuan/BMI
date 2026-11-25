@@ -1,30 +1,41 @@
-#!/usr/bin/env python3
-"""Pearson-correlation baseline: same input and output as dtw.py.
 
-    python3 pearson.py --input centered.csv --output outputs/name
-
-distance = 1 - r (r = Pearson correlation over equal time points):
-0 = same shape, 1 = uncorrelated, 2 = mirror image. Only the shape counts,
-not baseline or amplitude; no time warping. A flat curve has no defined r:
-two flat curves get 0, a flat and a non-flat curve get 1.
-"""
 from math import fsum, sqrt
 
-from dtw import run
+from dtw import get_args, run
 
 
-def pearson_distance(x, y, times=None):
-    mx, my = fsum(x) / len(x), fsum(y) / len(y)
-    dx, dy = [a - mx for a in x], [b - my for b in y]
-    sxx, syy = fsum(a * a for a in dx), fsum(b * b for b in dy)
-    flat = lambda v, ss: sqrt(ss / len(v)) <= 1e-12 * max(1.0, max(abs(e) for e in v))
-    fx, fy = flat(x, sxx), flat(y, syy)
-    if fx or fy:
-        return 0.0 if fx and fy else 1.0
-    r = fsum(a * b for a, b in zip(dx, dy)) / sqrt(sxx * syy)
-    return 1.0 - max(-1.0, min(1.0, r))
+def is_flat(values, sum_squares):
+    biggest = 1.0
+    for v in values:
+        biggest = max(biggest, abs(v))
+    return sqrt(sum_squares / len(values)) <= 1e-12 * biggest
+
+
+def pearson_distance(x, y, times):
+    mean_x = fsum(x) / len(x)
+    mean_y = fsum(y) / len(y)
+    dx = []
+    dy = []
+    for a in x: dx.append(a - mean_x)
+    for b in y: dy.append(b - mean_y)
+
+    sxx = fsum([a * a for a in dx])
+    syy = fsum([b * b for b in dy])
+    flat_x = is_flat(x, sxx)
+    flat_y = is_flat(y, syy)
+    if flat_x and flat_y: return 0.0
+    if flat_x or flat_y: return 1.0
+
+    sxy = fsum([a * b for a, b in zip(dx, dy)])
+    r = sxy / sqrt(sxx * syy)
+    r = max(-1.0, min(1.0, r))    
+    return 1.0 - r    # 0:same, 1:unrelated, 2:opposite
+
+
+def main():
+    args = get_args()
+    run('pearson', pearson_distance, args.input, args.output)
 
 
 if __name__ == '__main__':
-    run('pearson', pearson_distance, '1 - Pearson correlation; flat/flat = 0, flat/non-flat = 1',
-        description=__doc__)
+    main()

@@ -16,13 +16,13 @@
 
 ```bash
 python3 dtw.py --mode diagonal-time --input <centered.csv> --output outputs/<名字>
-python3 dtw.py --list                                   # 查看五种模式及参数
+python3 dtw.py --help                                   # 查看五种模式
 
 python3 euclidean.py --input <centered.csv> --output outputs/<名字>
 python3 pearson.py   --input <centered.csv> --output outputs/<名字>
 ```
 
-可选 `--limit N`：只用前 N 个基因，快速试跑。每次实验请用新的输出文件夹，否则会覆盖。
+每次实验请用新的输出文件夹，否则会覆盖。
 
 ## 五种模式
 
@@ -46,7 +46,7 @@ CSV，第一列 `gene_id`，其余列为按时间排序的表达值，列名 `t0
 ## 输出
 
 - `distance_matrix.csv`：所有基因两两之间的距离（对称矩阵，第一行、第一列是 gene_id，对角线为 0），交给下游聚类。
-- `run.json`：方法、模式和参数、输入文件路径与校验码、基因数、耗时。
+- `run.json`：方法、模式和参数、输入文件路径、基因数、时间点。
 
 ## 下游聚类
 

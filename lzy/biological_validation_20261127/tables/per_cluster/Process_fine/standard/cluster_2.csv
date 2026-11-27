@@ -1,0 +1,16 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+Process_fine,standard,2,cell cycle,cell cycle,,398,27,45,2,43,25,328,-0.033216324644910686,0.6551440329218107,0.7542716404248015,0.835808798641416,YAL040C;YPR111W,YAL040C:G1/S cyclin;YPR111W:M phase; protein kinase,1.0,1.0,False
+Process_fine,standard,2,cell wall biogenesis,cell wall biogenesis,,398,15,45,2,43,13,340,0.012666211751849142,1.1792592592592595,0.6819583541372066,0.5222307719927816,YBL061C;YPR159W,YBL061C:chitin synthase regulator;YPR159W:glucan synthase subunit,1.0,1.0,False
+Process_fine,standard,2,chromatin structure,chromatin structure,,398,16,45,0,45,16,337,-0.07307136396761027,0.0,0.23491551276723344,1.0,,,0.9560515054480431,1.0,False
+Process_fine,standard,2,cytoskeleton,cytoskeleton,,398,19,45,2,43,17,336,-0.005516479347329502,0.9309941520467837,1.0,0.6565669803815668,YGL093W;YOL069W,YGL093W:spindle pole body component;YOL069W:spindle pole body component,1.0,1.0,False
+Process_fine,standard,2,dna repair,dna repair,,398,14,45,2,43,12,341,0.017963247282132652,1.2634920634920634,0.6647466885963964,0.48381633006111835,YML060W;YOR033C,YML060W:8-oxoguanine DNA glycosylase;YOR033C:exonuclease; also recombination,1.0,1.0,False
+Process_fine,standard,2,dna replication,dna replication,,398,31,45,2,43,29,324,-0.04455734795046639,0.5706093189964158,0.5567808950576734,0.8898378072864606,YBL035C;YGR276C,"YBL035C:DNA polymerase alpha, 70 kD subunit;YGR276C:ribonuclease H",1.0,1.0,False
+Process_fine,standard,2,drug resistance,drug resistance,,398,5,45,0,45,5,348,-0.04027241107008518,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,standard,2,fatty acid metabolism,fatty acid metabolism,,398,6,45,1,44,5,348,0.020941013721525053,1.474074074074074,0.5155571304148027,0.5155571304148027,YOR317W,YOR317W:long chain fatty acyl:CoA synthetase,1.0,1.0,False
+Process_fine,standard,2,mating,mating,,398,16,45,3,42,13,340,0.0481053146120101,1.6583333333333332,0.4074294556457194,0.26646882179502573,YJL073W;YJR004C;YPR141C,YJL073W:DnaJ-like protein;YJR004C:alpha-agglutinin;YPR141C:kinesin-like protein,1.0,1.0,False
+Process_fine,standard,2,meiosis,meiosis,,398,6,45,0,45,6,347,-0.04417245081884191,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,standard,2,mitosis,mitosis,,398,9,45,1,44,8,345,-0.0009386601378690501,0.9827160493827161,1.0,0.6643089169813814,YPR141C,YPR141C:kinesin-like protein,1.0,1.0,False
+Process_fine,standard,2,protein glycosylation,protein glycosylation,,398,7,45,0,45,7,346,-0.047772673405041884,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,standard,2,secretion,secretion,,398,10,45,1,44,9,344,-0.006623596549879627,0.8844444444444445,1.0,0.7031420756853348,YMR183C,YMR183C:post-Golgi t-SNARE,1.0,1.0,False
+Process_fine,standard,2,transcription,transcription,,398,12,45,2,43,10,343,0.029844346964606736,1.474074074074074,0.6338206615682201,0.4019070805614264,YCL066W;YJL115W,YCL066W:silenced copy at HML; see YCR040W;YJL115W:anti-silencing protein,1.0,1.0,False
+Process_fine,standard,2,transport,transport,,398,19,45,2,43,17,336,-0.005516479347329502,0.9309941520467837,1.0,0.6565669803815668,YGL162W;YML123C,YGL162W:hypoxic gene family (sterol uptake);YML123C:inorganic phosphate permease,1.0,1.0,False

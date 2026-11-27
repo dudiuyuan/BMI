@@ -1,0 +1,16 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+Process_fine,diagonal-time,1,cell cycle,cell cycle,,398,27,6,0,6,27,365,-0.033375479891860606,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,cell wall biogenesis,cell wall biogenesis,,398,15,6,0,6,15,377,-0.024483800619590896,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,chromatin structure,chromatin structure,,398,16,6,0,6,16,376,-0.02531983676860248,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,cytoskeleton,cytoskeleton,,398,19,6,0,6,19,373,-0.027700638978495045,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,dna repair,dna repair,,398,14,6,0,6,14,378,-0.0236227795630767,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,dna replication,dna replication,,398,31,6,1,5,30,362,0.04098296009493678,2.139784946236559,0.38722369895231123,0.38722369895231123,YKL108W,YKL108W:unknown; interacts with Dpb11p,1.0,1.0,False
+Process_fine,diagonal-time,1,drug resistance,drug resistance,,398,5,6,0,6,5,387,-0.01395472616365292,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,fatty acid metabolism,fatty acid metabolism,,398,6,6,0,6,6,386,-0.015306122448979591,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,mating,mating,,398,16,6,0,6,16,376,-0.02531983676860248,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,meiosis,meiosis,,398,6,6,0,6,6,386,-0.015306122448979591,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,mitosis,mitosis,,398,9,6,0,6,9,383,-0.0188182418500243,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,protein glycosylation,protein glycosylation,,398,7,6,0,6,7,385,-0.016553629588077552,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,secretion,secretion,,398,10,6,0,6,10,382,-0.019861714225716018,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,transcription,transcription,,398,12,6,0,6,12,380,-0.02181371136682661,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time,1,transport,transport,,398,19,6,1,5,18,374,0.06900860938502275,3.4912280701754383,0.2557678240406677,0.2557678240406677,YFL011W,YFL011W:hexose permease,0.9873390266275777,1.0,False

@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-27",
+  "methods": [
+    "standard",
+    "time",
+    "time-dynamics",
+    "diagonal-time-dynamics",
+    "diagonal-time",
+    "euclidean",
+    "pearson"
+  ],
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "k": 5,
+  "n_init": 5,
+  "min_background": 5,
+  "min_hits": 3,
+  "n_permutations": 10000,
+  "permutation_seed": 20261127,
+  "mapping_sha256": "8eb67da89ff4603f3353082f2749671d6d442a18ec25b4c80460346b8e2832c0",
+  "old_configuration_sha256": "4ad15040a9becdebf7e5ad660121b70f382c8269dc949a29d7f6a248a6d863b2",
+  "guidance": "User supplied 1.md; exploratory mapping frozen before this run, not claimed blinded",
+  "phi": "signed Pearson correlation of two binary membership variables; area abs(phi), color phi",
+  "correction": "within each annotation basis, all methods x clusters x tested terms; two-sided and greater separate",
+  "similarity_correction": "BH over all six scenarios x seven methods",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "numba": "0.68.0",
+    "matplotlib": "3.11.2"
+  }
+}

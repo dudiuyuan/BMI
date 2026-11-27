@@ -1,0 +1,16 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+Process_fine,standard,3,cell cycle,cell cycle,,398,27,30,0,30,27,341,-0.07702498905817316,0.0,0.2470060697234377,1.0,,,0.9873390266275777,1.0,False
+Process_fine,standard,3,cell wall biogenesis,cell wall biogenesis,,398,15,30,1,29,14,354,-0.006529407750754336,0.8844444444444445,1.0,0.6980828351955215,YKL104C,YKL104C:chitin biosynthesis,1.0,1.0,False
+Process_fine,standard,3,chromatin structure,chromatin structure,,398,16,30,0,30,16,352,-0.05843392084174804,0.0,0.6216181746575722,1.0,,,1.0,1.0,False
+Process_fine,standard,3,cytoskeleton,cytoskeleton,,398,19,30,0,30,19,349,-0.06392841155052048,0.0,0.38218173708177483,1.0,,,1.0,1.0,False
+Process_fine,standard,3,dna repair,dna repair,,398,14,30,1,29,13,355,-0.002855673254724737,0.9476190476190476,1.0,0.6724966347883623,YLR288C,YLR288C:activates exonuclease,1.0,1.0,False
+Process_fine,standard,3,dna replication,dna replication,,398,31,30,0,30,31,337,-0.08298212133109718,0.0,0.151643007968695,1.0,,,0.8402224236664532,1.0,False
+Process_fine,standard,3,drug resistance,drug resistance,,398,5,30,1,29,4,364,0.05324586255535664,2.6533333333333333,0.3255851349046396,0.3255851349046396,YPL058C,YPL058C:transporter,1.0,1.0,False
+Process_fine,standard,3,fatty acid metabolism,fatty acid metabolism,,398,6,30,0,30,6,362,-0.03532395393191716,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,standard,3,mating,mating,,398,16,30,6,24,10,358,0.23227483534594848,4.9750000000000005,0.0005204915901623802,0.0005204915901623802,YDR085C;YDR461W;YGL089C;YLR452C;YNR044W;YPL187W,"YDR085C:cytoskeletal protein, similar to arrestins;YDR461W:a-factor precursor;YGL089C:alpha factor;YLR452C:negative regulator of Gpa1;YNR044W:a-agglutinin anchor subunit;YPL187W:alpha factor precursor",0.0341572606044062,0.0341572606044062,True
+Process_fine,standard,3,meiosis,meiosis,,398,6,30,0,30,6,362,-0.03532395393191716,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,standard,3,mitosis,mitosis,,398,9,30,0,30,9,359,-0.04342933426840902,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,standard,3,protein glycosylation,protein glycosylation,,398,7,30,0,30,7,361,-0.03820299039971779,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,standard,3,secretion,secretion,,398,10,30,0,30,10,358,-0.04583749285011563,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,standard,3,transcription,transcription,,398,12,30,1,29,11,357,0.005313917218243796,1.1055555555555556,1.0,0.6148894199707117,YOR337W,YOR337W:Ty1 enhancer activator,1.0,1.0,False
+Process_fine,standard,3,transport,transport,,398,19,30,3,27,16,352,0.06998478738162242,2.0947368421052635,0.16460642003239992,0.16460642003239992,YDL128W;YDL138W;YGL255W,YDL128W:vacuolar H+/Ca(2+) exchanger;YDL138W:glucose permease;YGL255W:high-affinity zinc transporter,0.8656710944612712,1.0,False

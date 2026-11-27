@@ -1,0 +1,276 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+GO_all,pearson,0,GO:0000022,mitotic spindle elongation,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000070,mitotic sister chromatid segregation,biological_process,740,9,48,1,47,8,684,0.020835172832782214,1.7129629629629628,0.45500547191688323,0.45500547191688323,YDR130C,YDR130C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0000077,DNA damage checkpoint signaling,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000082,G1/S transition of mitotic cell cycle,biological_process,740,28,48,0,48,28,664,-0.05222838421476643,0.0,0.2483178976012923,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000086,G2/M transition of mitotic cell cycle,biological_process,740,17,48,0,48,17,675,-0.040385260026998125,0.0,0.6189475209951896,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000103,sulfate assimilation,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000122,negative regulation of transcription by RNA polymerase II,biological_process,740,20,48,2,46,18,674,0.0237765277374163,1.5416666666666665,0.3768674709887413,0.3768674709887413,YGL162W;YGL209W,YGL162W:hypoxic gene family (sterol uptake);YGL209W:transcriptional repressor,1.0,1.0,False
+GO_all,pearson,0,GO:0000131,incipient cellular bud site,cellular_component,740,23,48,1,47,22,670,-0.01555264366975449,0.6702898550724637,1.0,0.7912675035062166,YBL061C,YBL061C:chitin synthase regulator,1.0,1.0,False
+GO_all,pearson,0,GO:0000139,Golgi membrane,cellular_component,740,18,48,1,47,17,675,-0.005968197245829193,0.8564814814814814,1.0,0.7052819031372974,YOR332W,YOR332W:vacuolar H+-ATPase V1 domain 27 KD subunit,1.0,1.0,False
+GO_all,pearson,0,GO:0000142,cellular bud neck contractile ring,cellular_component,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000144,cellular bud neck septin ring,cellular_component,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000183,rDNA heterochromatin formation,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000228,nuclear chromosome,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000278,mitotic cell cycle,biological_process,740,12,48,0,48,12,680,-0.033813685176493496,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000281,mitotic cytokinesis,biological_process,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000282,cellular bud site selection,biological_process,740,7,48,1,47,6,686,0.03094615467289022,2.202380952380952,0.37589088656216163,0.37589088656216163,YOR129C,YOR129C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0000287,magnesium ion binding,molecular_function,740,8,48,1,47,7,685,0.02552559052005038,1.927083333333333,0.4167602418759629,0.4167602418759629,YDR380W,"YDR380W:similar to pyruvate decarboxylase, pyruvate",1.0,1.0,False
+GO_all,pearson,0,GO:0000307,cyclin-dependent protein kinase holoenzyme complex,cellular_component,740,12,48,0,48,12,680,-0.033813685176493496,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000324,fungal-type vacuole,cellular_component,740,77,48,5,43,72,620,9.713689087851026e-05,1.001082251082251,1.0,0.5737768636466023,YEL065W;YGR279C;YHL040C;YOL158C;YPR157W,"YEL065W:similar to hexose transporters, member of;YGR279C:unknown;YHL040C:similar to subtelomerically-encoded proteins;YOL158C:major facilitator superfamily;YPR157W:unknown",1.0,1.0,False
+GO_all,pearson,0,GO:0000328,fungal-type vacuole lumen,cellular_component,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000329,fungal-type vacuole membrane,cellular_component,740,27,48,3,45,24,668,0.03654026210973633,1.7129629629629628,0.4104887852293235,0.2523798990646835,YAL022C;YOR104W;YOR332W,YAL022C:unknown;YOR104W:unknown;YOR332W:vacuolar H+-ATPase V1 domain 27 KD subunit,1.0,1.0,False
+GO_all,pearson,0,GO:0000722,telomere maintenance via recombination,biological_process,740,21,48,0,48,21,671,-0.04501038975784251,0.0,0.3893835438310983,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000723,telomere maintenance,biological_process,740,11,48,0,48,11,681,-0.03235192669640521,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000724,double-strand break repair via homologous recombination,biological_process,740,12,48,0,48,12,680,-0.033813685176493496,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000725,recombinational repair,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000727,double-strand break repair via break-induced replication,biological_process,740,21,48,1,47,20,672,-0.011967048070537492,0.7341269841269841,1.0,0.7603121172343713,YGR188C,YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0000742,karyogamy involved in conjugation with cellular fusion,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000743,nuclear migration involved in conjugation with cellular fusion,biological_process,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0000747,conjugation with cellular fusion,biological_process,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YGR279C,YGR279C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0000755,cytogamy,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000775,"chromosome, centromeric region",cellular_component,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000776,kinetochore,cellular_component,740,21,48,2,46,19,673,0.021076293616767525,1.4682539682539681,0.6404681758515565,0.4007802930859278,YDR130C;YGR188C,YDR130C:unknown;YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0000779,"condensed chromosome, centromeric region",cellular_component,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YGR188C,YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0000781,"chromosome, telomeric region",cellular_component,740,32,48,1,47,31,661,-0.029016684244125096,0.48177083333333326,0.714939793146699,0.8885255667366583,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0000785,chromatin,cellular_component,740,24,48,2,46,22,670,0.013728972837663547,1.284722222222222,0.6646306332484815,0.46987186036934464,YGL090W;YIL122W,YGL090W:interacts with DNA ligase;YIL122W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0000786,nucleosome,cellular_component,740,13,48,0,48,13,679,-0.035218596282860774,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000794,condensed nuclear chromosome,cellular_component,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000920,septum digestion after cytokinesis,biological_process,740,13,48,0,48,13,679,-0.035218596282860774,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000921,septin ring assembly,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000922,spindle pole,cellular_component,740,13,48,1,47,12,680,0.006547046744890784,1.1858974358974357,0.5848986936883145,0.5848986936883145,YDR130C,YDR130C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0000940,outer kinetochore,cellular_component,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YGR188C,YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,molecular_function,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,molecular_function,740,17,48,2,46,15,677,0.03286251551216514,1.8137254901960782,0.3032716928000278,0.3032716928000278,YGL209W;YIL122W,YGL209W:transcriptional repressor;YIL122W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",molecular_function,740,18,48,2,46,16,676,0.029648463737345022,1.7129629629629628,0.3280427391530381,0.3280427391530381,YGL162W;YOR337W,YGL162W:hypoxic gene family (sterol uptake);YOR337W:Ty1 enhancer activator,1.0,1.0,False
+GO_all,pearson,0,GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",molecular_function,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0001676,long-chain fatty acid metabolic process,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0003333,amino acid transmembrane transport,biological_process,740,9,48,1,47,8,684,0.020835172832782214,1.7129629629629628,0.45500547191688323,0.45500547191688323,YLL061W,YLL061W:similar to Gap1p and other amino acid permeases,1.0,1.0,False
+GO_all,pearson,0,GO:0003676,nucleic acid binding,molecular_function,740,23,48,0,48,23,669,-0.04717065552584878,0.0,0.3910547339871103,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0003677,DNA binding,molecular_function,740,34,48,1,47,33,659,-0.03158998207048997,0.45343137254901955,0.7181457692465623,0.9031383301697355,YOR337W,YOR337W:Ty1 enhancer activator,1.0,1.0,False
+GO_all,pearson,0,GO:0003678,DNA helicase activity,molecular_function,740,13,48,0,48,13,679,-0.035218596282860774,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0003682,chromatin binding,molecular_function,740,27,48,1,47,26,666,-0.0219874304469842,0.5709876543209876,1.0,0.84189111383536,YGL090W,YGL090W:interacts with DNA ligase,1.0,1.0,False
+GO_all,pearson,0,GO:0003688,DNA replication origin binding,molecular_function,740,14,48,0,48,14,678,-0.03657322678151406,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0003690,double-stranded DNA binding,molecular_function,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0003697,single-stranded DNA binding,molecular_function,740,17,48,1,47,16,676,-0.003761372257416492,0.9068627450980391,1.0,0.6843241718048383,YOR258W,YOR258W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0003700,DNA-binding transcription factor activity,molecular_function,740,7,48,1,47,6,686,0.03094615467289022,2.202380952380952,0.37589088656216163,0.37589088656216163,YKL043W,YKL043W:transcription factor,1.0,1.0,False
+GO_all,pearson,0,GO:0003713,transcription coactivator activity,molecular_function,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YCR040W,YCR040W:alpha-specific gene activator,1.0,1.0,False
+GO_all,pearson,0,GO:0003723,RNA binding,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0003729,mRNA binding,molecular_function,740,12,48,2,46,10,682,0.053068700346441185,2.569444444444444,0.17971507082880264,0.17971507082880264,YDR432W;YGR279C,YDR432W:nuclear shuttling protein;YGR279C:unknown,0.927130878356351,1.0,False
+GO_all,pearson,0,GO:0003887,DNA-directed DNA polymerase activity,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0003924,GTPase activity,molecular_function,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0004386,helicase activity,molecular_function,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0004672,protein kinase activity,molecular_function,740,21,48,1,47,20,672,-0.011967048070537492,0.7341269841269841,1.0,0.7603121172343713,YGR188C,YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0004674,protein serine/threonine kinase activity,molecular_function,740,20,48,1,47,19,673,-0.010059300196599204,0.7708333333333333,1.0,0.7431915541796834,YGR188C,YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0005096,GTPase activator activity,molecular_function,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005199,structural constituent of cell wall,molecular_function,740,11,48,0,48,11,681,-0.03235192669640521,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005200,structural constituent of cytoskeleton,molecular_function,740,8,48,1,47,7,685,0.02552559052005038,1.927083333333333,0.4167602418759629,0.4167602418759629,YDR130C,YDR130C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005351,carbohydrate:proton symporter activity,molecular_function,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005353,fructose transmembrane transporter activity,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005506,iron ion binding,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005524,ATP binding,molecular_function,740,85,48,2,46,83,609,-0.06046019857000095,0.3627450980392156,0.15507279960212839,0.9820730125801072,YGR188C;YGR240C,YGR188C:protein kinase;YGR240C:phosphofructokinase,0.8800721448802086,1.0,False
+GO_all,pearson,0,GO:0005525,GTP binding,molecular_function,740,11,48,0,48,11,681,-0.03235192669640521,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005546,"phosphatidylinositol-4,5-bisphosphate binding",molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005576,extracellular region,cellular_component,740,23,48,2,46,21,671,0.016065368186339805,1.3405797101449275,0.6560586923445715,0.4473261958507881,YGR279C;YNL160W,YGR279C:unknown;YNL160W:unknown; response to nutrient limitation,1.0,1.0,False
+GO_all,pearson,0,GO:0005621,cellular bud scar,cellular_component,740,11,48,0,48,11,681,-0.03235192669640521,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005628,prospore membrane,cellular_component,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005634,nucleus,cellular_component,740,282,48,17,31,265,427,-0.01459576738059094,0.9293735224586289,0.7598891194086801,0.7062859716115135,YCR040W;YDR130C;YDR380W;YDR432W;YGL090W;YGL162W;YGL209W;YGR188C;YHL040C;YIL122W;YKL043W;YKL069W;YKR041W;YOR129C;YOR258W;YOR308C;YOR337W,"YCR040W:alpha-specific gene activator;YDR130C:unknown;YDR380W:similar to pyruvate decarboxylase, pyruvate;YDR432W:nuclear shuttling protein;YGL090W:interacts with DNA ligase;YGL162W:hypoxic gene family (sterol uptake);YGL209W:transcriptional repressor;YGR188C:protein kinase;YHL040C:similar to subtelomerically-encoded proteins;YIL122W:unknown;YKL043W:transcription factor;YKL069W:unknown;YKR041W:unknown;YOR129C:unknown;YOR258W:unknown;YOR308C:unknown;YOR337W:Ty1 enhancer activator",1.0,1.0,False
+GO_all,pearson,0,GO:0005635,nuclear envelope,cellular_component,740,15,48,1,47,14,678,0.0010523051526314243,1.0277777777777777,1.0,0.6379383413168951,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005637,nuclear inner membrane,cellular_component,740,6,48,2,46,4,688,0.09855506173925446,5.138888888888888,0.05227934223715503,0.05227934223715503,YJL018W;YPL158C,YJL018W:unknown;YPL158C:unknown,0.604068030051161,0.7578142605912909,False
+GO_all,pearson,0,GO:0005654,nucleoplasm,cellular_component,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005656,nuclear pre-replicative complex,cellular_component,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005657,replication fork,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005694,chromosome,cellular_component,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005730,nucleolus,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005737,cytoplasm,cellular_component,740,275,48,13,35,262,430,-0.05493087757597438,0.7287878787878788,0.16456195235484006,0.9530231260980934,YDR130C;YDR380W;YDR432W;YGL090W;YGL162W;YGL209W;YGR240C;YHL040C;YKL069W;YKR041W;YNL056W;YOR129C;YOR258W,"YDR130C:unknown;YDR380W:similar to pyruvate decarboxylase, pyruvate;YDR432W:nuclear shuttling protein;YGL090W:interacts with DNA ligase;YGL162W:hypoxic gene family (sterol uptake);YGL209W:transcriptional repressor;YGR240C:phosphofructokinase;YHL040C:similar to subtelomerically-encoded proteins;YKL069W:unknown;YKR041W:unknown;YNL056W:unknown;YOR129C:unknown;YOR258W:unknown",0.8902022507972313,1.0,False
+GO_all,pearson,0,GO:0005739,mitochondrion,cellular_component,740,104,48,4,44,100,592,-0.04335156799570818,0.5929487179487178,0.2885682042568323,0.9269446555550198,YGL209W;YGR240C;YKL044W;YOL114C,YGL209W:transcriptional repressor;YGR240C:phosphofructokinase;YKL044W:unknown;YOL114C:similar to human DS-1 protein,1.0,1.0,False
+GO_all,pearson,0,GO:0005741,mitochondrial outer membrane,cellular_component,740,11,48,1,47,10,682,0.012989788749314212,1.4015151515151514,0.5242738954925992,0.5242738954925992,YGR240C,YGR240C:phosphofructokinase,1.0,1.0,False
+GO_all,pearson,0,GO:0005743,mitochondrial inner membrane,cellular_component,740,14,48,0,48,14,678,-0.03657322678151406,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005758,mitochondrial intermembrane space,cellular_component,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005759,mitochondrial matrix,cellular_component,740,11,48,0,48,11,681,-0.03235192669640521,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005768,endosome,cellular_component,740,7,48,3,45,4,688,0.14431325594981478,6.607142857142857,0.00746572236893079,0.00746572236893079,YEL065W;YHL040C;YOL158C,"YEL065W:similar to hexose transporters, member of;YHL040C:similar to subtelomerically-encoded proteins;YOL158C:major facilitator superfamily",0.21813086879742108,0.2587262995688366,False
+GO_all,pearson,0,GO:0005773,vacuole,cellular_component,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YGR279C,YGR279C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005774,vacuolar membrane,cellular_component,740,20,48,3,45,17,675,0.05761235567143181,2.3125,0.13419135356328793,0.13419135356328793,YEL065W;YHL040C;YOL158C,"YEL065W:similar to hexose transporters, member of;YHL040C:similar to subtelomerically-encoded proteins;YOL158C:major facilitator superfamily",0.8288909216213888,1.0,False
+GO_all,pearson,0,GO:0005777,peroxisome,cellular_component,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005783,endoplasmic reticulum,cellular_component,740,98,48,6,42,92,600,-0.005774969688707394,0.9438775510204082,1.0,0.6310028973396891,YBR092C;YGR284C;YHR110W;YLL061W;YLR057W;YMR202W,"YBR092C:acid phosphatase, constitutive;YGR284C:similar to mouse Surf-4 protein PIR:A34727;YHR110W:unknown;YLL061W:similar to Gap1p and other amino acid permeases;YLR057W:unknown;YMR202W:C-8 sterol isomerase",1.0,1.0,False
+GO_all,pearson,0,GO:0005789,endoplasmic reticulum membrane,cellular_component,740,58,48,4,44,54,638,0.004855487247095991,1.0632183908045976,0.7839027789871426,0.5301137694477481,YGR284C;YHR110W;YLR057W;YMR202W,YGR284C:similar to mouse Surf-4 protein PIR:A34727;YHR110W:unknown;YLR057W:unknown;YMR202W:C-8 sterol isomerase,1.0,1.0,False
+GO_all,pearson,0,GO:0005793,endoplasmic reticulum-Golgi intermediate compartment,cellular_component,740,6,48,2,46,4,688,0.09855506173925446,5.138888888888888,0.05227934223715503,0.05227934223715503,YGR284C;YHR110W,YGR284C:similar to mouse Surf-4 protein PIR:A34727;YHR110W:unknown,0.604068030051161,0.7578142605912909,False
+GO_all,pearson,0,GO:0005794,Golgi apparatus,cellular_component,740,16,48,1,47,15,677,-0.0014274308907361664,0.9635416666666665,1.0,0.661909320098673,YHR110W,YHR110W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005811,lipid droplet,cellular_component,740,15,48,0,48,15,677,-0.03788298549473128,0.0,0.6155097429913933,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005815,microtubule organizing center,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005816,spindle pole body,cellular_component,740,27,48,2,46,25,667,0.007276415831376066,1.1419753086419753,0.6923286539498892,0.5342197677852492,YDR130C;YJL018W,YDR130C:unknown;YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005819,spindle,cellular_component,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005823,central plaque of spindle pole body,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005824,outer plaque of spindle pole body,cellular_component,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005829,cytosol,cellular_component,740,77,48,2,46,75,617,-0.05381383754669468,0.40043290043290036,0.21748870703402207,0.9702099344200596,YDR380W;YKL069W,"YDR380W:similar to pyruvate decarboxylase, pyruvate;YKL069W:unknown",0.9841292999986704,1.0,False
+GO_all,pearson,0,GO:0005856,cytoskeleton,cellular_component,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005871,kinesin complex,cellular_component,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005874,microtubule,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005876,spindle microtubule,cellular_component,740,9,48,1,47,8,684,0.020835172832782214,1.7129629629629628,0.45500547191688323,0.45500547191688323,YDR130C,YDR130C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005881,cytoplasmic microtubule,cellular_component,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005886,plasma membrane,cellular_component,740,120,48,9,39,111,581,0.01810432660457052,1.15625,0.684596433586147,0.3721507819212528,YAL022C;YBL061C;YEL065W;YHL040C;YLL061W;YOL158C;YOR104W;YOR129C;YPL158C,"YAL022C:unknown;YBL061C:chitin synthase regulator;YEL065W:similar to hexose transporters, member of;YHL040C:similar to subtelomerically-encoded proteins;YLL061W:similar to Gap1p and other amino acid permeases;YOL158C:major facilitator superfamily;YOR104W:unknown;YOR129C:unknown;YPL158C:unknown",1.0,1.0,False
+GO_all,pearson,0,GO:0005933,cellular bud,cellular_component,740,18,48,0,48,18,674,-0.04158485822900341,0.0,0.6227608360157407,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0005934,cellular bud tip,cellular_component,740,28,48,1,47,27,665,-0.023471684572707534,0.550595238095238,1.0,0.852535190323302,YPL158C,YPL158C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005935,cellular bud neck,cellular_component,740,69,48,4,44,65,627,-0.008976007196534607,0.8937198067632849,1.0,0.674127514631315,YBL061C;YOR104W;YOR129C;YPL158C,YBL061C:chitin synthase regulator;YOR104W:unknown;YOR129C:unknown;YPL158C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005938,cell cortex,cellular_component,740,16,48,1,47,15,677,-0.0014274308907361664,0.9635416666666665,1.0,0.661909320098673,YOR129C,YOR129C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0005975,carbohydrate metabolic process,biological_process,740,10,48,2,46,8,684,0.0642192019091036,3.083333333333333,0.13292936229731214,0.13292936229731214,YGR279C;YLR057W,YGR279C:unknown;YLR057W:unknown,0.8272244819264907,1.0,False
+GO_all,pearson,0,GO:0006031,chitin biosynthetic process,biological_process,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YBL061C,YBL061C:chitin synthase regulator,1.0,1.0,False
+GO_all,pearson,0,GO:0006260,DNA replication,biological_process,740,23,48,0,48,23,669,-0.04717065552584878,0.0,0.3910547339871103,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006261,DNA-templated DNA replication,biological_process,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006267,pre-replicative complex assembly involved in nuclear cell cycle DNA replication,biological_process,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006270,DNA replication initiation,biological_process,740,15,48,0,48,15,677,-0.03788298549473128,0.0,0.6155097429913933,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006271,DNA strand elongation involved in DNA replication,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006272,leading strand elongation,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006273,lagging strand elongation,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006279,premeiotic DNA replication,biological_process,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006281,DNA repair,biological_process,740,30,48,0,48,30,662,-0.054137603180754154,0.0,0.25104153606541046,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006284,base-excision repair,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006289,nucleotide-excision repair,biological_process,740,11,48,0,48,11,681,-0.03235192669640521,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006298,mismatch repair,biological_process,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006301,DNA damage tolerance,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006302,double-strand break repair,biological_process,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006303,double-strand break repair via nonhomologous end joining,biological_process,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YGL090W,YGL090W:interacts with DNA ligase,1.0,1.0,False
+GO_all,pearson,0,GO:0006310,DNA recombination,biological_process,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006312,mitotic recombination,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006325,chromatin organization,biological_process,740,16,48,0,48,16,676,-0.039152390145906275,0.0,0.6164643394915525,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006334,nucleosome assembly,biological_process,740,11,48,0,48,11,681,-0.03235192669640521,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006335,DNA replication-dependent chromatin assembly,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006338,chromatin remodeling,biological_process,740,14,48,0,48,14,678,-0.03657322678151406,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006355,regulation of DNA-templated transcription,biological_process,740,22,48,0,48,22,670,-0.04610167340411482,0.0,0.3894459564878312,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006357,regulation of transcription by RNA polymerase II,biological_process,740,32,48,1,47,31,661,-0.029016684244125096,0.48177083333333326,0.714939793146699,0.8885255667366583,YCR040W,YCR040W:alpha-specific gene activator,1.0,1.0,False
+GO_all,pearson,0,GO:0006368,transcription elongation by RNA polymerase II,biological_process,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YOR337W,YOR337W:Ty1 enhancer activator,1.0,1.0,False
+GO_all,pearson,0,GO:0006457,protein folding,biological_process,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006487,protein N-linked glycosylation,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006696,ergosterol biosynthetic process,biological_process,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YMR202W,YMR202W:C-8 sterol isomerase,1.0,1.0,False
+GO_all,pearson,0,GO:0006865,amino acid transport,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0006879,intracellular iron ion homeostasis,biological_process,740,7,48,3,45,4,688,0.14431325594981478,6.607142857142857,0.00746572236893079,0.00746572236893079,YEL065W;YHL040C;YOL158C,"YEL065W:similar to hexose transporters, member of;YHL040C:similar to subtelomerically-encoded proteins;YOL158C:major facilitator superfamily",0.21813086879742108,0.2587262995688366,False
+GO_all,pearson,0,GO:0006886,intracellular protein transport,biological_process,740,12,48,1,47,11,681,0.009627507584973844,1.284722222222222,0.5555974250074897,0.5555974250074897,YHR110W,YHR110W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0006888,endoplasmic reticulum to Golgi vesicle-mediated transport,biological_process,740,9,48,2,46,7,685,0.07089370496349273,3.4259259259259256,0.11079840154859891,0.11079840154859891,YGR284C;YHR110W,YGR284C:similar to mouse Surf-4 protein PIR:A34727;YHR110W:unknown,0.7688785976245598,0.9923214350008062,False
+GO_all,pearson,0,GO:0006974,DNA damage response,biological_process,740,17,48,1,47,16,676,-0.003761372257416492,0.9068627450980391,1.0,0.6843241718048383,YOR258W,YOR258W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0007004,telomere maintenance via telomerase,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007020,microtubule nucleation,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007030,Golgi organization,biological_process,740,5,48,2,46,3,689,0.11223268361600415,6.166666666666666,0.03634271579176909,0.03634271579176909,YGR284C;YHR110W,YGR284C:similar to mouse Surf-4 protein PIR:A34727;YHR110W:unknown,0.49687306746559307,0.6202103537159176,False
+GO_all,pearson,0,GO:0007052,mitotic spindle organization,biological_process,740,14,48,1,47,13,679,0.0037008622338436845,1.101190476190476,0.6123056575163212,0.6123056575163212,YDR130C,YDR130C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0007059,chromosome segregation,biological_process,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007062,sister chromatid cohesion,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007064,mitotic sister chromatid cohesion,biological_process,740,22,48,1,47,21,671,-0.013795576511079814,0.7007575757575757,1.0,0.7763135336081545,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0007089,traversing start control point of mitotic cell cycle,biological_process,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007094,mitotic spindle assembly checkpoint signaling,biological_process,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YGR188C,YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0007096,regulation of exit from mitosis,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007120,axial cellular bud site selection,biological_process,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007124,pseudohyphal growth,biological_process,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007129,homologous chromosome pairing at meiosis,biological_process,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0007131,reciprocal meiotic recombination,biological_process,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0007165,signal transduction,biological_process,740,12,48,0,48,12,680,-0.033813685176493496,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0008017,microtubule binding,molecular_function,740,12,48,1,47,11,681,0.009627507584973844,1.284722222222222,0.5555974250074897,0.5555974250074897,YDR130C,YDR130C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0008104,intracellular protein localization,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0008270,zinc ion binding,molecular_function,740,20,48,2,46,18,674,0.0237765277374163,1.5416666666666665,0.3768674709887413,0.3768674709887413,YGL162W;YOR337W,YGL162W:hypoxic gene family (sterol uptake);YOR337W:Ty1 enhancer activator,1.0,1.0,False
+GO_all,pearson,0,GO:0008289,lipid binding,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0008361,regulation of cell size,biological_process,740,7,48,1,47,6,686,0.03094615467289022,2.202380952380952,0.37589088656216163,0.37589088656216163,YBR093C,"YBR093C:acid phosphatase, repressible",1.0,1.0,False
+GO_all,pearson,0,GO:0008608,attachment of spindle microtubules to kinetochore,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0008643,carbohydrate transport,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0009060,aerobic respiration,biological_process,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0009272,fungal-type cell wall biogenesis,biological_process,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0009277,fungal-type cell wall,cellular_component,740,43,48,3,45,40,652,0.004944248786294823,1.0755813953488371,0.7534834083447884,0.5396822071828266,YBR093C;YGR279C;YLR040C,"YBR093C:acid phosphatase, repressible;YGR279C:unknown;YLR040C:unknown",1.0,1.0,False
+GO_all,pearson,0,GO:0009986,cell surface,cellular_component,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YGR279C,YGR279C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0010458,exit from mitosis,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0010494,cytoplasmic stress granule,cellular_component,740,8,48,1,47,7,685,0.02552559052005038,1.927083333333333,0.4167602418759629,0.4167602418759629,YDR432W,YDR432W:nuclear shuttling protein,1.0,1.0,False
+GO_all,pearson,0,GO:0010696,positive regulation of mitotic spindle pole body separation,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0010833,telomere maintenance via telomere lengthening,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0010968,regulation of microtubule nucleation,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0012505,endomembrane system,cellular_component,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0015171,amino acid transmembrane transporter activity,molecular_function,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YLL061W,YLL061W:similar to Gap1p and other amino acid permeases,1.0,1.0,False
+GO_all,pearson,0,GO:0015578,mannose transmembrane transporter activity,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0015926,glucosidase activity,molecular_function,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YGR279C,YGR279C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0016020,membrane,cellular_component,740,91,48,14,34,77,615,0.13528669716369793,2.371794871794872,0.0009523243393593823,0.0009523243393593823,YBL061C;YCR041W;YDR149C;YDR355C;YHL026C;YHR110W;YJL018W;YJL067W;YJL118W;YKL044W;YLL061W;YLR040C;YLR057W;YPR157W,YBL061C:chitin synthase regulator;YCR041W:unknown;YDR149C:unknown;YDR355C:unknown;YHL026C:unknown;YHR110W:unknown;YJL018W:unknown;YJL067W:unknown;YJL118W:unknown;YKL044W:unknown;YLL061W:similar to Gap1p and other amino acid permeases;YLR040C:unknown;YLR057W:unknown;YPR157W:unknown,0.061169386378123095,0.06812422218157835,False
+GO_all,pearson,0,GO:0016236,macroautophagy,biological_process,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YGR188C,YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0016491,oxidoreductase activity,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity,molecular_function,740,12,48,0,48,12,680,-0.033813685176493496,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0016567,protein ubiquitination,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0016791,phosphatase activity,molecular_function,740,6,48,3,45,3,689,0.15973857322167753,7.708333333333333,0.004469462900997196,0.004469462900997196,YBR092C;YBR093C;YNL056W,"YBR092C:acid phosphatase, constitutive;YBR093C:acid phosphatase, repressible;YNL056W:unknown",0.16855293150671397,0.20008642056789772,False
+GO_all,pearson,0,GO:0016887,ATP hydrolysis activity,molecular_function,740,34,48,0,48,34,658,-0.057796917868878514,0.0,0.15882532862200902,1.0,,,0.8902022507972313,1.0,False
+GO_all,pearson,0,GO:0019237,centromeric DNA binding,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0019901,protein kinase binding,molecular_function,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0020037,heme binding,molecular_function,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0022857,transmembrane transporter activity,molecular_function,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030010,establishment of cell polarity,biological_process,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030134,COPII-coated ER to Golgi transport vesicle,cellular_component,740,8,48,2,46,6,686,0.07858440227521128,3.854166666666666,0.08980539936555346,0.08980539936555346,YGR284C;YHR110W,YGR284C:similar to mouse Surf-4 protein PIR:A34727;YHR110W:unknown,0.7095514164555972,0.9304380720058687,False
+GO_all,pearson,0,GO:0030148,sphingolipid biosynthetic process,biological_process,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030170,pyridoxal phosphate binding,molecular_function,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030427,site of polarized growth,cellular_component,740,12,48,0,48,12,680,-0.033813685176493496,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030437,ascospore formation,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030466,silent mating-type cassette heterochromatin formation,biological_process,740,12,48,0,48,12,680,-0.033813685176493496,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030473,nuclear migration along microtubule,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030474,spindle pole body duplication,biological_process,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0030476,ascospore wall assembly,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030491,heteroduplex formation,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030527,structural constituent of chromatin,molecular_function,740,10,48,0,48,10,682,-0.03082521691636973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0030674,protein-macromolecule adaptor activity,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0031106,septin ring organization,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0031116,positive regulation of microtubule polymerization,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0031261,DNA replication preinitiation complex,cellular_component,740,11,48,0,48,11,681,-0.03235192669640521,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0031267,small GTPase binding,molecular_function,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YOR129C,YOR129C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0031297,replication fork processing,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0031505,fungal-type cell wall organization,biological_process,740,32,48,0,48,32,660,-0.05599199371730672,0.0,0.25812153900610246,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0031507,heterochromatin formation,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0031509,subtelomeric heterochromatin formation,biological_process,740,19,48,1,47,18,674,-0.00806325413851093,0.8114035087719297,1.0,0.7248753500201361,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0031578,mitotic spindle orientation checkpoint signaling,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0031965,nuclear membrane,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0032126,eisosome,cellular_component,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0032153,cell division site,cellular_component,740,11,48,1,47,10,682,0.012989788749314212,1.4015151515151514,0.5242738954925992,0.5242738954925992,YPL158C,YPL158C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0032174,cellular bud neck septin collar,cellular_component,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YPL158C,YPL158C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0032465,regulation of cytokinesis,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0032541,cortical endoplasmic reticulum,cellular_component,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0032880,regulation of protein localization,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0033101,cellular bud membrane,cellular_component,740,5,48,1,47,4,688,0.045255114361291995,3.083333333333333,0.28556442722493236,0.28556442722493236,YOL158C,YOL158C:major facilitator superfamily,1.0,1.0,False
+GO_all,pearson,0,GO:0034087,establishment of mitotic sister chromatid cohesion,biological_process,740,11,48,1,47,10,682,0.012989788749314212,1.4015151515151514,0.5242738954925992,0.5242738954925992,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0034399,nuclear periphery,cellular_component,740,16,48,1,47,15,677,-0.0014274308907361664,0.9635416666666665,1.0,0.661909320098673,YJL018W,YJL018W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0034599,cellular response to oxidative stress,biological_process,740,15,48,1,47,14,678,0.0010523051526314243,1.0277777777777777,1.0,0.6379383413168951,YKL069W,YKL069W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0035556,intracellular signal transduction,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0035861,site of double-strand break,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0036503,ERAD pathway,biological_process,740,7,48,1,47,6,686,0.03094615467289022,2.202380952380952,0.37589088656216163,0.37589088656216163,YLR057W,YLR057W:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0042124,"1,3-beta-glucanosyltransferase activity",molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0042162,telomeric repeat DNA binding,molecular_function,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0042276,error-prone translesion synthesis,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0042393,histone binding,molecular_function,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0042555,MCM complex,cellular_component,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0042802,identical protein binding,molecular_function,740,24,48,2,46,22,670,0.013728972837663547,1.284722222222222,0.6646306332484815,0.46987186036934464,YDR432W;YGR188C,YDR432W:nuclear shuttling protein;YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0042973,"glucan endo-1,3-beta-D-glucosidase activity",molecular_function,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YGR279C,YGR279C:unknown,1.0,1.0,False
+GO_all,pearson,0,GO:0043007,maintenance of rDNA,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0043137,"DNA replication, removal of RNA primer",biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0043332,mating projection tip,cellular_component,740,21,48,0,48,21,671,-0.04501038975784251,0.0,0.3893835438310983,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0043495,protein-membrane adaptor activity,molecular_function,740,8,48,2,46,6,686,0.07858440227521128,3.854166666666666,0.08980539936555346,0.08980539936555346,YJL018W;YOR129C,YJL018W:unknown;YOR129C:unknown,0.7095514164555972,0.9304380720058687,False
+GO_all,pearson,0,GO:0043565,sequence-specific DNA binding,molecular_function,740,21,48,2,46,19,673,0.021076293616767525,1.4682539682539681,0.6404681758515565,0.4007802930859278,YKL043W;YOR337W,YKL043W:transcription factor;YOR337W:Ty1 enhancer activator,1.0,1.0,False
+GO_all,pearson,0,GO:0043570,maintenance of DNA repeat elements,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0043596,nuclear replication fork,cellular_component,740,17,48,0,48,17,675,-0.040385260026998125,0.0,0.6189475209951896,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0044732,mitotic spindle pole body,cellular_component,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0044877,protein-containing complex binding,molecular_function,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0044879,mitotic morphogenesis checkpoint signaling,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0045121,membrane raft,cellular_component,740,6,48,1,47,5,687,0.037371550256831386,2.569444444444444,0.3322214442224877,0.3322214442224877,YOR332W,YOR332W:vacuolar H+-ATPase V1 domain 27 KD subunit,1.0,1.0,False
+GO_all,pearson,0,GO:0045144,meiotic sister chromatid segregation,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0045184,establishment of protein localization,biological_process,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0045454,cell redox homeostasis,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0045943,positive regulation of transcription by RNA polymerase I,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0045944,positive regulation of transcription by RNA polymerase II,biological_process,740,27,48,4,44,23,669,0.0658041083880966,2.2839506172839505,0.09064544346156436,0.09064544346156436,YGL162W;YGL209W;YIL122W;YKL043W,YGL162W:hypoxic gene family (sterol uptake);YGL209W:transcriptional repressor;YIL122W:unknown;YKL043W:transcription factor,0.7101920839858521,0.930862536917963,False
+GO_all,pearson,0,GO:0046982,protein heterodimerization activity,molecular_function,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0051321,meiotic cell cycle,biological_process,740,13,48,0,48,13,679,-0.035218596282860774,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0051382,kinetochore assembly,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0051726,regulation of cell cycle,biological_process,740,6,48,0,48,6,686,-0.02381196122559168,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0055056,D-glucose transmembrane transporter activity,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0055085,transmembrane transport,biological_process,740,21,48,4,44,17,675,0.08716297699137755,2.9365079365079363,0.041165508550197384,0.041165508550197384,YAL022C;YEL065W;YHL040C;YOL158C,"YAL022C:unknown;YEL065W:similar to hexose transporters, member of;YHL040C:similar to subtelomerically-encoded proteins;YOL158C:major facilitator superfamily",0.5282806371320857,0.6625719394576084,False
+GO_all,pearson,0,GO:0060090,molecular adaptor activity,molecular_function,740,9,48,0,48,9,683,-0.029223359297928297,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0070300,phosphatidic acid binding,molecular_function,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0070814,hydrogen sulfide biosynthetic process,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0071162,CMG complex,cellular_component,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0071507,pheromone response MAPK cascade,biological_process,740,8,48,0,48,8,684,-0.02753322123511052,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0071944,cell periphery,cellular_component,740,77,48,7,41,70,622,0.0360377865159273,1.4015151515151516,0.3265611592425961,0.2228580714920973,YBR093C;YHL026C;YHL040C;YLL061W;YLR040C;YOL158C;YPR157W,"YBR093C:acid phosphatase, repressible;YHL026C:unknown;YHL040C:similar to subtelomerically-encoded proteins;YLL061W:similar to Gap1p and other amino acid permeases;YLR040C:unknown;YOL158C:major facilitator superfamily;YPR157W:unknown",1.0,1.0,False
+GO_all,pearson,0,GO:0071970,fungal-type cell wall (1->3)-beta-D-glucan biosynthetic process,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0072686,mitotic spindle,cellular_component,740,10,48,2,46,8,684,0.0642192019091036,3.083333333333333,0.13292936229731214,0.13292936229731214,YDR130C;YKR041W,YDR130C:unknown;YKR041W:unknown,0.8272244819264907,1.0,False
+GO_all,pearson,0,GO:0098653,centromere clustering,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:0106310,protein serine kinase activity,molecular_function,740,23,48,1,47,22,670,-0.01555264366975449,0.6702898550724637,1.0,0.7912675035062166,YGR188C,YGR188C:protein kinase,1.0,1.0,False
+GO_all,pearson,0,GO:0140588,chromatin looping,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:1902600,proton transmembrane transport,biological_process,740,5,48,2,46,3,689,0.11223268361600415,6.166666666666666,0.03634271579176909,0.03634271579176909,YGR240C;YOR332W,YGR240C:phosphofructokinase;YOR332W:vacuolar H+-ATPase V1 domain 27 KD subunit,0.49687306746559307,0.6202103537159176,False
+GO_all,pearson,0,GO:1902975,mitotic DNA replication initiation,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:1990414,replication-born double-strand break repair via sister chromatid exchange,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:1990758,mitotic sister chromatid biorientation,biological_process,740,7,48,0,48,7,685,-0.025737395965572063,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,pearson,0,GO:1990976,protein transport along microtubule to mitotic spindle pole body,biological_process,740,5,48,0,48,5,687,-0.02172245489342016,0.0,1.0,1.0,,,1.0,1.0,False

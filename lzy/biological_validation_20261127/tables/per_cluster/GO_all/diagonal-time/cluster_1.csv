@@ -1,0 +1,276 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+GO_all,diagonal-time,1,GO:0000022,mitotic spindle elongation,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000070,mitotic sister chromatid segregation,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000077,DNA damage checkpoint signaling,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000082,G1/S transition of mitotic cell cycle,biological_process,740,28,10,0,10,28,702,-0.023210130846818326,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000086,G2/M transition of mitotic cell cycle,biological_process,740,17,10,0,10,17,713,-0.01794708344135207,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000103,sulfate assimilation,biological_process,740,7,10,1,9,6,724,0.1094743474915843,10.571428571428571,0.09120035037024822,0.09120035037024822,YKL001C,YKL001C:adenylylsulfate kinase,0.7101969031663746,0.930862536917963,False
+GO_all,diagonal-time,1,GO:0000122,negative regulation of transcription by RNA polymerase II,biological_process,740,20,10,0,10,20,710,-0.01950685786602176,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000131,incipient cellular bud site,cellular_component,740,23,10,0,10,23,707,-0.020962492011682852,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000139,Golgi membrane,cellular_component,740,18,10,0,10,18,712,-0.018480181136231143,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000142,cellular bud neck contractile ring,cellular_component,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000144,cellular bud neck septin ring,cellular_component,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000183,rDNA heterochromatin formation,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000228,nuclear chromosome,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000278,mitotic cell cycle,biological_process,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000281,mitotic cytokinesis,biological_process,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000282,cellular bud site selection,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000287,magnesium ion binding,molecular_function,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000307,cyclin-dependent protein kinase holoenzyme complex,cellular_component,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000324,fungal-type vacuole,cellular_component,740,77,10,4,6,73,657,0.1134437457849429,3.844155844155844,0.014010257135700714,0.014010257135700714,YCR069W;YFL011W;YHR173C;YPL163C,YCR069W:peptidyl-prolyl cis-trans isomerase;YFL011W:hexose permease;YHR173C:unknown;YPL163C:unknown,0.30481464099925154,0.37647860366217767,False
+GO_all,diagonal-time,1,GO:0000328,fungal-type vacuole lumen,cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000329,fungal-type vacuole membrane,cellular_component,740,27,10,1,9,26,704,0.03964694979635286,2.740740740740741,0.3120304713890968,0.3120304713890968,YOR273C,YOR273C:similar to members of major facilitator superfamily,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000722,telomere maintenance via recombination,biological_process,740,21,10,0,10,21,709,-0.020002476650435048,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000723,telomere maintenance,biological_process,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000724,double-strand break repair via homologous recombination,biological_process,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000725,recombinational repair,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000727,double-strand break repair via break-induced replication,biological_process,740,21,10,2,8,19,711,0.12096735879072625,7.0476190476190474,0.030108699451712094,0.030108699451712094,YKL108W;YMR055C,YKL108W:unknown; interacts with Dpb11p;YMR055C:unknown,0.44076398760127594,0.554604843651346,False
+GO_all,diagonal-time,1,GO:0000742,karyogamy involved in conjugation with cellular fusion,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000743,nuclear migration involved in conjugation with cellular fusion,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000747,conjugation with cellular fusion,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000755,cytogamy,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000775,"chromosome, centromeric region",cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000776,kinetochore,cellular_component,740,21,10,0,10,21,709,-0.020002476650435048,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000779,"condensed chromosome, centromeric region",cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000781,"chromosome, telomeric region",cellular_component,740,32,10,0,10,32,698,-0.02488266715678886,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000785,chromatin,cellular_component,740,24,10,0,10,24,706,-0.02142829811018556,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000786,nucleosome,cellular_component,740,13,10,0,10,13,717,-0.01565103420785815,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000794,condensed nuclear chromosome,cellular_component,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000920,septum digestion after cytokinesis,biological_process,740,13,10,0,10,13,717,-0.01565103420785815,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000921,septin ring assembly,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000922,spindle pole,cellular_component,740,13,10,1,9,12,718,0.07343946820610363,5.6923076923076925,0.16333704298058047,0.16333704298058047,YMR055C,YMR055C:unknown,0.8902022507972313,1.0,False
+GO_all,diagonal-time,1,GO:0000940,outer kinetochore,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,molecular_function,740,17,10,0,10,17,713,-0.01794708344135207,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",molecular_function,740,18,10,0,10,18,712,-0.018480181136231143,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",molecular_function,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0001676,long-chain fatty acid metabolic process,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003333,amino acid transmembrane transport,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003676,nucleic acid binding,molecular_function,740,23,10,0,10,23,707,-0.020962492011682852,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003677,DNA binding,molecular_function,740,34,10,0,10,34,696,-0.025684769813350078,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003678,DNA helicase activity,molecular_function,740,13,10,0,10,13,717,-0.01565103420785815,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003682,chromatin binding,molecular_function,740,27,10,0,10,27,703,-0.02277590732981973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003688,DNA replication origin binding,molecular_function,740,14,10,1,9,13,717,0.06965583330529049,5.285714285714286,0.17484547430134276,0.17484547430134276,YKL108W,YKL108W:unknown; interacts with Dpb11p,0.9176050655127721,1.0,False
+GO_all,diagonal-time,1,GO:0003690,double-stranded DNA binding,molecular_function,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003697,single-stranded DNA binding,molecular_function,740,17,10,1,9,16,714,0.06017551506806282,4.352941176470588,0.2085210510234252,0.2085210510234252,YKL108W,YKL108W:unknown; interacts with Dpb11p,0.9692489775463767,1.0,False
+GO_all,diagonal-time,1,GO:0003700,DNA-binding transcription factor activity,molecular_function,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003713,transcription coactivator activity,molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003723,RNA binding,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003729,mRNA binding,molecular_function,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003887,DNA-directed DNA polymerase activity,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0003924,GTPase activity,molecular_function,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0004386,helicase activity,molecular_function,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0004672,protein kinase activity,molecular_function,740,21,10,0,10,21,709,-0.020002476650435048,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0004674,protein serine/threonine kinase activity,molecular_function,740,20,10,0,10,20,710,-0.01950685786602176,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005096,GTPase activator activity,molecular_function,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005199,structural constituent of cell wall,molecular_function,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005200,structural constituent of cytoskeleton,molecular_function,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005351,carbohydrate:proton symporter activity,molecular_function,740,6,10,1,9,5,725,0.11992889370111923,12.333333333333334,0.07864786902177097,0.07864786902177097,YFL011W,YFL011W:hexose permease,0.683549985606124,0.8849131490409068,False
+GO_all,diagonal-time,1,GO:0005353,fructose transmembrane transporter activity,molecular_function,740,5,10,1,9,4,726,0.13321679745589865,14.8,0.06593956376689883,0.06593956376689883,YFL011W,YFL011W:hexose permease,0.6563270954047583,0.8218190098286263,False
+GO_all,diagonal-time,1,GO:0005506,iron ion binding,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005524,ATP binding,molecular_function,740,85,10,1,9,84,646,-0.005456336452444009,0.8705882352941177,1.0,0.7071555362506199,YKL001C,YKL001C:adenylylsulfate kinase,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005525,GTP binding,molecular_function,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005546,"phosphatidylinositol-4,5-bisphosphate binding",molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005576,extracellular region,cellular_component,740,23,10,0,10,23,707,-0.020962492011682852,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005621,cellular bud scar,cellular_component,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005628,prospore membrane,cellular_component,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005634,nucleus,cellular_component,740,282,10,2,8,280,450,-0.04364013396923789,0.5248226950354611,0.3327439136166074,0.9421823108963321,YKL108W;YLR437C,YKL108W:unknown; interacts with Dpb11p;YLR437C:unknown,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005635,nuclear envelope,cellular_component,740,15,10,0,10,15,715,-0.01683508045328807,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005637,nuclear inner membrane,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005654,nucleoplasm,cellular_component,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005656,nuclear pre-replicative complex,cellular_component,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005657,replication fork,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005694,chromosome,cellular_component,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005730,nucleolus,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005737,cytoplasm,cellular_component,740,275,10,3,7,272,458,-0.017346889665691135,0.8072727272727273,0.7517478000779195,0.7843218320318291,YKL001C;YKL108W;YLR437C,YKL001C:adenylylsulfate kinase;YKL108W:unknown; interacts with Dpb11p;YLR437C:unknown,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005739,mitochondrion,cellular_component,740,104,10,1,9,103,627,-0.013652575823262693,0.7115384615384616,1.0,0.7822816812240033,YFL011W,YFL011W:hexose permease,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005741,mitochondrial outer membrane,cellular_component,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005743,mitochondrial inner membrane,cellular_component,740,14,10,0,10,14,716,-0.016253027771234448,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005758,mitochondrial intermembrane space,cellular_component,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005759,mitochondrial matrix,cellular_component,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005768,endosome,cellular_component,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005773,vacuole,cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005774,vacuolar membrane,cellular_component,740,20,10,0,10,20,710,-0.01950685786602176,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005777,peroxisome,cellular_component,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005783,endoplasmic reticulum,cellular_component,740,98,10,2,8,96,634,0.023330713596815718,1.510204081632653,0.629501442446579,0.3901896190472775,YCR069W;YOR324C,YCR069W:peptidyl-prolyl cis-trans isomerase;YOR324C:unknown,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005789,endoplasmic reticulum membrane,cellular_component,740,58,10,1,9,57,673,0.009415694705224487,1.2758620689655173,0.5601948486723424,0.5601948486723424,YOR324C,YOR324C:unknown,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005793,endoplasmic reticulum-Golgi intermediate compartment,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005794,Golgi apparatus,cellular_component,740,16,10,0,10,16,714,-0.01739919991618736,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005811,lipid droplet,cellular_component,740,15,10,0,10,15,715,-0.01683508045328807,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005815,microtubule organizing center,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005816,spindle pole body,cellular_component,740,27,10,1,9,26,704,0.03964694979635286,2.740740740740741,0.3120304713890968,0.3120304713890968,YMR055C,YMR055C:unknown,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005819,spindle,cellular_component,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005823,central plaque of spindle pole body,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005824,outer plaque of spindle pole body,cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005829,cytosol,cellular_component,740,77,10,0,10,77,653,-0.03988661381479728,0.0,0.6103848809443344,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005856,cytoskeleton,cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005871,kinesin complex,cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005874,microtubule,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005876,spindle microtubule,cellular_component,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005881,cytoplasmic microtubule,cellular_component,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005886,plasma membrane,cellular_component,740,120,10,2,8,118,612,0.01201462260257147,1.2333333333333334,0.6691892106030787,0.5007513836684796,YFL011W;YOR273C,YFL011W:hexose permease;YOR273C:similar to members of major facilitator superfamily,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005933,cellular bud,cellular_component,740,18,10,0,10,18,712,-0.018480181136231143,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005934,cellular bud tip,cellular_component,740,28,10,0,10,28,702,-0.023210130846818326,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005935,cellular bud neck,cellular_component,740,69,10,0,10,69,661,-0.03753201275311031,0.0,0.6108127032934751,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005938,cell cortex,cellular_component,740,16,10,0,10,16,714,-0.01739919991618736,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0005975,carbohydrate metabolic process,biological_process,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006031,chitin biosynthetic process,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006260,DNA replication,biological_process,740,23,10,0,10,23,707,-0.020962492011682852,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006261,DNA-templated DNA replication,biological_process,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006267,pre-replicative complex assembly involved in nuclear cell cycle DNA replication,biological_process,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006270,DNA replication initiation,biological_process,740,15,10,1,9,14,716,0.06621798311626641,4.933333333333334,0.18621123911812867,0.18621123911812867,YKL108W,YKL108W:unknown; interacts with Dpb11p,0.9335630228757142,1.0,False
+GO_all,diagonal-time,1,GO:0006271,DNA strand elongation involved in DNA replication,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006272,leading strand elongation,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006273,lagging strand elongation,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006279,premeiotic DNA replication,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006281,DNA repair,biological_process,740,30,10,0,10,30,700,-0.024058581793215277,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006284,base-excision repair,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006289,nucleotide-excision repair,biological_process,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006298,mismatch repair,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006301,DNA damage tolerance,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006302,double-strand break repair,biological_process,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006303,double-strand break repair via nonhomologous end joining,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006310,DNA recombination,biological_process,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006312,mitotic recombination,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006325,chromatin organization,biological_process,740,16,10,0,10,16,714,-0.01739919991618736,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006334,nucleosome assembly,biological_process,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006335,DNA replication-dependent chromatin assembly,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006338,chromatin remodeling,biological_process,740,14,10,0,10,14,716,-0.016253027771234448,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006355,regulation of DNA-templated transcription,biological_process,740,22,10,0,10,22,708,-0.020487439694989895,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006357,regulation of transcription by RNA polymerase II,biological_process,740,32,10,0,10,32,698,-0.02488266715678886,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006368,transcription elongation by RNA polymerase II,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006457,protein folding,biological_process,740,8,10,1,9,7,723,0.10094433967565163,9.25,0.10359870848252309,0.10359870848252309,YCR069W,YCR069W:peptidyl-prolyl cis-trans isomerase,0.7380737003288562,0.9585740427213132,False
+GO_all,diagonal-time,1,GO:0006487,protein N-linked glycosylation,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006696,ergosterol biosynthetic process,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006865,amino acid transport,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006879,intracellular iron ion homeostasis,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006886,intracellular protein transport,biological_process,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006888,endoplasmic reticulum to Golgi vesicle-mediated transport,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0006974,DNA damage response,biological_process,740,17,10,0,10,17,713,-0.01794708344135207,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007004,telomere maintenance via telomerase,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007020,microtubule nucleation,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007030,Golgi organization,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007052,mitotic spindle organization,biological_process,740,14,10,0,10,14,716,-0.016253027771234448,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007059,chromosome segregation,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007062,sister chromatid cohesion,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007064,mitotic sister chromatid cohesion,biological_process,740,22,10,0,10,22,708,-0.020487439694989895,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007089,traversing start control point of mitotic cell cycle,biological_process,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007094,mitotic spindle assembly checkpoint signaling,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007096,regulation of exit from mitosis,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007120,axial cellular bud site selection,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007124,pseudohyphal growth,biological_process,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007129,homologous chromosome pairing at meiosis,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007131,reciprocal meiotic recombination,biological_process,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0007165,signal transduction,biological_process,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0008017,microtubule binding,molecular_function,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0008104,intracellular protein localization,biological_process,740,6,10,1,9,5,725,0.11992889370111923,12.333333333333334,0.07864786902177097,0.07864786902177097,YLR437C,YLR437C:unknown,0.683549985606124,0.8849131490409068,False
+GO_all,diagonal-time,1,GO:0008270,zinc ion binding,molecular_function,740,20,10,0,10,20,710,-0.01950685786602176,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0008289,lipid binding,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0008361,regulation of cell size,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0008608,attachment of spindle microtubules to kinetochore,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0008643,carbohydrate transport,biological_process,740,6,10,1,9,5,725,0.11992889370111923,12.333333333333334,0.07864786902177097,0.07864786902177097,YFL011W,YFL011W:hexose permease,0.683549985606124,0.8849131490409068,False
+GO_all,diagonal-time,1,GO:0009060,aerobic respiration,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0009272,fungal-type cell wall biogenesis,biological_process,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0009277,fungal-type cell wall,cellular_component,740,43,10,1,9,42,688,0.020957990875167417,1.7209302325581395,0.452521881231686,0.452521881231686,YPL163C,YPL163C:unknown,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0009986,cell surface,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0010458,exit from mitosis,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0010494,cytoplasmic stress granule,cellular_component,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0010696,positive regulation of mitotic spindle pole body separation,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0010833,telomere maintenance via telomere lengthening,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0010968,regulation of microtubule nucleation,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0012505,endomembrane system,cellular_component,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0015171,amino acid transmembrane transporter activity,molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0015578,mannose transmembrane transporter activity,molecular_function,740,5,10,1,9,4,726,0.13321679745589865,14.8,0.06593956376689883,0.06593956376689883,YFL011W,YFL011W:hexose permease,0.6563270954047583,0.8218190098286263,False
+GO_all,diagonal-time,1,GO:0015926,glucosidase activity,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0016020,membrane,cellular_component,740,91,10,1,9,90,640,-0.008187370555766614,0.8131868131868132,1.0,0.7330730438944866,YCR069W,YCR069W:peptidyl-prolyl cis-trans isomerase,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0016236,macroautophagy,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0016491,oxidoreductase activity,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0016538,cyclin-dependent protein serine/threonine kinase regulator activity,molecular_function,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0016567,protein ubiquitination,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0016791,phosphatase activity,molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0016887,ATP hydrolysis activity,molecular_function,740,34,10,0,10,34,696,-0.025684769813350078,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0019237,centromeric DNA binding,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0019901,protein kinase binding,molecular_function,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0020037,heme binding,molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0022857,transmembrane transporter activity,molecular_function,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030010,establishment of cell polarity,biological_process,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030134,COPII-coated ER to Golgi transport vesicle,cellular_component,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030148,sphingolipid biosynthetic process,biological_process,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030170,pyridoxal phosphate binding,molecular_function,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030427,site of polarized growth,cellular_component,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030437,ascospore formation,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030466,silent mating-type cassette heterochromatin formation,biological_process,740,12,10,0,10,12,718,-0.015026696099429486,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030473,nuclear migration along microtubule,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030474,spindle pole body duplication,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030476,ascospore wall assembly,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030491,heteroduplex formation,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030527,structural constituent of chromatin,molecular_function,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0030674,protein-macromolecule adaptor activity,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0031106,septin ring organization,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0031116,positive regulation of microtubule polymerization,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0031261,DNA replication preinitiation complex,cellular_component,740,11,10,1,9,10,720,0.08234154521140165,6.7272727272727275,0.13988580695547795,0.13988580695547795,YKL108W,YKL108W:unknown; interacts with Dpb11p,0.8521524632572628,1.0,False
+GO_all,diagonal-time,1,GO:0031267,small GTPase binding,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0031297,replication fork processing,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0031505,fungal-type cell wall organization,biological_process,740,32,10,0,10,32,698,-0.02488266715678886,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0031507,heterochromatin formation,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0031509,subtelomeric heterochromatin formation,biological_process,740,19,10,0,10,19,711,-0.018999743505194008,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0031578,mitotic spindle orientation checkpoint signaling,biological_process,740,5,10,1,9,4,726,0.13321679745589865,14.8,0.06593956376689883,0.06593956376689883,YMR055C,YMR055C:unknown,0.6563270954047583,0.8218190098286263,False
+GO_all,diagonal-time,1,GO:0031965,nuclear membrane,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0032126,eisosome,cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0032153,cell division site,cellular_component,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0032174,cellular bud neck septin collar,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0032465,regulation of cytokinesis,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0032541,cortical endoplasmic reticulum,cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0032880,regulation of protein localization,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0033101,cellular bud membrane,cellular_component,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0034087,establishment of mitotic sister chromatid cohesion,biological_process,740,11,10,0,10,11,719,-0.014377095195641558,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0034399,nuclear periphery,cellular_component,740,16,10,0,10,16,714,-0.01739919991618736,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0034599,cellular response to oxidative stress,biological_process,740,15,10,0,10,15,715,-0.01683508045328807,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0035556,intracellular signal transduction,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0035861,site of double-strand break,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0036503,ERAD pathway,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0042124,"1,3-beta-glucanosyltransferase activity",molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0042162,telomeric repeat DNA binding,molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0042276,error-prone translesion synthesis,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0042393,histone binding,molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0042555,MCM complex,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0042802,identical protein binding,molecular_function,740,24,10,0,10,24,706,-0.02142829811018556,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0042973,"glucan endo-1,3-beta-D-glucosidase activity",molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0043007,maintenance of rDNA,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0043137,"DNA replication, removal of RNA primer",biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0043332,mating projection tip,cellular_component,740,21,10,0,10,21,709,-0.020002476650435048,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0043495,protein-membrane adaptor activity,molecular_function,740,8,10,1,9,7,723,0.10094433967565163,9.25,0.10359870848252309,0.10359870848252309,YLR437C,YLR437C:unknown,0.7380737003288562,0.9585740427213132,False
+GO_all,diagonal-time,1,GO:0043565,sequence-specific DNA binding,molecular_function,740,21,10,0,10,21,709,-0.020002476650435048,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0043570,maintenance of DNA repeat elements,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0043596,nuclear replication fork,cellular_component,740,17,10,0,10,17,713,-0.01794708344135207,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0044732,mitotic spindle pole body,cellular_component,740,8,10,1,9,7,723,0.10094433967565163,9.25,0.10359870848252309,0.10359870848252309,YMR055C,YMR055C:unknown,0.7380737003288562,0.9585740427213132,False
+GO_all,diagonal-time,1,GO:0044877,protein-containing complex binding,molecular_function,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0044879,mitotic morphogenesis checkpoint signaling,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0045121,membrane raft,cellular_component,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0045144,meiotic sister chromatid segregation,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0045184,establishment of protein localization,biological_process,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0045454,cell redox homeostasis,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0045943,positive regulation of transcription by RNA polymerase I,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0045944,positive regulation of transcription by RNA polymerase II,biological_process,740,27,10,0,10,27,703,-0.02277590732981973,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0046982,protein heterodimerization activity,molecular_function,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0051321,meiotic cell cycle,biological_process,740,13,10,0,10,13,717,-0.01565103420785815,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0051382,kinetochore assembly,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0051726,regulation of cell cycle,biological_process,740,6,10,0,10,6,724,-0.010581961208922285,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0055056,D-glucose transmembrane transporter activity,molecular_function,740,5,10,1,9,4,726,0.13321679745589865,14.8,0.06593956376689883,0.06593956376689883,YFL011W,YFL011W:hexose permease,0.6563270954047583,0.8218190098286263,False
+GO_all,diagonal-time,1,GO:0055085,transmembrane transport,biological_process,740,21,10,1,9,20,710,0.050482441070145594,3.5238095238095237,0.2514969310986039,0.2514969310986039,YOR273C,YOR273C:similar to members of major facilitator superfamily,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0060090,molecular adaptor activity,molecular_function,740,9,10,0,10,9,721,-0.012986769613614287,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0070300,phosphatidic acid binding,molecular_function,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0070814,hydrogen sulfide biosynthetic process,biological_process,740,5,10,1,9,4,726,0.13321679745589865,14.8,0.06593956376689883,0.06593956376689883,YKL001C,YKL001C:adenylylsulfate kinase,0.6563270954047583,0.8218190098286263,False
+GO_all,diagonal-time,1,GO:0071162,CMG complex,cellular_component,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0071507,pheromone response MAPK cascade,biological_process,740,8,10,0,10,8,722,-0.012235677536442622,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0071944,cell periphery,cellular_component,740,77,10,3,7,74,656,0.07511115588500786,2.883116883116883,0.07603239952866185,0.07603239952866185,YFL011W;YOR273C;YPL163C,YFL011W:hexose permease;YOR273C:similar to members of major facilitator superfamily;YPL163C:unknown,0.683549985606124,0.8806400065744528,False
+GO_all,diagonal-time,1,GO:0071970,fungal-type cell wall (1->3)-beta-D-glucan biosynthetic process,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0072686,mitotic spindle,cellular_component,740,10,10,0,10,10,720,-0.0136986301369863,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0098653,centromere clustering,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0106310,protein serine kinase activity,molecular_function,740,23,10,0,10,23,707,-0.020962492011682852,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:0140588,chromatin looping,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:1902600,proton transmembrane transport,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:1902975,mitotic DNA replication initiation,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:1990414,replication-born double-strand break repair via sister chromatid exchange,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:1990758,mitotic sister chromatid biorientation,biological_process,740,7,10,0,10,7,723,-0.011437618394643136,0.0,1.0,1.0,,,1.0,1.0,False
+GO_all,diagonal-time,1,GO:1990976,protein transport along microtubule to mitotic spindle pole body,biological_process,740,5,10,0,10,5,725,-0.009653391119992655,0.0,1.0,1.0,,,1.0,1.0,False

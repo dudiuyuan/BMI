@@ -1,0 +1,16 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+Process_fine,diagonal-time-dynamics,3,cell cycle,cell cycle,,398,27,34,1,33,26,338,-0.04670295458999561,0.4335511982570806,0.7171551840021251,0.9177066677162057,YPR120C,YPR120C:G1/S cyclin,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,cell wall biogenesis,cell wall biogenesis,,398,15,34,1,33,14,350,-0.013282592707742378,0.7803921568627451,1.0,0.7445578849759437,YLR286C,YLR286C:endochitinase,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,chromatin structure,chromatin structure,,398,16,34,0,34,16,348,-0.06254852554971782,0.0,0.38061242023558883,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,cytoskeleton,cytoskeleton,,398,19,34,0,34,19,345,-0.0684299089573293,0.0,0.3906808205960953,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,dna repair,dna repair,,398,14,34,0,34,14,350,-0.05835622261549078,0.0,0.6199370650992498,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,dna replication,dna replication,,398,31,34,0,34,31,333,-0.0888252792467014,0.0,0.09384469770229863,1.0,,,0.7579764045185658,1.0,False
+Process_fine,diagonal-time-dynamics,3,drug resistance,drug resistance,,398,5,34,0,34,5,359,-0.034472874132779684,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,fatty acid metabolism,fatty acid metabolism,,398,6,34,1,33,5,359,0.0359577841341898,1.9509803921568627,0.41686904271513187,0.41686904271513187,YKL182W,"YKL182W:fatty-acyl-CoA synthase, beta subunit",1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,mating,mating,,398,16,34,3,31,13,351,0.07473628971933195,2.1948529411764706,0.14784662873847218,0.14784662873847218,YGL089C;YJR004C;YPL187W,YGL089C:alpha factor;YJR004C:alpha-agglutinin;YPL187W:alpha factor precursor,0.8402224236664532,1.0,False
+Process_fine,diagonal-time-dynamics,3,meiosis,meiosis,,398,6,34,1,33,5,359,0.0359577841341898,1.9509803921568627,0.41686904271513187,0.41686904271513187,YOR230W,YOR230W:transcription factor,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,mitosis,mitosis,,398,9,34,0,34,9,355,-0.04648739610425147,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,protein glycosylation,protein glycosylation,,398,7,34,0,34,7,357,-0.040893041005476534,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,secretion,secretion,,398,10,34,1,33,9,355,0.008369932978263894,1.1705882352941175,0.5949406523913892,0.5949406523913892,YHR110W,YHR110W:unknown,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,transcription,transcription,,398,12,34,1,33,11,353,-0.0013207650687353883,0.9754901960784313,1.0,0.6629037388058607,YHR178W,YHR178W:unknown; binds Sin3p,1.0,1.0,False
+Process_fine,diagonal-time-dynamics,3,transport,transport,,398,19,34,1,33,18,346,-0.026270305605909698,0.6160990712074303,1.0,0.8241541850528056,YPR138C,YPR138C:ammonia permease,1.0,1.0,False

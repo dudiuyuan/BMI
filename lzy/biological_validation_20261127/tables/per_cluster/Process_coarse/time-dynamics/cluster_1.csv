@@ -1,0 +1,15 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+Process_coarse,time-dynamics,1,Budding and polarity,Budding and polarity,,367,18,5,0,5,18,344,-0.026690349206684186,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,Cell cycle regulation,Cell cycle regulation,,367,34,5,1,4,33,329,0.043517642835425197,2.158823529411765,0.386701184336309,0.386701184336309,YMR055C,YMR055C:unknown,0.9473797189957607,1.0,False
+Process_coarse,time-dynamics,1,Cell wall and cytokinesis,Cell wall and cytokinesis,,367,22,5,0,5,22,340,-0.029677855078698384,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,Chromatin and silencing,Chromatin and silencing,,367,24,5,0,5,24,338,-0.03108774906620688,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,Cytoskeleton,Cytoskeleton,,367,19,5,0,5,19,343,-0.027461097835466783,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,DNA replication and repair,DNA replication and repair,,367,49,5,1,4,48,314,0.02297253612996239,1.4979591836734694,0.5136312714171152,0.5136312714171152,YKL108W,YKL108W:unknown; interacts with Dpb11p,1.0,1.0,False
+Process_coarse,time-dynamics,1,Mating and pheromone,Mating and pheromone,,367,22,5,0,5,22,340,-0.029677855078698384,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,Meiosis and sporulation,Meiosis and sporulation,,367,13,5,0,5,13,349,-0.0225216788875624,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,Metabolism,Metabolism,,367,75,5,1,4,74,288,-0.0012706579035517082,0.9786666666666668,1.0,0.6833961832804505,YKL001C,YKL001C:adenylylsulfate kinase,1.0,1.0,False
+Process_coarse,time-dynamics,1,Mitosis and segregation,Mitosis and segregation,,367,19,5,0,5,19,343,-0.027461097835466783,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,Protein processing and turnover,Protein processing and turnover,,367,16,5,1,4,15,347,0.09001793783593721,4.5875,0.2007893109634964,0.2007893109634964,YCR069W,YCR069W:peptidyl-prolyl cis-trans isomerase,0.8436973233915868,1.0,False
+Process_coarse,time-dynamics,1,Secretion and trafficking,Secretion and trafficking,,367,14,5,0,5,14,348,-0.023404931912034237,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,Transcription and RNA processing,Transcription and RNA processing,,367,22,5,0,5,22,340,-0.029677855078698384,0.0,1.0,1.0,,,1.0,1.0,False
+Process_coarse,time-dynamics,1,Transport,Transport,,367,26,5,1,4,25,337,0.05916231985652395,2.823076923076923,0.3089148315004074,0.3089148315004074,YFL011W,YFL011W:hexose permease,0.9473797189957607,1.0,False

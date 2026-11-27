@@ -1,0 +1,16 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+Process_fine,euclidean,1,cell cycle,cell cycle,,398,27,1,0,1,27,370,-0.013539407947372203,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,cell wall biogenesis,cell wall biogenesis,,398,15,1,0,1,15,382,-0.009932326539268984,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,chromatin structure,chromatin structure,,398,16,1,0,1,16,381,-0.010271480748194032,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,cytoskeleton,cytoskeleton,,398,19,1,0,1,19,378,-0.011237299141403171,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,dna repair,dna repair,,398,14,1,0,1,14,383,-0.009583036720120463,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,dna replication,dna replication,,398,31,1,0,1,31,366,-0.014586549206667406,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,drug resistance,drug resistance,,398,5,1,0,1,5,392,-0.005661004154419433,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,fatty acid metabolism,fatty acid metabolism,,398,6,1,0,1,6,391,-0.006209224154997264,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,mating,mating,,398,16,1,0,1,16,381,-0.010271480748194032,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,meiosis,meiosis,,398,6,1,0,1,6,391,-0.006209224154997264,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,mitosis,mitosis,,398,9,1,0,1,9,388,-0.007633983214183751,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,protein glycosylation,protein glycosylation,,398,7,1,0,1,7,390,-0.006715299517156345,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,secretion,secretion,,398,10,1,0,1,10,387,-0.008057287934357955,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,transcription,transcription,,398,12,1,0,1,12,385,-0.008849153270563827,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,euclidean,1,transport,transport,,398,19,1,1,0,18,379,0.22415454603114746,20.947368421052634,0.04773869346733668,0.04773869346733668,YFL011W,YFL011W:hexose permease,0.522141959798995,0.6265703517587939,False

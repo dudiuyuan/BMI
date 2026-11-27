@@ -1,0 +1,801 @@
+﻿gene_id,Process_raw,Function_raw,phase,terms,categories,putative,mapping_rule,in_expression,coarse_unmapped
+YAL022C,unknown,unknown,G2/M,,,False,ORF,True,False
+YAL040C,cell cycle,G1/S cyclin,G2/M,cell cycle,Cell cycle regulation,False,ORF,True,False
+YAL053W,unknown,unknown,G1,,,False,ORF,True,False
+YAL067C,drug resistance,suppressor of sulfoxyde ethionine,S,drug resistance,,False,ORF,True,True
+YAR003W,unknown,unknown,G1,,,False,ORF,True,False
+YAR007C,DNA replication,"replication factor A, 69 kD subunit",G1,dna replication,DNA replication and repair,False,ORF,True,False
+YAR008W,tRNA splicing,splicing endonuclease subunit,G1,trna splicing,Transcription and RNA processing,False,ORF,True,False
+YAR018C,unknown,protein kinase,G2/M,,,False,ORF,True,False
+YAR071W,phosphate metabolism,secreted acid phosphatase,G2/M,phosphate metabolism,Metabolism,False,ORF,True,False
+YBL002W,chromatin structure,histone H2B,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YBL003C,chromatin structure,histone H2A,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YBL009W,unknown,unknown,G1,,,False,ORF,True,False
+YBL023C,DNA replication,MCM initiator complex,G2/M,dna replication,DNA replication and repair,False,ORF,True,False
+YBL030C,transport,mitochondrial ADP/ATP translocator,G2/M,transport,Transport,False,ORF,True,False
+YBL035C,DNA replication,"DNA polymerase alpha, 70 kD subunit",G1,dna replication,DNA replication and repair,False,ORF,True,False
+YBL052C,silencing,unknown,S/G2,silencing,Chromatin and silencing,False,ORF,True,False
+YBL061C,cell wall biogenesis,chitin synthase regulator,M/G1,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YBL063W,"mitosis, spindle assembly",kinesin related protein,S,"mitosis, spindle assembly",Mitosis and segregation,False,ORF,True,False
+YBL064C,unknown,similar to Tsa1p,M/G1,,,False,ORF,True,False
+YBL098W,unknown,similar to bacterial NADP/NAD-dependent,G2/M,,,False,ORF,True,False
+YBL100C,unknown,unknown,G2/M,,,False,ORF,True,False
+YBL111C,unknown,unknown,G1,,,False,ORF,True,False
+YBL112C,unknown,unknown,G1,,,False,ORF,True,False
+YBL113C,unknown,unknown,G1,,,False,ORF,True,False
+YBR007C,unknown,unknown,G1,,,False,ORF,True,False
+YBR008C,fluconazole resistance,"transporter, major facilitator superfamily",S,fluconazole resistance,,False,ORF,True,True
+YBR009C,chromatin structure,histone H4,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YBR010W,chromatin structure,histone H3,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YBR038W,cell wall biogenesis,chitin synthase II,G2/M,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YBR053C,unknown,similar to rat calcium-binding protein regucalcin,M/G1,,,False,ORF,True,False
+YBR054W,unknown,putative heat shock protein,G2/M,,,False,ORF,True,False
+YBR067C,stress response (putative),cell wall mannoprotein,M/G1,stress response,,True,ORF,True,True
+YBR069C,transport,amino acid permease,G2/M,transport,Transport,False,ORF,True,False
+YBR070C,stress response,osmotolerance protein (putative),G1,stress response,,False,ORF,True,True
+YBR071W,unknown,similar to Herpesvirus saimiri EERF2,G1,,,False,ORF,True,False
+YBR073W,meiosis,helicase,G1,meiosis,Meiosis and sporulation,False,ORF,True,False
+YBR083W,pseudohyphal growth,trancriptional activator,M/G1,pseudohyphal growth,Budding and polarity,False,ORF,True,False
+YBR086C,unknown,similar to calcium and sodium channel proteins,G2/M,,,False,ORF,True,False
+YBR087W,DNA replication,DNA polymerase processivity factor,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YBR088C,DNA replication,DNA polymerase processivity factor,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YBR089W,unknown,unknown,G1,,,False,ORF,True,False
+YBR092C,thiamine uptake,"acid phosphatase, constitutive",G2/M,thiamine uptake,Transport,False,ORF,True,False
+YBR093C,phosphate metabolism,"acid phosphatase, repressible",G2/M,phosphate metabolism,Metabolism,False,ORF,True,False
+YBR094W,unknown,similar to Mec1p and porcine tubulin-tyrosine,G2/M,,,False,ORF,True,False
+YBR108W,unknown,"similar to wheat glutenin, secalin",G1,,,False,ORF,True,False
+YBR133C,cell cycle,Swe1p (kinase) regulator,S/G2,cell cycle,Cell cycle regulation,False,ORF,True,False
+YBR138C,meiosis,unknown,G2/M,meiosis,Meiosis and sporulation,False,ORF,True,False
+YBR139W,unknown,similar to serine-type carboxypeptidases,G2/M,,,False,ORF,True,False
+YBR157C,unknown,unknown,M/G1,,,False,ORF,True,False
+YBR158W,unknown,required for optimal growth,M/G1,,,False,ORF,True,False
+YBR161W,unknown,"similar to Sur1p, Hoc1p, and Och1p",G1,,,False,ORF,True,False
+YBR200W,bud emergence,binds Cdc24p,G2/M,bud emergence,Budding and polarity,False,ORF,True,False
+YBR202W,DNA replication,MCM initiator complex,G2/M,dna replication,DNA replication and repair,False,ORF,True,False
+YBR204C,unknown,similar to peroxisomal serine-active lipase,M/G1,,,False,ORF,True,False
+YBR242W,unknown,unknown,G2/M,,,False,ORF,True,False
+YBR243C,protein glycosylation,UDP-N-acetyl-glucosamine-1-P transferase (GPT),S/G2,protein glycosylation,Protein processing and turnover,False,ORF,True,False
+YBR256C,flavin biosynthesis,"riboflavin synthase, alpha chain",S/G2,flavin biosynthesis,Metabolism,False,ORF,True,False
+YBR273C,unknown,unknown,M/G1,,,False,ORF,True,False
+YBR287W,unknown,unknown,G2/M,,,False,ORF,True,False
+YBR296C,unknown,similar to phosphate-repressible phosphate permease,M/G1,,,False,ORF,True,False
+YCL012W,unknown,unknown,G2/M,,,False,ORF,True,False
+YCL013W,,,S/G2,,,False,ORF,False,False
+YCL014W,cell polarity,bud site selection,S/G2,cell polarity,Budding and polarity,False,ORF,True,False
+YCL022C,unknown,unknown,G1,,,False,ORF,True,False
+YCL023C,unknown,unknown,G1,,,False,ORF,True,False
+YCL024W,unknown,protein kinase,G1,,,False,ORF,True,False
+YCL025C,transport,amino acid permease,S/G2,transport,Transport,False,ORF,True,False
+YCL027W,mating; cell fusion,SH3 domain protein,M/G1,cell fusion;mating,Mating and pheromone,False,ORF,True,False
+YCL038C,unknown,unknown,G2/M,,,False,ORF,True,False
+YCL040W,glycolysis,glucokinase,M/G1,glycolysis,Metabolism,False,ORF,True,False
+YCL042W,unknown,unknown,G1,,,False,ORF,True,False
+YCL043C,protein folding,protein disulfide isomerase,G2/M,protein folding,Protein processing and turnover,False,ORF,True,False
+YCL055W,karyogamy,transcription factor,M/G1,karyogamy,Mating and pheromone,False,ORF,True,False
+YCL060C,,,G1,,,False,ORF,False,False
+YCL061C,unknown,unknown,G1,,,False,ORF,True,False
+YCL062W,,,S/G2,,,False,ORF,False,False
+YCL063W,unknown,similar to plant aminocyclopropane-1-carboxylate,S/G2,,,False,ORF,True,False
+YCL065W,unknown,unknown,G2/M,,,False,ORF,True,False
+YCL066W,transcription,silenced copy at HML; see YCR040W,G2/M,transcription,Transcription and RNA processing,False,ORF,True,False
+YCLX09W,,,S/G2,,,False,ORF,False,False
+YCR002C,cytokinesis,septin,S/G2,cytokinesis,Cell wall and cytokinesis,False,ORF,True,False
+YCR018C,rRNA processing,nucleolar protein ,M/G1,rrna processing,Transcription and RNA processing,False,ORF,True,False
+YCR024C-A,H+ homeostasis,regulates plasma membrane H+-ATPase,G2/M,h+ homeostasis,,False,ORF,True,True
+YCR040W,transcription,alpha-specific gene activator,G2/M,transcription,Transcription and RNA processing,False,ORF,True,False
+YCR041W,unknown,unknown,G2/M,,,False,ORF,True,False
+YCR042C,transcription,TFIID associated factor (TAF),G2/M,transcription,Transcription and RNA processing,False,ORF,True,False
+YCR065W,transcription (putative),forkhead family of DNA-binding proteins,G1,transcription,Transcription and RNA processing,True,ORF,True,False
+YCR069W,protein folding,peptidyl-prolyl cis-trans isomerase,S/G2,protein folding,Protein processing and turnover,False,ORF,True,False
+YCRX05W,,,G2/M,,,False,ORF,False,False
+YDL003W,"mitosis, sister chromatid cohesion",unknown,G1,"mitosis, sister chromatid cohesion",Mitosis and segregation,False,ORF,True,False
+YDL010W,unknown,similar to Ybr014p and glutaredoxins,G1,,,False,ORF,True,False
+YDL011C,unknown,unknown,G1,,,False,ORF,True,False
+YDL018C,membrane trafficking; secretion (putative),unknown,G1,membrane trafficking;secretion,Secretion and trafficking,True,ORF,True,False
+YDL037C,unknown,"similar to glucan 1,4-alpha-glucosidase",G2/M,,,False,ORF,True,False
+YDL039C,unknown,unknown,G2/M,,,False,ORF,True,False
+YDL048C,tRNA splicing,unknown,G2/M,trna splicing,Transcription and RNA processing,False,ORF,True,False
+YDL055C,mannose metabolism,mannose-1-phosphate guanyltransferase,G1,mannose metabolism,Metabolism,False,ORF,True,False
+YDL089W,unknown,unknown,M/G1,,,False,ORF,True,False
+YDL093W,protein glycosylation,dolichyl phosphate-D-mannose:protein O-D-mannosyltransferase,G1,protein glycosylation,Protein processing and turnover,False,ORF,True,False
+YDL095W,protein glycosylation,dolichyl phosphate-D-mannose:protein O-D-mannosyltransferase,G1,protein glycosylation,Protein processing and turnover,False,ORF,True,False
+YDL096C,unknown,unknown,G1,,,False,ORF,True,False
+YDL101C,DNA repair,DNA damage-responsive protein kinase,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YDL102W,DNA replication,DNA polymerase delta catalytic 125 KD subunit,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YDL103C,unknown,unknown,G1,,,False,ORF,True,False
+YDL105W,unknown,unknown,G1,,,False,ORF,True,False
+YDL117W,unknown,unknown,M/G1,,,False,ORF,True,False
+YDL127W,cell cycle,G1/S cyclin,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YDL128W,transport,vacuolar H+/Ca(2+) exchanger,G2/M,transport,Transport,False,ORF,True,False
+YDL138W,transport,glucose permease,G2/M,transport,Transport,False,ORF,True,False
+YDL156W,unknown,unknown,G1,,,False,ORF,True,False
+YDL157C,unknown,unknown,G1,,,False,ORF,True,False
+YDL163W,unknown,unknown,G1,,,False,ORF,True,False
+YDL164C,DNA replication and repair,DNA ligase,G1,dna replication and repair,DNA replication and repair,False,ORF,True,False
+YDL169C,unknown,unknown,M/G1,,,False,ORF,True,False
+YDL179W,cell cycle,cyclin (Pho85p),M/G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YDL180W,unknown,unknown,G2/M,,,False,ORF,True,False
+YDL197C,transcription,anti-silencing protein,G1,transcription,Transcription and RNA processing,False,ORF,True,False
+YDL211C,unknown,unknown,G1,,,False,ORF,True,False
+YDL227C,homothallic switching endonuclease,,G1,homothallic switching endonuclease,Mating and pheromone,False,ORF,True,False
+YDR001C,trehalose metabolism,"alpha,alpha-trehalase",G1,trehalose metabolism,Metabolism,False,ORF,True,False
+YDR011W,4-nitroquinoline-N-oxide resistance,putative ATP-dependent permease,S/G2,4-nitroquinoline-n-oxide resistance,,False,ORF,True,True
+YDR029W,unknown,unknown,S/G2,,,False,ORF,True,False
+YDR033W,unknown,similar to Yro2p,G2/M,,,False,ORF,True,False
+YDR053W,unknown,unknown,G1,,,False,ORF,True,False
+YDR055W,unknown,similar to members of the Sps2p-Ecm33p-Ycl048p,M/G1,,,False,ORF,True,False
+YDR077W,unknown,putative cell surface glycoprotein,G2/M,,,False,ORF,True,False
+YDR085C,mating,"cytoskeletal protein, similar to arrestins",M/G1,mating,Mating and pheromone,False,ORF,True,False
+YDR089W,unknown,unknown,S/G2,,,False,ORF,True,False
+YDR097C,DNA repair,MutS homolog; mismatch repair,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YDR113C,cell cycle,anaphase inhibitor (putative),G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YDR130C,unknown,unknown,S/G2,,,False,ORF,True,False
+YDR144C,protein degradation,periplasmic aspartyl protease,G1,protein degradation,Protein processing and turnover,False,ORF,True,False
+YDR146C,cell cycle,"transcription factor, regulates HO",G2/M,cell cycle,Cell cycle regulation,False,ORF,True,False
+YDR149C,unknown,unknown,S/G2,,,False,ORF,True,False
+YDR150W,"mitosis, nuclear migration",unknown,S/G2,"mitosis, nuclear migration",Mitosis and segregation,False,ORF,True,False
+YDR157W,unknown,unknown,M/G1,,,False,ORF,True,False
+YDR190C,unknown,unknown,G2/M,,,False,ORF,True,False
+YDR191W,silencing (telomere),similar to nuclear lamins,M/G1,silencing (telomere),Chromatin and silencing,False,ORF,True,False
+YDR224C,chromatin structure,histone H2B,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YDR225W,chromatin structure,histone H2A,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YDR247W,unknown,putative protein kinase,S,,,False,ORF,True,False
+YDR261C,cell wall biogenesis,"exo-beta-1,3-glucanase",S,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YDR276C,unknown,unknown,G2/M,,,False,ORF,True,False
+YDR279W,unknown,unknown,G1,,,False,ORF,True,False
+YDR297W,sphingolipid metabolism,hydroxylase,G1,sphingolipid metabolism,Metabolism,False,ORF,True,False
+YDR302W,unknown,similar to GPI-anchor biosynthesis protein PIG-F,S/G2,,,False,ORF,True,False
+YDR307W,unknown,similar to Pmt1p,G1,,,False,ORF,True,False
+YDR309C,bud emergence,binds Cdc42p,G1,bud emergence,Budding and polarity,False,ORF,True,False
+YDR337W,protein synthesis,"ribosomal protein, mitochondrial S28",G2/M,protein synthesis,Protein processing and turnover,False,ORF,True,False
+YDR342C,transport,hexose permease,M/G1,transport,Transport,False,ORF,True,False
+YDR346C,unknown,unknown,S/G2,,,False,ORF,True,False
+YDR353W,pyrimidine biosynthesis,thioredoxin reductase,G1,pyrimidine biosynthesis,Metabolism,False,ORF,True,False
+YDR355C,unknown,unknown,S,,,False,ORF,True,False
+YDR356W,cytoskeleton,spindle pole body component,G1,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YDR368W,unknown,similar to aldo-keto reductases,G1,,,False,ORF,True,False
+YDR380W,unknown,"similar to pyruvate decarboxylase, pyruvate",G2/M,,,False,ORF,True,False
+YDR400W,unknown,similar to E. coli protein,G1,,,False,ORF,True,False
+YDR432W,mRNA export; protein import,nuclear shuttling protein,G2/M,mrna export;protein import,Transport,False,ORF,True,False
+YDR440W,"meiosis, checkpoint; transcriptional silencing ",unknown,G1,"meiosis, checkpoint;transcriptional silencing",Cell cycle regulation;Chromatin and silencing;Meiosis and sporulation;Transcription and RNA processing,False,ORF,True,False
+YDR448W,chromatin structure,histone acetyltransferase complex subunit,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YDR451C,unknown,"similar to Yox1p, which binds Leu-tRNA (SP:P34161)",S,,,False,ORF,True,False
+YDR461W,mating,a-factor precursor,G1,mating,Mating and pheromone,False,ORF,True,False
+YDR481C,phosphate metabolism,vacuolar alkaline phosphatase,G1,phosphate metabolism,Metabolism,False,ORF,True,False
+YDR488C,unknown,unknown,G1,,,False,ORF,True,False
+YDR493W,unknown,unknown,M/G1,,,False,ORF,True,False
+YDR501W,unknown,unknown,G1,,,False,ORF,True,False
+YDR503C,phospholipid metabolism,lipid phosphate phosphatase,G1,phospholipid metabolism,Metabolism,False,ORF,True,False
+YDR507C,cell cycle (growth inhibitor),protein kinase,G1,cell cycle (growth inhibitor),Cell cycle regulation,False,ORF,True,False
+YDR528W,unknown,unknown,G1,,,False,ORF,True,False
+YDR545W,unknown,similar to subtelomerically-encoded proteins,M/G1,,,False,ORF,True,False
+YEL017W,unknown,unknown,S/G2,,,False,ORF,True,False
+YEL025C,unknown,unknown,G2/M,,,False,ORF,True,False
+YEL032W,DNA replication,MCM initiator complex,M/G1,dna replication,DNA replication and repair,False,ORF,True,False
+YEL040W,unknown,unknown,M/G1,,,False,ORF,True,False
+YEL042W,Golgi organization,Golgi membrane guanosine diphosphatase,S,golgi organization,Secretion and trafficking,False,ORF,True,False
+YEL047C,unknown,putative fumarate reductase,G1,,,False,ORF,True,False
+YEL060C,protein degradation,vacuolar protease B,S,protein degradation,Protein processing and turnover,False,ORF,True,False
+YEL061C,"mitosis, spindle maintenance",kinesin related protein,S,"mitosis, spindle maintenance",Mitosis and segregation,False,ORF,True,False
+YEL064C,unknown,similar to members of the major facilitator,G1,,,False,ORF,True,False
+YEL065W,unknown,"similar to hexose transporters, member of",G2/M,,,False,ORF,True,False
+YEL068C,unknown,unknown,S,,,False,ORF,True,False
+YEL075C,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YEL076C,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YEL076C-A,unknown,unknown,G1,,,False,ORF,True,False
+YER001W,protein glycosylation,"alpha-1,3-mannosyltransferase",G1,protein glycosylation,Protein processing and turnover,False,ORF,True,False
+YER003C,mannose metabolism,mannose-6-phosphate isomerase,S,mannose metabolism,Metabolism,False,ORF,True,False
+YER016W,cytoskeleton,microtubule binding protein,G1,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YER018C,cytoskeleton,spindle pole body component,S/G2,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YER019W,unknown,similar to mammalian neutral,G1,,,False,ORF,True,False
+YER032W,mRNA 3'-end processing,unknown,S/G2,mrna 3'-end processing,Transcription and RNA processing,False,ORF,True,False
+YER042W,oxidative stress response,peptide-methionine sulfoxide reductase,S/G2,oxidative stress response,,False,ORF,True,True
+YER070W,DNA replication,ribonucleotide reductase,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YER091C,methionine biosynthesis,homocysteine methyltransferase,S,methionine biosynthesis,Metabolism,False,ORF,True,False
+YER095W,DNA repair and recombination,recombinase,G1,dna repair and recombination,DNA replication and repair,False,ORF,True,False
+YER111C,cell cycle,transcription factor,M/G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YER118C,"signaling, high osmolarity pathway",transmembrane osmosensor,G1,"signaling, high osmolarity pathway",,False,ORF,True,True
+YER124C,unknown,unknown,G1,,,False,ORF,True,False
+YER145C,transport,iron permease,G2/M,transport,Transport,False,ORF,True,False
+YER149C,mating,unknown,G1,mating,Mating and pheromone,False,ORF,True,False
+YER150W,unknown,similar to Sed1p,M/G1,,,False,ORF,True,False
+YER152C,unknown,unknown,G1,,,False,ORF,True,False
+YER170W,purine metabolism,"adenylate kinase,",G1,purine metabolism,Metabolism,False,ORF,True,False
+YER189W,unknown,similar to subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YER190W,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YFL006W,unknown,unknown,G2/M,,,False,ORF,True,False
+YFL008W,"mitosis, chromosome condensation and segregation",unknown,G1,"mitosis, chromosome condensation and segregation",Mitosis and segregation,False,ORF,True,False
+YFL011W,transport,hexose permease,M/G1,transport,Transport,False,ORF,True,False
+YFL026W,mating,alpha-factor receptor,G2/M,mating,Mating and pheromone,False,ORF,True,False
+YFL037W,cytoskeleton,beta-tubulin,S/G2,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YFL044C,unknown,unknown,M/G1,,,False,ORF,True,False
+YFL060C,unknown,unknown; induced in stationary phase,G1,,,False,ORF,True,False
+YFL064C,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YFL065C,unknown,similar to other subtelomerically-encoded proteins,M/G1,,,False,ORF,True,False
+YFL066C,unknown,similar to other subtelomerically-encoded proteins,M/G1,,,False,ORF,True,False
+YFL067W,unknown,similar to periodic clock protein,M/G1,,,False,ORF,True,False
+YFR002W,nuclear protein targeting,nuclear pore protein,G2/M,nuclear protein targeting,Transport,False,ORF,True,False
+YFR015C,glycogen metabolism,glycogen synthase,M/G1,glycogen metabolism,Metabolism,False,ORF,True,False
+YFR027W,"mitosis, sister chromatid cohesion (putative)",unknown,G1,"mitosis, sister chromatid cohesion",Mitosis and segregation,True,ORF,True,False
+YFR030W,sulfate assimilation,sulfite reductase subunit,S,sulfate assimilation,Metabolism,False,ORF,True,False
+YFR039C,unknown,unknown,G2/M,,,False,ORF,True,False
+YGL008C,H+ homeostasis,plasma membrane H+-ATPase,G2/M,h+ homeostasis,,False,ORF,True,True
+YGL021W,DNA repair (putative),DNA damage-responsive protein,G2/M,dna repair,DNA replication and repair,True,ORF,True,False
+YGL027C,cell wall biogenesis,"beta-1,6-glucan assembly protein",G1,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YGL028C,unknown,unknown,G1,,,False,ORF,True,False
+YGL032C,mating,a-agglutinin binding subunit,M/G1,mating,Mating and pheromone,False,ORF,True,False
+YGL037C,unknown,unknown,M/G1,,,False,ORF,True,False
+YGL038C,protein glycosylation,membrane-bound mannosyltransferase,G1,protein glycosylation,Protein processing and turnover,False,ORF,True,False
+YGL055W,unknown,unknown,M/G1,,,False,ORF,True,False
+YGL060W,unknown,unknown,G1,,,False,ORF,True,False
+YGL061C,unknown,unknown,G1,,,False,ORF,True,False
+YGL089C,mating,alpha factor,G1,mating,Mating and pheromone,False,ORF,True,False
+YGL090W,DNA replication (putative),interacts with DNA ligase,M/G1,dna replication,DNA replication and repair,True,ORF,True,False
+YGL093W,cytoskeleton,spindle pole body component,G1,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YGL101W,unknown,unknown,S/G2,,,False,ORF,True,False
+YGL116W,mitosis,activator of the anaphase promoting complex,G2/M,mitosis,Mitosis and segregation,False,ORF,True,False
+YGL125W,methionine metabolism,"methylenetetrahydrofolate reductase, putative",S,methionine metabolism,Metabolism,False,ORF,True,False
+YGL162W,transport,hypoxic gene family (sterol uptake),G2/M,transport,Transport,False,ORF,True,False
+YGL163C,DNA repair,DNA-dependent ATPase,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YGL184C,unknown,similar to cystathionine beta-lyase,S,,,False,ORF,True,False
+YGL185C,unknown,similar to D-2-hydroxyacid dehydrogenase,G1,,,False,ORF,True,False
+YGL195W,protein synthesis,translational activator of GCN4,G1,protein synthesis,Protein processing and turnover,False,ORF,True,False
+YGL200C,secretion,vesicle coat component,G1,secretion,Secretion and trafficking,False,ORF,True,False
+YGL201C,DNA replication,MCM initiator complex,G2/M,dna replication,DNA replication and repair,False,ORF,True,False
+YGL207W,chromatin structure,non-histone protein,G1,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YGL209W,glucose repression,transcriptional repressor,G2/M,glucose repression,Metabolism,False,ORF,True,False
+YGL212W,vacuole biogenesis,unknown; regulator,S/G2,vacuole biogenesis,Secretion and trafficking,False,ORF,True,False
+YGL216W,mitosis,kinesin related protein,S/G2,mitosis,Mitosis and segregation,False,ORF,True,False
+YGL225W,protein glycosylation,,S,protein glycosylation,Protein processing and turnover,False,ORF,True,False
+YGL255W,transport,high-affinity zinc transporter,G2/M,transport,Transport,False,ORF,True,False
+YGR014W,bud emergence,unknown,G1,bud emergence,Budding and polarity,False,ORF,True,False
+YGR035C,unknown,unknown,G2/M,,,False,ORF,True,False
+YGR041W,"bud site selection, bipolar",unknown,G1,"bud site selection, bipolar",Budding and polarity,False,ORF,True,False
+YGR042W,unknown,unknown,G1,,,False,ORF,True,False
+YGR044C,meiosis,transcription factor,G1,meiosis,Meiosis and sporulation,False,ORF,True,False
+YGR055W,transport,methionine permease,G1,transport,Transport,False,ORF,True,False
+YGR065C,unknown,allantoate permease family,G2/M,,,False,ORF,True,False
+YGR086C,unknown,unknown,M/G1,,,False,ORF,True,False
+YGR092W,cell cycle,late mitosis; protein kinase,G2/M,cell cycle,Cell cycle regulation,False,ORF,True,False
+YGR099W,telomere length regulation,telomere binding protein,S,telomere length regulation,Chromatin and silencing,False,ORF,True,False
+YGR108W,cell cycle,G2/M cyclin,G2/M,cell cycle,Cell cycle regulation,False,ORF,True,False
+YGR109C,cell cycle,B-type cyclin; S phase,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YGR113W,unknown,unknown; interacts with Duo1p and Mps1p,S,,,False,ORF,True,False
+YGR124W,asparagine biosynthesis,asparagine synthetase,S/G2,asparagine biosynthesis,Metabolism,False,ORF,True,False
+YGR138C,unknown,major facilitator superfamily,S/G2,,,False,ORF,True,False
+YGR140W,mitosis,"kinetochore protein complex CBF3, 110 KD subunit",G1,mitosis,Mitosis and segregation,False,ORF,True,False
+YGR143W,cell wall biogenesis,(1->6)-beta-glucan synthase subunit,G2/M,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YGR146C,unknown,unknown,G2/M,,,False,ORF,True,False
+YGR151C,unknown,unknown,G1,,,False,ORF,True,False
+YGR152C,bud site selection,"GTP-binding protein, ras superfamily",G1,bud site selection,Budding and polarity,False,ORF,True,False
+YGR153W,unknown,unknown,G1,,,False,ORF,True,False
+YGR176W,unknown,unknown,G2/M,,,False,ORF,True,False
+YGR177C,acetate ester biosynthesis,alcohol acetyltransferase,G2/M,acetate ester biosynthesis,Metabolism,False,ORF,True,False
+YGR188C,"cell cycle, checkpoint",protein kinase,G1,"cell cycle, checkpoint",Cell cycle regulation,False,ORF,True,False
+YGR189C,unknown,unknown,G1,,,False,ORF,True,False
+YGR219W,unknown,unknown,M/G1,,,False,ORF,True,False
+YGR221C,unknown,unknown,G1,,,False,ORF,True,False
+YGR230W,unknown,similar to Spo12p,G2/M,,,False,ORF,True,False
+YGR234W,oxidative stress response (putative),flavohemoglobin,M/G1,oxidative stress response,,True,ORF,True,True
+YGR238C,unknown,similar to Kel1p and Kel3p,G1,,,False,ORF,True,False
+YGR240C,glycolysis,phosphofructokinase,G2/M,glycolysis,Metabolism,False,ORF,True,False
+YGR259C,unknown,unknown,G2/M,,,False,ORF,True,False
+YGR260W,unknown,similar to Dal5p,G2/M,,,False,ORF,True,False
+YGR276C,DNA replication (putative),ribonuclease H,M/G1,dna replication,DNA replication and repair,True,ORF,True,False
+YGR279C,unknown,unknown,G2/M,,,False,ORF,True,False
+YGR284C,unknown,similar to mouse Surf-4 protein PIR:A34727,G2/M,,,False,ORF,True,False
+YGR296W,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YHL026C,unknown,unknown,G2/M,,,False,ORF,True,False
+YHL028W,cell wall integrity and stress response,unknown,G2/M,cell wall integrity and stress response,Cell wall and cytokinesis,False,ORF,True,False
+YHL040C,unknown,similar to subtelomerically-encoded proteins,G2/M,,,False,ORF,True,False
+YHL049C,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YHL050C,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YHR005C,"signaling, pheromone pathway",alpha subunit of G protein coupled to mating factor,M/G1,"signaling, pheromone pathway",Mating and pheromone,False,ORF,True,False
+YHR006W,tRNA splicing,unknown,S/G2,trna splicing,Transcription and RNA processing,False,ORF,True,False
+YHR022C,unknown,similar to N-terminal region of ras-related,M/G1,,,False,ORF,True,False
+YHR023W,cell wall biosynthesis,myosin heavy chain,G2/M,cell wall biosynthesis,Cell wall and cytokinesis,False,ORF,True,False
+YHR029C,unknown,similar to thymidylate synthase in the N-terminal,G2/M,,,False,ORF,True,False
+YHR030C,"signaling, PKC1 pathway",MAP kinase (mitogen-activated protein kinase),S,"signaling, pkc1 pathway",,False,ORF,True,True
+YHR061C,bud emergence,binds Cdc42p,S,bud emergence,Budding and polarity,False,ORF,True,False
+YHR067W,unknown,unknown,G1,,,False,ORF,True,False
+YHR086W,"RNA splicing, mitochondrial",RNA binding protein,S/G2,"rna splicing, mitochondrial",Transcription and RNA processing,False,ORF,True,False
+YHR092C,transport,hexose permease,M/G1,transport,Transport,False,ORF,True,False
+YHR094C,transport,hexose permease,M/G1,transport,Transport,False,ORF,True,False
+YHR098C,unknown,unknown; binds Sed3p and Sec23p,S,,,False,ORF,True,False
+YHR106W,pyrimidine biosynthesis,thioredoxin reductase,G1,pyrimidine biosynthesis,Metabolism,False,ORF,True,False
+YHR108W,unknown,unknown,S/G2,,,False,ORF,True,False
+YHR110W,membrane trafficking; secretion (putative),unknown,G1,membrane trafficking;secretion,Secretion and trafficking,True,ORF,True,False
+YHR113W,unknown,similar to vacuolar aminopeptidase Lap4p/Ape1p,G1,,,False,ORF,True,False
+YHR123W,phospholipid metabolism,"sn-1,2-diacylglycerol ethanolamine- and cholinephosphotranferase",G1,phospholipid metabolism,Metabolism,False,ORF,True,False
+YHR126C,unknown,similar to members of the Pir1p/Hsp150p/Pir3p,M/G1,,,False,ORF,True,False
+YHR127W,unknown,suppresses SEC4 dominant negative mutant,G1,,,False,ORF,True,False
+YHR135C,unknown,protein kinase,S/G2,,,False,ORF,True,False
+YHR137W,aromatic amino acod metabolism,aromatic amino acid aminotransferase II,G2/M,aromatic amino acid metabolism,Metabolism,False,ORF,True,False
+YHR143W,unknown,unknown,G1,,,False,ORF,True,False
+YHR146W,unknown,similar to pheromone adaptation protein Mdg1p,S/G2,,,False,ORF,True,False
+YHR149C,unknown,unknown,G1,,,False,ORF,True,False
+YHR151C,unknown,unknown,G2/M,,,False,ORF,True,False
+YHR152W,meiosis,unknown,G2/M,meiosis,Meiosis and sporulation,False,ORF,True,False
+YHR153C,"meiosis, spore formation",unknown,G1,"meiosis, spore formation",Meiosis and sporulation,False,ORF,True,False
+YHR154W,silencing,unknown,G1,silencing,Chromatin and silencing,False,ORF,True,False
+YHR159W,unknown,unknown,G1,,,False,ORF,True,False
+YHR172W,cytoskeleton,spindle pole body component,G1,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YHR173C,unknown,unknown,G1,,,False,ORF,True,False
+YHR178W,transcription,unknown; binds Sin3p,S/G2,transcription,Transcription and RNA processing,False,ORF,True,False
+YHR205W,signaling,protein kinase,G2/M,signaling,,False,ORF,True,True
+YHR208W,branched chain amino acid degradation,transaminase,S/G2,branched chain amino acid degradation,,False,ORF,True,True
+YHR215W,phosphate metabolism,secreted acid phosphatase,G2/M,phosphate metabolism,Metabolism,False,ORF,True,False
+YHR218W,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YHR219W,unknown,similar to other subtelomerically-encoded proteins,M/G1,,,False,ORF,True,False
+YIL009W,fatty acid metabolism,acyl CoA synthase,M/G1,fatty acid metabolism,Metabolism,False,ORF,True,False
+YIL011W,unknown,"similar to Yil176p, Yir041p and other members of",G2/M,,,False,ORF,True,False
+YIL025C,unknown,unknown,G1,,,False,ORF,True,False
+YIL026C,unknown,colony morphology,G1,,,False,ORF,True,False
+YIL050W,cell cycle,cyclin,S/G2,cell cycle,Cell cycle regulation,False,ORF,True,False
+YIL056W,unknown,unknown,G2/M,,,False,ORF,True,False
+YIL066C,DNA repair,repair-induced ribonucleotide reductase,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YIL072W,"meiosis, synapsis",DNA binding protein,S/G2,"meiosis, synapsis",Meiosis and sporulation,False,ORF,True,False
+YIL074C,unknown,putative alpha-ketoisocaproate reductase,S,,,False,ORF,True,False
+YIL076W,secretion,vesicle coat component,G1,secretion,Secretion and trafficking,False,ORF,True,False
+YIL094C,lysine biosynthesis,homo-isocitrate dehydrogenase,G2/M,lysine biosynthesis,Metabolism,False,ORF,True,False
+YIL104C,unknown,unknown,G1,,,False,ORF,True,False
+YIL106W,mitosis,unknown; binds Mps1p and Dbf2p,G2/M,mitosis,Mitosis and segregation,False,ORF,True,False
+YIL114C,mitochondrial transport,"porin, anion channel",M/G1,mitochondrial transport,Transport,False,ORF,True,False
+YIL117C,unknown,unknown,S,,,False,ORF,True,False
+YIL119C,"signaling, Ras pathway",negative regulator of ras-cAMP pathway,G2/M,"signaling, ras pathway",,False,ORF,True,True
+YIL121W,unknown,major facilitator superfamily,G2/M,,,False,ORF,True,False
+YIL122W,unknown,unknown,G2/M,,,False,ORF,True,False
+YIL123W,cell cycle,unknown,S/G2,cell cycle,Cell cycle regulation,False,ORF,True,False
+YIL129C,unknown,unknown,S/G2,,,False,ORF,True,False
+YIL131C,unknown,similar to Drosophila fork head protein,S/G2,,,False,ORF,True,False
+YIL132C,unknown,unknown,G1,,,False,ORF,True,False
+YIL135C,unknown,unknown,S/G2,,,False,ORF,True,False
+YIL138C,cytoskeleton,tropomyosin,S/G2,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YIL140W,"bud site selection, axial",plasma membrane protein,G1,"bud site selection, axial",Budding and polarity,False,ORF,True,False
+YIL141W,unknown,unknown,G1,,,False,ORF,True,False
+YIL144W,unknown,unknown,S,,,False,ORF,True,False
+YIL158W,unknown,similar to Ykr100p,G2/M,,,False,ORF,True,False
+YIL162W,sucrose utilization,invertase,G2/M,sucrose utilization,Metabolism,False,ORF,True,False
+YIL167W,gluconeogenesis,serine dehydratase,G2/M,gluconeogenesis,Metabolism,False,ORF,True,False
+YIL168W,gluconeogenesis,serine dehydratase,G2/M,gluconeogenesis,Metabolism,False,ORF,True,False
+YIL177C,unknown,similar to subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YIR010W,unknown,unknown,S/G2,,,False,ORF,True,False
+YIR017C,sulfur amino acid metbolism,transcriptional activator ,S,sulfur amino acid metabolism,Metabolism,False,ORF,True,False
+YIR036C,unknown,similar to proteins of the short-chain alcohol,M/G1,,,False,ORF,True,False
+YJL015C,unknown,unknown,G1,,,False,ORF,True,False
+YJL018W,unknown,unknown,G1,,,False,ORF,True,False
+YJL019W,unknown,unknown,G1,,,False,ORF,True,False
+YJL044C,secretion,GTPase-activating protein for Ypt6,M/G1,secretion,Secretion and trafficking,False,ORF,True,False
+YJL051W,unknown,unknown,G2/M,,,False,ORF,True,False
+YJL060W,unknown,similar to kynurenine aminotransferase,S/G2,,,False,ORF,True,False
+YJL067W,unknown,unknown,M/G1,,,False,ORF,True,False
+YJL072C,unknown,unknown,G1,,,False,ORF,True,False
+YJL073W,mating; nuclear fusion,DnaJ-like protein,G1,mating;nuclear fusion,Mating and pheromone,False,ORF,True,False
+YJL074C,chromatin structure,cohesin,G1,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YJL078C,unknown,similar to plant PR-pathogen related proteins,G1,,,False,ORF,True,False
+YJL079C,unknown,similar to plant PR-pathogen related proteins,G2/M,,,False,ORF,True,False
+YJL091C,unknown,similar to Can1p,G1,,,False,ORF,True,False
+YJL092W,meiosis,DNA helicase,S,meiosis,Meiosis and sporulation,False,ORF,True,False
+YJL099W,cell wall biogenesis,chitin biosynthesis,S/G2,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YJL115W,transcription,anti-silencing protein,G1,transcription,Transcription and RNA processing,False,ORF,True,False
+YJL118W,unknown,unknown,S,,,False,ORF,True,False
+YJL119C,unknown,unknown,S,,,False,ORF,True,False
+YJL134W,sphingolipid metabolism,sphingoid base-phosphate phosphatase,S/G2,sphingolipid metabolism,Metabolism,False,ORF,True,False
+YJL137C,glycogen metabolism,glycogen synthesis initiator,S/G2,glycogen metabolism,Metabolism,False,ORF,True,False
+YJL157C,cell cycle,Cdc28p kinase inhibitor,G2/M,cell cycle,Cell cycle regulation,False,ORF,True,False
+YJL158C,unknown,unknown,S/G2,,,False,ORF,True,False
+YJL159W,heat shock response,secreted glycoprotein of HSP family,M/G1,heat shock response,,False,ORF,True,True
+YJL173C,DNA replication,"replication factor A, 13 kD subunit",G1,dna replication,DNA replication and repair,False,ORF,True,False
+YJL181W,unknown,unknown,G1,,,False,ORF,True,False
+YJL187C,cell cycle,negative regulator of Cdc28p,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YJL194W,DNA replication,pre-initiation complex formation,M/G1,dna replication,DNA replication and repair,False,ORF,True,False
+YJL195C,unknown,unknown,M/G1,,,False,ORF,True,False
+YJL196C,fatty acid metabolism,fatty acid elongation protein,M/G1,fatty acid metabolism,Metabolism,False,ORF,True,False
+YJL201W,cell wall biogenesis,unknown,S,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YJL217W,unknown,unknown,G1,,,False,ORF,True,False
+YJL225C,unknown,similar to other subtelomerically-encoded proteins,M/G1,,,False,ORF,True,False
+YJR001W,unknown,major facilitator superfamily,S/G2,,,False,ORF,True,False
+YJR003C,unknown,similar to human collagen alpha 3 (VI) chain,G2/M,,,False,ORF,True,False
+YJR004C,mating,alpha-agglutinin,M/G1,mating,Mating and pheromone,False,ORF,True,False
+YJR006W,DNA replication,polymerase delta 55 KD subunit,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YJR010W,methionine biosynthesis,sulfate adenylyltransferase,S/G2,methionine biosynthesis,Metabolism,False,ORF,True,False
+YJR030C,unknown,unknown,G1,,,False,ORF,True,False
+YJR043C,DNA replication,polymerase delta 55 kD subunit,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YJR048W,oxidative phosphorylation,cytochrome-c isoform 1,S/G2,oxidative phosphorylation,Metabolism,False,ORF,True,False
+YJR054W,unknown,unknown,G1,,,False,ORF,True,False
+YJR092W,"bud site selection, axial",unknown,G2/M,"bud site selection, axial",Budding and polarity,False,ORF,True,False
+YJR110W,unknown,unknown,S/G2,,,False,ORF,True,False
+YJR137C,cell wall biogenesis,unknown,S,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YJR148W,branched chain amino acid biosynthesis,transaminase,G1,branched chain amino acid biosynthesis,Metabolism,False,ORF,True,False
+YJR154W,unknown,unknown,G1,,,False,ORF,True,False
+YJR155W,unknown,hypothetical aryl-alcohol dehydrogenase,G1,,,False,ORF,True,False
+YKL001C,sulfate assimilation,adenylylsulfate kinase,S,sulfate assimilation,Metabolism,False,ORF,True,False
+YKL004W,sphingolipid metabolism,phosphatidylinositol:ceramide phosphoinositol transferase,S/G2,sphingolipid metabolism,Metabolism,False,ORF,True,False
+YKL008C,unknown,"similar to Lag1p, has 6 potential transmembrane",S,,,False,ORF,True,False
+YKL035W,pyrimidine metabolism,"UGP1, UDP-glucose pyrophosphorylase",S/G2,pyrimidine metabolism,Metabolism,False,ORF,True,False
+YKL042W,cytoskeleton,spindle pole body component,G1,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YKL043W,pseudohyphal growth,transcription factor,G2/M,pseudohyphal growth,Budding and polarity,False,ORF,True,False
+YKL044W,unknown,unknown,G2/M,,,False,ORF,True,False
+YKL045W,DNA replication,polymerase alpha 58 kD subunit (DNA primase),G1,dna replication,DNA replication and repair,False,ORF,True,False
+YKL048C,pseudohyphal growth,protein kinase,S/G2,pseudohyphal growth,Budding and polarity,False,ORF,True,False
+YKL052C,unknown,unknown,S/G2,,,False,ORF,True,False
+YKL065C,unknown,ER 25 kDa transmembrane protein,S,,,False,ORF,True,False
+YKL066W,unknown,unknown,G1,,,False,ORF,True,False
+YKL067W,nucleotide metabolism,nucleoside diphosphate kinase,G1,nucleotide metabolism,Metabolism,False,ORF,True,False
+YKL069W,unknown,unknown,S/G2,,,False,ORF,True,False
+YKL089W,mitosis,centromere protein,G1,mitosis,Mitosis and segregation,False,ORF,True,False
+YKL096W,cell wall protein,"beta-1,6-glucan acceptor",S/G2,cell wall protein,Cell wall and cytokinesis,False,ORF,True,False
+YKL096W-A,unknown,cell wall protein,S/G2,,,False,ORF,False,False
+YKL101W,cell cycle,negative regulator of swe1 kinase,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YKL103C,protein degradation,vacuolar aminopeptidase ysc1,G1,protein degradation,Protein processing and turnover,False,ORF,True,False
+YKL104C,cell wall biogenesis,chitin biosynthesis,M/G1,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YKL108W,DNA replication,unknown; interacts with Dpb11p,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YKL113C,DNA repair,ssDNA endonuclease,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YKL116C,unknown,putative protein kinase,M/G1,,,False,ORF,True,False
+YKL127W,glycolysis,phosphoglucomutase,G1,glycolysis,Metabolism,False,ORF,True,False
+YKL130C,cell polarity,asymmetric HO expression,G2/M,cell polarity,Budding and polarity,False,ORF,True,False
+YKL151C,unknown,unknown,M/G1,,,False,ORF,True,False
+YKL163W,unknown,similar to members of the Pir1p/Hsp150p/Pir3p,M/G1,,,False,ORF,True,False
+YKL164C,unknown,Pir1p/Hsp150p/Pir3p family,M/G1,,,False,ORF,True,False
+YKL165C,sporulation,morphogenesis checkpoint,G1,sporulation,Meiosis and sporulation,False,ORF,True,False
+YKL172W,unknown,unknown; EBNA1-binding protein homolog,G2/M,,,False,ORF,True,False
+YKL177W,unknown,unknown,M/G1,,,False,ORF,True,False
+YKL178C,mating,a-factor receptor,M/G1,mating,Mating and pheromone,False,ORF,True,False
+YKL182W,fatty acid metabolism,"fatty-acyl-CoA synthase, beta subunit",M/G1,fatty acid metabolism,Metabolism,False,ORF,True,False
+YKL183W,unknown,unknown,S/G2,,,False,ORF,True,False
+YKL185W,mating type switching,transcription factor,M/G1,mating type switching,Mating and pheromone,False,ORF,True,False
+YKL209C,mating,a-factor exporter (ABC superfamily),G2/M,mating,Mating and pheromone,False,ORF,True,False
+YKR010C,DNA replication (putative),interacts with DNA,S,dna replication,DNA replication and repair,True,ORF,True,False
+YKR012C,unknown,unknown,G1,,,False,ORF,True,False
+YKR013W,unknown,similar to plant PR-pathogen related proteins,G1,,,False,ORF,True,False
+YKR021W,unknown,unknown,G2/M,,,False,ORF,True,False
+YKR037C,cytoskeleton,spindle pole body component,S,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YKR039W,transport,general amino acid permease,S/G2,transport,Transport,False,ORF,True,False
+YKR041W,unknown,unknown,S/G2,,,False,ORF,True,False
+YKR042W,aging,unknown,G2/M,aging,,False,ORF,True,True
+YKR046C,unknown,unknown,G2/M,,,False,ORF,True,False
+YKR069W,methionine biosynthesis,siroheme synthase,S,methionine biosynthesis,Metabolism,False,ORF,True,False
+YKR077W,unknown,unknown,G1,,,False,ORF,True,False
+YKR079C,unknown,unknown,G2/M,,,False,ORF,True,False
+YKR090W,unknown,unknown,G1,,,False,ORF,True,False
+YKR091W,unknown,unknown; suppressor of Rad53 lethality,G1,,,False,ORF,True,False
+YKR103W,unknown,ATP-binding cassette (ABC) superfamily,M/G1,,,False,ORF,True,False
+YLL002W,diepoxybutane and mitomycin C resistance,unknown,G1,diepoxybutane and mitomycin c resistance,,False,ORF,True,True
+YLL012W,unknown,similar to human triacylglycerol lipase,G1,,,False,ORF,True,False
+YLL022C,chromatin structure,interacts with histone acetyltransferase,G1,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YLL028W,unknown,major facilitator superfamily,G2/M,,,False,ORF,True,False
+YLL032C,unknown,unknown,S/G2,,,False,ORF,True,False
+YLL061W,unknown,similar to Gap1p and other amino acid permeases,S,,,False,ORF,True,False
+YLL062C,unknown,unknown,S,,,False,ORF,True,False
+YLL066C,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YLL067C,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YLR013W,unknown,unknown,M/G1,,,False,ORF,True,False
+YLR032W,DNA repair,DNA helicase,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YLR034C,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR040C,unknown,unknown,M/G1,,,False,ORF,True,False
+YLR041W,unknown,unknown,M/G1,,,False,ORF,True,False
+YLR045C,cytoskeleton,spindle pole body component,S,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YLR049C,unknown,unknown,G1,,,False,ORF,True,False
+YLR050C,unknown,similar to C-terminal region of human MAC30,G1,,,False,ORF,True,False
+YLR056W,sterol metabolism,C-5 sterol desaturase,S/G2,sterol metabolism,Metabolism,False,ORF,True,False
+YLR057W,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR058C,one-carbon interconversion,serine hydroxymethyltransferase,S/G2,one-carbon interconversion,Metabolism,False,ORF,True,False
+YLR079W,cell cycle,Cdc28p-Clb5 protein kinase inhibitor,M/G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YLR084C,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR095C,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR098C,ser/thr metabolism,CHA1 activator,G2/M,ser/thr metabolism,Metabolism,False,ORF,True,False
+YLR099C,unknown,unknown,S/G2,,,False,ORF,True,False
+YLR100W,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR103C,DNA replication,pre-replicative complex subunit (putative),G1,dna replication,DNA replication and repair,False,ORF,True,False
+YLR121C,protein processing,GPI-anchored aspartic protease,G1,protein processing,Protein processing and turnover,False,ORF,True,False
+YLR131C,transcription,CUP1 regulator,G2/M,transcription,Transcription and RNA processing,False,ORF,True,False
+YLR135W,unknown,unknown,G1,,,False,ORF,True,False
+YLR142W,glutamate biosynthesis,proline oxidase,S/G2,glutamate biosynthesis,Metabolism,False,ORF,True,False
+YLR151C,unknown,unknown,G1,,,False,ORF,True,False
+YLR154C,unknown,unknown,G1,,,False,ORF,True,False
+YLR169W,unknown,unknown,S/G2,,,False,ORF,True,False
+YLR180W,methionine metabolism,S-adenosylmethionine synthetase,S/G2,methionine metabolism,Metabolism,False,ORF,True,False
+YLR183C,unknown,unknown,G1,,,False,ORF,True,False
+YLR190W,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR194C,unknown,unknown,M/G1,,,False,ORF,True,False
+YLR209C,unknown,similar to human purine nucleoside phosphorylase,S/G2,,,False,ORF,True,False
+YLR210W,cell cycle,G2/M cyclin,S/G2,cell cycle,Cell cycle regulation,False,ORF,True,False
+YLR212C,cytoskeleton,gamma-tubulin,G1,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YLR214W,iron homeostasis,ferric (and cupric) reductase,G2/M,iron homeostasis,,False,ORF,True,True
+YLR225C,unknown,unknown,S/G2,,,False,ORF,True,False
+YLR231C,unknown,similar to rat kynureninase (PIR:PS0370),G1,,,False,ORF,True,False
+YLR233C,telomere length regulation,putative end-binding protein,G1,telomere length regulation,Chromatin and silencing,False,ORF,True,False
+YLR234W,DNA replication,DNA topoisomerase III,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YLR235C,unknown,unknown,G1,,,False,ORF,True,False
+YLR236C,unknown,unknown,G1,,,False,ORF,True,False
+YLR254C,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR273C,glucose repression,(putative) Glc7p regulatory subunit,M/G1,glucose repression,Metabolism,False,ORF,True,False
+YLR274W,DNA replication,MCM initiator complex,M/G1,dna replication,DNA replication and repair,False,ORF,True,False
+YLR286C,cell wall biogenesis,endochitinase,G1,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YLR288C,DNA repair; DNA damage checkpoint,activates exonuclease,S/G2,dna damage checkpoint;dna repair,Cell cycle regulation;DNA replication and repair,False,ORF,True,False
+YLR297W,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR300W,cell wall biogenesis,"exo-beta-1,3-glucanase",G1,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YLR302C,unknown,unknown,S/G2,,,False,ORF,True,False
+YLR303W,methionine biosynthesis,O-acetylhomoserine sulfhydrylase,S/G2,methionine biosynthesis,Metabolism,False,ORF,True,False
+YLR313C,"bud site selection, bipolar",interacts with MAPKKs,G1,"bud site selection, bipolar",Budding and polarity,False,ORF,True,False
+YLR326W,unknown,unknown,G1,,,False,ORF,True,False
+YLR342W,cell wall biogenesis,"1,3-beta-D-glucan synthase subunit",G1,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YLR343W,unknown,similar to Gas1p,G1,,,False,ORF,True,False
+YLR347C,nuclear protein targeting,beta-karyopherin,G2/M,nuclear protein targeting,Transport,False,ORF,True,False
+YLR353W,"bud site selection, bipolar",unknown,G2/M,"bud site selection, bipolar",Budding and polarity,False,ORF,True,False
+YLR372W,fatty acid metabolism,conversion of 24-carbon to 26-carbon fatty acids,G1,fatty acid metabolism,Metabolism,False,ORF,True,False
+YLR373C,unknown,similar to Von Willebrand factor,S/G2,,,False,ORF,True,False
+YLR380W,unknown,unknown,G1,,,False,ORF,True,False
+YLR383W,"DNA repair, recombination",unknown,G1,"dna repair, recombination",DNA replication and repair,False,ORF,True,False
+YLR413W,unknown,unknown,G2/M,,,False,ORF,True,False
+YLR437C,unknown,unknown,S/G2,,,False,ORF,True,False
+YLR438W,arginine metabolism,ornithine aminotransferase,G2/M,arginine metabolism,Metabolism,False,ORF,True,False
+YLR452C,mating,negative regulator of Gpa1,M/G1,mating,Mating and pheromone,False,ORF,True,False
+YLR455W,unknown,unknown,S,,,False,ORF,True,False
+YLR457C,unknown,Nap1p-binding protein,G1,,,False,ORF,True,False
+YLR458W,unknown,unknown,G1,,,False,ORF,True,False
+YLR462W,unknown,unknown,G1,,,False,ORF,True,False
+YLR463C,unknown,similar to other subtelomerically-coded proteins,M/G1,,,False,ORF,True,False
+YLR464W,unknown,similar to other subtelomerically-coded proteins,G1,,,False,ORF,True,False
+YLR465C,unknown,unknown,M/G1,,,False,ORF,True,False
+YLR466W,unknown,similar to other subtelomerically-coded proteins,M/G1,,,False,ORF,True,False
+YLR467W,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YML012W,secretion,vesicle coat component,S,secretion,Secretion and trafficking,False,ORF,True,False
+YML020W,unknown,unknown,G1,,,False,ORF,True,False
+YML021C,DNA repair,uracil DNA glycosylase,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YML027W,unknown,binds leu-tRNA gene,G1,,,False,ORF,True,False
+YML033W,unknown,unknown,G2/M,,,False,ORF,True,False
+YML034W,unknown,unknown,G2/M,,,False,ORF,True,False
+YML035C-A,unknown,unknown,G2/M,,,False,ORF,True,False
+YML050W,unknown,similar to potato sucrose cleavage protein,G2/M,,,False,ORF,True,False
+YML052W,endocytosis (putative),suppresses rvs167 mutation,G2/M,endocytosis,Secretion and trafficking,True,ORF,True,False
+YML058W,unknown,unknown,S/G2,,,False,ORF,True,False
+YML060W,DNA repair,8-oxoguanine DNA glycosylase,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YML061C,"DNA repair, mitochondrial",DNA helicase,G1,"dna repair, mitochondrial",DNA replication and repair,False,ORF,True,False
+YML064C,cell cycle,"GTP-binding protein, RAS superfamily",G2/M,cell cycle,Cell cycle regulation,False,ORF,True,False
+YML065W,DNA replication,origin recognition complex 104 kD subunit,S/G2,dna replication,DNA replication and repair,False,ORF,True,False
+YML066C,unknown,unknown,G2/M,,,False,ORF,True,False
+YML072C,unknown,unknown,S/G2,,,False,ORF,True,False
+YML100W,unknown,unknown,G1,,,False,ORF,True,False
+YML102W,chromatin structure,chromatin assembly factor I subunit,G1,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YML109W,cell cycle,Zds1 homolog,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YML110C,ubiquinone biosynthesis,methyltransferase,M/G1,ubiquinone biosynthesis,Metabolism,False,ORF,True,False
+YML116W,aminotriazole resistance,transporter (putative),G2/M,aminotriazole resistance,,False,ORF,True,True
+YML117W,unknown,unknown,S,,,False,ORF,True,False
+YML119W,unknown,unknown,G2/M,,,False,ORF,True,False
+YML120C,oxidative phosphorylation,NADH-ubiquinone-6 oxidoreductase,G2/M,oxidative phosphorylation,Metabolism,False,ORF,True,False
+YML123C,transport,inorganic phosphate permease,G2/M,transport,Transport,False,ORF,True,False
+YML125C,unknown,similar to NADH-cytochrome b5 reductase,S/G2,,,False,ORF,True,False
+YML133C,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YMR001C,cell cycle,G2/M protein kinase,G2/M,cell cycle,Cell cycle regulation,False,ORF,True,False
+YMR002W,unknown,unknown,S/G2,,,False,ORF,True,False
+YMR003W,unknown,unknown,S/G2,,,False,ORF,True,False
+YMR011W,transport,hexose permease,M/G1,transport,Transport,False,ORF,True,False
+YMR015C,sterol metabolism,C-22 sterol desaturase,G2/M,sterol metabolism,Metabolism,False,ORF,True,False
+YMR031C,unknown,unknown,G2/M,,,False,ORF,True,False
+YMR032W,cytokinesis,unknown,G2/M,cytokinesis,Cell wall and cytokinesis,False,ORF,True,False
+YMR048W,unknown,unknown,G1,,,False,ORF,True,False
+YMR055C,"cell cycle, checkpoint",unknown,S/G2,"cell cycle, checkpoint",Cell cycle regulation,False,ORF,True,False
+YMR058W,transport,cell surface ferroxidase,G2/M,transport,Transport,False,ORF,True,False
+YMR076C,"mitosis, sister chromatid cohesion",unknown,G1,"mitosis, sister chromatid cohesion",Mitosis and segregation,False,ORF,True,False
+YMR078C,"mitosis, chromosome transmission",unknown,G1,"mitosis, chromosome transmission",Mitosis and segregation,False,ORF,True,False
+YMR144W,unknown,unknown,S,,,False,ORF,True,False
+YMR145C,unknown,similar to rotenone-insensitive NADH-ubiquinone,G2/M,,,False,ORF,True,False
+YMR163C,unknown,unknown,S/G2,,,False,ORF,True,False
+YMR179W,transcription,transcriptional regulator,G1,transcription,Transcription and RNA processing,False,ORF,True,False
+YMR183C,secretion,post-Golgi t-SNARE,S/G2,secretion,Secretion and trafficking,False,ORF,True,False
+YMR189W,amino acid metabolism,glycine decarboxylase P subunit,G2/M,amino acid metabolism,Metabolism,False,ORF,True,False
+YMR198W,cytoskeleton,spindle pole body associated protein,S/G2,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YMR199W,cell cycle,G1/S cyclin,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YMR202W,sterol metabolism,C-8 sterol isomerase,G2/M,sterol metabolism,Metabolism,False,ORF,True,False
+YMR215W,unknown,similar to Gas1p,S/G2,,,False,ORF,True,False
+YMR238W,pseudohyphal growth,unknown,S,pseudohyphal growth,Budding and polarity,False,ORF,True,False
+YMR246W,fatty acid metabolism,long-chain-fatty-acid--CoA ligase,M/G1,fatty acid metabolism,Metabolism,False,ORF,True,False
+YMR253C,unknown,major facilitator superfamily,G2/M,,,False,ORF,True,False
+YMR254C,unknown,unknown,G2/M,,,False,ORF,True,False
+YMR278W,unknown,similar to phosphomannomutase,S/G2,,,False,ORF,True,False
+YMR295C,unknown,unknown,S,,,False,ORF,True,False
+YMR305C,unknown,similar to Bgl2p and other glucans (GB:Z49212),G1,,,False,ORF,True,False
+YMR307W,unknown,cell surface glycoprotein,G1,,,False,ORF,True,False
+YNL003C,mitochondrial protein targeting,mitochondrial carrier family,S/G2,mitochondrial protein targeting,Transport,False,ORF,True,False
+YNL015W,unknown,protease inhibitor,G1,,,False,ORF,True,False
+YNL030W,chromatin structure,histone H4,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YNL031C,chromatin structure,histone H3,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YNL037C,TCA cycle,isocitrate dehydrogenase,G2/M,tca cycle,Metabolism,False,ORF,True,False
+YNL043C,unknown,unknown,S/G2,,,False,ORF,True,False
+YNL046W,unknown,unknown,M/G1,,,False,ORF,True,False
+YNL056W,unknown,unknown,G2/M,,,False,ORF,True,False
+YNL057W,unknown,unknown,G2/M,,,False,ORF,True,False
+YNL058C,unknown,unknown,G2/M,,,False,ORF,True,False
+YNL072W,DNA replication (putative),ribonuclease H,G1,dna replication,DNA replication and repair,True,ORF,True,False
+YNL078W,unknown,unknown,M/G1,,,False,ORF,True,False
+YNL082W,DNA repair,MutL homolog; mismatch repair,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YNL102W,DNA replication,polymerase alpha 180 kD subunit,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YNL111C,lipid metabolism,cytochrome b5,G2/M,lipid metabolism,Metabolism,False,ORF,True,False
+YNL126W,cytoskeleton,spindle pole body component,G1,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YNL134C,unknown,similar to C. carbonum toxD gene,M/G1,,,False,ORF,True,False
+YNL145W,mating,a-factor precursor,G2/M,mating,Mating and pheromone,False,ORF,True,False
+YNL160W,diauxic shift,unknown; response to nutrient limitation,M/G1,diauxic shift,Metabolism,False,ORF,True,False
+YNL165W,unknown,unknown,G1,,,False,ORF,True,False
+YNL166C,unknown,unknown,G1,,,False,ORF,True,False
+YNL169C,phospholipid metabolism,phosphatidylserine decarboxylase,G1,phospholipid metabolism,Metabolism,False,ORF,True,False
+YNL171C,unknown,unknown,G2/M,,,False,ORF,True,False
+YNL172W,mitosis,anaphase-promoting complex subunit,G2/M,mitosis,Mitosis and segregation,False,ORF,True,False
+YNL173C,"signaling, pheromone pathway",unknown,M/G1,"signaling, pheromone pathway",Mating and pheromone,False,ORF,True,False
+YNL176C,unknown,unknown,S/G2,,,False,ORF,True,False
+YNL181W,unknown,unknown,G1,,,False,ORF,True,False
+YNL192W,cytokinesis,chitin synthase ,M/G1,cytokinesis,Cell wall and cytokinesis,False,ORF,True,False
+YNL197C,cell size,unknown,S/G2,cell size,,False,ORF,True,True
+YNL208W,unknown,unknown,G1,,,False,ORF,True,False
+YNL216W,transcription,transcriptional repressor and activator,S/G2,transcription,Transcription and RNA processing,False,ORF,True,False
+YNL225C,cytoskeleton,spindle pole body component,G1,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YNL231C,drug resistance,unknown,G1,drug resistance,,False,ORF,True,True
+YNL233W,cytokinesis,may link chitin synthase to septins,G1,cytokinesis,Cell wall and cytokinesis,False,ORF,True,False
+YNL262W,DNA replication,polymerase epsilon catalytic subunit,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YNL263C,unknown,interacts with Yip1p; similar to NADH dehydrogenases,G1,,,False,ORF,True,False
+YNL273W,unknown,topoisomerase I interacting factor,G1,,,False,ORF,True,False
+YNL276C,unknown,unknown,S/G2,,,False,ORF,True,False
+YNL283C,cell wall biogenesis,"alpha-1,4-glucan-glucosidase",S,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YNL289W,cell cycle,G1/S cyclin,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YNL300W,unknown,similar to Mid2p,G1,,,False,ORF,True,False
+YNL304W,unknown,similar to Ypt1p and many other ras-like,G1,,,False,ORF,True,False
+YNL309W,unknown,binds Sin3p,G1,,,False,ORF,True,False
+YNL312W,DNA repair,replication factor A 36 kD subunit,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YNL326C,unknown,similar to Akr1p and Ydr126p,M/G1,,,False,ORF,True,False
+YNL327W,cell cycle,unknown,M/G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YNL328C,protein folding,mitochondrial chaperonin,M/G1,protein folding,Protein processing and turnover,False,ORF,True,False
+YNL339C,unknown,unknown,G1,,,False,ORF,True,False
+YNR009W,unknown,unknown,S,,,False,ORF,True,False
+YNR044W,mating,a-agglutinin anchor subunit,M/G1,mating,Mating and pheromone,False,ORF,True,False
+YNR050C,lysine biosynthesis,saccharopine dehydrogenase,G2/M,lysine biosynthesis,Metabolism,False,ORF,True,False
+YNR066C,unknown,similar to Pep1p,S,,,False,ORF,True,False
+YNR067C,unknown,unknown,M/G1,,,False,ORF,True,False
+YOL007C,cell wall biogenesis,chitin synthase 3 subunit,G1,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YOL011W,unknown,similar to phospholipases,M/G1,,,False,ORF,True,False
+YOL012C,chromatin structure,histone-related,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YOL014W,unknown,unknown,G2/M,,,False,ORF,True,False
+YOL016C,signaling,calmodulin-dependent protein kinase,G1,signaling,,False,ORF,True,True
+YOL017W,unknown,unknown,G1,,,False,ORF,True,False
+YOL019W,unknown,unknown,G1,,,False,ORF,True,False
+YOL030W,unknown,similar to Gas1p,S/G2,,,False,ORF,True,False
+YOL034W,unknown,unknown,G1,,,False,ORF,True,False
+YOL058W,arginine biosynthesis,arginosuccinate synthetase,S/G2,arginine biosynthesis,Metabolism,False,ORF,True,False
+YOL069W,cytoskeleton,spindle pole body component,G2/M,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YOL070C,unknown,unknown,G2/M,,,False,ORF,True,False
+YOL088C,unknown,putative protein disulfide isomerase,S/G2,,,False,ORF,True,False
+YOL090W,DNA repair,MutS homolog; mismatch repair,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YOL094C,DNA replication,"replication factor C, 37 kDa subunit",G1,dna replication,DNA replication and repair,False,ORF,True,False
+YOL101C,unknown,unknown,M/G1,,,False,ORF,True,False
+YOL112W,unknown,suppresses bud emergence defect,S/G2,,,False,ORF,True,False
+YOL114C,unknown,similar to human DS-1 protein,S/G2,,,False,ORF,True,False
+YOL119C,unknown,similar to mammalian monocarboxylate,G2/M,,,False,ORF,True,False
+YOL132W,unknown,similar to glycophospholipid-anchored surface glycoprotein GAS1,G2/M,,,False,ORF,True,False
+YOL150C,unknown,unknown,G2/M,,,False,ORF,True,False
+YOL158C,unknown,major facilitator superfamily,G2/M,,,False,ORF,True,False
+YOR018W,drug resistance,unknown,M/G1,drug resistance,,False,ORF,True,True
+YOR023C,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR025W,silencing,unknown,G2/M,silencing,Chromatin and silencing,False,ORF,True,False
+YOR033C,DNA repair,exonuclease; also recombination,G1,dna repair,DNA replication and repair,False,ORF,True,False
+YOR049C,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR052C,unknown,unknown,M/G1,,,False,ORF,True,False
+YOR058C,mitosis,spindle midzone component,G2/M,mitosis,Mitosis and segregation,False,ORF,True,False
+YOR066W,unknown,unknown,M/G1,,,False,ORF,True,False
+YOR073W,unknown,unknown,S,,,False,ORF,True,False
+YOR074C,DNA replication,thymidylate synthase,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YOR075W,secretion,ER membrane t-SNARE,G1,secretion,Secretion and trafficking,False,ORF,True,False
+YOR083W,unknown,unknown,G1,,,False,ORF,True,False
+YOR084W,unknown,unknown,G1,,,False,ORF,True,False
+YOR104W,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR105W,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR114W,unknown,unknown,G1,,,False,ORF,True,False
+YOR115C,unknown,unknown,G1,,,False,ORF,True,False
+YOR126C,unknown,isoamyl acetate hydrolytic enzyme,M/G1,,,False,ORF,True,False
+YOR127W,bud site selection,putative GTPase-activating protein (GAP) for GAP for Cdc42p or Rho1p,M/G1,bud site selection,Budding and polarity,False,ORF,True,False
+YOR129C,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR144C,unknown,unknown,G1,,,False,ORF,True,False
+YOR152C,unknown,unknown,S/G2,,,False,ORF,True,False
+YOR153W,drug resistance,transporter,G2/M,drug resistance,,False,ORF,True,True
+YOR176W,heme biosynthesis,ferrochelatase (protoheme ferrolyase),G1,heme biosynthesis,Metabolism,False,ORF,True,False
+YOR188W,polarized growth,unknown,S,polarized growth,Budding and polarity,False,ORF,True,False
+YOR195W,mitosis,unknown; synthetic lethal with kar3,G1,mitosis,Mitosis and segregation,False,ORF,True,False
+YOR229W,transcription,"shared subunit of RNA polymerases I, II, and III",G2/M,transcription,Transcription and RNA processing,False,ORF,True,False
+YOR230W,meiosis,transcription factor,M/G1,meiosis,Meiosis and sporulation,False,ORF,True,False
+YOR235W,RNA processing,U3 snRNA,S/G2,rna processing,Transcription and RNA processing,False,ORF,True,False
+YOR242C,sporulation,unknown; similar to class II family of aminoacyl-tRNA synthetases,M/G1,sporulation,Meiosis and sporulation,False,ORF,True,False
+YOR247W,unknown,unknown; similar to Svs1p; suppressor of Rad53 lethality,G1,,,False,ORF,True,False
+YOR248W,unknown,unknown,G1,,,False,ORF,True,False
+YOR250C,mRNA 3'-end processing,cleavage/polyadenylation factor CF IA component,S,mrna 3'-end processing,Transcription and RNA processing,False,ORF,True,False
+YOR256C,unknown,similar to secretory protein Ssp134p,G2/M,,,False,ORF,True,False
+YOR258W,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR263C,unknown,similar to adenosine A1 receptors,M/G1,,,False,ORF,True,False
+YOR264W,unknown,unknown,M/G1,,,False,ORF,True,False
+YOR270C,vacuolar acidification,vacuolar H+-ATPase 95 kD subunit,G1,vacuolar acidification,,False,ORF,True,True
+YOR273C,unknown,similar to members of major facilitator superfamily,G2/M,,,False,ORF,True,False
+YOR283W,unknown,similar to phosphoglycerate mutases,G1,,,False,ORF,True,False
+YOR298W,unknown,meiosis (putative),G2/M,,,False,ORF,True,False
+YOR307C,secretion,unknown; suppresses ypt1 null,G1,secretion,Secretion and trafficking,False,ORF,True,False
+YOR308C,unknown,unknown,G1,,,False,ORF,True,False
+YOR313C,sporulation,putative cell wall component,G2/M,sporulation,Meiosis and sporulation,False,ORF,True,False
+YOR314W,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR315W,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR317W,fatty acid metabolism,long chain fatty acyl:CoA synthetase,M/G1,fatty acid metabolism,Metabolism,False,ORF,True,False
+YOR320C,unknown,unknown,G1,,,False,ORF,True,False
+YOR321W,protein glycosylation,dolichyl phosphate-D-mannose:protein O-D-mannosyltransferase,G1,protein glycosylation,Protein processing and turnover,False,ORF,True,False
+YOR323C,proline biosynthesis,gamma-glutamyl phosphate reductase,S/G2,proline biosynthesis,Metabolism,False,ORF,True,False
+YOR324C,unknown,unknown,S/G2,,,False,ORF,True,False
+YOR332W,vacuolar acidification,vacuolar H+-ATPase V1 domain 27 KD subunit,S/G2,vacuolar acidification,,False,ORF,True,True
+YOR337W,transcription,Ty1 enhancer activator,S/G2,transcription,Transcription and RNA processing,False,ORF,True,False
+YOR342C,unknown,unknown,M/G1,,,False,ORF,True,False
+YOR355W,respiration (putative),unknown; suppresses nam9-1,G1,respiration,Metabolism,True,ORF,True,False
+YOR372C,unknown,unknown,G1,,,False,ORF,True,False
+YOR383C,unknown,unknown,G2/M,,,False,ORF,True,False
+YOR391C,unknown,unknown,S/G2,,,False,ORF,True,False
+YPL014W,unknown,unknown,M/G1,,,False,ORF,True,False
+YPL021W,unknown,unknown,S/G2,,,False,ORF,True,False
+YPL025C,unknown,unknown,S/G2,,,False,ORF,True,False
+YPL032C,unknown,unknown; styryl dye vacuolar localization,G1,,,False,ORF,True,False
+YPL036W,H+ homeostasis,plasma membrane H+-ATPase,G2/M,h+ homeostasis,,False,ORF,True,True
+YPL054W,unknown,unknown,S,,,False,ORF,True,False
+YPL057C,sphingolipid metabolism,suppresses cls2-2and rvs161,G1,sphingolipid metabolism,Metabolism,False,ORF,True,False
+YPL058C,drug resistance,transporter,G2/M,drug resistance,,False,ORF,True,True
+YPL061W,ethanol utilization,acetaldehyde dehydrogenase,G2/M,ethanol utilization,Metabolism,False,ORF,True,False
+YPL075W,glycolysis,transcriptional activator,S/G2,glycolysis,Metabolism,False,ORF,True,False
+YPL095C,unknown,similar to Ybr177p,G2/M,,,False,ORF,True,False
+YPL111W,arginine metabolism,arginase,G2/M,arginine metabolism,Metabolism,False,ORF,True,False
+YPL116W,unknown,"similar to Hda1p, Rpd3p, Hos2p, and Hos1p",S/G2,,,False,ORF,True,False
+YPL124W,nuclear protein targeting,spindle pole body associated protein,G1,nuclear protein targeting,Transport,False,ORF,True,False
+YPL127C,chromatin structure,histone H1,S,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YPL128C,telomere length regulation,telomere TTAGGG repeat-binding factor,S/G2,telomere length regulation,Chromatin and silencing,False,ORF,True,False
+YPL133C,unknown,"similar to transcription factors, has Zn[2]-Cys[6]",S/G2,,,False,ORF,True,False
+YPL141C,unknown,similar to Kin4p,S/G2,,,False,ORF,True,False
+YPL153C,"cell cycle, checkpoint",protein kinase,G1,"cell cycle, checkpoint",Cell cycle regulation,False,ORF,True,False
+YPL155C,cytoskeleton (putative),kinesin-related protein,S/G2,cytoskeleton,Cytoskeleton,True,ORF,True,False
+YPL158C,unknown,unknown,M/G1,,,False,ORF,True,False
+YPL163C,vanadate resistance,unknown,G1,vanadate resistance,,False,ORF,True,True
+YPL187W,mating,alpha factor precursor,M/G1,mating,Mating and pheromone,False,ORF,True,False
+YPL208W,unknown,unknown,G1,,,False,ORF,True,False
+YPL209C,"mitosis, chromosome segregation",protein kinase,G1,"mitosis, chromosome segregation",Mitosis and segregation,False,ORF,True,False
+YPL221W,unknown,unknown; bypass of PAM1,G1,,,False,ORF,True,False
+YPL232W,secretion,post-Golgi t-SNARE,G1,secretion,Secretion and trafficking,False,ORF,True,False
+YPL241C,"mitosis, chromosome segregation",unknown,G1,"mitosis, chromosome segregation",Mitosis and segregation,False,ORF,True,False
+YPL242C,cytoskeleton,IQGAP homolog,G2/M,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YPL250C,unknown,unknown,S,,,False,ORF,True,False
+YPL253C,nuclear fusion (putative),Kar3p interactor,S,nuclear fusion,Mating and pheromone,True,ORF,True,False
+YPL255W,cell cycle and meiosis,unknown,G1,cell cycle and meiosis,Cell cycle regulation;Meiosis and sporulation,False,ORF,True,False
+YPL256C,cell cycle,G1/S cyclin,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YPL264C,unknown,major facilitator superfamily,S/G2,,,False,ORF,True,False
+YPL265W,transport,dicarboxylic amino acid permease,G2/M,transport,Transport,False,ORF,True,False
+YPL267W,unknown,unknown,G1,,,False,ORF,True,False
+YPL269W,cytoskeleton,cytoplasmic microtubule orientation,S,cytoskeleton,Cytoskeleton,False,ORF,True,False
+YPL274W,unknown,similar to Gap1p and other amino acid permeases,S,,,False,ORF,True,False
+YPL283C,unknown,similar to other subtelomerically-encoded protein,M/G1,,,False,ORF,True,False
+YPR013C,unknown,similar to mouse REX1 encoded transcription factor,G2/M,,,False,ORF,True,False
+YPR014C,unknown,unknown,G2/M,,,False,ORF,True,False
+YPR018W,chromatin structure,chromatin assembly factor I subunit,G1,chromatin structure,Chromatin and silencing,False,ORF,True,False
+YPR019W,DNA replication,MCM initiator complex,G2/M,dna replication,DNA replication and repair,False,ORF,True,False
+YPR034W,cytoskeleton (putative),actin-related protein,S,cytoskeleton,Cytoskeleton,True,ORF,True,False
+YPR045C,unknown,similar to C. elegans protein,G2/M,,,False,ORF,True,False
+YPR075C,signaling (putative),pheromone pathway,G1,signaling,,True,ORF,True,True
+YPR076W,unknown,unknown,G1,,,False,ORF,True,False
+YPR106W,staurosporine resistance,protein kinase,G1,staurosporine resistance,,False,ORF,True,True
+YPR107C,mRNA 3'-end processing,cleavage/polyadenylation specificity factor subunit,S,mrna 3'-end processing,Transcription and RNA processing,False,ORF,True,False
+YPR111W,cell cycle,M phase; protein kinase,S/G2,cell cycle,Cell cycle regulation,False,ORF,True,False
+YPR119W,cell cycle,G2/M cyclin,G2/M,cell cycle,Cell cycle regulation,False,ORF,True,False
+YPR120C,cell cycle,G1/S cyclin,G1,cell cycle,Cell cycle regulation,False,ORF,True,False
+YPR128C,unknown,similar to ADP/ATP carrier proteins,G2/M,,,False,ORF,True,False
+YPR135W,DNA replication,polymerase alpha binding protein,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YPR138C,transport,ammonia permease,G2/M,transport,Transport,False,ORF,True,False
+YPR141C,mating; nuclear fusion; mitosis,kinesin-like protein,G1,mating;mitosis;nuclear fusion,Mating and pheromone;Mitosis and segregation,False,ORF,True,False
+YPR149W,"secretion, non-classical",unknown,G2/M,"secretion, non-classical",Secretion and trafficking,False,ORF,True,False
+YPR155C,ATP synthesis,regulates Atp6p and Atp8p synthesis,S/G2,atp synthesis,Metabolism,False,ORF,True,False
+YPR156C,unknown,major facilitator superfamily,G2/M,,,False,ORF,True,False
+YPR157W,unknown,unknown,G2/M,,,False,ORF,True,False
+YPR159W,cell wall biogenesis,glucan synthase subunit,S,cell wall biogenesis,Cell wall and cytokinesis,False,ORF,True,False
+YPR160W,glycogen metabolism,glycogen phosphorylase,G1,glycogen metabolism,Metabolism,False,ORF,True,False
+YPR167C,sulfate assimilation,3'-phosphoadenylylsulfate reductase,S/G2,sulfate assimilation,Metabolism,False,ORF,True,False
+YPR174C,unknown,similar to C. elegans nuclear lamin,G1,,,False,ORF,True,False
+YPR175W,DNA replication,polymerase epsilon 80 kDa subunit,G1,dna replication,DNA replication and repair,False,ORF,True,False
+YPR202W,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YPR203W,unknown,similar to other subtelomerically-encoded proteins,G1,,,False,ORF,True,False
+YPR204W,unknown,similar to other subtelomerically-encoded proteins,M/G1,,,False,ORF,False,False
+YEL077C,,,G1,,,False,blank ORF restored from agreeing YPD/SGD names and orf800,True,False

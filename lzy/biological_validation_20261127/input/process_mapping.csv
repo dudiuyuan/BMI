@@ -1,0 +1,136 @@
+﻿term,categories,unmapped_other
+4-nitroquinoline-n-oxide resistance,,True
+acetate ester biosynthesis,Metabolism,False
+aging,,True
+amino acid metabolism,Metabolism,False
+aminotriazole resistance,,True
+arginine biosynthesis,Metabolism,False
+arginine metabolism,Metabolism,False
+aromatic amino acid metabolism,Metabolism,False
+asparagine biosynthesis,Metabolism,False
+atp synthesis,Metabolism,False
+branched chain amino acid biosynthesis,Metabolism,False
+branched chain amino acid degradation,,True
+bud emergence,Budding and polarity,False
+bud site selection,Budding and polarity,False
+"bud site selection, axial",Budding and polarity,False
+"bud site selection, bipolar",Budding and polarity,False
+cell cycle,Cell cycle regulation,False
+cell cycle (growth inhibitor),Cell cycle regulation,False
+cell cycle and meiosis,Cell cycle regulation;Meiosis and sporulation,False
+"cell cycle, checkpoint",Cell cycle regulation,False
+cell fusion,,True
+cell polarity,Budding and polarity,False
+cell size,,True
+cell wall biogenesis,Cell wall and cytokinesis,False
+cell wall biosynthesis,Cell wall and cytokinesis,False
+cell wall integrity and stress response,Cell wall and cytokinesis,False
+cell wall protein,Cell wall and cytokinesis,False
+chromatin structure,Chromatin and silencing,False
+cytokinesis,Cell wall and cytokinesis,False
+cytoskeleton,Cytoskeleton,False
+diauxic shift,Metabolism,False
+diepoxybutane and mitomycin c resistance,,True
+dna damage checkpoint,Cell cycle regulation,False
+dna repair,DNA replication and repair,False
+dna repair and recombination,DNA replication and repair,False
+"dna repair, mitochondrial",DNA replication and repair,False
+"dna repair, recombination",DNA replication and repair,False
+dna replication,DNA replication and repair,False
+dna replication and repair,DNA replication and repair,False
+drug resistance,,True
+endocytosis,Secretion and trafficking,False
+ethanol utilization,Metabolism,False
+fatty acid metabolism,Metabolism,False
+flavin biosynthesis,Metabolism,False
+fluconazole resistance,,True
+gluconeogenesis,Metabolism,False
+glucose repression,Metabolism,False
+glutamate biosynthesis,Metabolism,False
+glycogen metabolism,Metabolism,False
+glycolysis,Metabolism,False
+golgi organization,Secretion and trafficking,False
+h+ homeostasis,,True
+heat shock response,,True
+heme biosynthesis,Metabolism,False
+homothallic switching endonuclease,Mating and pheromone,False
+iron homeostasis,,True
+karyogamy,Mating and pheromone,False
+lipid metabolism,Metabolism,False
+lysine biosynthesis,Metabolism,False
+mannose metabolism,Metabolism,False
+mating,Mating and pheromone,False
+mating type switching,Mating and pheromone,False
+meiosis,Meiosis and sporulation,False
+"meiosis, checkpoint",Cell cycle regulation;Meiosis and sporulation,False
+"meiosis, spore formation",Meiosis and sporulation,False
+"meiosis, synapsis",Meiosis and sporulation,False
+membrane trafficking,Secretion and trafficking,False
+methionine biosynthesis,Metabolism,False
+methionine metabolism,Metabolism,False
+mitochondrial protein targeting,Transport,False
+mitochondrial transport,Transport,False
+mitosis,Mitosis and segregation,False
+"mitosis, chromosome condensation and segregation",Mitosis and segregation,False
+"mitosis, chromosome segregation",Mitosis and segregation,False
+"mitosis, chromosome transmission",Mitosis and segregation,False
+"mitosis, nuclear migration",Mitosis and segregation,False
+"mitosis, sister chromatid cohesion",Mitosis and segregation,False
+"mitosis, spindle assembly",Mitosis and segregation,False
+"mitosis, spindle maintenance",Mitosis and segregation,False
+mrna 3'-end processing,Transcription and RNA processing,False
+mrna export,Transport,False
+nuclear fusion,Mating and pheromone,False
+nuclear protein targeting,Transport,False
+nucleotide metabolism,Metabolism,False
+one-carbon interconversion,Metabolism,False
+oxidative phosphorylation,Metabolism,False
+oxidative stress response,,True
+phosphate metabolism,Metabolism,False
+phospholipid metabolism,Metabolism,False
+polarized growth,Budding and polarity,False
+proline biosynthesis,Metabolism,False
+protein degradation,Protein processing and turnover,False
+protein folding,Protein processing and turnover,False
+protein glycosylation,Protein processing and turnover,False
+protein import,Transport,False
+protein processing,Protein processing and turnover,False
+protein synthesis,Protein processing and turnover,False
+pseudohyphal growth,Budding and polarity,False
+purine metabolism,Metabolism,False
+pyrimidine biosynthesis,Metabolism,False
+pyrimidine metabolism,Metabolism,False
+respiration,Metabolism,False
+rna processing,Transcription and RNA processing,False
+"rna splicing, mitochondrial",Transcription and RNA processing,False
+rrna processing,Transcription and RNA processing,False
+secretion,Secretion and trafficking,False
+"secretion, non-classical",Secretion and trafficking,False
+ser/thr metabolism,Metabolism,False
+signaling,,True
+"signaling, high osmolarity pathway",,True
+"signaling, pheromone pathway",Mating and pheromone,False
+"signaling, pkc1 pathway",,True
+"signaling, ras pathway",,True
+silencing,Chromatin and silencing,False
+silencing (telomere),Chromatin and silencing,False
+sphingolipid metabolism,Metabolism,False
+sporulation,Meiosis and sporulation,False
+staurosporine resistance,,True
+sterol metabolism,Metabolism,False
+stress response,,True
+sucrose utilization,Metabolism,False
+sulfate assimilation,Metabolism,False
+sulfur amino acid metabolism,Metabolism,False
+tca cycle,Metabolism,False
+telomere length regulation,Chromatin and silencing,False
+thiamine uptake,Transport,False
+transcription,Transcription and RNA processing,False
+transcriptional silencing,Chromatin and silencing;Transcription and RNA processing,False
+transport,Transport,False
+trehalose metabolism,Metabolism,False
+trna splicing,Transcription and RNA processing,False
+ubiquinone biosynthesis,Metabolism,False
+vacuolar acidification,,True
+vacuole biogenesis,Secretion and trafficking,False
+vanadate resistance,,True

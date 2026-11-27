@@ -1,0 +1,16 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+Process_fine,pearson,0,cell cycle,cell cycle,,398,27,16,0,16,27,355,-0.05521069792513141,0.0,0.6144389412520767,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,cell wall biogenesis,cell wall biogenesis,,398,15,16,1,15,14,368,0.026663698976846284,1.6583333333333334,0.4657026923505162,0.4657026923505162,YBL061C,YBL061C:chitin synthase regulator,1.0,1.0,False
+Process_fine,pearson,0,chromatin structure,chromatin structure,,398,16,16,0,16,16,366,-0.041884816753926704,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,cytoskeleton,cytoskeleton,,398,19,16,0,16,19,363,-0.04582320961167014,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,dna repair,dna repair,,398,14,16,0,16,14,368,-0.03907749494044167,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,dna replication,dna replication,,398,31,16,1,15,30,352,-0.01175223653591969,0.8024193548387096,1.0,0.7338303210498831,YGL090W,YGL090W:interacts with DNA ligase,1.0,1.0,False
+Process_fine,pearson,0,drug resistance,drug resistance,,398,5,16,0,16,5,377,-0.023084317389463562,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,fatty acid metabolism,fatty acid metabolism,,398,6,16,0,16,6,376,-0.02531983676860248,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,mating,mating,,398,16,16,0,16,16,366,-0.041884816753926704,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,meiosis,meiosis,,398,6,16,0,16,6,376,-0.02531983676860248,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,mitosis,mitosis,,398,9,16,0,16,9,373,-0.031129687711760345,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,protein glycosylation,protein glycosylation,,398,7,16,0,16,7,375,-0.027383499674404753,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,0,secretion,secretion,,398,10,16,1,15,9,373,0.04887304761061561,2.4875,0.33974427361708726,0.33974427361708726,YHR110W,YHR110W:unknown,1.0,1.0,False
+Process_fine,pearson,0,transcription,transcription,,398,12,16,2,14,10,372,0.11351702229770182,4.145833333333334,0.07908229900415786,0.07908229900415786,YCR040W;YOR337W,YCR040W:alpha-specific gene activator;YOR337W:Ty1 enhancer activator,0.7283295833435569,0.84731034647312,False
+Process_fine,pearson,0,transport,transport,,398,19,16,1,15,18,364,0.014169018761503267,1.3092105263157896,0.5498537108352252,0.5498537108352252,YGL162W,YGL162W:hypoxic gene family (sterol uptake),1.0,1.0,False

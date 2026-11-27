@@ -1,0 +1,16 @@
+﻿basis,method,cluster,term,term_name,GO_aspect,N,K,n,a,b,c,d,phi,fold,p_phi,p_enrichment,hit_genes,Functions,q_phi,q_enrichment,significant_enrichment
+Process_fine,pearson,2,cell cycle,cell cycle,,398,27,29,2,27,25,344,0.001255631879007152,1.0166028097062578,1.0,0.6041348071685559,YJL157C;YLR210W,YJL157C:Cdc28p kinase inhibitor;YLR210W:G2/M cyclin,1.0,1.0,False
+Process_fine,pearson,2,cell wall biogenesis,cell wall biogenesis,,398,15,29,1,28,14,355,-0.004718940761477394,0.9149425287356322,1.0,0.6852897349919418,YJL099W,YJL099W:chitin biosynthesis,1.0,1.0,False
+Process_fine,pearson,2,chromatin structure,chromatin structure,,398,16,29,0,29,16,353,-0.05737386745111195,0.0,0.6187322115829268,1.0,,,1.0,1.0,False
+Process_fine,pearson,2,cytoskeleton,cytoskeleton,,398,19,29,1,28,18,351,-0.017429416308786545,0.7223230490018149,1.0,0.770613451453659,YMR198W,YMR198W:spindle pole body associated protein,1.0,1.0,False
+Process_fine,pearson,2,dna repair,dna repair,,398,14,29,1,28,13,356,-0.0010547466991910593,0.9802955665024631,1.0,0.6595810091180441,YLR288C,YLR288C:activates exonuclease,1.0,1.0,False
+Process_fine,pearson,2,dna replication,dna replication,,398,31,29,0,29,31,338,-0.08147673750930236,0.0,0.15045839491684157,1.0,,,0.8402224236664532,1.0,False
+Process_fine,pearson,2,drug resistance,drug resistance,,398,5,29,0,29,5,364,-0.03162092301569673,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,2,fatty acid metabolism,fatty acid metabolism,,398,6,29,1,28,5,364,0.0446495593956127,2.2873563218390807,0.3667707755211501,0.3667707755211501,YKL182W,"YKL182W:fatty-acyl-CoA synthase, beta subunit",1.0,1.0,False
+Process_fine,pearson,2,mating,mating,,398,16,29,7,22,9,360,0.28711663840836626,6.004310344827586,3.798165553756174e-05,3.798165553756174e-05,YCL027W;YFL026W;YJR004C;YKL209C;YLR452C;YNL145W;YPR141C,YCL027W:SH3 domain protein;YFL026W:alpha-factor receptor;YJR004C:alpha-agglutinin;YKL209C:a-factor exporter (ABC superfamily);YLR452C:negative regulator of Gpa1;YNL145W:a-factor precursor;YPR141C:kinesin-like protein,0.009970184578609957,0.009970184578609957,True
+Process_fine,pearson,2,meiosis,meiosis,,398,6,29,0,29,6,363,-0.03468313988766344,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,2,mitosis,mitosis,,398,9,29,1,28,8,361,0.02238269257523096,1.524904214559387,0.4974770321281645,0.4974770321281645,YPR141C,YPR141C:kinesin-like protein,1.0,1.0,False
+Process_fine,pearson,2,protein glycosylation,protein glycosylation,,398,7,29,0,29,7,362,-0.03750994757592141,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,2,secretion,secretion,,398,10,29,0,29,10,359,-0.04500595204275451,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,2,transcription,transcription,,398,12,29,0,29,12,357,-0.049429109516577745,0.0,1.0,1.0,,,1.0,1.0,False
+Process_fine,pearson,2,transport,transport,,398,19,29,2,27,17,352,0.02790984964478891,1.4446460980036298,0.6399088653873678,0.4105223168410268,YGL255W;YML123C,YGL255W:high-affinity zinc transporter;YML123C:inorganic phosphate permease,1.0,1.0,False

@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "all_contingency_and_hit_rows_checked": 10815,
+  "BH_matches_scipy": true,
+  "exact_toy_permutation_expectation": true,
+  "all_42_S_values_recomputed_by_independent_pair_loops": true,
+  "permutations_reproducible": true
+}

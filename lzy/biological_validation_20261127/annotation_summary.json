@@ -1,0 +1,46 @@
+{
+  "original_genes": 800,
+  "process_known": 398,
+  "process_unknown": 396,
+  "process_blank": 6,
+  "fine_terms": 135,
+  "coarse_categories": 14,
+  "expression_genes": 6214,
+  "spellman_in_expression": 793,
+  "universes": {
+    "Process_coarse": 367,
+    "Process_fine": 398,
+    "Phase": 793,
+    "GO_all": 740
+  },
+  "GO_release": "2026_04",
+  "restored_ORFs": [
+    "YEL077C"
+  ],
+  "unmapped_coarse_terms": [
+    "4-nitroquinoline-n-oxide resistance",
+    "aging",
+    "aminotriazole resistance",
+    "branched chain amino acid degradation",
+    "cell fusion",
+    "cell size",
+    "diepoxybutane and mitomycin c resistance",
+    "drug resistance",
+    "fluconazole resistance",
+    "h+ homeostasis",
+    "heat shock response",
+    "iron homeostasis",
+    "oxidative stress response",
+    "signaling",
+    "signaling, high osmolarity pathway",
+    "signaling, pkc1 pathway",
+    "signaling, ras pathway",
+    "staurosporine resistance",
+    "stress response",
+    "vacuolar acidification",
+    "vanadate resistance"
+  ],
+  "Process_source_sha256": "402b03b47d309b8b2782e80288ed17f6beb04a43f517997a3ef3eaeaae6f057d",
+  "GO_long_sha256": "c5ea16ca481ed1b9784ac66641ea7936ea914e63e577024a508b1b4fa8c04196",
+  "mapping_sha256": "8eb67da89ff4603f3353082f2749671d6d442a18ec25b4c80460346b8e2832c0"
+}
